@@ -1,0 +1,95 @@
+{
+  "source": "lf_fih_jun23.mp4",
+  "title": "CARE BEFORE YOU PRAY",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": false,
+  "videoSeconds": 559,
+  "subscribeEvery": 180,
+  "hookAt": 99,
+  "hookText": "ONE THING BEFORE YOU PRAY FOR THE SICK",
+  "openLoop": "The ONE thing you must do BEFORE you ever pray for someone",
+  "keywords": [
+    { "at": 398, "text": "Don't rush past" },
+    { "at": 423, "text": "Listen" },
+    { "at": 448, "text": "Not your power" },
+    { "at": 478, "text": "Let love show" },
+    { "at": 484, "text": "Same love" }
+  ],
+  "recap": {
+    "at": 504,
+    "title": "How to pray for the sick",
+    "items": [
+      "Show compassion first",
+      "Care BEFORE you pray",
+      "Just ask: “Can I help you?”",
+      "Lead with love, not words",
+      "They feel your love before His power"
+    ]
+  },
+  "outro": {
+    "at": 520,
+    "next": "Pray Simply and Specifically"
+  },
+  "scenes": [
+    {
+      "start": 166,
+      "end": 178,
+      "section": "GENUINELY CARE",
+      "point": "Beyond just asking — you must genuinely care",
+      "ref": "Matthew 9:36",
+      "emoji": "🤲",
+      "noSplit": true,
+      "teaser": "Don't make this common mistake"
+    },
+    {
+      "start": 218,
+      "end": 224,
+      "section": "DON'T LOOK DOWN",
+      "point": "Don't look down on anyone because they're sick",
+      "ref": "",
+      "emoji": "🙅",
+      "noSplit": true
+    },
+    {
+      "start": 250,
+      "end": 264,
+      "section": "CARE FIRST",
+      "point": "Care BEFORE you pray — just ask “Can I help you?”",
+      "ref": "",
+      "emoji": "🤝",
+      "noSplit": true,
+      "teaser": "What to do when they let you down"
+    },
+    {
+      "start": 319,
+      "end": 330,
+      "section": "NEVER CONDEMN",
+      "point": "Genuinely care — never condemn",
+      "ref": "",
+      "emoji": "❤️",
+      "noSplit": true,
+      "teaser": "The words that come before prayer"
+    },
+    {
+      "start": 377,
+      "end": 391,
+      "section": "ASK HOW TO HELP",
+      "point": "Ask what you can do to help them feel better",
+      "ref": "",
+      "emoji": "💛",
+      "noSplit": true,
+      "teaser": "The line that changes everything"
+    },
+    {
+      "start": 458,
+      "end": 474,
+      "section": "WHAT PEOPLE REALLY WANT",
+      "point": "People don't care how much you know — until they know how much you care",
+      "ref": "",
+      "emoji": "💬",
+      "noSplit": true,
+      "teaser": "How to pray like Jesus"
+    }
+  ]
+}

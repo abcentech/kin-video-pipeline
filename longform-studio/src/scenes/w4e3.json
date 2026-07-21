@@ -1,0 +1,85 @@
+{
+  "source": "lf_w4e3.mp4",
+  "title": "REST WELL FOR THE BODY",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": false,
+  "wordmarkFill": true,
+  "videoSeconds": 561,
+  "subscribeEvery": 180,
+  "hookAt": 95,
+  "hookText": "Your body runs 24/7 — when does it refuel?",
+  "openLoop": "By the end: the F1 secret to a longer life",
+  "openLoopAt": 152,
+  "teasers": [
+    { "at": 240, "text": "Still ahead: even Jesus did THIS in the middle of a storm" },
+    { "at": 330, "text": "Still ahead: what running nonstop really costs you" }
+  ],
+  "recap": {
+    "at": 500,
+    "title": "Rest well for the Body",
+    "items": [
+      "Sleep is God's gift, not laziness",
+      "Even God rested on the seventh day",
+      "Your body needs pit stops — take them",
+      "Run nonstop and performance breaks down",
+      "Rest is woven into how you're built"
+    ]
+  },
+  "outro": {
+    "at": 513,
+    "day": 4,
+    "total": 5,
+    "next": "Move for the Body",
+    "label": "Next episode",
+    "url": "KidsInspiringNation.t.me"
+  },
+  "immersion": {
+    "enabled": true,
+    "bed": "audio/w4_bed.mp3",
+    "bedVolume": 0.1,
+    "voiceEnd": 555,
+    "grade": false,
+    "particles": false,
+    "sfx": true,
+    "scriptures": []
+  },
+  "scenes": [
+    {
+      "start": 155,
+      "end": 168,
+      "section": "REST IS A GIFT",
+      "point": "Sleep isn't laziness — it's God's gift to those He loves",
+      "ref": "",
+      "emoji": "🌙",
+      "noSplit": true
+    },
+    {
+      "start": 205,
+      "end": 216,
+      "section": "TAKE YOUR PIT STOPS",
+      "point": "Push your body nonstop and you wear it out too fast",
+      "ref": "",
+      "emoji": "🏁",
+      "noSplit": true
+    },
+    {
+      "start": 412,
+      "end": 424,
+      "section": "NONSTOP BREAKS YOU",
+      "point": "Run without rest and your body starts shutting down",
+      "ref": "",
+      "emoji": "⚠️",
+      "noSplit": true
+    },
+    {
+      "start": 456,
+      "end": 465,
+      "section": "PEACE TO SLEEP",
+      "point": "Jesus slept through the storm — rest is a form of trust",
+      "ref": "",
+      "emoji": "⛵",
+      "noSplit": true
+    }
+  ]
+}

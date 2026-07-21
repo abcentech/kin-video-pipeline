@@ -1,0 +1,95 @@
+{
+  "source": "lf_fih_jun29.mp4",
+  "title": "HOW HEALING STAYS",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": false,
+  "videoSeconds": 595,
+  "subscribeEvery": 180,
+  "wordmarkFill": true,
+  "hookAt": 100,
+  "hookText": "How to Keep Your Healing for Good",
+  "openLoop": "Why healing received isn't always healing kept",
+  "keywords": [
+    { "at": 370, "text": "Daily bread" },
+    { "at": 420, "text": "Walk by faith" },
+    { "at": 519, "text": "Keep looking" }
+  ],
+  "recap": {
+    "at": 545,
+    "title": "How to keep living in health",
+    "items": [
+      "Receive your healing by faith",
+      "Speak strength, never sickness",
+      "Walk it out daily — faith continues",
+      "Don't switch back to fear or drugs",
+      "Keep your eyes on Jesus"
+    ]
+  },
+  "outro": {
+    "at": 571,
+    "label": "Watch the finale",
+    "next": "Tomorrow · Same time",
+    "url": "KidsInspiringNation.t.me"
+  },
+  "scenes": [
+    {
+      "start": 143,
+      "end": 150,
+      "section": "SPEAK STRENGTH",
+      "point": "Don't say 'I am sick' — say 'I am strong'",
+      "ref": "Acts 3:16",
+      "emoji": "💪",
+      "noSplit": true,
+      "teaser": "Why your words decide your health"
+    },
+    {
+      "start": 184,
+      "end": 190,
+      "section": "FAITH IN HIS NAME",
+      "point": "Saying 'I am strong' is declaring faith in His name",
+      "ref": "",
+      "emoji": "🙏",
+      "noSplit": true,
+      "teaser": "But receiving it isn't the whole story"
+    },
+    {
+      "start": 338,
+      "end": 348,
+      "section": "FAITH RECEIVES",
+      "point": "Faith is what receives your healing from God",
+      "ref": "",
+      "emoji": "🙌",
+      "noSplit": true,
+      "teaser": "One switch makes people lose it"
+    },
+    {
+      "start": 414,
+      "end": 424,
+      "section": "DON'T SWITCH BACK",
+      "point": "Don't trust God once, then trust drugs and fear later",
+      "ref": "2 Corinthians 5:7",
+      "emoji": "⚠️",
+      "noSplit": true
+    },
+    {
+      "start": 460,
+      "end": 466,
+      "section": "FAITH CONTINUES",
+      "point": "Healing is like a bicycle — keep pedaling, keep trusting",
+      "ref": "",
+      "emoji": "🚴",
+      "noSplit": true,
+      "teaser": "The secret is where you look"
+    },
+    {
+      "start": 516,
+      "end": 522,
+      "section": "KEEP LOOKING",
+      "point": "Like a ship to the lighthouse — keep your eyes on Jesus",
+      "ref": "Hebrews 12:2",
+      "emoji": "🚢",
+      "noSplit": true
+    }
+  ]
+}

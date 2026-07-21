@@ -1,0 +1,42 @@
+{
+  "source": "lf_w4e4.mp4",
+  "title": "MOVE FOR THE BODY",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": false,
+  "wordmarkFill": true,
+  "videoSeconds": 583,
+  "subscribeEvery": 180,
+  "hookAt": 93,
+  "hookText": "The one machine that breaks if you DON'T use it",
+  "openLoop": "By the end: why a Nigerian billionaire rides a bicycle",
+  "openLoopAt": 146,
+  "teasers": [
+    { "at": 300, "text": "Still ahead: what starts happening to your muscles at 40" },
+    { "at": 410, "text": "Still ahead: why it's a curse to sit in a car all day" }
+  ],
+  "outro": {
+    "at": 548,
+    "day": 4,
+    "total": 5,
+    "next": "Cleanse the Body",
+    "label": "Next episode",
+    "url": "KidsInspiringNation.org",
+    "prayer": "Prayer Service · Saturdays 7:30pm · KidsInspiringNation.t.me"
+  },
+  "immersion": {
+    "enabled": true,
+    "bed": "audio/w4_bed.mp3",
+    "bedVolume": 0.1,
+    "voiceEnd": 546,
+    "grade": false,
+    "particles": false,
+    "sfx": true,
+    "scriptures": []
+  },
+  "scenes": [
+    { "start": 228, "end": 240, "section": "ADAM NEVER SAT STILL", "point": "The man who lived 900+ years moved more than anyone alive", "ref": "", "emoji": "🌍", "noSplit": true },
+    { "start": 382, "end": 394, "section": "USE IT AT EVERY AGE", "point": "3, 13, or 40 — the body only grows when it's used", "ref": "", "emoji": "🔁", "noSplit": true },
+    { "start": 440, "end": 452, "section": "YOUR FRAME IS SURVIVAL", "point": "A fit frame raises your odds against heart attack & disease", "ref": "", "emoji": "💗", "noSplit": true }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+ "words": [
+  {
+   "w": "You",
+   "start": 0.02,
+   "end": 0.75,
+   "emp": false
+  },
+  {
+   "w": "are",
+   "start": 0.75,
+   "end": 1.76,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 1.76,
+   "end": 2.25,
+   "emp": false
+  },
+  {
+   "w": "an",
+   "start": 2.25,
+   "end": 2.75,
+   "emp": false
+  },
+  {
+   "w": "accident,",
+   "start": 2.75,
+   "end": 4.98,
+   "emp": true
+  },
+  {
+   "w": "neither",
+   "start": 4.98,
+   "end": 5.62,
+   "emp": false
+  },
+  {
+   "w": "are",
+   "start": 5.62,
+   "end": 5.89,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 5.89,
+   "end": 6.16,
+   "emp": false
+  },
+  {
+   "w": "self-made,",
+   "start": 6.16,
+   "end": 8,
+   "emp": false
+  },
+  {
+   "w": "life",
+   "start": 8,
+   "end": 9.19,
+   "emp": true
+  },
+  {
+   "w": "begins",
+   "start": 9.19,
+   "end": 9.87,
+   "emp": false
+  },
+  {
+   "w": "with",
+   "start": 9.87,
+   "end": 10.64,
+   "emp": false
+  },
+  {
+   "w": "breath",
+   "start": 10.64,
+   "end": 11.96,
+   "emp": true
+  },
+  {
+   "w": "from",
+   "start": 11.96,
+   "end": 12.08,
+   "emp": false
+  },
+  {
+   "w": "God.",
+   "start": 12.08,
+   "end": 14.28,
+   "emp": true
+  },
+  {
+   "w": "Every",
+   "start": 14.28,
+   "end": 15.21,
+   "emp": false
+  },
+  {
+   "w": "bit",
+   "start": 15.21,
+   "end": 16.03,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 16.03,
+   "end": 16.14,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 16.14,
+   "end": 16.32,
+   "emp": false
+  },
+  {
+   "w": "borrowed",
+   "start": 16.32,
+   "end": 17.06,
+   "emp": true
+  },
+  {
+   "w": "breath.",
+   "start": 17.06,
+   "end": 18.76,
+   "emp": true
+  },
+  {
+   "w": "Every",
+   "start": 18.76,
+   "end": 19.33,
+   "emp": false
+  },
+  {
+   "w": "time",
+   "start": 19.33,
+   "end": 19.78,
+   "emp": false
+  },
+  {
+   "w": "you've",
+   "start": 19.78,
+   "end": 20.54,
+   "emp": false
+  },
+  {
+   "w": "taken",
+   "start": 20.54,
+   "end": 21.03,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 21.03,
+   "end": 21.14,
+   "emp": false
+  },
+  {
+   "w": "breath",
+   "start": 21.14,
+   "end": 21.82,
+   "emp": true
+  },
+  {
+   "w": "over",
+   "start": 21.82,
+   "end": 22.27,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 22.27,
+   "end": 22.37,
+   "emp": false
+  },
+  {
+   "w": "number",
+   "start": 22.27,
+   "end": 23.51,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 23.51,
+   "end": 23.61,
+   "emp": false
+  },
+  {
+   "w": "years",
+   "start": 23.58,
+   "end": 24.08,
+   "emp": false
+  },
+  {
+   "w": "you've",
+   "start": 24.08,
+   "end": 24.76,
+   "emp": false
+  },
+  {
+   "w": "lived",
+   "start": 24.76,
+   "end": 25.04,
+   "emp": false
+  },
+  {
+   "w": "from",
+   "start": 25.04,
+   "end": 25.4,
+   "emp": false
+  },
+  {
+   "w": "God.",
+   "start": 25.4,
+   "end": 25.5,
+   "emp": true
+  }
+ ]
+}

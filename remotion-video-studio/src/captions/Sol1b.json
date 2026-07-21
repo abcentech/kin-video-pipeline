@@ -1,0 +1,196 @@
+{
+ "words": [
+  {
+   "w": "every",
+   "start": 0.44,
+   "end": 0.74,
+   "emp": true
+  },
+  {
+   "w": "human",
+   "start": 0.74,
+   "end": 1.42,
+   "emp": true
+  },
+  {
+   "w": "life",
+   "start": 1.42,
+   "end": 1.99,
+   "emp": true
+  },
+  {
+   "w": "has",
+   "start": 1.99,
+   "end": 3.12,
+   "emp": false
+  },
+  {
+   "w": "value.",
+   "start": 3.12,
+   "end": 5.41,
+   "emp": true
+  },
+  {
+   "w": "Every",
+   "start": 5.41,
+   "end": 5.95,
+   "emp": true
+  },
+  {
+   "w": "human",
+   "start": 5.95,
+   "end": 6.56,
+   "emp": true
+  },
+  {
+   "w": "life",
+   "start": 6.56,
+   "end": 6.98,
+   "emp": true
+  },
+  {
+   "w": "has",
+   "start": 6.98,
+   "end": 7.43,
+   "emp": false
+  },
+  {
+   "w": "value.",
+   "start": 7.43,
+   "end": 8.59,
+   "emp": true
+  },
+  {
+   "w": "That's",
+   "start": 8.59,
+   "end": 8.79,
+   "emp": false
+  },
+  {
+   "w": "why",
+   "start": 8.79,
+   "end": 9.08,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 9.08,
+   "end": 9.21,
+   "emp": false
+  },
+  {
+   "w": "see",
+   "start": 9.21,
+   "end": 9.36,
+   "emp": false
+  },
+  {
+   "w": "there's",
+   "start": 9.36,
+   "end": 9.83,
+   "emp": false
+  },
+  {
+   "w": "something",
+   "start": 9.83,
+   "end": 10.12,
+   "emp": false
+  },
+  {
+   "w": "we",
+   "start": 10.12,
+   "end": 10.56,
+   "emp": false
+  },
+  {
+   "w": "call",
+   "start": 10.56,
+   "end": 10.72,
+   "emp": false
+  },
+  {
+   "w": "human",
+   "start": 10.72,
+   "end": 11.23,
+   "emp": true
+  },
+  {
+   "w": "development",
+   "start": 11.23,
+   "end": 12.33,
+   "emp": false
+  },
+  {
+   "w": "index.",
+   "start": 12.33,
+   "end": 13.13,
+   "emp": false
+  },
+  {
+   "w": "That",
+   "start": 13.13,
+   "end": 13.5,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 13.5,
+   "end": 13.73,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 13.73,
+   "end": 14.03,
+   "emp": false
+  },
+  {
+   "w": "value",
+   "start": 14.03,
+   "end": 14.53,
+   "emp": true
+  },
+  {
+   "w": "of",
+   "start": 14.53,
+   "end": 14.73,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 14.73,
+   "end": 14.83,
+   "emp": false
+  },
+  {
+   "w": "human",
+   "start": 14.83,
+   "end": 15.53,
+   "emp": true
+  },
+  {
+   "w": "life",
+   "start": 15.53,
+   "end": 15.73,
+   "emp": true
+  },
+  {
+   "w": "in",
+   "start": 15.73,
+   "end": 15.98,
+   "emp": false
+  },
+  {
+   "w": "every",
+   "start": 15.98,
+   "end": 16.43,
+   "emp": true
+  },
+  {
+   "w": "nation.",
+   "start": 16.43,
+   "end": 17.36,
+   "emp": true
+  }
+ ]
+}

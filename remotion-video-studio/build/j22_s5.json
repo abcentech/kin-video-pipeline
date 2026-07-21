@@ -1,0 +1,868 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | BMI2 = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 8
+	},
+	"params": {
+		"model": "/Users/mac/Documents/video raw/models/ggml-large-v3-turbo-q5_0.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,720",
+				"to": "00:00:01,450"
+			},
+			"offsets": {
+				"from": 720,
+				"to": 1450
+			},
+			"text": " Before"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,450",
+				"to": "00:00:01,690"
+			},
+			"offsets": {
+				"from": 1450,
+				"to": 1690
+			},
+			"text": " Jesus"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,690",
+				"to": "00:00:02,740"
+			},
+			"offsets": {
+				"from": 1690,
+				"to": 2740
+			},
+			"text": " heals,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,740",
+				"to": "00:00:02,900"
+			},
+			"offsets": {
+				"from": 2740,
+				"to": 2900
+			},
+			"text": " he"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,900",
+				"to": "00:00:03,410"
+			},
+			"offsets": {
+				"from": 2900,
+				"to": 3410
+			},
+			"text": " would"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,410",
+				"to": "00:00:04,060"
+			},
+			"offsets": {
+				"from": 3410,
+				"to": 4060
+			},
+			"text": " always"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,060",
+				"to": "00:00:04,540"
+			},
+			"offsets": {
+				"from": 4060,
+				"to": 4540
+			},
+			"text": " ask,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,540",
+				"to": "00:00:04,840"
+			},
+			"offsets": {
+				"from": 4540,
+				"to": 4840
+			},
+			"text": " what"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,840",
+				"to": "00:00:04,990"
+			},
+			"offsets": {
+				"from": 4840,
+				"to": 4990
+			},
+			"text": " is"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,990",
+				"to": "00:00:05,600"
+			},
+			"offsets": {
+				"from": 4990,
+				"to": 5600
+			},
+			"text": " wrong?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,460",
+				"to": "00:00:07,460"
+			},
+			"offsets": {
+				"from": 7460,
+				"to": 7460
+			},
+			"text": " What"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,460",
+				"to": "00:00:07,600"
+			},
+			"offsets": {
+				"from": 7460,
+				"to": 7600
+			},
+			"text": " is"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,600",
+				"to": "00:00:08,300"
+			},
+			"offsets": {
+				"from": 7600,
+				"to": 8300
+			},
+			"text": " wrong?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,220",
+				"to": "00:00:09,400"
+			},
+			"offsets": {
+				"from": 9220,
+				"to": 9400
+			},
+			"text": " So"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,400",
+				"to": "00:00:09,540"
+			},
+			"offsets": {
+				"from": 9400,
+				"to": 9540
+			},
+			"text": " understand"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,540",
+				"to": "00:00:09,950"
+			},
+			"offsets": {
+				"from": 9540,
+				"to": 9950
+			},
+			"text": " this"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,950",
+				"to": "00:00:10,700"
+			},
+			"offsets": {
+				"from": 9950,
+				"to": 10700
+			},
+			"text": " today,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,700",
+				"to": "00:00:11,040"
+			},
+			"offsets": {
+				"from": 10700,
+				"to": 11040
+			},
+			"text": " that"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,040",
+				"to": "00:00:11,240"
+			},
+			"offsets": {
+				"from": 11040,
+				"to": 11240
+			},
+			"text": " if"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,240",
+				"to": "00:00:11,460"
+			},
+			"offsets": {
+				"from": 11240,
+				"to": 11460
+			},
+			"text": " you"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,460",
+				"to": "00:00:11,710"
+			},
+			"offsets": {
+				"from": 11460,
+				"to": 11710
+			},
+			"text": " are"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,710",
+				"to": "00:00:12,180"
+			},
+			"offsets": {
+				"from": 11710,
+				"to": 12180
+			},
+			"text": " going"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,180",
+				"to": "00:00:12,490"
+			},
+			"offsets": {
+				"from": 12180,
+				"to": 12490
+			},
+			"text": " to"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,490",
+				"to": "00:00:12,640"
+			},
+			"offsets": {
+				"from": 12490,
+				"to": 12640
+			},
+			"text": " pray"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,640",
+				"to": "00:00:12,890"
+			},
+			"offsets": {
+				"from": 12640,
+				"to": 12890
+			},
+			"text": " for"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,890",
+				"to": "00:00:13,600"
+			},
+			"offsets": {
+				"from": 12890,
+				"to": 13600
+			},
+			"text": " people,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,480",
+				"to": "00:00:14,530"
+			},
+			"offsets": {
+				"from": 14480,
+				"to": 14530
+			},
+			"text": " you"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,530",
+				"to": "00:00:15,210"
+			},
+			"offsets": {
+				"from": 14530,
+				"to": 15210
+			},
+			"text": " must"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,210",
+				"to": "00:00:15,430"
+			},
+			"offsets": {
+				"from": 15210,
+				"to": 15430
+			},
+			"text": " always"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,430",
+				"to": "00:00:16,160"
+			},
+			"offsets": {
+				"from": 15430,
+				"to": 16160
+			},
+			"text": " ask,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,160",
+				"to": "00:00:16,750"
+			},
+			"offsets": {
+				"from": 16160,
+				"to": 16750
+			},
+			"text": " what"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,750",
+				"to": "00:00:17,750"
+			},
+			"offsets": {
+				"from": 16750,
+				"to": 17750
+			},
+			"text": " would"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,750",
+				"to": "00:00:17,930"
+			},
+			"offsets": {
+				"from": 17750,
+				"to": 17930
+			},
+			"text": " you"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,930",
+				"to": "00:00:18,510"
+			},
+			"offsets": {
+				"from": 17930,
+				"to": 18510
+			},
+			"text": " want"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,510",
+				"to": "00:00:19,260"
+			},
+			"offsets": {
+				"from": 18510,
+				"to": 19260
+			},
+			"text": " Jesus"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,260",
+				"to": "00:00:19,540"
+			},
+			"offsets": {
+				"from": 19260,
+				"to": 19540
+			},
+			"text": " to"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,540",
+				"to": "00:00:19,840"
+			},
+			"offsets": {
+				"from": 19540,
+				"to": 19840
+			},
+			"text": " do"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,840",
+				"to": "00:00:20,270"
+			},
+			"offsets": {
+				"from": 19840,
+				"to": 20270
+			},
+			"text": " for"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,270",
+				"to": "00:00:21,220"
+			},
+			"offsets": {
+				"from": 20270,
+				"to": 21220
+			},
+			"text": " you?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,220",
+				"to": "00:00:22,320"
+			},
+			"offsets": {
+				"from": 22220,
+				"to": 22320
+			},
+			"text": " What"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,320",
+				"to": "00:00:22,380"
+			},
+			"offsets": {
+				"from": 22320,
+				"to": 22380
+			},
+			"text": " would"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,380",
+				"to": "00:00:22,950"
+			},
+			"offsets": {
+				"from": 22380,
+				"to": 22950
+			},
+			"text": " you"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,950",
+				"to": "00:00:23,260"
+			},
+			"offsets": {
+				"from": 22950,
+				"to": 23260
+			},
+			"text": " want"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,260",
+				"to": "00:00:23,900"
+			},
+			"offsets": {
+				"from": 23260,
+				"to": 23900
+			},
+			"text": " Jesus"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,900",
+				"to": "00:00:24,240"
+			},
+			"offsets": {
+				"from": 23900,
+				"to": 24240
+			},
+			"text": " to"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,240",
+				"to": "00:00:24,400"
+			},
+			"offsets": {
+				"from": 24240,
+				"to": 24400
+			},
+			"text": " do"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,400",
+				"to": "00:00:24,780"
+			},
+			"offsets": {
+				"from": 24400,
+				"to": 24780
+			},
+			"text": " for"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,780",
+				"to": "00:00:25,600"
+			},
+			"offsets": {
+				"from": 24780,
+				"to": 25600
+			},
+			"text": " you?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,360",
+				"to": "00:00:26,520"
+			},
+			"offsets": {
+				"from": 26360,
+				"to": 26520
+			},
+			"text": ""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,520",
+				"to": "00:00:27,080"
+			},
+			"offsets": {
+				"from": 26520,
+				"to": 27080
+			},
+			"text": " The"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,080",
+				"to": "00:00:27,250"
+			},
+			"offsets": {
+				"from": 27080,
+				"to": 27250
+			},
+			"text": " moment"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,250",
+				"to": "00:00:27,520"
+			},
+			"offsets": {
+				"from": 27250,
+				"to": 27520
+			},
+			"text": " you"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,520",
+				"to": "00:00:28,490"
+			},
+			"offsets": {
+				"from": 27520,
+				"to": 28490
+			},
+			"text": " understand"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,490",
+				"to": "00:00:29,080"
+			},
+			"offsets": {
+				"from": 28490,
+				"to": 29080
+			},
+			"text": " that,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,080",
+				"to": "00:00:29,630"
+			},
+			"offsets": {
+				"from": 29080,
+				"to": 29630
+			},
+			"text": " you"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,630",
+				"to": "00:00:29,830"
+			},
+			"offsets": {
+				"from": 29630,
+				"to": 29830
+			},
+			"text": " begin"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,830",
+				"to": "00:00:29,920"
+			},
+			"offsets": {
+				"from": 29830,
+				"to": 29920
+			},
+			"text": " a"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,920",
+				"to": "00:00:30,590"
+			},
+			"offsets": {
+				"from": 29920,
+				"to": 30590
+			},
+			"text": " journey"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,590",
+				"to": "00:00:31,030"
+			},
+			"offsets": {
+				"from": 30590,
+				"to": 31030
+			},
+			"text": " to"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,030",
+				"to": "00:00:31,570"
+			},
+			"offsets": {
+				"from": 31030,
+				"to": 31570
+			},
+			"text": " healing"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,570",
+				"to": "00:00:32,210"
+			},
+			"offsets": {
+				"from": 31570,
+				"to": 32210
+			},
+			"text": " people"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,210",
+				"to": "00:00:33,100"
+			},
+			"offsets": {
+				"from": 32210,
+				"to": 33100
+			},
+			"text": " like"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,100",
+				"to": "00:00:33,960"
+			},
+			"offsets": {
+				"from": 33100,
+				"to": 33960
+			},
+			"text": " Jesus,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,960",
+				"to": "00:00:34,420"
+			},
+			"offsets": {
+				"from": 33960,
+				"to": 34420
+			},
+			"text": " healing"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,420",
+				"to": "00:00:34,800"
+			},
+			"offsets": {
+				"from": 34420,
+				"to": 34800
+			},
+			"text": " them."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,160",
+				"to": "00:00:36,160"
+			},
+			"offsets": {
+				"from": 36160,
+				"to": 36160
+			},
+			"text": " The"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,160",
+				"to": "00:00:36,160"
+			},
+			"offsets": {
+				"from": 36160,
+				"to": 36160
+			},
+			"text": " moment"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,160",
+				"to": "00:00:36,470"
+			},
+			"offsets": {
+				"from": 36160,
+				"to": 36470
+			},
+			"text": " you"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,470",
+				"to": "00:00:37,050"
+			},
+			"offsets": {
+				"from": 36470,
+				"to": 37050
+			},
+			"text": " understand"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,050",
+				"to": "00:00:37,520"
+			},
+			"offsets": {
+				"from": 37050,
+				"to": 37520
+			},
+			"text": " that,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,520",
+				"to": "00:00:37,810"
+			},
+			"offsets": {
+				"from": 37520,
+				"to": 37810
+			},
+			"text": " you"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,810",
+				"to": "00:00:38,300"
+			},
+			"offsets": {
+				"from": 37810,
+				"to": 38300
+			},
+			"text": " begin"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,300",
+				"to": "00:00:38,490"
+			},
+			"offsets": {
+				"from": 38300,
+				"to": 38490
+			},
+			"text": " to"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,490",
+				"to": "00:00:38,880"
+			},
+			"offsets": {
+				"from": 38490,
+				"to": 38880
+			},
+			"text": " heal"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,880",
+				"to": "00:00:39,430"
+			},
+			"offsets": {
+				"from": 38880,
+				"to": 39430
+			},
+			"text": " like"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,430",
+				"to": "00:00:40,000"
+			},
+			"offsets": {
+				"from": 39430,
+				"to": 40000
+			},
+			"text": " Jesus,"
+		}
+	]
+}

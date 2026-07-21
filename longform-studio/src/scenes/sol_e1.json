@@ -1,0 +1,94 @@
+{
+  "source": "lf_sol_e1.mp4",
+  "title": "LIFE IS GOD'S GIFT",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": false,
+  "videoSeconds": 590,
+  "subscribeEvery": 180,
+  "wordmarkFill": true,
+  "hookAt": 120,
+  "hookText": "Every Breath Is Borrowed",
+  "openLoop": "What really decides the value of your life",
+  "keywords": [
+    { "at": 230, "text": "Your purpose" },
+    { "at": 368, "text": "Every life counts" }
+  ],
+  "recap": {
+    "at": 528,
+    "title": "Live long — live on purpose",
+    "items": [
+      "You are not an accident — life is offered by God",
+      "Every breath is borrowed from God",
+      "God alone defines your purpose",
+      "Your value is the life God put in you",
+      "Without God, even a full life is empty"
+    ]
+  },
+  "outro": {
+    "at": 552,
+    "next": "Live well, not just long",
+    "url": "KidsInspiringNation.t.me"
+  },
+  "immersion": {
+    "enabled": true,
+    "bed": "audio/sol_e1_bed.mp3",
+    "bedVolume": 0.16,
+    "voiceEnd": 552,
+    "grade": true,
+    "particles": true,
+    "sfx": true,
+    "scriptures": []
+  },
+  "scenes": [
+    {
+      "start": 135,
+      "end": 146,
+      "section": "NOT AN ACCIDENT",
+      "point": "You are not an accident — your life is offered by God",
+      "ref": "",
+      "emoji": "🌱",
+      "noSplit": true,
+      "teaser": "Where did your life really begin?"
+    },
+    {
+      "start": 177,
+      "end": 193,
+      "section": "GOD GAVE LIFE FIRST",
+      "point": "Before work, before a home, before a garden — God gave you life",
+      "ref": "Genesis 2:7",
+      "emoji": "🌬️",
+      "noSplit": true,
+      "teaser": "What does AI prove about you?"
+    },
+    {
+      "start": 218,
+      "end": 234,
+      "section": "GOD DEFINES YOUR PURPOSE",
+      "point": "The Author of your life is the only One who can define its purpose",
+      "ref": "",
+      "emoji": "🧭",
+      "noSplit": true,
+      "teaser": "What gives a life its value?"
+    },
+    {
+      "start": 344,
+      "end": 355,
+      "section": "EVERY LIFE HAS VALUE",
+      "point": "Every human life has value — because God put His life in it",
+      "ref": "",
+      "emoji": "💎",
+      "noSplit": true,
+      "teaser": "So what decides your value?"
+    },
+    {
+      "start": 427,
+      "end": 435,
+      "section": "WHAT DECIDES YOUR VALUE",
+      "point": "Not your age, ability, or success — the life God put in you",
+      "ref": "",
+      "emoji": "⚡",
+      "noSplit": true
+    }
+  ]
+}

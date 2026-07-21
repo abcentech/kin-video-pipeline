@@ -1,0 +1,382 @@
+{
+ "words": [
+  {
+   "w": "Before",
+   "start": 1.12,
+   "end": 2,
+   "emp": false
+  },
+  {
+   "w": "Pa-Enoch",
+   "start": 2,
+   "end": 3,
+   "emp": false
+  },
+  {
+   "w": "came",
+   "start": 3,
+   "end": 3.3,
+   "emp": false
+  },
+  {
+   "w": "into",
+   "start": 3.3,
+   "end": 3.6,
+   "emp": false
+  },
+  {
+   "w": "being,",
+   "start": 3.6,
+   "end": 4.18,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 4.18,
+   "end": 4.66,
+   "emp": false
+  },
+  {
+   "w": "funerals",
+   "start": 4.66,
+   "end": 5.2,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 5.2,
+   "end": 5.38,
+   "emp": false
+  },
+  {
+   "w": "his",
+   "start": 5.38,
+   "end": 5.7,
+   "emp": false
+  },
+  {
+   "w": "fathers,",
+   "start": 5.7,
+   "end": 6.08,
+   "emp": false
+  },
+  {
+   "w": "fathers,",
+   "start": 6.08,
+   "end": 6.62,
+   "emp": false
+  },
+  {
+   "w": "fathers,",
+   "start": 6.62,
+   "end": 7.16,
+   "emp": false
+  },
+  {
+   "w": "fathers,",
+   "start": 7.16,
+   "end": 7.64,
+   "emp": false
+  },
+  {
+   "w": "eight",
+   "start": 7.76,
+   "end": 8.83,
+   "emp": false
+  },
+  {
+   "w": "generations",
+   "start": 8.83,
+   "end": 9.11,
+   "emp": false
+  },
+  {
+   "w": "before",
+   "start": 9.11,
+   "end": 9.66,
+   "emp": false
+  },
+  {
+   "w": "him,",
+   "start": 9.66,
+   "end": 10.11,
+   "emp": false
+  },
+  {
+   "w": "they",
+   "start": 10.11,
+   "end": 10.48,
+   "emp": false
+  },
+  {
+   "w": "all",
+   "start": 10.48,
+   "end": 10.75,
+   "emp": false
+  },
+  {
+   "w": "died.",
+   "start": 10.75,
+   "end": 11.44,
+   "emp": false
+  },
+  {
+   "w": "But",
+   "start": 11.8,
+   "end": 11.9,
+   "emp": false
+  },
+  {
+   "w": "when",
+   "start": 11.82,
+   "end": 11.96,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 11.96,
+   "end": 12.07,
+   "emp": false
+  },
+  {
+   "w": "got",
+   "start": 12.07,
+   "end": 12.33,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 12.33,
+   "end": 12.79,
+   "emp": false
+  },
+  {
+   "w": "Father",
+   "start": 12.79,
+   "end": 12.93,
+   "emp": false
+  },
+  {
+   "w": "Enoch,",
+   "start": 12.93,
+   "end": 13.45,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 13.45,
+   "end": 13.6,
+   "emp": false
+  },
+  {
+   "w": "died",
+   "start": 13.6,
+   "end": 13.9,
+   "emp": false
+  },
+  {
+   "w": "not,",
+   "start": 13.9,
+   "end": 14.32,
+   "emp": false
+  },
+  {
+   "w": "but",
+   "start": 14.32,
+   "end": 14.64,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 14.64,
+   "end": 14.85,
+   "emp": false
+  },
+  {
+   "w": "walked",
+   "start": 14.85,
+   "end": 15.5,
+   "emp": false
+  },
+  {
+   "w": "with",
+   "start": 15.5,
+   "end": 16.25,
+   "emp": false
+  },
+  {
+   "w": "God.",
+   "start": 16.25,
+   "end": 16.62,
+   "emp": true
+  },
+  {
+   "w": "He",
+   "start": 18.3,
+   "end": 18.4,
+   "emp": false
+  },
+  {
+   "w": "walked",
+   "start": 18.3,
+   "end": 18.4,
+   "emp": false
+  },
+  {
+   "w": "with",
+   "start": 18.3,
+   "end": 18.4,
+   "emp": false
+  },
+  {
+   "w": "God",
+   "start": 18.3,
+   "end": 18.4,
+   "emp": true
+  },
+  {
+   "w": "so",
+   "start": 18.3,
+   "end": 18.4,
+   "emp": false
+  },
+  {
+   "w": "close",
+   "start": 18.32,
+   "end": 18.64,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 18.64,
+   "end": 19.13,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 19.13,
+   "end": 19.42,
+   "emp": false
+  },
+  {
+   "w": "never",
+   "start": 19.42,
+   "end": 19.66,
+   "emp": true
+  },
+  {
+   "w": "came",
+   "start": 19.66,
+   "end": 20.03,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 20.03,
+   "end": 20.21,
+   "emp": false
+  },
+  {
+   "w": "an",
+   "start": 20.21,
+   "end": 20.39,
+   "emp": false
+  },
+  {
+   "w": "end.",
+   "start": 20.39,
+   "end": 21.04,
+   "emp": false
+  },
+  {
+   "w": "For",
+   "start": 21.7,
+   "end": 21.8,
+   "emp": false
+  },
+  {
+   "w": "before",
+   "start": 21.72,
+   "end": 21.82,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 21.8,
+   "end": 21.91,
+   "emp": false
+  },
+  {
+   "w": "was",
+   "start": 21.91,
+   "end": 22.82,
+   "emp": false
+  },
+  {
+   "w": "translated,",
+   "start": 22.82,
+   "end": 23.24,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 23.24,
+   "end": 23.41,
+   "emp": false
+  },
+  {
+   "w": "had",
+   "start": 23.41,
+   "end": 23.66,
+   "emp": false
+  },
+  {
+   "w": "this",
+   "start": 23.66,
+   "end": 24,
+   "emp": false
+  },
+  {
+   "w": "testimony",
+   "start": 24,
+   "end": 24.76,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 24.76,
+   "end": 25.1,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 25.1,
+   "end": 25.27,
+   "emp": false
+  },
+  {
+   "w": "built,",
+   "start": 25.27,
+   "end": 26.36,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 26.36,
+   "end": 26.46,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 26.39,
+   "end": 26.63,
+   "emp": false
+  },
+  {
+   "w": "did.",
+   "start": 26.63,
+   "end": 27,
+   "emp": false
+  }
+ ]
+}

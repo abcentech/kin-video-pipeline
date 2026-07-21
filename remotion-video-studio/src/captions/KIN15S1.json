@@ -1,0 +1,430 @@
+{
+ "words": [
+  {
+   "w": "Medicine.",
+   "start": 0.02,
+   "end": 1.26,
+   "emp": true
+  },
+  {
+   "w": "Joy",
+   "start": 1.26,
+   "end": 1.52,
+   "emp": true
+  },
+  {
+   "w": "is",
+   "start": 1.52,
+   "end": 1.68,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 1.68,
+   "end": 1.78,
+   "emp": false
+  },
+  {
+   "w": "medicine.",
+   "start": 1.77,
+   "end": 2.78,
+   "emp": true
+  },
+  {
+   "w": "It's",
+   "start": 2.78,
+   "end": 3.01,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 3.01,
+   "end": 3.11,
+   "emp": false
+  },
+  {
+   "w": "medicine",
+   "start": 3.06,
+   "end": 3.51,
+   "emp": true
+  },
+  {
+   "w": "for",
+   "start": 3.51,
+   "end": 3.69,
+   "emp": false
+  },
+  {
+   "w": "longevity.",
+   "start": 3.69,
+   "end": 4.43,
+   "emp": false
+  },
+  {
+   "w": "It's",
+   "start": 4.43,
+   "end": 5.09,
+   "emp": false
+  },
+  {
+   "w": "one",
+   "start": 5.09,
+   "end": 5.32,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 5.32,
+   "end": 5.57,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 5.57,
+   "end": 5.96,
+   "emp": false
+  },
+  {
+   "w": "oldest",
+   "start": 5.96,
+   "end": 6.66,
+   "emp": false
+  },
+  {
+   "w": "medicine",
+   "start": 6.66,
+   "end": 7.22,
+   "emp": true
+  },
+  {
+   "w": "that",
+   "start": 7.22,
+   "end": 7.57,
+   "emp": false
+  },
+  {
+   "w": "God",
+   "start": 7.57,
+   "end": 7.86,
+   "emp": false
+  },
+  {
+   "w": "made",
+   "start": 7.86,
+   "end": 8.21,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 8.21,
+   "end": 8.48,
+   "emp": false
+  },
+  {
+   "w": "man.",
+   "start": 8.48,
+   "end": 9.01,
+   "emp": false
+  },
+  {
+   "w": "Joy",
+   "start": 9.01,
+   "end": 9.37,
+   "emp": true
+  },
+  {
+   "w": "is",
+   "start": 9.37,
+   "end": 9.47,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 9.47,
+   "end": 9.58,
+   "emp": false
+  },
+  {
+   "w": "medicine",
+   "start": 9.58,
+   "end": 10.29,
+   "emp": true
+  },
+  {
+   "w": "that",
+   "start": 10.29,
+   "end": 10.64,
+   "emp": false
+  },
+  {
+   "w": "needs",
+   "start": 10.64,
+   "end": 11.12,
+   "emp": false
+  },
+  {
+   "w": "no",
+   "start": 11.12,
+   "end": 11.29,
+   "emp": false
+  },
+  {
+   "w": "prescription,",
+   "start": 11.29,
+   "end": 12.57,
+   "emp": true
+  },
+  {
+   "w": "it",
+   "start": 12.57,
+   "end": 12.75,
+   "emp": false
+  },
+  {
+   "w": "has",
+   "start": 12.75,
+   "end": 13.02,
+   "emp": false
+  },
+  {
+   "w": "no",
+   "start": 13.02,
+   "end": 13.2,
+   "emp": false
+  },
+  {
+   "w": "side",
+   "start": 13.2,
+   "end": 13.56,
+   "emp": true
+  },
+  {
+   "w": "effects,",
+   "start": 13.56,
+   "end": 14.34,
+   "emp": true
+  },
+  {
+   "w": "and",
+   "start": 14.6,
+   "end": 14.7,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 14.65,
+   "end": 14.95,
+   "emp": false
+  },
+  {
+   "w": "can",
+   "start": 14.95,
+   "end": 15.59,
+   "emp": false
+  },
+  {
+   "w": "carry",
+   "start": 15.59,
+   "end": 15.79,
+   "emp": false
+  },
+  {
+   "w": "it",
+   "start": 15.79,
+   "end": 15.99,
+   "emp": false
+  },
+  {
+   "w": "inside",
+   "start": 15.99,
+   "end": 16.75,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 16.75,
+   "end": 16.92,
+   "emp": false
+  },
+  {
+   "w": "every",
+   "start": 16.92,
+   "end": 17.44,
+   "emp": false
+  },
+  {
+   "w": "single",
+   "start": 17.44,
+   "end": 18.06,
+   "emp": false
+  },
+  {
+   "w": "day.",
+   "start": 18.06,
+   "end": 18.68,
+   "emp": false
+  },
+  {
+   "w": "King",
+   "start": 18.68,
+   "end": 19.09,
+   "emp": false
+  },
+  {
+   "w": "Solomon",
+   "start": 19.09,
+   "end": 19.92,
+   "emp": false
+  },
+  {
+   "w": "said,",
+   "start": 19.92,
+   "end": 20.5,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 20.5,
+   "end": 20.61,
+   "emp": false
+  },
+  {
+   "w": "merry",
+   "start": 20.61,
+   "end": 21.19,
+   "emp": false
+  },
+  {
+   "w": "heart",
+   "start": 21.19,
+   "end": 21.77,
+   "emp": true
+  },
+  {
+   "w": "doeth",
+   "start": 21.77,
+   "end": 22.36,
+   "emp": false
+  },
+  {
+   "w": "good",
+   "start": 22.36,
+   "end": 22.67,
+   "emp": false
+  },
+  {
+   "w": "like",
+   "start": 22.67,
+   "end": 22.77,
+   "emp": false
+  },
+  {
+   "w": "medicine,",
+   "start": 22.72,
+   "end": 23.71,
+   "emp": true
+  },
+  {
+   "w": "but",
+   "start": 23.71,
+   "end": 23.89,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 23.89,
+   "end": 23.99,
+   "emp": false
+  },
+  {
+   "w": "broken",
+   "start": 23.98,
+   "end": 24.52,
+   "emp": false
+  },
+  {
+   "w": "spirit",
+   "start": 24.52,
+   "end": 25.08,
+   "emp": false
+  },
+  {
+   "w": "dries",
+   "start": 25.08,
+   "end": 25.51,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 25.51,
+   "end": 25.78,
+   "emp": false
+  },
+  {
+   "w": "bones.",
+   "start": 25.78,
+   "end": 26.5,
+   "emp": false
+  },
+  {
+   "w": "A",
+   "start": 26.5,
+   "end": 26.6,
+   "emp": false
+  },
+  {
+   "w": "merry",
+   "start": 26.59,
+   "end": 27.04,
+   "emp": false
+  },
+  {
+   "w": "heart,",
+   "start": 27.04,
+   "end": 27.81,
+   "emp": true
+  },
+  {
+   "w": "that",
+   "start": 27.81,
+   "end": 28.04,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 28.04,
+   "end": 28.21,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 28.21,
+   "end": 28.48,
+   "emp": false
+  },
+  {
+   "w": "ability",
+   "start": 28.48,
+   "end": 29.11,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 29.11,
+   "end": 29.29,
+   "emp": false
+  },
+  {
+   "w": "choose",
+   "start": 29.29,
+   "end": 29.86,
+   "emp": false
+  },
+  {
+   "w": "George.",
+   "start": 29.89,
+   "end": 30,
+   "emp": false
+  }
+ ]
+}

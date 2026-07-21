@@ -1,0 +1,74 @@
+{
+  "source": "lf_w4e2.mp4",
+  "title": "EAT WELL FOR THE BODY",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": false,
+  "wordmarkFill": true,
+  "videoSeconds": 594,
+  "subscribeEvery": 180,
+  "hookAt": 138,
+  "hookText": "One habit quietly decides how long you live",
+  "openLoop": "By the end: why even Daniel refused the king's food",
+  "openLoopAt": 196,
+  "teasers": [
+    { "at": 372, "text": "Still ahead: the everyday food behind 80% of diseases" },
+    { "at": 470, "text": "Still ahead: the Japanese 80% secret to long life" }
+  ],
+  "outro": {
+    "at": 552,
+    "day": 3,
+    "total": 5,
+    "next": "Rest well for the Body",
+    "label": "Next episode",
+    "url": "KidsInspiringNation.t.me"
+  },
+  "immersion": {
+    "enabled": true,
+    "bed": "audio/w4_bed.mp3",
+    "bedVolume": 0.1,
+    "voiceEnd": 588,
+    "grade": false,
+    "particles": false,
+    "sfx": true,
+    "scriptures": []
+  },
+  "scenes": [
+    {
+      "start": 150,
+      "end": 162,
+      "section": "FUEL IT ON PURPOSE",
+      "point": "God built your body — you choose what it runs on",
+      "ref": "",
+      "emoji": "⛽",
+      "noSplit": true
+    },
+    {
+      "start": 220,
+      "end": 232,
+      "section": "FOOD IS FUEL, NOT FEELINGS",
+      "point": "You eat for how long you'll live, not how good it tastes",
+      "ref": "",
+      "emoji": "🍽️",
+      "noSplit": true
+    },
+    {
+      "start": 296,
+      "end": 308,
+      "section": "STOP EATING TO DIE",
+      "point": "Food is fuel for life — not a slow funeral",
+      "ref": "",
+      "emoji": "⚠️",
+      "noSplit": true
+    },
+    {
+      "start": 408,
+      "end": 420,
+      "section": "DISCIPLINE YOUR MOUTH",
+      "point": "Not everything they put on your table belongs in your body",
+      "ref": "",
+      "emoji": "🚫",
+      "noSplit": true
+    }
+  ]
+}

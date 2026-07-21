@@ -1,0 +1,239 @@
+{
+  "source": "lf_jul3.mp4",
+  "title": "Long Life: The Covenant of God's Blessing",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": true,
+  "wordmarkFill": true,
+  "subscribeEvery": 180,
+  "videoSeconds": 471,
+  "openLoop": "Why does God want you to live LONG — not just survive?",
+  "keywords": [
+    {
+      "at": 94.81,
+      "text": "Greater fruitfulness"
+    },
+    {
+      "at": 258.96,
+      "text": "Speed is not haste"
+    },
+    {
+      "at": 414.75,
+      "text": "Seven decades"
+    }
+  ],
+  "teasers": [
+    { "at": 72, "text": "Flourish like a palm, grow like a cedar" },
+    { "at": 154, "text": "The man who shaped four generations" },
+    { "at": 250, "text": "One long life that reached continents" },
+    { "at": 372, "text": "Serve now — influence for seven decades" }
+  ],
+  "immersion": {
+    "enabled": true,
+    "grade": false,
+    "particles": false,
+    "sfx": false,
+    "scriptures": [
+      {
+        "at": 16,
+        "ref": "Psalm 91:16",
+        "text": "With long life will I satisfy you, and show you my salvation.",
+        "place": "lower",
+        "hold": 6.5
+      },
+      {
+        "at": 392.05,
+        "ref": "John 3:16",
+        "text": "For God so loved the world, that He gave His only begotten Son.",
+        "place": "lower",
+        "hold": 6
+      }
+    ]
+  },
+  "scenes": [
+    {
+      "start": 0.8,
+      "end": 8,
+      "section": "LONG LIFE",
+      "point": "The covenant of God's blessing",
+      "ref": "Psalm 91:16",
+      "emoji": "🌴",
+      "image": "jul3_slide-01.png",
+      "motion": "push-in",
+      "full": true,
+      "depth": "jul3_slide-01_depth.png"
+    },
+    {
+      "start": 25.1,
+      "end": 34,
+      "section": "MORE THAN NOT DYING",
+      "point": "Long life isn't the absence of death — it's living in God's covenant",
+      "emoji": "🕊️",
+      "image": "jul3_slide-02.png",
+      "motion": "pull-back",
+      "full": true,
+      "depth": "jul3_slide-02_depth.png"
+    },
+    {
+      "start": 44,
+      "end": 49.42,
+      "section": "THE COVENANT",
+      "point": "Long life is living in the covenant of God's blessings",
+      "emoji": "🤝",
+      "image": "jul3_slide-03.png",
+      "motion": "dolly-right",
+      "full": true,
+      "depth": "jul3_slide-03_depth.png"
+    },
+    {
+      "start": 50.92,
+      "end": 58.3,
+      "section": "GOD DELIGHTS",
+      "point": "God delights in your growth, like a proud parent",
+      "emoji": "🎁",
+      "image": "jul3_slide-04.png",
+      "motion": "dolly-left",
+      "full": true,
+      "depth": "jul3_slide-04_depth.png"
+    },
+    {
+      "start": 102.61,
+      "end": 111.81,
+      "section": "GREATER FRUITFULNESS",
+      "point": "Long life gives you greater fruitfulness and fulfilment",
+      "emoji": "🌱",
+      "noSplit": true
+    },
+    {
+      "start": 124.81,
+      "end": 130.81,
+      "section": "PSALM 92:12",
+      "point": "The righteous flourish like a palm, grow like a cedar",
+      "ref": "Psalm 92:12",
+      "emoji": "🌴",
+      "image": "jul3_slide-05.png",
+      "motion": "push-in",
+      "full": true,
+      "depth": "jul3_slide-05_depth.png"
+    },
+    {
+      "start": 132.71,
+      "end": 144.81,
+      "section": "FROM SEED TO FRUIT",
+      "point": "Seed, shoot, branches, fruit — growth takes time",
+      "emoji": "🌳",
+      "image": "jul3_slide-06.png",
+      "motion": "crane-up",
+      "full": true,
+      "depth": "jul3_slide-06_depth.png"
+    },
+    {
+      "start": 168.68,
+      "end": 176.66,
+      "section": "INFLUENCE GENERATIONS",
+      "point": "Abraham saw Jacob 15 years — long life shapes generations",
+      "emoji": "👨‍👩‍👧‍👦",
+      "image": "jul3_slide-09.png",
+      "motion": "dolly-left",
+      "full": true,
+      "depth": "jul3_slide-09_depth.png"
+    },
+    {
+      "start": 222.36,
+      "end": 232.96,
+      "section": "SPEED IS NOT HASTE",
+      "point": "Feeling left behind? Speed is not haste — ask God for covenant life",
+      "emoji": "⏳",
+      "image": "jul3_slide-07.png",
+      "motion": "dolly-right",
+      "full": true,
+      "depth": "jul3_slide-07_depth.png"
+    },
+    {
+      "start": 284.56,
+      "end": 293.96,
+      "section": "YOUR STORY MATTERS",
+      "point": "Despair is not the end — God uses your story to influence tomorrow",
+      "emoji": "💛",
+      "image": "jul3_slide-08.png",
+      "motion": "push-in",
+      "full": true,
+      "depth": "jul3_slide-08_depth.png"
+    },
+    {
+      "start": 310.55,
+      "end": 320.25,
+      "section": "MATURE TO INFLUENCE",
+      "point": "A full tree needs years to reach full maturity",
+      "emoji": "🌳",
+      "image": "jul3_slide-10.png",
+      "motion": "crane-up",
+      "full": true,
+      "depth": "jul3_slide-10_depth.png"
+    },
+    {
+      "start": 324.15,
+      "end": 334.75,
+      "section": "SHIFT CULTURES",
+      "point": "One long, faithful life can shift entire cultures",
+      "emoji": "🌍",
+      "image": "jul3_slide-11.png",
+      "motion": "dolly-left",
+      "full": true,
+      "depth": "jul3_slide-11_depth.png"
+    },
+    {
+      "start": 336.15,
+      "end": 347.75,
+      "section": "PA BILLY GRAHAM",
+      "point": "One long life reached continents for Jesus",
+      "emoji": "🙌",
+      "noSplit": true
+    },
+    {
+      "start": 399.55,
+      "end": 409.75,
+      "section": "SEVEN DECADES",
+      "point": "Serve God now — you'll influence for at least seven decades",
+      "emoji": "🔥",
+      "image": "jul3_slide-12.png",
+      "motion": "pull-back",
+      "full": true,
+      "depth": "jul3_slide-12_depth.png"
+    },
+    {
+      "start": 420.81,
+      "end": 431.31,
+      "section": "GREATEST FRUIT",
+      "point": "The longest-living trees produce the greatest fruit for generations",
+      "emoji": "🌳",
+      "image": "jul3_slide-13.png",
+      "motion": "push-in",
+      "full": true,
+      "depth": "jul3_slide-13_depth.png"
+    },
+    {
+      "start": 447.31,
+      "end": 453.51,
+      "section": "ISAIAH 65:22",
+      "point": "As the days of a tree, so shall be the days of My people",
+      "ref": "Isaiah 65:22",
+      "emoji": "🌳",
+      "image": "jul3_slide-14.png",
+      "motion": "crane-up",
+      "full": true,
+      "depth": "jul3_slide-14_depth.png"
+    },
+    {
+      "start": 455.31,
+      "end": 463.11,
+      "section": "RECEIVE HIS BLESSING",
+      "point": "Receive His blessing — live long, produce across generations",
+      "emoji": "🌅",
+      "image": "jul3_slide-15.png",
+      "motion": "push-in",
+      "full": true,
+      "depth": "jul3_slide-15_depth.png"
+    }
+  ]
+}

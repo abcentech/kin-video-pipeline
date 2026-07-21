@@ -1,0 +1,400 @@
+{
+ "words": [
+  {
+   "w": "Consciously,",
+   "start": 0.8,
+   "end": 1.32,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 1.32,
+   "end": 1.49,
+   "emp": false
+  },
+  {
+   "w": "miracle",
+   "start": 1.49,
+   "end": 1.9,
+   "emp": true
+  },
+  {
+   "w": "of",
+   "start": 1.9,
+   "end": 2.01,
+   "emp": false
+  },
+  {
+   "w": "his",
+   "start": 2.01,
+   "end": 2.18,
+   "emp": false
+  },
+  {
+   "w": "life",
+   "start": 2.18,
+   "end": 2.44,
+   "emp": true
+  },
+  {
+   "w": "was",
+   "start": 2.44,
+   "end": 2.59,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 2.59,
+   "end": 2.74,
+   "emp": false
+  },
+  {
+   "w": "drama.",
+   "start": 2.74,
+   "end": 3.18,
+   "emp": false
+  },
+  {
+   "w": "The",
+   "start": 4.5,
+   "end": 4.6,
+   "emp": false
+  },
+  {
+   "w": "miracle",
+   "start": 4.5,
+   "end": 4.6,
+   "emp": true
+  },
+  {
+   "w": "of",
+   "start": 4.5,
+   "end": 4.6,
+   "emp": false
+  },
+  {
+   "w": "his",
+   "start": 4.52,
+   "end": 4.62,
+   "emp": false
+  },
+  {
+   "w": "life",
+   "start": 4.57,
+   "end": 4.94,
+   "emp": true
+  },
+  {
+   "w": "was",
+   "start": 4.94,
+   "end": 5.22,
+   "emp": false
+  },
+  {
+   "w": "consistency.",
+   "start": 5.22,
+   "end": 6.54,
+   "emp": false
+  },
+  {
+   "w": "You",
+   "start": 7.7,
+   "end": 7.8,
+   "emp": true
+  },
+  {
+   "w": "hear",
+   "start": 7.7,
+   "end": 7.8,
+   "emp": false
+  },
+  {
+   "w": "some",
+   "start": 7.7,
+   "end": 7.8,
+   "emp": false
+  },
+  {
+   "w": "people",
+   "start": 7.72,
+   "end": 7.82,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 7.78,
+   "end": 8.07,
+   "emp": false
+  },
+  {
+   "w": "give",
+   "start": 8.07,
+   "end": 8.36,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 8.36,
+   "end": 8.58,
+   "emp": true
+  },
+  {
+   "w": "experience,",
+   "start": 8.58,
+   "end": 9.38,
+   "emp": false
+  },
+  {
+   "w": "when",
+   "start": 9.58,
+   "end": 9.68,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 9.63,
+   "end": 9.73,
+   "emp": false
+  },
+  {
+   "w": "fasted",
+   "start": 9.69,
+   "end": 10.06,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 10.06,
+   "end": 10.24,
+   "emp": false
+  },
+  {
+   "w": "seven",
+   "start": 10.24,
+   "end": 10.55,
+   "emp": false
+  },
+  {
+   "w": "days,",
+   "start": 10.55,
+   "end": 10.96,
+   "emp": false
+  },
+  {
+   "w": "when",
+   "start": 11.72,
+   "end": 11.82,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 11.72,
+   "end": 11.82,
+   "emp": false
+  },
+  {
+   "w": "went",
+   "start": 11.74,
+   "end": 11.84,
+   "emp": false
+  },
+  {
+   "w": "dry",
+   "start": 11.83,
+   "end": 12.12,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 12.12,
+   "end": 12.41,
+   "emp": false
+  },
+  {
+   "w": "40",
+   "start": 12.41,
+   "end": 13,
+   "emp": false
+  },
+  {
+   "w": "days,",
+   "start": 13,
+   "end": 13.62,
+   "emp": false
+  },
+  {
+   "w": "when",
+   "start": 14.04,
+   "end": 14.14,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 14.04,
+   "end": 14.14,
+   "emp": false
+  },
+  {
+   "w": "did",
+   "start": 14.06,
+   "end": 14.18,
+   "emp": false
+  },
+  {
+   "w": "this",
+   "start": 14.18,
+   "end": 14.46,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 14.46,
+   "end": 14.67,
+   "emp": false
+  },
+  {
+   "w": "that,",
+   "start": 14.67,
+   "end": 15.12,
+   "emp": false
+  },
+  {
+   "w": "but",
+   "start": 15.28,
+   "end": 15.38,
+   "emp": false
+  },
+  {
+   "w": "listen,",
+   "start": 15.3,
+   "end": 15.66,
+   "emp": false
+  },
+  {
+   "w": "it",
+   "start": 15.66,
+   "end": 15.88,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 15.88,
+   "end": 16.1,
+   "emp": false
+  },
+  {
+   "w": "consistency",
+   "start": 16.1,
+   "end": 17.36,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 17.36,
+   "end": 17.68,
+   "emp": false
+  },
+  {
+   "w": "builds",
+   "start": 17.68,
+   "end": 18.16,
+   "emp": false
+  },
+  {
+   "w": "longevity.",
+   "start": 18.16,
+   "end": 19.12,
+   "emp": false
+  },
+  {
+   "w": "It",
+   "start": 20.64,
+   "end": 20.74,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 20.64,
+   "end": 20.74,
+   "emp": false
+  },
+  {
+   "w": "consistency",
+   "start": 20.66,
+   "end": 21.11,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 21.11,
+   "end": 21.64,
+   "emp": false
+  },
+  {
+   "w": "builds",
+   "start": 21.64,
+   "end": 22.44,
+   "emp": false
+  },
+  {
+   "w": "longevity.",
+   "start": 22.44,
+   "end": 24.08,
+   "emp": false
+  },
+  {
+   "w": "How",
+   "start": 24.9,
+   "end": 25,
+   "emp": false
+  },
+  {
+   "w": "would",
+   "start": 24.9,
+   "end": 25,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 24.9,
+   "end": 25,
+   "emp": true
+  },
+  {
+   "w": "consider",
+   "start": 24.92,
+   "end": 25.5,
+   "emp": false
+  },
+  {
+   "w": "this?",
+   "start": 25.5,
+   "end": 26.06,
+   "emp": false
+  },
+  {
+   "w": "Have",
+   "start": 26.52,
+   "end": 26.62,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 26.54,
+   "end": 26.64,
+   "emp": false
+  },
+  {
+   "w": "daily",
+   "start": 26.59,
+   "end": 27.12,
+   "emp": false
+  },
+  {
+   "w": "timeline.",
+   "start": 27.12,
+   "end": 28,
+   "emp": false
+  }
+ ]
+}

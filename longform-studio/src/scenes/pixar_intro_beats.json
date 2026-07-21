@@ -1,0 +1,338 @@
+{
+  "source": "FIH_W4E1_Jun22.srt",
+  "limitSeconds": 99,
+  "styleSuffixRef": "STYLE_BIBLE.md → STYLE_SUFFIX",
+  "characterSheet": "character_sheet.png",
+  "beats": [
+    {
+      "i": 0,
+      "start": 0.48,
+      "end": 0.86,
+      "vo": "Hello everyone.",
+      "imagePrompt": "",
+      "hero": "beat0_hero.png",
+      "layers": {
+        "bg": "beat0_bg.png",
+        "mid": "beat0_mid.png",
+        "fg": "beat0_fg.png"
+      },
+      "veo": null,
+      "motion": "pull-back"
+    },
+    {
+      "i": 1,
+      "start": 1.48,
+      "end": 4.74,
+      "vo": "What if every hospital in the world is closed?",
+      "imagePrompt": "",
+      "hero": "beat1_hero.png",
+      "layers": {
+        "bg": "beat1_bg.png",
+        "mid": "beat1_mid.png",
+        "fg": "beat1_fg.png"
+      },
+      "veo": null,
+      "motion": "push-in"
+    },
+    {
+      "i": 2,
+      "start": 5.74,
+      "end": 10.4,
+      "vo": "No doctors, no medicine, no surgeries,",
+      "imagePrompt": "",
+      "hero": "beat2_hero.png",
+      "layers": {
+        "bg": "beat2_bg.png",
+        "mid": "beat2_mid.png",
+        "fg": "beat2_fg.png"
+      },
+      "veo": null,
+      "motion": "pull-back"
+    },
+    {
+      "i": 3,
+      "start": 11.16,
+      "end": 12.84,
+      "vo": "no pharmacies.",
+      "imagePrompt": "",
+      "hero": "beat3_hero.png",
+      "layers": {
+        "bg": "beat3_bg.png",
+        "mid": "beat3_mid.png",
+        "fg": "beat3_fg.png"
+      },
+      "veo": null,
+      "motion": "push-in"
+    },
+    {
+      "i": 4,
+      "start": 13.82,
+      "end": 17.08,
+      "vo": "How long do you think humanity would survive?",
+      "imagePrompt": "",
+      "hero": "beat4_hero.png",
+      "layers": {
+        "bg": "beat4_bg.png",
+        "mid": "beat4_mid.png",
+        "fg": "beat4_fg.png"
+      },
+      "veo": null,
+      "motion": "pull-back"
+    },
+    {
+      "i": 5,
+      "start": 18.12,
+      "end": 25.76,
+      "vo": "The truth is that sickness has become so normal that many people expect it more than they expect health.",
+      "imagePrompt": "",
+      "hero": "beat5_hero.png",
+      "layers": {
+        "bg": "beat5_bg.png",
+        "mid": "beat5_mid.png",
+        "fg": "beat5_fg.png"
+      },
+      "veo": null,
+      "motion": "push-in"
+    },
+    {
+      "i": 6,
+      "start": 26.98,
+      "end": 36.04,
+      "vo": "But what if God never expects us to live defeated by sickness and or diseases?",
+      "imagePrompt": "",
+      "hero": "beat6_hero.png",
+      "layers": {
+        "bg": "beat6_bg.png",
+        "mid": "beat6_mid.png",
+        "fg": "beat6_fg.png"
+      },
+      "veo": null,
+      "motion": "pull-back"
+    },
+    {
+      "i": 7,
+      "start": 37.78,
+      "end": 45.12,
+      "vo": "What if there's a power greater than medicine, deeper than the human strength, and stronger than every diagnosis?",
+      "imagePrompt": "",
+      "hero": "beat7_hero.png",
+      "layers": {
+        "bg": "beat7_bg.png",
+        "mid": "beat7_mid.png",
+        "fg": "beat7_fg.png"
+      },
+      "veo": null,
+      "motion": "push-in"
+    },
+    {
+      "i": 8,
+      "start": 46.88,
+      "end": 55.38,
+      "vo": "A man who never walked, never had surgery, never visited a pharmacy, never took medicine, never had a doctor, walked",
+      "imagePrompt": "",
+      "hero": "beat8_hero.png",
+      "layers": {
+        "bg": "beat8_bg.png",
+        "mid": "beat8_mid.png",
+        "fg": "beat8_fg.png"
+      },
+      "veo": null,
+      "motion": "pull-back"
+    },
+    {
+      "i": 9,
+      "start": 56.28,
+      "end": 56.72,
+      "vo": "Suddenly.",
+      "imagePrompt": "",
+      "hero": "beat9_hero.png",
+      "layers": {
+        "bg": "beat9_bg.png",
+        "mid": "beat9_mid.png",
+        "fg": "beat9_fg.png"
+      },
+      "veo": null,
+      "motion": "push-in"
+    },
+    {
+      "i": 10,
+      "start": 58.92,
+      "end": 59.58,
+      "vo": "What changed?",
+      "imagePrompt": "",
+      "hero": "beat10_hero.png",
+      "layers": {
+        "bg": "beat10_bg.png",
+        "mid": "beat10_mid.png",
+        "fg": "beat10_fg.png"
+      },
+      "veo": null,
+      "motion": "pull-back"
+    },
+    {
+      "i": 11,
+      "start": 60.34,
+      "end": 60.9,
+      "vo": "Was it Peter?",
+      "imagePrompt": "",
+      "hero": "beat11_hero.png",
+      "layers": {
+        "bg": "beat11_bg.png",
+        "mid": "beat11_mid.png",
+        "fg": "beat11_fg.png"
+      },
+      "veo": null,
+      "motion": "push-in"
+    },
+    {
+      "i": 12,
+      "start": 61.58,
+      "end": 62.12,
+      "vo": "Was it prayer?",
+      "imagePrompt": "",
+      "hero": "beat12_hero.png",
+      "layers": {
+        "bg": "beat12_bg.png",
+        "mid": "beat12_mid.png",
+        "fg": "beat12_fg.png"
+      },
+      "veo": null,
+      "motion": "pull-back"
+    },
+    {
+      "i": 13,
+      "start": 62.64,
+      "end": 63.2,
+      "vo": "Was it luck?",
+      "imagePrompt": "",
+      "hero": "beat13_hero.png",
+      "layers": {
+        "bg": "beat13_bg.png",
+        "mid": "beat13_mid.png",
+        "fg": "beat13_fg.png"
+      },
+      "veo": null,
+      "motion": "push-in"
+    },
+    {
+      "i": 14,
+      "start": 64.5,
+      "end": 69.38,
+      "vo": "Peter gives us the answer and in His name, through faith in his name.",
+      "imagePrompt": "",
+      "hero": "beat14_hero.png",
+      "layers": {
+        "bg": "beat14_bg.png",
+        "mid": "beat14_mid.png",
+        "fg": "beat14_fg.png"
+      },
+      "veo": null,
+      "motion": "pull-back"
+    },
+    {
+      "i": 15,
+      "start": 70.72,
+      "end": 75.56,
+      "vo": "Because the same Jesus who healed that man in Acts chapter 3 is still healing now.",
+      "imagePrompt": "",
+      "hero": "beat15_hero.png",
+      "layers": {
+        "bg": "beat15_bg.png",
+        "mid": "beat15_mid.png",
+        "fg": "beat15_fg.png"
+      },
+      "veo": null,
+      "motion": "push-in"
+    },
+    {
+      "i": 16,
+      "start": 76.46,
+      "end": 77.66,
+      "vo": "So the question to you is",
+      "imagePrompt": "",
+      "hero": "beat16_hero.png",
+      "layers": {
+        "bg": "beat16_bg.png",
+        "mid": "beat16_mid.png",
+        "fg": "beat16_fg.png"
+      },
+      "veo": null,
+      "motion": "pull-back"
+    },
+    {
+      "i": 17,
+      "start": 78.36,
+      "end": 80.36,
+      "vo": "not whether the name has the power.",
+      "imagePrompt": "",
+      "hero": "beat17_hero.png",
+      "layers": {
+        "bg": "beat17_bg.png",
+        "mid": "beat17_mid.png",
+        "fg": "beat17_fg.png"
+      },
+      "veo": null,
+      "motion": "push-in"
+    },
+    {
+      "i": 18,
+      "start": 80.8,
+      "end": 83.7,
+      "vo": "The question is, do you have faith in his name?",
+      "imagePrompt": "",
+      "hero": "beat18_hero.png",
+      "layers": {
+        "bg": "beat18_bg.png",
+        "mid": "beat18_mid.png",
+        "fg": "beat18_fg.png"
+      },
+      "veo": null,
+      "motion": "pull-back"
+    },
+    {
+      "i": 19,
+      "start": 84.18,
+      "end": 87.72,
+      "vo": "Welcome to our new series, Faith in His Name.",
+      "imagePrompt": "",
+      "hero": "beat19_hero.png",
+      "layers": {
+        "bg": "beat19_bg.png",
+        "mid": "beat19_mid.png",
+        "fg": "beat19_fg.png"
+      },
+      "veo": null,
+      "motion": "push-in"
+    },
+    {
+      "i": 20,
+      "start": 90.54,
+      "end": 93.1,
+      "vo": "Welcome to the KidsInspiring Nation devotional.",
+      "imagePrompt": "",
+      "hero": "beat20_hero.png",
+      "layers": {
+        "bg": "beat20_bg.png",
+        "mid": "beat20_mid.png",
+        "fg": "beat20_fg.png"
+      },
+      "veo": null,
+      "motion": "pull-back"
+    },
+    {
+      "i": 21,
+      "start": 98.24,
+      "end": 99,
+      "vo": "Welcome to the KidsInspiring Nations",
+      "imagePrompt": "",
+      "hero": "beat21_hero.png",
+      "layers": {
+        "bg": "beat21_bg.png",
+        "mid": "beat21_mid.png",
+        "fg": "beat21_fg.png"
+      },
+      "veo": null,
+      "motion": "push-in"
+    }
+  ]
+}

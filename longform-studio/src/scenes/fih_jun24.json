@@ -1,0 +1,94 @@
+{
+  "source": "lf_fih_jun24.mp4",
+  "title": "PRAY SIMPLY AND SPECIFICALLY",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": false,
+  "videoSeconds": 568,
+  "subscribeEvery": 180,
+  "hookAt": 99,
+  "hookText": "WHY SIMPLE PRAYERS HEAL THE SICK",
+  "openLoop": "The 2-letter prayer Jesus used to heal the sick",
+  "keywords": [
+    { "at": 232, "text": "Just say it" },
+    { "at": 316, "text": "Keep it simple" },
+    { "at": 382, "text": "One by one" },
+    { "at": 445, "text": "In Jesus' name" },
+    { "at": 466, "text": "No other name" }
+  ],
+  "recap": {
+    "at": 503,
+    "title": "How to pray for the sick",
+    "items": [
+      "Pray in the name of Jesus",
+      "Keep it simple — few words",
+      "Long prayers reduce potency",
+      "The prayer of faith, not the grammar",
+      "Be specific — name the sickness"
+    ]
+  },
+  "outro": {
+    "at": 519,
+    "next": "The prayer of faith that heals the sick"
+  },
+  "scenes": [
+    {
+      "start": 145,
+      "end": 154,
+      "section": "IN JESUS' NAME",
+      "point": "To pray for the sick, pray in the name of Jesus",
+      "ref": "Acts 3:6",
+      "emoji": "🙏",
+      "noSplit": true,
+      "teaser": "Stop complicating your prayers"
+    },
+    {
+      "start": 159,
+      "end": 167,
+      "section": "ABOVE EVERY SICKNESS",
+      "point": "His name is above every sickness",
+      "ref": "",
+      "emoji": "✨",
+      "noSplit": true
+    },
+    {
+      "start": 200,
+      "end": 210,
+      "section": "KEEP IT SIMPLE",
+      "point": "Simple prayers generate great faith",
+      "ref": "",
+      "emoji": "💫",
+      "noSplit": true,
+      "teaser": "Why long prayers don't work"
+    },
+    {
+      "start": 257,
+      "end": 266,
+      "section": "SHORT & POWERFUL",
+      "point": "Long prayers reduce potency — keep it short",
+      "ref": "",
+      "emoji": "⏱️",
+      "noSplit": true,
+      "teaser": "The one word that changes prayer"
+    },
+    {
+      "start": 348,
+      "end": 359,
+      "section": "BE SPECIFIC",
+      "point": "Pray specifically — not “all sickness, go”",
+      "ref": "",
+      "emoji": "🎯",
+      "noSplit": true,
+      "teaser": "Sickness has a name"
+    },
+    {
+      "start": 397,
+      "end": 409,
+      "section": "NAME IT",
+      "point": "Sicknesses have names — call them out one by one",
+      "ref": "",
+      "emoji": "📛",
+      "noSplit": true
+    }
+  ]
+}

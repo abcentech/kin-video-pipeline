@@ -1,0 +1,1144 @@
+{
+ "words": [
+  {
+   "w": "young",
+   "start": 0.02,
+   "end": 0.26,
+   "emp": false
+  },
+  {
+   "w": "chap",
+   "start": 0.26,
+   "end": 0.47,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 0.47,
+   "end": 0.69,
+   "emp": false
+  },
+  {
+   "w": "was",
+   "start": 0.69,
+   "end": 1,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 1,
+   "end": 1.64,
+   "emp": false
+  },
+  {
+   "w": "best",
+   "start": 1.64,
+   "end": 1.74,
+   "emp": false
+  },
+  {
+   "w": "student",
+   "start": 1.73,
+   "end": 2.46,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 2.46,
+   "end": 2.67,
+   "emp": false
+  },
+  {
+   "w": "his",
+   "start": 2.67,
+   "end": 3.13,
+   "emp": false
+  },
+  {
+   "w": "university",
+   "start": 3.13,
+   "end": 4.1,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 4.1,
+   "end": 4.21,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 4.21,
+   "end": 4.31,
+   "emp": false
+  },
+  {
+   "w": "graduated",
+   "start": 4.29,
+   "end": 4.68,
+   "emp": false
+  },
+  {
+   "w": "with",
+   "start": 4.68,
+   "end": 4.88,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 4.88,
+   "end": 4.98,
+   "emp": false
+  },
+  {
+   "w": "first",
+   "start": 4.95,
+   "end": 5.2,
+   "emp": true
+  },
+  {
+   "w": "class",
+   "start": 5.2,
+   "end": 5.55,
+   "emp": true
+  },
+  {
+   "w": "in",
+   "start": 5.55,
+   "end": 5.76,
+   "emp": false
+  },
+  {
+   "w": "zoology",
+   "start": 5.76,
+   "end": 6.24,
+   "emp": false
+  },
+  {
+   "w": "so",
+   "start": 7.04,
+   "end": 7.14,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 7.04,
+   "end": 7.14,
+   "emp": false
+  },
+  {
+   "w": "graduated",
+   "start": 7.06,
+   "end": 7.27,
+   "emp": false
+  },
+  {
+   "w": "with",
+   "start": 7.27,
+   "end": 7.56,
+   "emp": false
+  },
+  {
+   "w": "his",
+   "start": 7.56,
+   "end": 7.79,
+   "emp": false
+  },
+  {
+   "w": "first",
+   "start": 7.79,
+   "end": 8.32,
+   "emp": true
+  },
+  {
+   "w": "class",
+   "start": 8.32,
+   "end": 8.68,
+   "emp": true
+  },
+  {
+   "w": "in",
+   "start": 8.68,
+   "end": 8.78,
+   "emp": false
+  },
+  {
+   "w": "zoology",
+   "start": 8.76,
+   "end": 9.3,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 9.3,
+   "end": 9.54,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 9.54,
+   "end": 9.69,
+   "emp": false
+  },
+  {
+   "w": "was",
+   "start": 9.69,
+   "end": 10.17,
+   "emp": false
+  },
+  {
+   "w": "told",
+   "start": 10.17,
+   "end": 10.32,
+   "emp": false
+  },
+  {
+   "w": "because",
+   "start": 10.32,
+   "end": 10.74,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 10.74,
+   "end": 10.87,
+   "emp": false
+  },
+  {
+   "w": "graduated",
+   "start": 10.87,
+   "end": 11.44,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 11.44,
+   "end": 11.6,
+   "emp": false
+  },
+  {
+   "w": "was",
+   "start": 11.6,
+   "end": 11.7,
+   "emp": false
+  },
+  {
+   "w": "given",
+   "start": 11.68,
+   "end": 11.92,
+   "emp": false
+  },
+  {
+   "w": "an",
+   "start": 11.92,
+   "end": 12.13,
+   "emp": false
+  },
+  {
+   "w": "automatic",
+   "start": 12.13,
+   "end": 12.63,
+   "emp": false
+  },
+  {
+   "w": "job",
+   "start": 12.63,
+   "end": 13.56,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 13.56,
+   "end": 13.66,
+   "emp": false
+  },
+  {
+   "w": "become",
+   "start": 13.6,
+   "end": 14.23,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 14.23,
+   "end": 14.52,
+   "emp": false
+  },
+  {
+   "w": "zookeeper",
+   "start": 14.52,
+   "end": 15.48,
+   "emp": true
+  },
+  {
+   "w": "in",
+   "start": 15.48,
+   "end": 15.69,
+   "emp": false
+  },
+  {
+   "w": "his",
+   "start": 15.69,
+   "end": 16.04,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 16.04,
+   "end": 16.21,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 16.21,
+   "end": 16.52,
+   "emp": false
+  },
+  {
+   "w": "zoo",
+   "start": 16.52,
+   "end": 16.83,
+   "emp": false
+  },
+  {
+   "w": "so",
+   "start": 16.83,
+   "end": 17.04,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 17.04,
+   "end": 17.25,
+   "emp": false
+  },
+  {
+   "w": "got",
+   "start": 17.25,
+   "end": 17.56,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 17.56,
+   "end": 17.77,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 17.77,
+   "end": 18.07,
+   "emp": false
+  },
+  {
+   "w": "zoo",
+   "start": 18.07,
+   "end": 18.38,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 18.38,
+   "end": 18.76,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 18.76,
+   "end": 19.05,
+   "emp": false
+  },
+  {
+   "w": "met",
+   "start": 19.05,
+   "end": 19.28,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 19.28,
+   "end": 19.44,
+   "emp": false
+  },
+  {
+   "w": "man",
+   "start": 19.44,
+   "end": 19.84,
+   "emp": false
+  },
+  {
+   "w": "that's",
+   "start": 19.84,
+   "end": 20.27,
+   "emp": false
+  },
+  {
+   "w": "been",
+   "start": 20.27,
+   "end": 20.55,
+   "emp": false
+  },
+  {
+   "w": "there",
+   "start": 20.55,
+   "end": 20.91,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 20.91,
+   "end": 21.13,
+   "emp": false
+  },
+  {
+   "w": "over",
+   "start": 21.13,
+   "end": 21.48,
+   "emp": false
+  },
+  {
+   "w": "25",
+   "start": 21.48,
+   "end": 21.85,
+   "emp": false
+  },
+  {
+   "w": "years",
+   "start": 21.85,
+   "end": 22.21,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 22.21,
+   "end": 22.41,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 22.41,
+   "end": 22.55,
+   "emp": false
+  },
+  {
+   "w": "told",
+   "start": 22.55,
+   "end": 22.97,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 22.97,
+   "end": 23.07,
+   "emp": false
+  },
+  {
+   "w": "man",
+   "start": 23.06,
+   "end": 23.27,
+   "emp": false
+  },
+  {
+   "w": "i",
+   "start": 23.27,
+   "end": 23.37,
+   "emp": false
+  },
+  {
+   "w": "have",
+   "start": 23.34,
+   "end": 23.62,
+   "emp": false
+  },
+  {
+   "w": "come",
+   "start": 23.62,
+   "end": 23.94,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 23.94,
+   "end": 24.06,
+   "emp": false
+  },
+  {
+   "w": "resume",
+   "start": 24.06,
+   "end": 24.49,
+   "emp": false
+  },
+  {
+   "w": "as",
+   "start": 24.49,
+   "end": 24.63,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 24.63,
+   "end": 24.95,
+   "emp": false
+  },
+  {
+   "w": "zookeeper",
+   "start": 24.95,
+   "end": 25.68,
+   "emp": true
+  },
+  {
+   "w": "and",
+   "start": 25.7,
+   "end": 25.88,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 25.88,
+   "end": 26.08,
+   "emp": false
+  },
+  {
+   "w": "man",
+   "start": 26.08,
+   "end": 26.26,
+   "emp": false
+  },
+  {
+   "w": "said",
+   "start": 26.26,
+   "end": 26.53,
+   "emp": false
+  },
+  {
+   "w": "what",
+   "start": 26.53,
+   "end": 26.8,
+   "emp": false
+  },
+  {
+   "w": "do",
+   "start": 26.8,
+   "end": 26.93,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 26.93,
+   "end": 27.32,
+   "emp": false
+  },
+  {
+   "w": "know",
+   "start": 27.32,
+   "end": 27.42,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 27.39,
+   "end": 27.52,
+   "emp": false
+  },
+  {
+   "w": "said",
+   "start": 27.52,
+   "end": 27.79,
+   "emp": false
+  },
+  {
+   "w": "i",
+   "start": 27.79,
+   "end": 27.89,
+   "emp": false
+  },
+  {
+   "w": "know",
+   "start": 27.84,
+   "end": 28.1,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 28.1,
+   "end": 28.23,
+   "emp": false
+  },
+  {
+   "w": "said",
+   "start": 28.23,
+   "end": 28.48,
+   "emp": false
+  },
+  {
+   "w": "i",
+   "start": 28.48,
+   "end": 28.81,
+   "emp": false
+  },
+  {
+   "w": "have",
+   "start": 28.81,
+   "end": 28.91,
+   "emp": false
+  },
+  {
+   "w": "my",
+   "start": 28.82,
+   "end": 28.94,
+   "emp": false
+  },
+  {
+   "w": "certificate",
+   "start": 28.94,
+   "end": 29.76,
+   "emp": true
+  },
+  {
+   "w": "he",
+   "start": 29.76,
+   "end": 29.88,
+   "emp": false
+  },
+  {
+   "w": "said",
+   "start": 29.88,
+   "end": 30,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 30,
+   "end": 30.1,
+   "emp": false
+  },
+  {
+   "w": "have",
+   "start": 30.08,
+   "end": 30.18,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 30.16,
+   "end": 30.46,
+   "emp": false
+  },
+  {
+   "w": "certificate",
+   "start": 30.46,
+   "end": 30.97,
+   "emp": true
+  },
+  {
+   "w": "he",
+   "start": 30.97,
+   "end": 31.61,
+   "emp": false
+  },
+  {
+   "w": "said",
+   "start": 31.61,
+   "end": 31.8,
+   "emp": false
+  },
+  {
+   "w": "okay",
+   "start": 31.8,
+   "end": 32.05,
+   "emp": false
+  },
+  {
+   "w": "fine",
+   "start": 32.05,
+   "end": 32.35,
+   "emp": false
+  },
+  {
+   "w": "so",
+   "start": 32.35,
+   "end": 32.5,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 32.5,
+   "end": 32.64,
+   "emp": false
+  },
+  {
+   "w": "said",
+   "start": 32.64,
+   "end": 32.93,
+   "emp": false
+  },
+  {
+   "w": "if",
+   "start": 32.93,
+   "end": 33.29,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 33.29,
+   "end": 33.39,
+   "emp": false
+  },
+  {
+   "w": "i",
+   "start": 33.33,
+   "end": 33.43,
+   "emp": false
+  },
+  {
+   "w": "mean",
+   "start": 33.4,
+   "end": 33.7,
+   "emp": false
+  },
+  {
+   "w": "if",
+   "start": 33.7,
+   "end": 33.85,
+   "emp": false
+  },
+  {
+   "w": "it's",
+   "start": 33.85,
+   "end": 34.15,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 34.15,
+   "end": 34.45,
+   "emp": false
+  },
+  {
+   "w": "certificate",
+   "start": 34.45,
+   "end": 35.28,
+   "emp": true
+  },
+  {
+   "w": "you",
+   "start": 35.28,
+   "end": 35.52,
+   "emp": false
+  },
+  {
+   "w": "have",
+   "start": 35.52,
+   "end": 35.92,
+   "emp": false
+  },
+  {
+   "w": "that's",
+   "start": 35.92,
+   "end": 36.08,
+   "emp": false
+  },
+  {
+   "w": "fine",
+   "start": 36.08,
+   "end": 36.34,
+   "emp": false
+  },
+  {
+   "w": "so",
+   "start": 36.34,
+   "end": 36.47,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 36.47,
+   "end": 36.65,
+   "emp": false
+  },
+  {
+   "w": "man",
+   "start": 36.65,
+   "end": 36.83,
+   "emp": false
+  },
+  {
+   "w": "went",
+   "start": 36.83,
+   "end": 37.1,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 37.1,
+   "end": 37.3,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 37.3,
+   "end": 37.68,
+   "emp": false
+  },
+  {
+   "w": "man",
+   "start": 37.68,
+   "end": 37.78,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 37.72,
+   "end": 37.87,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 37.87,
+   "end": 38.06,
+   "emp": false
+  },
+  {
+   "w": "other",
+   "start": 38.06,
+   "end": 38.39,
+   "emp": false
+  },
+  {
+   "w": "man",
+   "start": 38.39,
+   "end": 38.58,
+   "emp": false
+  },
+  {
+   "w": "jumped",
+   "start": 38.58,
+   "end": 38.95,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 38.95,
+   "end": 39.21,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 39.21,
+   "end": 39.31,
+   "emp": false
+  },
+  {
+   "w": "other",
+   "start": 39.29,
+   "end": 39.62,
+   "emp": false
+  },
+  {
+   "w": "side",
+   "start": 39.62,
+   "end": 39.87,
+   "emp": false
+  },
+  {
+   "w": "as",
+   "start": 39.87,
+   "end": 40,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 40,
+   "end": 40.2,
+   "emp": false
+  },
+  {
+   "w": "jumped",
+   "start": 40.2,
+   "end": 40.53,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 40.53,
+   "end": 40.8,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 40.8,
+   "end": 40.9,
+   "emp": false
+  },
+  {
+   "w": "other",
+   "start": 40.87,
+   "end": 41.12,
+   "emp": false
+  },
+  {
+   "w": "side",
+   "start": 41.12,
+   "end": 41.59,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 41.59,
+   "end": 41.84,
+   "emp": false
+  },
+  {
+   "w": "saw",
+   "start": 41.84,
+   "end": 42.19,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 42.19,
+   "end": 42.76,
+   "emp": false
+  },
+  {
+   "w": "lion",
+   "start": 42.76,
+   "end": 42.86,
+   "emp": true
+  },
+  {
+   "w": "and",
+   "start": 42.8,
+   "end": 43.16,
+   "emp": false
+  },
+  {
+   "w": "then",
+   "start": 43.16,
+   "end": 43.64,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 43.64,
+   "end": 44.25,
+   "emp": false
+  },
+  {
+   "w": "called",
+   "start": 44.25,
+   "end": 44.6,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 44.6,
+   "end": 44.96,
+   "emp": false
+  },
+  {
+   "w": "elderly",
+   "start": 44.96,
+   "end": 45.8,
+   "emp": false
+  },
+  {
+   "w": "zookeeper",
+   "start": 45.8,
+   "end": 46.88,
+   "emp": true
+  },
+  {
+   "w": "and",
+   "start": 46.88,
+   "end": 47.24,
+   "emp": false
+  },
+  {
+   "w": "said",
+   "start": 47.24,
+   "end": 47.71,
+   "emp": false
+  },
+  {
+   "w": "elder",
+   "start": 48.25,
+   "end": 48.63,
+   "emp": false
+  },
+  {
+   "w": "zookeeper",
+   "start": 48.63,
+   "end": 49.67,
+   "emp": true
+  },
+  {
+   "w": "i",
+   "start": 49.67,
+   "end": 49.77,
+   "emp": false
+  },
+  {
+   "w": "see",
+   "start": 49.77,
+   "end": 50.05,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 50.05,
+   "end": 50.16,
+   "emp": false
+  },
+  {
+   "w": "lion",
+   "start": 50.16,
+   "end": 50.4,
+   "emp": true
+  },
+  {
+   "w": "what",
+   "start": 50.4,
+   "end": 50.63,
+   "emp": false
+  },
+  {
+   "w": "do",
+   "start": 50.63,
+   "end": 50.74,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 50.74,
+   "end": 50.9,
+   "emp": false
+  },
+  {
+   "w": "do",
+   "start": 50.9,
+   "end": 51.02,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 51.02,
+   "end": 51.16,
+   "emp": false
+  },
+  {
+   "w": "know",
+   "start": 51.16,
+   "end": 51.42,
+   "emp": false
+  },
+  {
+   "w": "what",
+   "start": 51.42,
+   "end": 51.65,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 51.65,
+   "end": 51.85,
+   "emp": false
+  },
+  {
+   "w": "told",
+   "start": 51.85,
+   "end": 52.04,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 52.04,
+   "end": 52.16,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 52.16,
+   "end": 52.27,
+   "emp": false
+  },
+  {
+   "w": "said",
+   "start": 52.27,
+   "end": 52.51,
+   "emp": false
+  },
+  {
+   "w": "use",
+   "start": 52.51,
+   "end": 52.67,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 52.67,
+   "end": 52.9,
+   "emp": false
+  },
+  {
+   "w": "certificate",
+   "start": 52.9,
+   "end": 53.54,
+   "emp": true
+  },
+  {
+   "w": "you",
+   "start": 53.54,
+   "end": 53.7,
+   "emp": false
+  },
+  {
+   "w": "can",
+   "start": 53.7,
+   "end": 53.87,
+   "emp": false
+  },
+  {
+   "w": "imagine",
+   "start": 53.87,
+   "end": 54.27,
+   "emp": false
+  },
+  {
+   "w": "what",
+   "start": 54.27,
+   "end": 54.6,
+   "emp": false
+  },
+  {
+   "w": "put",
+   "start": 54.6,
+   "end": 54.8,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 54.8,
+   "end": 54.9,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 54.9,
+   "end": 55,
+   "emp": false
+  },
+  {
+   "w": "them.",
+   "start": 54.96,
+   "end": 55.12,
+   "emp": false
+  },
+  {
+   "w": "Now,",
+   "start": 55.36,
+   "end": 56,
+   "emp": false
+  }
+ ]
+}

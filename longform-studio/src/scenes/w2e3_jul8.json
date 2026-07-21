@@ -1,0 +1,94 @@
+{
+  "source": "lf_w2e3_jul8.mp4",
+  "title": "THE ROOT OF A LONG, SATISFIED LIFE",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": false,
+  "videoSeconds": 597,
+  "subscribeEvery": 180,
+  "wordmarkFill": true,
+  "hookAt": 114,
+  "hookText": "You can do everything right and still miss loving God",
+  "openLoop": "Why loving God — not just serving Him — is the real secret",
+  "openLoopAt": 198,
+  "outro": {
+    "at": 540,
+    "day": 3,
+    "total": 5,
+    "next": "Still Standing at 85 — Live by Faith",
+    "label": "Next episode",
+    "url": "KidsInspiringNation.t.me"
+  },
+  "recap": {
+    "at": 528,
+    "title": "Love Him with all your heart",
+    "items": [
+      "You can love the work of God and still not love God",
+      "He wants your whole heart — not bits and pieces",
+      "A divided heart always drifts — come home to Him",
+      "Put Him above everything and everyone you love",
+      "He loved you first — love is simply your response"
+    ]
+  },
+  "keywords": [
+    { "at": 320, "text": "With ALL your heart" }
+  ],
+  "immersion": {
+    "enabled": true,
+    "bed": "audio/sol_e1_bed.mp3",
+    "bedVolume": 0.16,
+    "voiceEnd": 537,
+    "grade": true,
+    "particles": true,
+    "sfx": true,
+    "scriptures": []
+  },
+  "scenes": [
+    {
+      "start": 176,
+      "end": 186,
+      "section": "THE HIDDEN MISS",
+      "point": "You can love the work of God and still not love God",
+      "ref": "",
+      "emoji": "❤️",
+      "noSplit": true,
+      "teaser": "Still ahead: what He really wants"
+    },
+    {
+      "start": 216,
+      "end": 226,
+      "section": "HIS WHOLE-HEART REQUEST",
+      "point": "God wants your whole heart — not bits and pieces",
+      "ref": "Psalm 91:14",
+      "emoji": "💛",
+      "noSplit": true
+    },
+    {
+      "start": 258,
+      "end": 268,
+      "section": "COME HOME",
+      "point": "A divided heart always drifts — come home to Him",
+      "ref": "",
+      "emoji": "🏡",
+      "noSplit": true
+    },
+    {
+      "start": 288,
+      "end": 298,
+      "section": "ABOVE ALL ELSE",
+      "point": "Put Him above everything and everyone you love",
+      "ref": "",
+      "emoji": "👑",
+      "noSplit": true
+    },
+    {
+      "start": 452,
+      "end": 462,
+      "section": "HE LOVED YOU FIRST",
+      "point": "He loved you first — love is simply your response",
+      "ref": "1 John 4:19",
+      "emoji": "🙏",
+      "noSplit": true
+    }
+  ]
+}

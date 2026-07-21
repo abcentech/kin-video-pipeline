@@ -1,0 +1,93 @@
+{
+  "source": "lf_fih_jun26.mp4",
+  "title": "GIVE GOD THE GLORY",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": false,
+  "videoSeconds": 599,
+  "subscribeEvery": 180,
+  "wordmarkFill": true,
+  "hookAt": 99,
+  "hookText": "The Glory Must Always Return to God",
+  "openLoop": "The one mistake that makes the healing power stop",
+  "keywords": [
+    { "at": 360, "text": "All the glory" },
+    { "at": 470, "text": "Thank the Father" }
+  ],
+  "recap": {
+    "at": 539,
+    "title": "How to give God the glory",
+    "items": [
+      "Refuse to take the credit",
+      "Return all glory to Jesus",
+      "Tell God first — then testify",
+      "You're only His instrument",
+      "Give Him glory so the power keeps working"
+    ]
+  },
+  "outro": {
+    "at": 565,
+    "label": "Join us live",
+    "next": "Prayer Service · Sat 8PM WAT",
+    "url": "KidsInspiringNation.t.me"
+  },
+  "scenes": [
+    {
+      "start": 153,
+      "end": 162,
+      "section": "REFUSE THE CREDIT",
+      "point": "When the miracle comes, refuse to take the credit",
+      "ref": "Isaiah 42:8",
+      "emoji": "🙌",
+      "noSplit": true,
+      "teaser": "Who really did the miracle?"
+    },
+    {
+      "start": 305,
+      "end": 314,
+      "section": "TESTIMONY GLORIFIES CHRIST",
+      "point": "Every testimony should return the glory to Jesus",
+      "ref": "",
+      "emoji": "📣",
+      "noSplit": true
+    },
+    {
+      "start": 341,
+      "end": 351,
+      "section": "TELL GOD FIRST",
+      "point": "When healing comes, the first one you tell is God",
+      "ref": "Matthew 8:4",
+      "emoji": "🙏",
+      "noSplit": true,
+      "teaser": "The driver never gets the praise"
+    },
+    {
+      "start": 453,
+      "end": 463,
+      "section": "DON'T THANK THE DRIVER",
+      "point": "Thank the Father who sent the gift — not the driver",
+      "ref": "",
+      "emoji": "🚗",
+      "noSplit": true
+    },
+    {
+      "start": 500,
+      "end": 510,
+      "section": "YOU'RE HIS INSTRUMENT",
+      "point": "The power works through you because He released it",
+      "ref": "",
+      "emoji": "🔌",
+      "noSplit": true,
+      "teaser": "Why the healing isn't yours"
+    },
+    {
+      "start": 530,
+      "end": 537,
+      "section": "JESUS TAKES IT",
+      "point": "Only Jesus takes the sickness — you just give Him the glory",
+      "ref": "",
+      "emoji": "✝️",
+      "noSplit": true
+    }
+  ]
+}

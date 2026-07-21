@@ -1,0 +1,9304 @@
+{
+ "words": [
+  {
+   "w": "What",
+   "start": 2.66,
+   "end": 3.12,
+   "emp": false
+  },
+  {
+   "w": "if",
+   "start": 3.12,
+   "end": 3.58,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 3.58,
+   "end": 4.04,
+   "emp": false
+  },
+  {
+   "w": "secret",
+   "start": 4.04,
+   "end": 4.5,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 4.5,
+   "end": 4.96,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 4.96,
+   "end": 5.42,
+   "emp": false
+  },
+  {
+   "w": "long",
+   "start": 5.42,
+   "end": 5.88,
+   "emp": false
+  },
+  {
+   "w": "life",
+   "start": 5.88,
+   "end": 6.34,
+   "emp": false
+  },
+  {
+   "w": "wasn't",
+   "start": 6.34,
+   "end": 6.8,
+   "emp": false
+  },
+  {
+   "w": "found",
+   "start": 6.8,
+   "end": 7.26,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 7.26,
+   "end": 7.72,
+   "emp": false
+  },
+  {
+   "w": "medicine,",
+   "start": 7.72,
+   "end": 8.18,
+   "emp": false
+  },
+  {
+   "w": "or",
+   "start": 8.18,
+   "end": 8.64,
+   "emp": false
+  },
+  {
+   "w": "money,",
+   "start": 8.64,
+   "end": 9.1,
+   "emp": false
+  },
+  {
+   "w": "or",
+   "start": 9.1,
+   "end": 9.56,
+   "emp": false
+  },
+  {
+   "w": "even",
+   "start": 9.56,
+   "end": 10.02,
+   "emp": false
+  },
+  {
+   "w": "genetics?",
+   "start": 10.02,
+   "end": 10.48,
+   "emp": false
+  },
+  {
+   "w": "Think",
+   "start": 12.04,
+   "end": 12.317,
+   "emp": false
+  },
+  {
+   "w": "about",
+   "start": 12.317,
+   "end": 12.593,
+   "emp": false
+  },
+  {
+   "w": "this",
+   "start": 12.593,
+   "end": 12.87,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 12.87,
+   "end": 13.147,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 13.147,
+   "end": 13.423,
+   "emp": false
+  },
+  {
+   "w": "moment.",
+   "start": 13.423,
+   "end": 13.7,
+   "emp": false
+  },
+  {
+   "w": "If",
+   "start": 14.46,
+   "end": 14.976,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 14.976,
+   "end": 15.491,
+   "emp": false
+  },
+  {
+   "w": "lived",
+   "start": 15.491,
+   "end": 16.007,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 16.007,
+   "end": 16.522,
+   "emp": false
+  },
+  {
+   "w": "be",
+   "start": 16.522,
+   "end": 17.038,
+   "emp": false
+  },
+  {
+   "w": "100",
+   "start": 17.038,
+   "end": 17.553,
+   "emp": false
+  },
+  {
+   "w": "years,",
+   "start": 17.553,
+   "end": 18.069,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 18.069,
+   "end": 18.584,
+   "emp": false
+  },
+  {
+   "w": "would",
+   "start": 18.584,
+   "end": 19.1,
+   "emp": false
+  },
+  {
+   "w": "have",
+   "start": 19.1,
+   "end": 19.616,
+   "emp": false
+  },
+  {
+   "w": "only",
+   "start": 19.616,
+   "end": 20.131,
+   "emp": false
+  },
+  {
+   "w": "36,500",
+   "start": 20.131,
+   "end": 20.647,
+   "emp": false
+  },
+  {
+   "w": "genes,",
+   "start": 20.647,
+   "end": 21.162,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 21.162,
+   "end": 21.678,
+   "emp": false
+  },
+  {
+   "w": "equivalent",
+   "start": 21.678,
+   "end": 22.193,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 22.193,
+   "end": 22.709,
+   "emp": false
+  },
+  {
+   "w": "876,000",
+   "start": 22.709,
+   "end": 23.224,
+   "emp": false
+  },
+  {
+   "w": "hours.",
+   "start": 23.224,
+   "end": 23.74,
+   "emp": false
+  },
+  {
+   "w": "Nobody",
+   "start": 24.66,
+   "end": 25.16,
+   "emp": false
+  },
+  {
+   "w": "lives",
+   "start": 25.16,
+   "end": 25.66,
+   "emp": false
+  },
+  {
+   "w": "this",
+   "start": 25.66,
+   "end": 26.16,
+   "emp": false
+  },
+  {
+   "w": "earth",
+   "start": 26.16,
+   "end": 26.66,
+   "emp": false
+  },
+  {
+   "w": "with",
+   "start": 26.66,
+   "end": 27.16,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 27.16,
+   "end": 27.66,
+   "emp": false
+  },
+  {
+   "w": "million",
+   "start": 27.66,
+   "end": 28.16,
+   "emp": false
+  },
+  {
+   "w": "hours",
+   "start": 28.16,
+   "end": 28.66,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 28.66,
+   "end": 29.16,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 29.16,
+   "end": 29.66,
+   "emp": false
+  },
+  {
+   "w": "bank.",
+   "start": 29.66,
+   "end": 30.16,
+   "emp": false
+  },
+  {
+   "w": "Time",
+   "start": 31.4,
+   "end": 31.77,
+   "emp": false
+  },
+  {
+   "w": "has",
+   "start": 31.77,
+   "end": 32.14,
+   "emp": false
+  },
+  {
+   "w": "got",
+   "start": 32.14,
+   "end": 32.51,
+   "emp": false
+  },
+  {
+   "w": "more",
+   "start": 32.51,
+   "end": 32.88,
+   "emp": false
+  },
+  {
+   "w": "valuable",
+   "start": 32.88,
+   "end": 33.25,
+   "emp": false
+  },
+  {
+   "w": "gifts.",
+   "start": 33.25,
+   "end": 33.62,
+   "emp": false
+  },
+  {
+   "w": "So",
+   "start": 35.52,
+   "end": 35.942,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 35.942,
+   "end": 36.365,
+   "emp": false
+  },
+  {
+   "w": "real",
+   "start": 36.365,
+   "end": 36.787,
+   "emp": false
+  },
+  {
+   "w": "question",
+   "start": 36.787,
+   "end": 37.209,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 37.209,
+   "end": 37.632,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 37.632,
+   "end": 38.054,
+   "emp": false
+  },
+  {
+   "w": "how",
+   "start": 38.054,
+   "end": 38.476,
+   "emp": false
+  },
+  {
+   "w": "long",
+   "start": 38.476,
+   "end": 38.899,
+   "emp": false
+  },
+  {
+   "w": "will",
+   "start": 38.899,
+   "end": 39.321,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 39.321,
+   "end": 39.744,
+   "emp": false
+  },
+  {
+   "w": "live,",
+   "start": 39.744,
+   "end": 40.166,
+   "emp": false
+  },
+  {
+   "w": "but",
+   "start": 40.166,
+   "end": 40.588,
+   "emp": false
+  },
+  {
+   "w": "how",
+   "start": 40.588,
+   "end": 41.011,
+   "emp": false
+  },
+  {
+   "w": "well",
+   "start": 41.011,
+   "end": 41.433,
+   "emp": false
+  },
+  {
+   "w": "can",
+   "start": 41.433,
+   "end": 41.855,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 41.855,
+   "end": 42.278,
+   "emp": false
+  },
+  {
+   "w": "live?",
+   "start": 42.278,
+   "end": 42.7,
+   "emp": false
+  },
+  {
+   "w": "Look",
+   "start": 43.98,
+   "end": 44.504,
+   "emp": false
+  },
+  {
+   "w": "at",
+   "start": 44.504,
+   "end": 45.028,
+   "emp": false
+  },
+  {
+   "w": "Abraham,",
+   "start": 45.028,
+   "end": 45.552,
+   "emp": false
+  },
+  {
+   "w": "875",
+   "start": 45.552,
+   "end": 46.076,
+   "emp": false
+  },
+  {
+   "w": "years.",
+   "start": 46.076,
+   "end": 46.6,
+   "emp": false
+  },
+  {
+   "w": "Isaac,",
+   "start": 47.58,
+   "end": 48.187,
+   "emp": false
+  },
+  {
+   "w": "818",
+   "start": 48.187,
+   "end": 48.793,
+   "emp": false
+  },
+  {
+   "w": "years.",
+   "start": 48.793,
+   "end": 49.4,
+   "emp": false
+  },
+  {
+   "w": "Jacob,",
+   "start": 50.54,
+   "end": 51.213,
+   "emp": false
+  },
+  {
+   "w": "845",
+   "start": 51.213,
+   "end": 51.887,
+   "emp": false
+  },
+  {
+   "w": "years.",
+   "start": 51.887,
+   "end": 52.56,
+   "emp": false
+  },
+  {
+   "w": "Was",
+   "start": 52.56,
+   "end": 53.023,
+   "emp": false
+  },
+  {
+   "w": "it",
+   "start": 53.023,
+   "end": 53.487,
+   "emp": false
+  },
+  {
+   "w": "history,",
+   "start": 53.487,
+   "end": 53.95,
+   "emp": false
+  },
+  {
+   "w": "or",
+   "start": 53.95,
+   "end": 54.413,
+   "emp": false
+  },
+  {
+   "w": "does",
+   "start": 54.413,
+   "end": 54.877,
+   "emp": false
+  },
+  {
+   "w": "God",
+   "start": 54.877,
+   "end": 55.34,
+   "emp": true
+  },
+  {
+   "w": "have",
+   "start": 55.34,
+   "end": 55.803,
+   "emp": false
+  },
+  {
+   "w": "something",
+   "start": 55.803,
+   "end": 56.267,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 56.267,
+   "end": 56.73,
+   "emp": false
+  },
+  {
+   "w": "teach",
+   "start": 56.73,
+   "end": 57.193,
+   "emp": false
+  },
+  {
+   "w": "us",
+   "start": 57.193,
+   "end": 57.657,
+   "emp": false
+  },
+  {
+   "w": "about",
+   "start": 57.657,
+   "end": 58.12,
+   "emp": false
+  },
+  {
+   "w": "living",
+   "start": 58.12,
+   "end": 58.583,
+   "emp": false
+  },
+  {
+   "w": "long,",
+   "start": 58.583,
+   "end": 59.047,
+   "emp": false
+  },
+  {
+   "w": "fruitful,",
+   "start": 59.047,
+   "end": 59.51,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 59.51,
+   "end": 59.973,
+   "emp": false
+  },
+  {
+   "w": "satisfying",
+   "start": 59.973,
+   "end": 60.437,
+   "emp": false
+  },
+  {
+   "w": "lives?",
+   "start": 60.437,
+   "end": 60.9,
+   "emp": false
+  },
+  {
+   "w": "With",
+   "start": 62.1,
+   "end": 62.346,
+   "emp": false
+  },
+  {
+   "w": "long",
+   "start": 62.346,
+   "end": 62.591,
+   "emp": false
+  },
+  {
+   "w": "life,",
+   "start": 62.591,
+   "end": 62.837,
+   "emp": false
+  },
+  {
+   "w": "will",
+   "start": 62.837,
+   "end": 63.082,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 63.082,
+   "end": 63.328,
+   "emp": false
+  },
+  {
+   "w": "satisfy",
+   "start": 63.328,
+   "end": 63.573,
+   "emp": false
+  },
+  {
+   "w": "you?",
+   "start": 63.573,
+   "end": 63.819,
+   "emp": false
+  },
+  {
+   "w": "And",
+   "start": 64.28,
+   "end": 64.554,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 64.554,
+   "end": 64.829,
+   "emp": false
+  },
+  {
+   "w": "will",
+   "start": 64.829,
+   "end": 65.103,
+   "emp": false
+  },
+  {
+   "w": "show",
+   "start": 65.103,
+   "end": 65.377,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 65.377,
+   "end": 65.651,
+   "emp": false
+  },
+  {
+   "w": "my",
+   "start": 65.651,
+   "end": 65.926,
+   "emp": false
+  },
+  {
+   "w": "salvation.",
+   "start": 65.926,
+   "end": 66.2,
+   "emp": false
+  },
+  {
+   "w": "Let's",
+   "start": 67.08,
+   "end": 67.215,
+   "emp": false
+  },
+  {
+   "w": "go",
+   "start": 67.215,
+   "end": 67.35,
+   "emp": false
+  },
+  {
+   "w": "into",
+   "start": 67.35,
+   "end": 67.485,
+   "emp": false
+  },
+  {
+   "w": "this.",
+   "start": 67.485,
+   "end": 67.62,
+   "emp": false
+  },
+  {
+   "w": "God's",
+   "start": 67.76,
+   "end": 68.169,
+   "emp": false
+  },
+  {
+   "w": "desire",
+   "start": 68.169,
+   "end": 68.579,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 68.579,
+   "end": 68.988,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 68.988,
+   "end": 69.397,
+   "emp": false
+  },
+  {
+   "w": "simply",
+   "start": 69.397,
+   "end": 69.807,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 69.807,
+   "end": 70.216,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 70.216,
+   "end": 70.625,
+   "emp": false
+  },
+  {
+   "w": "live",
+   "start": 70.625,
+   "end": 71.035,
+   "emp": false
+  },
+  {
+   "w": "longer,",
+   "start": 71.035,
+   "end": 71.444,
+   "emp": false
+  },
+  {
+   "w": "but",
+   "start": 71.444,
+   "end": 71.853,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 71.853,
+   "end": 72.263,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 72.263,
+   "end": 72.672,
+   "emp": false
+  },
+  {
+   "w": "live",
+   "start": 72.672,
+   "end": 73.081,
+   "emp": false
+  },
+  {
+   "w": "always",
+   "start": 73.081,
+   "end": 73.491,
+   "emp": false
+  },
+  {
+   "w": "glorified.",
+   "start": 73.491,
+   "end": 73.9,
+   "emp": false
+  },
+  {
+   "w": "Welcome",
+   "start": 74.62,
+   "end": 75.182,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 75.182,
+   "end": 75.744,
+   "emp": false
+  },
+  {
+   "w": "Secrets",
+   "start": 75.744,
+   "end": 76.307,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 76.307,
+   "end": 76.869,
+   "emp": false
+  },
+  {
+   "w": "Longevity,",
+   "start": 76.869,
+   "end": 77.431,
+   "emp": false
+  },
+  {
+   "w": "7",
+   "start": 77.431,
+   "end": 77.993,
+   "emp": false
+  },
+  {
+   "w": "Decades",
+   "start": 77.993,
+   "end": 78.556,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 78.556,
+   "end": 79.118,
+   "emp": false
+  },
+  {
+   "w": "Secrets.",
+   "start": 79.118,
+   "end": 79.68,
+   "emp": false
+  },
+  {
+   "w": "Welcome",
+   "start": 82.77,
+   "end": 83.12,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 83.12,
+   "end": 83.47,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 83.47,
+   "end": 83.82,
+   "emp": false
+  },
+  {
+   "w": "Kids",
+   "start": 83.82,
+   "end": 84.17,
+   "emp": false
+  },
+  {
+   "w": "Inspiring",
+   "start": 84.17,
+   "end": 84.52,
+   "emp": false
+  },
+  {
+   "w": "Nation",
+   "start": 84.52,
+   "end": 84.87,
+   "emp": false
+  },
+  {
+   "w": "devotional.",
+   "start": 84.87,
+   "end": 85.22,
+   "emp": false
+  },
+  {
+   "w": "Hello",
+   "start": 90.57,
+   "end": 90.934,
+   "emp": false
+  },
+  {
+   "w": "everyone,",
+   "start": 90.934,
+   "end": 91.297,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 91.297,
+   "end": 91.661,
+   "emp": false
+  },
+  {
+   "w": "welcome",
+   "start": 91.661,
+   "end": 92.025,
+   "emp": false
+  },
+  {
+   "w": "again",
+   "start": 92.025,
+   "end": 92.388,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 92.388,
+   "end": 92.752,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 92.752,
+   "end": 93.115,
+   "emp": false
+  },
+  {
+   "w": "Kids",
+   "start": 93.115,
+   "end": 93.479,
+   "emp": false
+  },
+  {
+   "w": "Inspiring",
+   "start": 93.479,
+   "end": 93.843,
+   "emp": false
+  },
+  {
+   "w": "Nation's",
+   "start": 93.843,
+   "end": 94.206,
+   "emp": false
+  },
+  {
+   "w": "devotional.",
+   "start": 94.206,
+   "end": 94.57,
+   "emp": false
+  },
+  {
+   "w": "How",
+   "start": 94.99,
+   "end": 95.48,
+   "emp": false
+  },
+  {
+   "w": "do",
+   "start": 95.48,
+   "end": 95.97,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 95.97,
+   "end": 96.46,
+   "emp": false
+  },
+  {
+   "w": "sustain",
+   "start": 96.46,
+   "end": 96.95,
+   "emp": false
+  },
+  {
+   "w": "longevity",
+   "start": 96.95,
+   "end": 97.44,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 97.44,
+   "end": 97.93,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 97.93,
+   "end": 98.42,
+   "emp": false
+  },
+  {
+   "w": "mind?",
+   "start": 98.42,
+   "end": 98.91,
+   "emp": true
+  },
+  {
+   "w": "Now,",
+   "start": 99.35,
+   "end": 99.725,
+   "emp": false
+  },
+  {
+   "w": "we've",
+   "start": 99.725,
+   "end": 100.101,
+   "emp": false
+  },
+  {
+   "w": "been",
+   "start": 100.101,
+   "end": 100.476,
+   "emp": false
+  },
+  {
+   "w": "talking",
+   "start": 100.476,
+   "end": 100.851,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 100.851,
+   "end": 101.226,
+   "emp": false
+  },
+  {
+   "w": "us",
+   "start": 101.226,
+   "end": 101.602,
+   "emp": false
+  },
+  {
+   "w": "all",
+   "start": 101.602,
+   "end": 101.977,
+   "emp": false
+  },
+  {
+   "w": "through",
+   "start": 101.977,
+   "end": 102.352,
+   "emp": false
+  },
+  {
+   "w": "this",
+   "start": 102.352,
+   "end": 102.728,
+   "emp": false
+  },
+  {
+   "w": "week",
+   "start": 102.728,
+   "end": 103.103,
+   "emp": false
+  },
+  {
+   "w": "on",
+   "start": 103.103,
+   "end": 103.478,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 103.478,
+   "end": 103.854,
+   "emp": false
+  },
+  {
+   "w": "essence",
+   "start": 103.854,
+   "end": 104.229,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 104.229,
+   "end": 104.604,
+   "emp": false
+  },
+  {
+   "w": "building",
+   "start": 104.604,
+   "end": 104.979,
+   "emp": false
+  },
+  {
+   "w": "our",
+   "start": 104.979,
+   "end": 105.355,
+   "emp": false
+  },
+  {
+   "w": "mind.",
+   "start": 105.355,
+   "end": 105.73,
+   "emp": true
+  },
+  {
+   "w": "Now",
+   "start": 106.09,
+   "end": 106.586,
+   "emp": false
+  },
+  {
+   "w": "today,",
+   "start": 106.586,
+   "end": 107.081,
+   "emp": false
+  },
+  {
+   "w": "we",
+   "start": 107.081,
+   "end": 107.577,
+   "emp": false
+  },
+  {
+   "w": "continue",
+   "start": 107.577,
+   "end": 108.072,
+   "emp": false
+  },
+  {
+   "w": "on",
+   "start": 108.072,
+   "end": 108.568,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 108.568,
+   "end": 109.063,
+   "emp": false
+  },
+  {
+   "w": "secret",
+   "start": 109.063,
+   "end": 109.559,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 109.559,
+   "end": 110.054,
+   "emp": false
+  },
+  {
+   "w": "longevity.",
+   "start": 110.054,
+   "end": 110.55,
+   "emp": false
+  },
+  {
+   "w": "Now",
+   "start": 110.55,
+   "end": 110.822,
+   "emp": false
+  },
+  {
+   "w": "look",
+   "start": 110.822,
+   "end": 111.094,
+   "emp": false
+  },
+  {
+   "w": "at",
+   "start": 111.094,
+   "end": 111.366,
+   "emp": false
+  },
+  {
+   "w": "Psalm",
+   "start": 111.366,
+   "end": 111.638,
+   "emp": false
+  },
+  {
+   "w": "91.",
+   "start": 111.638,
+   "end": 111.91,
+   "emp": false
+  },
+  {
+   "w": "It",
+   "start": 112.35,
+   "end": 112.754,
+   "emp": false
+  },
+  {
+   "w": "says",
+   "start": 112.754,
+   "end": 113.158,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 113.158,
+   "end": 113.562,
+   "emp": false
+  },
+  {
+   "w": "verse",
+   "start": 113.562,
+   "end": 113.966,
+   "emp": false
+  },
+  {
+   "w": "16,",
+   "start": 113.966,
+   "end": 114.37,
+   "emp": false
+  },
+  {
+   "w": "It",
+   "start": 114.67,
+   "end": 114.939,
+   "emp": false
+  },
+  {
+   "w": "says,",
+   "start": 114.939,
+   "end": 115.207,
+   "emp": false
+  },
+  {
+   "w": "With",
+   "start": 115.207,
+   "end": 115.476,
+   "emp": false
+  },
+  {
+   "w": "long",
+   "start": 115.476,
+   "end": 115.745,
+   "emp": false
+  },
+  {
+   "w": "life",
+   "start": 115.745,
+   "end": 116.014,
+   "emp": false
+  },
+  {
+   "w": "will",
+   "start": 116.014,
+   "end": 116.282,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 116.282,
+   "end": 116.551,
+   "emp": false
+  },
+  {
+   "w": "satisfy",
+   "start": 116.551,
+   "end": 116.82,
+   "emp": false
+  },
+  {
+   "w": "him,",
+   "start": 116.82,
+   "end": 117.089,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 117.089,
+   "end": 117.358,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 117.358,
+   "end": 117.626,
+   "emp": false
+  },
+  {
+   "w": "will",
+   "start": 117.626,
+   "end": 117.895,
+   "emp": false
+  },
+  {
+   "w": "show",
+   "start": 117.895,
+   "end": 118.164,
+   "emp": false
+  },
+  {
+   "w": "him",
+   "start": 118.164,
+   "end": 118.433,
+   "emp": false
+  },
+  {
+   "w": "my",
+   "start": 118.433,
+   "end": 118.701,
+   "emp": false
+  },
+  {
+   "w": "salvation.",
+   "start": 118.701,
+   "end": 118.97,
+   "emp": false
+  },
+  {
+   "w": "But",
+   "start": 119.43,
+   "end": 119.685,
+   "emp": false
+  },
+  {
+   "w": "think",
+   "start": 119.685,
+   "end": 119.94,
+   "emp": false
+  },
+  {
+   "w": "about",
+   "start": 119.94,
+   "end": 120.195,
+   "emp": false
+  },
+  {
+   "w": "it.",
+   "start": 120.195,
+   "end": 120.45,
+   "emp": false
+  },
+  {
+   "w": "If",
+   "start": 122.09,
+   "end": 122.412,
+   "emp": false
+  },
+  {
+   "w": "someone",
+   "start": 122.412,
+   "end": 122.734,
+   "emp": false
+  },
+  {
+   "w": "wants",
+   "start": 122.734,
+   "end": 123.056,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 123.056,
+   "end": 123.378,
+   "emp": false
+  },
+  {
+   "w": "live",
+   "start": 123.378,
+   "end": 123.7,
+   "emp": false
+  },
+  {
+   "w": "long,",
+   "start": 123.7,
+   "end": 124.022,
+   "emp": false
+  },
+  {
+   "w": "should",
+   "start": 124.022,
+   "end": 124.344,
+   "emp": false
+  },
+  {
+   "w": "they",
+   "start": 124.344,
+   "end": 124.666,
+   "emp": false
+  },
+  {
+   "w": "stop",
+   "start": 124.666,
+   "end": 124.988,
+   "emp": false
+  },
+  {
+   "w": "growing?",
+   "start": 124.988,
+   "end": 125.31,
+   "emp": true
+  },
+  {
+   "w": "At",
+   "start": 125.73,
+   "end": 126.015,
+   "emp": false
+  },
+  {
+   "w": "what",
+   "start": 126.015,
+   "end": 126.299,
+   "emp": false
+  },
+  {
+   "w": "point",
+   "start": 126.299,
+   "end": 126.584,
+   "emp": false
+  },
+  {
+   "w": "should",
+   "start": 126.584,
+   "end": 126.869,
+   "emp": false
+  },
+  {
+   "w": "someone",
+   "start": 126.869,
+   "end": 127.154,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 127.154,
+   "end": 127.438,
+   "emp": false
+  },
+  {
+   "w": "wants",
+   "start": 127.438,
+   "end": 127.723,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 127.723,
+   "end": 128.008,
+   "emp": false
+  },
+  {
+   "w": "live",
+   "start": 128.008,
+   "end": 128.292,
+   "emp": false
+  },
+  {
+   "w": "long,",
+   "start": 128.292,
+   "end": 128.577,
+   "emp": false
+  },
+  {
+   "w": "at",
+   "start": 128.577,
+   "end": 128.862,
+   "emp": false
+  },
+  {
+   "w": "what",
+   "start": 128.862,
+   "end": 129.146,
+   "emp": false
+  },
+  {
+   "w": "point",
+   "start": 129.146,
+   "end": 129.431,
+   "emp": false
+  },
+  {
+   "w": "should",
+   "start": 129.431,
+   "end": 129.716,
+   "emp": false
+  },
+  {
+   "w": "they",
+   "start": 129.716,
+   "end": 130.001,
+   "emp": false
+  },
+  {
+   "w": "stop",
+   "start": 130.001,
+   "end": 130.285,
+   "emp": false
+  },
+  {
+   "w": "growing?",
+   "start": 130.285,
+   "end": 130.57,
+   "emp": true
+  },
+  {
+   "w": "Many",
+   "start": 131.81,
+   "end": 132.256,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 132.256,
+   "end": 132.702,
+   "emp": false
+  },
+  {
+   "w": "us",
+   "start": 132.702,
+   "end": 133.148,
+   "emp": false
+  },
+  {
+   "w": "stop",
+   "start": 133.148,
+   "end": 133.594,
+   "emp": false
+  },
+  {
+   "w": "growing",
+   "start": 133.594,
+   "end": 134.04,
+   "emp": true
+  },
+  {
+   "w": "supposedly",
+   "start": 134.04,
+   "end": 134.486,
+   "emp": false
+  },
+  {
+   "w": "when",
+   "start": 134.486,
+   "end": 134.932,
+   "emp": false
+  },
+  {
+   "w": "we",
+   "start": 134.932,
+   "end": 135.378,
+   "emp": false
+  },
+  {
+   "w": "finish",
+   "start": 135.378,
+   "end": 135.824,
+   "emp": false
+  },
+  {
+   "w": "school.",
+   "start": 135.824,
+   "end": 136.27,
+   "emp": false
+  },
+  {
+   "w": "A",
+   "start": 137.09,
+   "end": 137.374,
+   "emp": false
+  },
+  {
+   "w": "lot",
+   "start": 137.374,
+   "end": 137.658,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 137.658,
+   "end": 137.942,
+   "emp": false
+  },
+  {
+   "w": "us",
+   "start": 137.942,
+   "end": 138.226,
+   "emp": false
+  },
+  {
+   "w": "stop",
+   "start": 138.226,
+   "end": 138.51,
+   "emp": false
+  },
+  {
+   "w": "growing",
+   "start": 138.51,
+   "end": 138.794,
+   "emp": true
+  },
+  {
+   "w": "when",
+   "start": 138.794,
+   "end": 139.078,
+   "emp": false
+  },
+  {
+   "w": "we",
+   "start": 139.078,
+   "end": 139.362,
+   "emp": false
+  },
+  {
+   "w": "stop",
+   "start": 139.362,
+   "end": 139.646,
+   "emp": false
+  },
+  {
+   "w": "working.",
+   "start": 139.646,
+   "end": 139.93,
+   "emp": false
+  },
+  {
+   "w": "But",
+   "start": 141.25,
+   "end": 141.55,
+   "emp": false
+  },
+  {
+   "w": "guess",
+   "start": 141.55,
+   "end": 141.85,
+   "emp": false
+  },
+  {
+   "w": "one",
+   "start": 141.85,
+   "end": 142.15,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 142.15,
+   "end": 142.45,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 142.45,
+   "end": 142.75,
+   "emp": false
+  },
+  {
+   "w": "most",
+   "start": 142.75,
+   "end": 143.05,
+   "emp": false
+  },
+  {
+   "w": "interesting",
+   "start": 143.05,
+   "end": 143.35,
+   "emp": false
+  },
+  {
+   "w": "secrets",
+   "start": 143.35,
+   "end": 143.65,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 143.65,
+   "end": 143.95,
+   "emp": false
+  },
+  {
+   "w": "longevity?",
+   "start": 143.95,
+   "end": 144.25,
+   "emp": false
+  },
+  {
+   "w": "Never",
+   "start": 145.11,
+   "end": 145.797,
+   "emp": false
+  },
+  {
+   "w": "stop",
+   "start": 145.797,
+   "end": 146.483,
+   "emp": false
+  },
+  {
+   "w": "growing.",
+   "start": 146.483,
+   "end": 147.17,
+   "emp": true
+  },
+  {
+   "w": "Never",
+   "start": 149.25,
+   "end": 149.897,
+   "emp": false
+  },
+  {
+   "w": "stop",
+   "start": 149.897,
+   "end": 150.543,
+   "emp": false
+  },
+  {
+   "w": "growing.",
+   "start": 150.543,
+   "end": 151.19,
+   "emp": true
+  },
+  {
+   "w": "You",
+   "start": 151.55,
+   "end": 151.69,
+   "emp": false
+  },
+  {
+   "w": "know",
+   "start": 151.69,
+   "end": 151.83,
+   "emp": true
+  },
+  {
+   "w": "why?",
+   "start": 151.83,
+   "end": 151.97,
+   "emp": false
+  },
+  {
+   "w": "Because",
+   "start": 152.27,
+   "end": 152.684,
+   "emp": false
+  },
+  {
+   "w": "our",
+   "start": 152.684,
+   "end": 153.098,
+   "emp": false
+  },
+  {
+   "w": "mind",
+   "start": 153.098,
+   "end": 153.512,
+   "emp": true
+  },
+  {
+   "w": "is",
+   "start": 153.512,
+   "end": 153.925,
+   "emp": false
+  },
+  {
+   "w": "supposed",
+   "start": 153.925,
+   "end": 154.339,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 154.339,
+   "end": 154.753,
+   "emp": false
+  },
+  {
+   "w": "stretch",
+   "start": 154.753,
+   "end": 155.167,
+   "emp": false
+  },
+  {
+   "w": "till",
+   "start": 155.167,
+   "end": 155.581,
+   "emp": false
+  },
+  {
+   "w": "we",
+   "start": 155.581,
+   "end": 155.995,
+   "emp": false
+  },
+  {
+   "w": "draw",
+   "start": 155.995,
+   "end": 156.408,
+   "emp": false
+  },
+  {
+   "w": "our",
+   "start": 156.408,
+   "end": 156.822,
+   "emp": false
+  },
+  {
+   "w": "last",
+   "start": 156.822,
+   "end": 157.236,
+   "emp": false
+  },
+  {
+   "w": "breath.",
+   "start": 157.236,
+   "end": 157.65,
+   "emp": false
+  },
+  {
+   "w": "Somebody",
+   "start": 159.86,
+   "end": 160.35,
+   "emp": false
+  },
+  {
+   "w": "said,",
+   "start": 160.35,
+   "end": 160.84,
+   "emp": false
+  },
+  {
+   "w": "If",
+   "start": 162.68,
+   "end": 163.271,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 163.271,
+   "end": 163.863,
+   "emp": false
+  },
+  {
+   "w": "are",
+   "start": 163.863,
+   "end": 164.454,
+   "emp": false
+  },
+  {
+   "w": "20",
+   "start": 164.454,
+   "end": 165.045,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 165.045,
+   "end": 165.636,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 165.636,
+   "end": 166.227,
+   "emp": false
+  },
+  {
+   "w": "stop",
+   "start": 166.227,
+   "end": 166.819,
+   "emp": false
+  },
+  {
+   "w": "reading",
+   "start": 166.819,
+   "end": 167.41,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 167.41,
+   "end": 168.001,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 168.001,
+   "end": 168.593,
+   "emp": false
+  },
+  {
+   "w": "stop",
+   "start": 168.593,
+   "end": 169.184,
+   "emp": false
+  },
+  {
+   "w": "thinking,",
+   "start": 169.184,
+   "end": 169.775,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 169.775,
+   "end": 170.366,
+   "emp": false
+  },
+  {
+   "w": "will",
+   "start": 170.366,
+   "end": 170.957,
+   "emp": false
+  },
+  {
+   "w": "start",
+   "start": 170.957,
+   "end": 171.549,
+   "emp": false
+  },
+  {
+   "w": "dying.",
+   "start": 171.549,
+   "end": 172.14,
+   "emp": false
+  },
+  {
+   "w": "However,",
+   "start": 173.36,
+   "end": 173.727,
+   "emp": false
+  },
+  {
+   "w": "if",
+   "start": 173.727,
+   "end": 174.094,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 174.094,
+   "end": 174.461,
+   "emp": false
+  },
+  {
+   "w": "are",
+   "start": 174.461,
+   "end": 174.828,
+   "emp": false
+  },
+  {
+   "w": "80",
+   "start": 174.828,
+   "end": 175.195,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 175.195,
+   "end": 175.562,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 175.562,
+   "end": 175.929,
+   "emp": false
+  },
+  {
+   "w": "continue",
+   "start": 175.929,
+   "end": 176.296,
+   "emp": false
+  },
+  {
+   "w": "reading",
+   "start": 176.296,
+   "end": 176.664,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 176.664,
+   "end": 177.031,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 177.031,
+   "end": 177.398,
+   "emp": false
+  },
+  {
+   "w": "continue",
+   "start": 177.398,
+   "end": 177.765,
+   "emp": false
+  },
+  {
+   "w": "thinking,",
+   "start": 177.765,
+   "end": 178.132,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 178.132,
+   "end": 178.499,
+   "emp": false
+  },
+  {
+   "w": "will",
+   "start": 178.499,
+   "end": 178.866,
+   "emp": false
+  },
+  {
+   "w": "keep",
+   "start": 178.866,
+   "end": 179.233,
+   "emp": false
+  },
+  {
+   "w": "living.",
+   "start": 179.233,
+   "end": 179.6,
+   "emp": false
+  },
+  {
+   "w": "So",
+   "start": 180.14,
+   "end": 180.441,
+   "emp": false
+  },
+  {
+   "w": "you're",
+   "start": 180.441,
+   "end": 180.742,
+   "emp": false
+  },
+  {
+   "w": "an",
+   "start": 180.742,
+   "end": 181.043,
+   "emp": false
+  },
+  {
+   "w": "old",
+   "start": 181.043,
+   "end": 181.343,
+   "emp": false
+  },
+  {
+   "w": "man,",
+   "start": 181.343,
+   "end": 181.644,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 181.644,
+   "end": 181.945,
+   "emp": false
+  },
+  {
+   "w": "because",
+   "start": 181.945,
+   "end": 182.246,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 182.246,
+   "end": 182.547,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 182.547,
+   "end": 182.848,
+   "emp": false
+  },
+  {
+   "w": "age,",
+   "start": 182.848,
+   "end": 183.149,
+   "emp": false
+  },
+  {
+   "w": "but",
+   "start": 183.149,
+   "end": 183.45,
+   "emp": false
+  },
+  {
+   "w": "because",
+   "start": 183.45,
+   "end": 183.75,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 183.75,
+   "end": 184.051,
+   "emp": false
+  },
+  {
+   "w": "stop",
+   "start": 184.051,
+   "end": 184.352,
+   "emp": false
+  },
+  {
+   "w": "thinking,",
+   "start": 184.352,
+   "end": 184.653,
+   "emp": false
+  },
+  {
+   "w": "because",
+   "start": 184.653,
+   "end": 184.954,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 184.954,
+   "end": 185.255,
+   "emp": false
+  },
+  {
+   "w": "stop",
+   "start": 185.255,
+   "end": 185.556,
+   "emp": false
+  },
+  {
+   "w": "reading,",
+   "start": 185.556,
+   "end": 185.857,
+   "emp": false
+  },
+  {
+   "w": "because",
+   "start": 185.857,
+   "end": 186.157,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 186.157,
+   "end": 186.458,
+   "emp": false
+  },
+  {
+   "w": "stop",
+   "start": 186.458,
+   "end": 186.759,
+   "emp": false
+  },
+  {
+   "w": "learning.",
+   "start": 186.759,
+   "end": 187.06,
+   "emp": true
+  },
+  {
+   "w": "Learning",
+   "start": 187.06,
+   "end": 187.756,
+   "emp": true
+  },
+  {
+   "w": "is",
+   "start": 187.756,
+   "end": 188.451,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 188.451,
+   "end": 189.147,
+   "emp": false
+  },
+  {
+   "w": "consequential",
+   "start": 189.147,
+   "end": 189.842,
+   "emp": false
+  },
+  {
+   "w": "reason",
+   "start": 189.842,
+   "end": 190.538,
+   "emp": false
+  },
+  {
+   "w": "why",
+   "start": 190.538,
+   "end": 191.233,
+   "emp": false
+  },
+  {
+   "w": "people",
+   "start": 191.233,
+   "end": 191.929,
+   "emp": false
+  },
+  {
+   "w": "live",
+   "start": 191.929,
+   "end": 192.624,
+   "emp": false
+  },
+  {
+   "w": "long.",
+   "start": 192.624,
+   "end": 193.32,
+   "emp": false
+  },
+  {
+   "w": "It's",
+   "start": 194.8,
+   "end": 195.448,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 195.448,
+   "end": 196.095,
+   "emp": false
+  },
+  {
+   "w": "very",
+   "start": 196.095,
+   "end": 196.743,
+   "emp": false
+  },
+  {
+   "w": "big",
+   "start": 196.743,
+   "end": 197.39,
+   "emp": false
+  },
+  {
+   "w": "decision",
+   "start": 197.39,
+   "end": 198.037,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 198.037,
+   "end": 198.685,
+   "emp": false
+  },
+  {
+   "w": "long",
+   "start": 198.685,
+   "end": 199.332,
+   "emp": false
+  },
+  {
+   "w": "life.",
+   "start": 199.332,
+   "end": 199.98,
+   "emp": false
+  },
+  {
+   "w": "Why?",
+   "start": 200.62,
+   "end": 200.913,
+   "emp": false
+  },
+  {
+   "w": "A",
+   "start": 200.913,
+   "end": 201.207,
+   "emp": false
+  },
+  {
+   "w": "heart",
+   "start": 201.207,
+   "end": 201.5,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 201.5,
+   "end": 201.793,
+   "emp": false
+  },
+  {
+   "w": "keeps",
+   "start": 201.793,
+   "end": 202.087,
+   "emp": false
+  },
+  {
+   "w": "learning",
+   "start": 202.087,
+   "end": 202.38,
+   "emp": true
+  },
+  {
+   "w": "never",
+   "start": 202.38,
+   "end": 202.673,
+   "emp": false
+  },
+  {
+   "w": "grows",
+   "start": 202.673,
+   "end": 202.967,
+   "emp": false
+  },
+  {
+   "w": "old.",
+   "start": 202.967,
+   "end": 203.26,
+   "emp": false
+  },
+  {
+   "w": "Look",
+   "start": 204.26,
+   "end": 204.491,
+   "emp": false
+  },
+  {
+   "w": "at",
+   "start": 204.491,
+   "end": 204.722,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 204.722,
+   "end": 204.953,
+   "emp": false
+  },
+  {
+   "w": "way",
+   "start": 204.953,
+   "end": 205.184,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 205.184,
+   "end": 205.416,
+   "emp": false
+  },
+  {
+   "w": "world",
+   "start": 205.416,
+   "end": 205.647,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 205.647,
+   "end": 205.878,
+   "emp": false
+  },
+  {
+   "w": "advancing",
+   "start": 205.878,
+   "end": 206.109,
+   "emp": false
+  },
+  {
+   "w": "now.",
+   "start": 206.109,
+   "end": 206.34,
+   "emp": false
+  },
+  {
+   "w": "We",
+   "start": 206.72,
+   "end": 206.938,
+   "emp": false
+  },
+  {
+   "w": "know",
+   "start": 206.938,
+   "end": 207.157,
+   "emp": true
+  },
+  {
+   "w": "the",
+   "start": 207.157,
+   "end": 207.375,
+   "emp": false
+  },
+  {
+   "w": "advent",
+   "start": 207.375,
+   "end": 207.593,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 207.593,
+   "end": 207.812,
+   "emp": false
+  },
+  {
+   "w": "artificial",
+   "start": 207.812,
+   "end": 208.03,
+   "emp": false
+  },
+  {
+   "w": "intelligence",
+   "start": 208.03,
+   "end": 208.248,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 208.248,
+   "end": 208.467,
+   "emp": false
+  },
+  {
+   "w": "all",
+   "start": 208.467,
+   "end": 208.685,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 208.685,
+   "end": 208.903,
+   "emp": false
+  },
+  {
+   "w": "those",
+   "start": 208.903,
+   "end": 209.122,
+   "emp": false
+  },
+  {
+   "w": "things.",
+   "start": 209.122,
+   "end": 209.34,
+   "emp": false
+  },
+  {
+   "w": "How",
+   "start": 214.7,
+   "end": 214.933,
+   "emp": false
+  },
+  {
+   "w": "do",
+   "start": 214.933,
+   "end": 215.167,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 215.167,
+   "end": 215.4,
+   "emp": false
+  },
+  {
+   "w": "expect",
+   "start": 215.4,
+   "end": 215.633,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 215.633,
+   "end": 215.867,
+   "emp": false
+  },
+  {
+   "w": "live",
+   "start": 215.867,
+   "end": 216.1,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 216.1,
+   "end": 216.333,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 216.333,
+   "end": 216.567,
+   "emp": false
+  },
+  {
+   "w": "world",
+   "start": 216.567,
+   "end": 216.8,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 216.8,
+   "end": 217.033,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 217.033,
+   "end": 217.267,
+   "emp": false
+  },
+  {
+   "w": "did",
+   "start": 217.267,
+   "end": 217.5,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 217.5,
+   "end": 217.733,
+   "emp": false
+  },
+  {
+   "w": "train",
+   "start": 217.733,
+   "end": 217.967,
+   "emp": false
+  },
+  {
+   "w": "for?",
+   "start": 217.967,
+   "end": 218.2,
+   "emp": false
+  },
+  {
+   "w": "How",
+   "start": 220.2,
+   "end": 220.324,
+   "emp": false
+  },
+  {
+   "w": "do",
+   "start": 220.324,
+   "end": 220.448,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 220.448,
+   "end": 220.572,
+   "emp": false
+  },
+  {
+   "w": "expect",
+   "start": 220.572,
+   "end": 220.696,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 220.696,
+   "end": 220.82,
+   "emp": false
+  },
+  {
+   "w": "live",
+   "start": 220.82,
+   "end": 220.944,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 220.944,
+   "end": 221.068,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 221.068,
+   "end": 221.192,
+   "emp": false
+  },
+  {
+   "w": "world",
+   "start": 221.192,
+   "end": 221.316,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 221.316,
+   "end": 221.44,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 221.44,
+   "end": 221.564,
+   "emp": false
+  },
+  {
+   "w": "did",
+   "start": 221.564,
+   "end": 221.688,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 221.688,
+   "end": 221.812,
+   "emp": false
+  },
+  {
+   "w": "train",
+   "start": 221.812,
+   "end": 221.936,
+   "emp": false
+  },
+  {
+   "w": "for?",
+   "start": 221.936,
+   "end": 222.06,
+   "emp": false
+  },
+  {
+   "w": "Because",
+   "start": 223.42,
+   "end": 223.793,
+   "emp": false
+  },
+  {
+   "w": "as",
+   "start": 223.793,
+   "end": 224.167,
+   "emp": false
+  },
+  {
+   "w": "people",
+   "start": 224.167,
+   "end": 224.54,
+   "emp": false
+  },
+  {
+   "w": "grow",
+   "start": 224.54,
+   "end": 224.913,
+   "emp": true
+  },
+  {
+   "w": "older,",
+   "start": 224.913,
+   "end": 225.287,
+   "emp": false
+  },
+  {
+   "w": "they",
+   "start": 225.287,
+   "end": 225.66,
+   "emp": false
+  },
+  {
+   "w": "say",
+   "start": 225.66,
+   "end": 226.033,
+   "emp": false
+  },
+  {
+   "w": "things",
+   "start": 226.033,
+   "end": 226.407,
+   "emp": false
+  },
+  {
+   "w": "like,",
+   "start": 226.407,
+   "end": 226.78,
+   "emp": false
+  },
+  {
+   "w": "I'm",
+   "start": 227.68,
+   "end": 227.967,
+   "emp": false
+  },
+  {
+   "w": "too",
+   "start": 227.967,
+   "end": 228.253,
+   "emp": false
+  },
+  {
+   "w": "old",
+   "start": 228.253,
+   "end": 228.54,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 228.54,
+   "end": 228.827,
+   "emp": false
+  },
+  {
+   "w": "these",
+   "start": 228.827,
+   "end": 229.113,
+   "emp": false
+  },
+  {
+   "w": "things.",
+   "start": 229.113,
+   "end": 229.4,
+   "emp": false
+  },
+  {
+   "w": "No.",
+   "start": 229.58,
+   "end": 229.72,
+   "emp": false
+  },
+  {
+   "w": "And",
+   "start": 230.3,
+   "end": 230.541,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 230.541,
+   "end": 230.782,
+   "emp": false
+  },
+  {
+   "w": "know,",
+   "start": 230.782,
+   "end": 231.022,
+   "emp": true
+  },
+  {
+   "w": "for",
+   "start": 231.022,
+   "end": 231.263,
+   "emp": false
+  },
+  {
+   "w": "some",
+   "start": 231.263,
+   "end": 231.504,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 231.504,
+   "end": 231.745,
+   "emp": false
+  },
+  {
+   "w": "us",
+   "start": 231.745,
+   "end": 231.986,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 231.986,
+   "end": 232.226,
+   "emp": false
+  },
+  {
+   "w": "are",
+   "start": 232.226,
+   "end": 232.467,
+   "emp": false
+  },
+  {
+   "w": "young,",
+   "start": 232.467,
+   "end": 232.708,
+   "emp": false
+  },
+  {
+   "w": "we",
+   "start": 232.708,
+   "end": 232.949,
+   "emp": false
+  },
+  {
+   "w": "should",
+   "start": 232.949,
+   "end": 233.19,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 233.19,
+   "end": 233.43,
+   "emp": false
+  },
+  {
+   "w": "get",
+   "start": 233.43,
+   "end": 233.671,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 233.671,
+   "end": 233.912,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 233.912,
+   "end": 234.153,
+   "emp": false
+  },
+  {
+   "w": "point",
+   "start": 234.153,
+   "end": 234.394,
+   "emp": false
+  },
+  {
+   "w": "where",
+   "start": 234.394,
+   "end": 234.634,
+   "emp": false
+  },
+  {
+   "w": "we",
+   "start": 234.634,
+   "end": 234.875,
+   "emp": false
+  },
+  {
+   "w": "allow",
+   "start": 234.875,
+   "end": 235.116,
+   "emp": false
+  },
+  {
+   "w": "cockiness",
+   "start": 235.116,
+   "end": 235.357,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 235.357,
+   "end": 235.598,
+   "emp": false
+  },
+  {
+   "w": "hold",
+   "start": 235.598,
+   "end": 235.838,
+   "emp": false
+  },
+  {
+   "w": "us",
+   "start": 235.838,
+   "end": 236.079,
+   "emp": false
+  },
+  {
+   "w": "back.",
+   "start": 236.079,
+   "end": 236.32,
+   "emp": false
+  },
+  {
+   "w": "Somebody",
+   "start": 236.32,
+   "end": 236.502,
+   "emp": false
+  },
+  {
+   "w": "say,",
+   "start": 236.502,
+   "end": 236.683,
+   "emp": false
+  },
+  {
+   "w": "I'm",
+   "start": 236.683,
+   "end": 236.865,
+   "emp": false
+  },
+  {
+   "w": "on",
+   "start": 236.865,
+   "end": 237.046,
+   "emp": false
+  },
+  {
+   "w": "holiday",
+   "start": 237.046,
+   "end": 237.228,
+   "emp": false
+  },
+  {
+   "w": "now,",
+   "start": 237.228,
+   "end": 237.409,
+   "emp": false
+  },
+  {
+   "w": "so",
+   "start": 237.409,
+   "end": 237.591,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 237.591,
+   "end": 237.772,
+   "emp": false
+  },
+  {
+   "w": "don't",
+   "start": 237.772,
+   "end": 237.954,
+   "emp": false
+  },
+  {
+   "w": "need",
+   "start": 237.954,
+   "end": 238.135,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 238.135,
+   "end": 238.317,
+   "emp": false
+  },
+  {
+   "w": "learn",
+   "start": 238.317,
+   "end": 238.498,
+   "emp": true
+  },
+  {
+   "w": "anything.",
+   "start": 238.498,
+   "end": 238.68,
+   "emp": false
+  },
+  {
+   "w": "That's",
+   "start": 238.9,
+   "end": 239.153,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 239.153,
+   "end": 239.407,
+   "emp": false
+  },
+  {
+   "w": "mistake.",
+   "start": 239.407,
+   "end": 239.66,
+   "emp": false
+  },
+  {
+   "w": "That's",
+   "start": 240.68,
+   "end": 240.887,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 240.887,
+   "end": 241.093,
+   "emp": false
+  },
+  {
+   "w": "mistake.",
+   "start": 241.093,
+   "end": 241.3,
+   "emp": false
+  },
+  {
+   "w": "It's",
+   "start": 241.5,
+   "end": 241.769,
+   "emp": false
+  },
+  {
+   "w": "like",
+   "start": 241.769,
+   "end": 242.039,
+   "emp": false
+  },
+  {
+   "w": "telling",
+   "start": 242.039,
+   "end": 242.308,
+   "emp": false
+  },
+  {
+   "w": "yourself,",
+   "start": 242.308,
+   "end": 242.577,
+   "emp": false
+  },
+  {
+   "w": "because",
+   "start": 242.577,
+   "end": 242.847,
+   "emp": false
+  },
+  {
+   "w": "you've",
+   "start": 242.847,
+   "end": 243.116,
+   "emp": false
+  },
+  {
+   "w": "eaten",
+   "start": 243.116,
+   "end": 243.385,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 243.385,
+   "end": 243.655,
+   "emp": false
+  },
+  {
+   "w": "lot",
+   "start": 243.655,
+   "end": 243.924,
+   "emp": false
+  },
+  {
+   "w": "today,",
+   "start": 243.924,
+   "end": 244.193,
+   "emp": false
+  },
+  {
+   "w": "tomorrow",
+   "start": 244.193,
+   "end": 244.463,
+   "emp": false
+  },
+  {
+   "w": "you're",
+   "start": 244.463,
+   "end": 244.732,
+   "emp": false
+  },
+  {
+   "w": "taking",
+   "start": 244.732,
+   "end": 245.001,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 245.001,
+   "end": 245.271,
+   "emp": false
+  },
+  {
+   "w": "holiday.",
+   "start": 245.271,
+   "end": 245.54,
+   "emp": false
+  },
+  {
+   "w": "No,",
+   "start": 245.7,
+   "end": 245.936,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 245.936,
+   "end": 246.173,
+   "emp": false
+  },
+  {
+   "w": "would",
+   "start": 246.173,
+   "end": 246.409,
+   "emp": false
+  },
+  {
+   "w": "eat",
+   "start": 246.409,
+   "end": 246.645,
+   "emp": false
+  },
+  {
+   "w": "everything,",
+   "start": 246.645,
+   "end": 246.882,
+   "emp": false
+  },
+  {
+   "w": "so",
+   "start": 246.882,
+   "end": 247.118,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 247.118,
+   "end": 247.355,
+   "emp": false
+  },
+  {
+   "w": "should",
+   "start": 247.355,
+   "end": 247.591,
+   "emp": false
+  },
+  {
+   "w": "learn",
+   "start": 247.591,
+   "end": 247.827,
+   "emp": true
+  },
+  {
+   "w": "every",
+   "start": 247.827,
+   "end": 248.064,
+   "emp": false
+  },
+  {
+   "w": "time.",
+   "start": 248.064,
+   "end": 248.3,
+   "emp": false
+  },
+  {
+   "w": "You",
+   "start": 248.84,
+   "end": 249.066,
+   "emp": false
+  },
+  {
+   "w": "need",
+   "start": 249.066,
+   "end": 249.291,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 249.291,
+   "end": 249.517,
+   "emp": false
+  },
+  {
+   "w": "keep",
+   "start": 249.517,
+   "end": 249.743,
+   "emp": false
+  },
+  {
+   "w": "exercising",
+   "start": 249.743,
+   "end": 249.969,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 249.969,
+   "end": 250.194,
+   "emp": false
+  },
+  {
+   "w": "mind.",
+   "start": 250.194,
+   "end": 250.42,
+   "emp": true
+  },
+  {
+   "w": "Why?",
+   "start": 250.74,
+   "end": 251.1,
+   "emp": false
+  },
+  {
+   "w": "The",
+   "start": 251.1,
+   "end": 251.46,
+   "emp": false
+  },
+  {
+   "w": "wise",
+   "start": 251.46,
+   "end": 251.82,
+   "emp": true
+  },
+  {
+   "w": "keep",
+   "start": 251.82,
+   "end": 252.18,
+   "emp": false
+  },
+  {
+   "w": "learning.",
+   "start": 252.18,
+   "end": 252.54,
+   "emp": true
+  },
+  {
+   "w": "Only",
+   "start": 252.94,
+   "end": 253.46,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 253.46,
+   "end": 253.98,
+   "emp": false
+  },
+  {
+   "w": "fools",
+   "start": 253.98,
+   "end": 254.5,
+   "emp": false
+  },
+  {
+   "w": "stop",
+   "start": 254.5,
+   "end": 255.02,
+   "emp": false
+  },
+  {
+   "w": "learning.",
+   "start": 255.02,
+   "end": 255.54,
+   "emp": true
+  },
+  {
+   "w": "The",
+   "start": 256.7,
+   "end": 256.972,
+   "emp": false
+  },
+  {
+   "w": "day",
+   "start": 256.972,
+   "end": 257.245,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 257.245,
+   "end": 257.517,
+   "emp": false
+  },
+  {
+   "w": "stop",
+   "start": 257.517,
+   "end": 257.79,
+   "emp": false
+  },
+  {
+   "w": "learning,",
+   "start": 257.79,
+   "end": 258.063,
+   "emp": true
+  },
+  {
+   "w": "you",
+   "start": 258.063,
+   "end": 258.335,
+   "emp": false
+  },
+  {
+   "w": "start",
+   "start": 258.335,
+   "end": 258.608,
+   "emp": false
+  },
+  {
+   "w": "dying.",
+   "start": 258.608,
+   "end": 258.88,
+   "emp": false
+  },
+  {
+   "w": "The",
+   "start": 259.36,
+   "end": 259.633,
+   "emp": false
+  },
+  {
+   "w": "day",
+   "start": 259.633,
+   "end": 259.907,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 259.907,
+   "end": 260.18,
+   "emp": false
+  },
+  {
+   "w": "stop",
+   "start": 260.18,
+   "end": 260.453,
+   "emp": false
+  },
+  {
+   "w": "learning,",
+   "start": 260.453,
+   "end": 260.727,
+   "emp": true
+  },
+  {
+   "w": "you",
+   "start": 260.727,
+   "end": 261,
+   "emp": false
+  },
+  {
+   "w": "graduate",
+   "start": 261,
+   "end": 261.273,
+   "emp": false
+  },
+  {
+   "w": "into",
+   "start": 261.273,
+   "end": 261.547,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 261.547,
+   "end": 261.82,
+   "emp": false
+  },
+  {
+   "w": "school",
+   "start": 261.82,
+   "end": 262.093,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 262.093,
+   "end": 262.367,
+   "emp": false
+  },
+  {
+   "w": "foolishness.",
+   "start": 262.367,
+   "end": 262.64,
+   "emp": false
+  },
+  {
+   "w": "But",
+   "start": 263.14,
+   "end": 263.376,
+   "emp": false
+  },
+  {
+   "w": "as",
+   "start": 263.376,
+   "end": 263.612,
+   "emp": false
+  },
+  {
+   "w": "long",
+   "start": 263.612,
+   "end": 263.848,
+   "emp": false
+  },
+  {
+   "w": "as",
+   "start": 263.848,
+   "end": 264.084,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 264.084,
+   "end": 264.32,
+   "emp": false
+  },
+  {
+   "w": "keep",
+   "start": 264.32,
+   "end": 264.556,
+   "emp": false
+  },
+  {
+   "w": "learning,",
+   "start": 264.556,
+   "end": 264.792,
+   "emp": true
+  },
+  {
+   "w": "you",
+   "start": 264.792,
+   "end": 265.028,
+   "emp": false
+  },
+  {
+   "w": "keep",
+   "start": 265.028,
+   "end": 265.264,
+   "emp": false
+  },
+  {
+   "w": "living.",
+   "start": 265.264,
+   "end": 265.5,
+   "emp": false
+  },
+  {
+   "w": "As",
+   "start": 265.5,
+   "end": 265.807,
+   "emp": false
+  },
+  {
+   "w": "long",
+   "start": 265.807,
+   "end": 266.115,
+   "emp": false
+  },
+  {
+   "w": "as",
+   "start": 266.115,
+   "end": 266.422,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 266.422,
+   "end": 266.729,
+   "emp": false
+  },
+  {
+   "w": "keep",
+   "start": 266.729,
+   "end": 267.036,
+   "emp": false
+  },
+  {
+   "w": "learning,",
+   "start": 267.036,
+   "end": 267.344,
+   "emp": true
+  },
+  {
+   "w": "you",
+   "start": 267.344,
+   "end": 267.651,
+   "emp": false
+  },
+  {
+   "w": "become",
+   "start": 267.651,
+   "end": 267.958,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 267.958,
+   "end": 268.265,
+   "emp": false
+  },
+  {
+   "w": "wiser",
+   "start": 268.265,
+   "end": 268.573,
+   "emp": false
+  },
+  {
+   "w": "person.",
+   "start": 268.573,
+   "end": 268.88,
+   "emp": false
+  },
+  {
+   "w": "The",
+   "start": 269.02,
+   "end": 269.349,
+   "emp": false
+  },
+  {
+   "w": "Bible",
+   "start": 269.349,
+   "end": 269.677,
+   "emp": false
+  },
+  {
+   "w": "says",
+   "start": 269.677,
+   "end": 270.006,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 270.006,
+   "end": 270.334,
+   "emp": false
+  },
+  {
+   "w": "Proverbs,",
+   "start": 270.334,
+   "end": 270.663,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 270.663,
+   "end": 270.991,
+   "emp": false
+  },
+  {
+   "w": "wise",
+   "start": 270.991,
+   "end": 271.32,
+   "emp": true
+  },
+  {
+   "w": "man",
+   "start": 271.32,
+   "end": 271.649,
+   "emp": false
+  },
+  {
+   "w": "will",
+   "start": 271.649,
+   "end": 271.977,
+   "emp": false
+  },
+  {
+   "w": "hear",
+   "start": 271.977,
+   "end": 272.306,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 272.306,
+   "end": 272.634,
+   "emp": false
+  },
+  {
+   "w": "will",
+   "start": 272.634,
+   "end": 272.963,
+   "emp": false
+  },
+  {
+   "w": "increase",
+   "start": 272.963,
+   "end": 273.291,
+   "emp": false
+  },
+  {
+   "w": "learning.",
+   "start": 273.291,
+   "end": 273.62,
+   "emp": true
+  },
+  {
+   "w": "A",
+   "start": 274.22,
+   "end": 274.565,
+   "emp": false
+  },
+  {
+   "w": "wise",
+   "start": 274.565,
+   "end": 274.91,
+   "emp": true
+  },
+  {
+   "w": "man",
+   "start": 274.91,
+   "end": 275.255,
+   "emp": false
+  },
+  {
+   "w": "will",
+   "start": 275.255,
+   "end": 275.6,
+   "emp": false
+  },
+  {
+   "w": "hear",
+   "start": 275.6,
+   "end": 275.945,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 275.945,
+   "end": 276.29,
+   "emp": false
+  },
+  {
+   "w": "increase",
+   "start": 276.29,
+   "end": 276.635,
+   "emp": false
+  },
+  {
+   "w": "learning.",
+   "start": 276.635,
+   "end": 276.98,
+   "emp": true
+  },
+  {
+   "w": "So",
+   "start": 277.3,
+   "end": 277.662,
+   "emp": false
+  },
+  {
+   "w": "it's",
+   "start": 277.662,
+   "end": 278.025,
+   "emp": false
+  },
+  {
+   "w": "only",
+   "start": 278.025,
+   "end": 278.387,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 278.387,
+   "end": 278.749,
+   "emp": false
+  },
+  {
+   "w": "wise",
+   "start": 278.749,
+   "end": 279.112,
+   "emp": true
+  },
+  {
+   "w": "that",
+   "start": 279.112,
+   "end": 279.474,
+   "emp": false
+  },
+  {
+   "w": "keep",
+   "start": 279.474,
+   "end": 279.836,
+   "emp": false
+  },
+  {
+   "w": "learning,",
+   "start": 279.836,
+   "end": 280.199,
+   "emp": true
+  },
+  {
+   "w": "and",
+   "start": 280.199,
+   "end": 280.561,
+   "emp": false
+  },
+  {
+   "w": "anyone",
+   "start": 280.561,
+   "end": 280.924,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 280.924,
+   "end": 281.286,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 281.286,
+   "end": 281.648,
+   "emp": false
+  },
+  {
+   "w": "wise",
+   "start": 281.648,
+   "end": 282.011,
+   "emp": true
+  },
+  {
+   "w": "will",
+   "start": 282.011,
+   "end": 282.373,
+   "emp": false
+  },
+  {
+   "w": "sustain",
+   "start": 282.373,
+   "end": 282.735,
+   "emp": false
+  },
+  {
+   "w": "his",
+   "start": 282.735,
+   "end": 283.098,
+   "emp": false
+  },
+  {
+   "w": "life.",
+   "start": 283.098,
+   "end": 283.46,
+   "emp": false
+  },
+  {
+   "w": "The",
+   "start": 283.98,
+   "end": 284.193,
+   "emp": false
+  },
+  {
+   "w": "mark",
+   "start": 284.193,
+   "end": 284.407,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 284.407,
+   "end": 284.62,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 284.62,
+   "end": 284.833,
+   "emp": false
+  },
+  {
+   "w": "wise",
+   "start": 284.833,
+   "end": 285.047,
+   "emp": true
+  },
+  {
+   "w": "person",
+   "start": 285.047,
+   "end": 285.26,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 285.26,
+   "end": 285.473,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 285.473,
+   "end": 285.687,
+   "emp": false
+  },
+  {
+   "w": "how",
+   "start": 285.687,
+   "end": 285.9,
+   "emp": false
+  },
+  {
+   "w": "much",
+   "start": 285.9,
+   "end": 286.113,
+   "emp": false
+  },
+  {
+   "w": "they",
+   "start": 286.113,
+   "end": 286.327,
+   "emp": false
+  },
+  {
+   "w": "know.",
+   "start": 286.327,
+   "end": 286.54,
+   "emp": true
+  },
+  {
+   "w": "It's",
+   "start": 286.88,
+   "end": 287.04,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 287.04,
+   "end": 287.2,
+   "emp": false
+  },
+  {
+   "w": "fact",
+   "start": 287.2,
+   "end": 287.36,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 287.36,
+   "end": 287.52,
+   "emp": false
+  },
+  {
+   "w": "they",
+   "start": 287.52,
+   "end": 287.68,
+   "emp": false
+  },
+  {
+   "w": "want",
+   "start": 287.68,
+   "end": 287.84,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 287.84,
+   "end": 288,
+   "emp": false
+  },
+  {
+   "w": "know",
+   "start": 288,
+   "end": 288.16,
+   "emp": true
+  },
+  {
+   "w": "more.",
+   "start": 288.16,
+   "end": 288.32,
+   "emp": false
+  },
+  {
+   "w": "You're",
+   "start": 289.36,
+   "end": 289.594,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 289.594,
+   "end": 289.829,
+   "emp": false
+  },
+  {
+   "w": "wise",
+   "start": 289.829,
+   "end": 290.063,
+   "emp": true
+  },
+  {
+   "w": "because",
+   "start": 290.063,
+   "end": 290.297,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 290.297,
+   "end": 290.531,
+   "emp": false
+  },
+  {
+   "w": "know",
+   "start": 290.531,
+   "end": 290.766,
+   "emp": true
+  },
+  {
+   "w": "much.",
+   "start": 290.766,
+   "end": 291,
+   "emp": false
+  },
+  {
+   "w": "You're",
+   "start": 291.4,
+   "end": 291.582,
+   "emp": false
+  },
+  {
+   "w": "wise",
+   "start": 291.582,
+   "end": 291.764,
+   "emp": true
+  },
+  {
+   "w": "because",
+   "start": 291.764,
+   "end": 291.946,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 291.946,
+   "end": 292.128,
+   "emp": false
+  },
+  {
+   "w": "want",
+   "start": 292.128,
+   "end": 292.31,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 292.31,
+   "end": 292.492,
+   "emp": false
+  },
+  {
+   "w": "continue",
+   "start": 292.492,
+   "end": 292.674,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 292.674,
+   "end": 292.856,
+   "emp": false
+  },
+  {
+   "w": "know",
+   "start": 292.856,
+   "end": 293.038,
+   "emp": true
+  },
+  {
+   "w": "more.",
+   "start": 293.038,
+   "end": 293.22,
+   "emp": false
+  },
+  {
+   "w": "The",
+   "start": 294.2,
+   "end": 294.462,
+   "emp": false
+  },
+  {
+   "w": "Bible,",
+   "start": 294.462,
+   "end": 294.723,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 294.723,
+   "end": 294.985,
+   "emp": false
+  },
+  {
+   "w": "instance,",
+   "start": 294.985,
+   "end": 295.246,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 295.246,
+   "end": 295.508,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 295.508,
+   "end": 295.769,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 295.769,
+   "end": 296.031,
+   "emp": false
+  },
+  {
+   "w": "book",
+   "start": 296.031,
+   "end": 296.292,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 296.292,
+   "end": 296.554,
+   "emp": false
+  },
+  {
+   "w": "read",
+   "start": 296.554,
+   "end": 296.815,
+   "emp": false
+  },
+  {
+   "w": "once",
+   "start": 296.815,
+   "end": 297.077,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 297.077,
+   "end": 297.338,
+   "emp": false
+  },
+  {
+   "w": "say,",
+   "start": 297.338,
+   "end": 297.6,
+   "emp": false
+  },
+  {
+   "w": "No,",
+   "start": 297.6,
+   "end": 297.736,
+   "emp": false
+  },
+  {
+   "w": "I've",
+   "start": 297.736,
+   "end": 297.872,
+   "emp": false
+  },
+  {
+   "w": "read",
+   "start": 297.872,
+   "end": 298.008,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 298.008,
+   "end": 298.144,
+   "emp": false
+  },
+  {
+   "w": "Bible.",
+   "start": 298.144,
+   "end": 298.28,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 299.02,
+   "end": 299.347,
+   "emp": false
+  },
+  {
+   "w": "met",
+   "start": 299.347,
+   "end": 299.675,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 299.675,
+   "end": 300.002,
+   "emp": false
+  },
+  {
+   "w": "man,",
+   "start": 300.002,
+   "end": 300.33,
+   "emp": false
+  },
+  {
+   "w": "he's,",
+   "start": 300.33,
+   "end": 300.657,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 300.657,
+   "end": 300.985,
+   "emp": false
+  },
+  {
+   "w": "think,",
+   "start": 300.985,
+   "end": 301.313,
+   "emp": false
+  },
+  {
+   "w": "90-something,",
+   "start": 301.313,
+   "end": 301.64,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 303.36,
+   "end": 303.947,
+   "emp": false
+  },
+  {
+   "w": "think,",
+   "start": 303.947,
+   "end": 304.533,
+   "emp": false
+  },
+  {
+   "w": "CBN,",
+   "start": 304.533,
+   "end": 305.12,
+   "emp": false
+  },
+  {
+   "w": "or",
+   "start": 305.12,
+   "end": 305.707,
+   "emp": false
+  },
+  {
+   "w": "700",
+   "start": 305.707,
+   "end": 306.293,
+   "emp": false
+  },
+  {
+   "w": "Club.",
+   "start": 306.293,
+   "end": 306.88,
+   "emp": false
+  },
+  {
+   "w": "He",
+   "start": 307.18,
+   "end": 307.366,
+   "emp": false
+  },
+  {
+   "w": "said",
+   "start": 307.366,
+   "end": 307.552,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 307.552,
+   "end": 307.738,
+   "emp": false
+  },
+  {
+   "w": "has",
+   "start": 307.738,
+   "end": 307.924,
+   "emp": false
+  },
+  {
+   "w": "read",
+   "start": 307.924,
+   "end": 308.11,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 308.11,
+   "end": 308.296,
+   "emp": false
+  },
+  {
+   "w": "Bible",
+   "start": 308.296,
+   "end": 308.482,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 308.482,
+   "end": 308.668,
+   "emp": false
+  },
+  {
+   "w": "thousand",
+   "start": 308.668,
+   "end": 308.854,
+   "emp": false
+  },
+  {
+   "w": "times.",
+   "start": 308.854,
+   "end": 309.04,
+   "emp": false
+  },
+  {
+   "w": "And",
+   "start": 310.08,
+   "end": 310.358,
+   "emp": false
+  },
+  {
+   "w": "somebody",
+   "start": 310.358,
+   "end": 310.636,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 310.636,
+   "end": 310.915,
+   "emp": false
+  },
+  {
+   "w": "saying,",
+   "start": 310.915,
+   "end": 311.193,
+   "emp": false
+  },
+  {
+   "w": "I've",
+   "start": 311.193,
+   "end": 311.471,
+   "emp": false
+  },
+  {
+   "w": "read",
+   "start": 311.471,
+   "end": 311.749,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 311.749,
+   "end": 312.027,
+   "emp": false
+  },
+  {
+   "w": "Bible",
+   "start": 312.027,
+   "end": 312.305,
+   "emp": false
+  },
+  {
+   "w": "once",
+   "start": 312.305,
+   "end": 312.584,
+   "emp": false
+  },
+  {
+   "w": "or",
+   "start": 312.584,
+   "end": 312.862,
+   "emp": false
+  },
+  {
+   "w": "twice,",
+   "start": 312.862,
+   "end": 313.14,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 313.38,
+   "end": 313.668,
+   "emp": false
+  },
+  {
+   "w": "thinks",
+   "start": 313.668,
+   "end": 313.956,
+   "emp": false
+  },
+  {
+   "w": "it's",
+   "start": 313.956,
+   "end": 314.244,
+   "emp": false
+  },
+  {
+   "w": "learned",
+   "start": 314.244,
+   "end": 314.532,
+   "emp": true
+  },
+  {
+   "w": "enough.",
+   "start": 314.532,
+   "end": 314.82,
+   "emp": false
+  },
+  {
+   "w": "No,",
+   "start": 314.96,
+   "end": 315.274,
+   "emp": false
+  },
+  {
+   "w": "what",
+   "start": 315.274,
+   "end": 315.587,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 315.587,
+   "end": 315.901,
+   "emp": false
+  },
+  {
+   "w": "read",
+   "start": 315.901,
+   "end": 316.215,
+   "emp": false
+  },
+  {
+   "w": "today",
+   "start": 316.215,
+   "end": 316.529,
+   "emp": false
+  },
+  {
+   "w": "as",
+   "start": 316.529,
+   "end": 316.842,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 316.842,
+   "end": 317.156,
+   "emp": false
+  },
+  {
+   "w": "teenager,",
+   "start": 317.156,
+   "end": 317.47,
+   "emp": false
+  },
+  {
+   "w": "if",
+   "start": 317.47,
+   "end": 317.784,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 317.784,
+   "end": 318.098,
+   "emp": false
+  },
+  {
+   "w": "read",
+   "start": 318.098,
+   "end": 318.411,
+   "emp": false
+  },
+  {
+   "w": "it",
+   "start": 318.411,
+   "end": 318.725,
+   "emp": false
+  },
+  {
+   "w": "as",
+   "start": 318.725,
+   "end": 319.039,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 319.039,
+   "end": 319.353,
+   "emp": false
+  },
+  {
+   "w": "young",
+   "start": 319.353,
+   "end": 319.666,
+   "emp": false
+  },
+  {
+   "w": "adult,",
+   "start": 319.666,
+   "end": 319.98,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 320.24,
+   "end": 320.445,
+   "emp": false
+  },
+  {
+   "w": "will",
+   "start": 320.445,
+   "end": 320.65,
+   "emp": false
+  },
+  {
+   "w": "find",
+   "start": 320.65,
+   "end": 320.855,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 320.855,
+   "end": 321.06,
+   "emp": false
+  },
+  {
+   "w": "new",
+   "start": 321.06,
+   "end": 321.265,
+   "emp": false
+  },
+  {
+   "w": "revelation",
+   "start": 321.265,
+   "end": 321.47,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 321.47,
+   "end": 321.675,
+   "emp": false
+  },
+  {
+   "w": "it.",
+   "start": 321.675,
+   "end": 321.88,
+   "emp": false
+  },
+  {
+   "w": "If",
+   "start": 321.88,
+   "end": 322.14,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 322.14,
+   "end": 322.4,
+   "emp": false
+  },
+  {
+   "w": "read",
+   "start": 322.4,
+   "end": 322.66,
+   "emp": false
+  },
+  {
+   "w": "it",
+   "start": 322.66,
+   "end": 322.92,
+   "emp": false
+  },
+  {
+   "w": "as",
+   "start": 322.92,
+   "end": 323.18,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 323.18,
+   "end": 323.44,
+   "emp": false
+  },
+  {
+   "w": "married",
+   "start": 323.44,
+   "end": 323.7,
+   "emp": false
+  },
+  {
+   "w": "person,",
+   "start": 323.7,
+   "end": 323.96,
+   "emp": false
+  },
+  {
+   "w": "you'll",
+   "start": 323.96,
+   "end": 324.22,
+   "emp": false
+  },
+  {
+   "w": "find",
+   "start": 324.22,
+   "end": 324.48,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 324.48,
+   "end": 324.74,
+   "emp": false
+  },
+  {
+   "w": "new",
+   "start": 324.74,
+   "end": 325,
+   "emp": false
+  },
+  {
+   "w": "revelation",
+   "start": 325,
+   "end": 325.26,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 325.26,
+   "end": 325.52,
+   "emp": false
+  },
+  {
+   "w": "it.",
+   "start": 325.52,
+   "end": 325.78,
+   "emp": false
+  },
+  {
+   "w": "If",
+   "start": 325.92,
+   "end": 326.108,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 326.108,
+   "end": 326.296,
+   "emp": false
+  },
+  {
+   "w": "read",
+   "start": 326.296,
+   "end": 326.484,
+   "emp": false
+  },
+  {
+   "w": "it",
+   "start": 326.484,
+   "end": 326.672,
+   "emp": false
+  },
+  {
+   "w": "as",
+   "start": 326.672,
+   "end": 326.86,
+   "emp": false
+  },
+  {
+   "w": "an",
+   "start": 326.86,
+   "end": 327.048,
+   "emp": false
+  },
+  {
+   "w": "old",
+   "start": 327.048,
+   "end": 327.236,
+   "emp": false
+  },
+  {
+   "w": "man,",
+   "start": 327.236,
+   "end": 327.424,
+   "emp": false
+  },
+  {
+   "w": "you'll",
+   "start": 327.424,
+   "end": 327.612,
+   "emp": false
+  },
+  {
+   "w": "find",
+   "start": 327.612,
+   "end": 327.8,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 327.8,
+   "end": 327.988,
+   "emp": false
+  },
+  {
+   "w": "new",
+   "start": 327.988,
+   "end": 328.176,
+   "emp": false
+  },
+  {
+   "w": "revelation",
+   "start": 328.176,
+   "end": 328.364,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 328.364,
+   "end": 328.552,
+   "emp": false
+  },
+  {
+   "w": "it.",
+   "start": 328.552,
+   "end": 328.74,
+   "emp": false
+  },
+  {
+   "w": "You",
+   "start": 328.96,
+   "end": 329.174,
+   "emp": false
+  },
+  {
+   "w": "know",
+   "start": 329.174,
+   "end": 329.388,
+   "emp": true
+  },
+  {
+   "w": "why?",
+   "start": 329.388,
+   "end": 329.602,
+   "emp": false
+  },
+  {
+   "w": "Because",
+   "start": 329.602,
+   "end": 329.816,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 329.816,
+   "end": 330.03,
+   "emp": false
+  },
+  {
+   "w": "Bible",
+   "start": 330.03,
+   "end": 330.244,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 330.244,
+   "end": 330.458,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 330.458,
+   "end": 330.672,
+   "emp": false
+  },
+  {
+   "w": "living",
+   "start": 330.672,
+   "end": 330.886,
+   "emp": false
+  },
+  {
+   "w": "word.",
+   "start": 330.886,
+   "end": 331.1,
+   "emp": false
+  },
+  {
+   "w": "It's",
+   "start": 332.24,
+   "end": 332.44,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 332.44,
+   "end": 332.64,
+   "emp": false
+  },
+  {
+   "w": "dead.",
+   "start": 332.64,
+   "end": 332.84,
+   "emp": false
+  },
+  {
+   "w": "So",
+   "start": 333.3,
+   "end": 333.512,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 333.512,
+   "end": 333.724,
+   "emp": false
+  },
+  {
+   "w": "day",
+   "start": 333.724,
+   "end": 333.936,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 333.936,
+   "end": 334.148,
+   "emp": false
+  },
+  {
+   "w": "tell",
+   "start": 334.148,
+   "end": 334.36,
+   "emp": false
+  },
+  {
+   "w": "yourself,",
+   "start": 334.36,
+   "end": 334.572,
+   "emp": false
+  },
+  {
+   "w": "I've",
+   "start": 334.572,
+   "end": 334.784,
+   "emp": false
+  },
+  {
+   "w": "already",
+   "start": 334.784,
+   "end": 334.996,
+   "emp": false
+  },
+  {
+   "w": "read",
+   "start": 334.996,
+   "end": 335.208,
+   "emp": false
+  },
+  {
+   "w": "this.",
+   "start": 335.208,
+   "end": 335.42,
+   "emp": false
+  },
+  {
+   "w": "There's",
+   "start": 335.6,
+   "end": 335.72,
+   "emp": false
+  },
+  {
+   "w": "no",
+   "start": 335.72,
+   "end": 335.84,
+   "emp": false
+  },
+  {
+   "w": "need",
+   "start": 335.84,
+   "end": 335.96,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 335.96,
+   "end": 336.08,
+   "emp": false
+  },
+  {
+   "w": "me",
+   "start": 336.08,
+   "end": 336.2,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 336.2,
+   "end": 336.32,
+   "emp": false
+  },
+  {
+   "w": "read.",
+   "start": 336.32,
+   "end": 336.44,
+   "emp": false
+  },
+  {
+   "w": "No.",
+   "start": 336.62,
+   "end": 336.76,
+   "emp": false
+  },
+  {
+   "w": "There",
+   "start": 337.12,
+   "end": 337.3,
+   "emp": false
+  },
+  {
+   "w": "are",
+   "start": 337.3,
+   "end": 337.48,
+   "emp": false
+  },
+  {
+   "w": "scriptures",
+   "start": 337.48,
+   "end": 337.66,
+   "emp": false
+  },
+  {
+   "w": "by",
+   "start": 337.66,
+   "end": 337.84,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 337.84,
+   "end": 338.02,
+   "emp": false
+  },
+  {
+   "w": "grace",
+   "start": 338.02,
+   "end": 338.2,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 338.2,
+   "end": 338.38,
+   "emp": false
+  },
+  {
+   "w": "God",
+   "start": 338.38,
+   "end": 338.56,
+   "emp": true
+  },
+  {
+   "w": "that",
+   "start": 338.56,
+   "end": 338.74,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 338.74,
+   "end": 338.92,
+   "emp": false
+  },
+  {
+   "w": "picked",
+   "start": 338.92,
+   "end": 339.1,
+   "emp": false
+  },
+  {
+   "w": "up",
+   "start": 339.1,
+   "end": 339.28,
+   "emp": false
+  },
+  {
+   "w": "several",
+   "start": 339.28,
+   "end": 339.46,
+   "emp": false
+  },
+  {
+   "w": "years",
+   "start": 339.46,
+   "end": 339.64,
+   "emp": false
+  },
+  {
+   "w": "ago,",
+   "start": 339.64,
+   "end": 339.82,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 340.1,
+   "end": 340.33,
+   "emp": false
+  },
+  {
+   "w": "today",
+   "start": 340.33,
+   "end": 340.56,
+   "emp": false
+  },
+  {
+   "w": "they",
+   "start": 340.56,
+   "end": 340.79,
+   "emp": false
+  },
+  {
+   "w": "mean",
+   "start": 340.79,
+   "end": 341.02,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 341.02,
+   "end": 341.25,
+   "emp": false
+  },
+  {
+   "w": "lot",
+   "start": 341.25,
+   "end": 341.48,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 341.48,
+   "end": 341.71,
+   "emp": false
+  },
+  {
+   "w": "me.",
+   "start": 341.71,
+   "end": 341.94,
+   "emp": false
+  },
+  {
+   "w": "For",
+   "start": 342.18,
+   "end": 342.492,
+   "emp": false
+  },
+  {
+   "w": "instance,",
+   "start": 342.492,
+   "end": 342.804,
+   "emp": false
+  },
+  {
+   "w": "Daniel",
+   "start": 342.804,
+   "end": 343.116,
+   "emp": true
+  },
+  {
+   "w": "chapter",
+   "start": 343.116,
+   "end": 343.428,
+   "emp": false
+  },
+  {
+   "w": "1.",
+   "start": 343.428,
+   "end": 343.74,
+   "emp": false
+  },
+  {
+   "w": "Daniel",
+   "start": 343.74,
+   "end": 344.183,
+   "emp": true
+  },
+  {
+   "w": "chapter",
+   "start": 344.183,
+   "end": 344.626,
+   "emp": false
+  },
+  {
+   "w": "1",
+   "start": 344.626,
+   "end": 345.069,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 345.069,
+   "end": 345.511,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 345.511,
+   "end": 345.954,
+   "emp": false
+  },
+  {
+   "w": "Pandora",
+   "start": 345.954,
+   "end": 346.397,
+   "emp": false
+  },
+  {
+   "w": "box,",
+   "start": 346.397,
+   "end": 346.84,
+   "emp": false
+  },
+  {
+   "w": "Pandora",
+   "start": 347.66,
+   "end": 348.1,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 348.1,
+   "end": 348.54,
+   "emp": false
+  },
+  {
+   "w": "use",
+   "start": 348.54,
+   "end": 348.98,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 348.98,
+   "end": 349.42,
+   "emp": false
+  },
+  {
+   "w": "word,",
+   "start": 349.42,
+   "end": 349.86,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 349.86,
+   "end": 350.3,
+   "emp": false
+  },
+  {
+   "w": "unusual",
+   "start": 350.3,
+   "end": 350.74,
+   "emp": false
+  },
+  {
+   "w": "dimension",
+   "start": 350.74,
+   "end": 351.18,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 351.18,
+   "end": 351.62,
+   "emp": false
+  },
+  {
+   "w": "God's",
+   "start": 351.62,
+   "end": 352.06,
+   "emp": false
+  },
+  {
+   "w": "knowledge.",
+   "start": 352.06,
+   "end": 352.5,
+   "emp": true
+  },
+  {
+   "w": "So",
+   "start": 353.48,
+   "end": 353.701,
+   "emp": false
+  },
+  {
+   "w": "don't",
+   "start": 353.701,
+   "end": 353.923,
+   "emp": false
+  },
+  {
+   "w": "ever",
+   "start": 353.923,
+   "end": 354.144,
+   "emp": false
+  },
+  {
+   "w": "get",
+   "start": 354.144,
+   "end": 354.366,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 354.366,
+   "end": 354.587,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 354.587,
+   "end": 354.809,
+   "emp": false
+  },
+  {
+   "w": "point",
+   "start": 354.809,
+   "end": 355.03,
+   "emp": false
+  },
+  {
+   "w": "where",
+   "start": 355.03,
+   "end": 355.251,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 355.251,
+   "end": 355.473,
+   "emp": false
+  },
+  {
+   "w": "tell",
+   "start": 355.473,
+   "end": 355.694,
+   "emp": false
+  },
+  {
+   "w": "yourself,",
+   "start": 355.694,
+   "end": 355.916,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 355.916,
+   "end": 356.137,
+   "emp": false
+  },
+  {
+   "w": "know",
+   "start": 356.137,
+   "end": 356.359,
+   "emp": true
+  },
+  {
+   "w": "more.",
+   "start": 356.359,
+   "end": 356.58,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 356.96,
+   "end": 357.19,
+   "emp": false
+  },
+  {
+   "w": "know",
+   "start": 357.19,
+   "end": 357.42,
+   "emp": true
+  },
+  {
+   "w": "too",
+   "start": 357.42,
+   "end": 357.65,
+   "emp": false
+  },
+  {
+   "w": "much.",
+   "start": 357.65,
+   "end": 357.88,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 358.08,
+   "end": 358.236,
+   "emp": false
+  },
+  {
+   "w": "know",
+   "start": 358.236,
+   "end": 358.392,
+   "emp": true
+  },
+  {
+   "w": "more",
+   "start": 358.392,
+   "end": 358.548,
+   "emp": false
+  },
+  {
+   "w": "than",
+   "start": 358.548,
+   "end": 358.704,
+   "emp": false
+  },
+  {
+   "w": "enough.",
+   "start": 358.704,
+   "end": 358.86,
+   "emp": false
+  },
+  {
+   "w": "No,",
+   "start": 359.08,
+   "end": 359.335,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 359.335,
+   "end": 359.59,
+   "emp": false
+  },
+  {
+   "w": "never.",
+   "start": 359.59,
+   "end": 359.845,
+   "emp": false
+  },
+  {
+   "w": "Why?",
+   "start": 359.845,
+   "end": 360.1,
+   "emp": false
+  },
+  {
+   "w": "Because",
+   "start": 360.46,
+   "end": 360.703,
+   "emp": false
+  },
+  {
+   "w": "if",
+   "start": 360.703,
+   "end": 360.946,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 360.946,
+   "end": 361.189,
+   "emp": false
+  },
+  {
+   "w": "keep",
+   "start": 361.189,
+   "end": 361.431,
+   "emp": false
+  },
+  {
+   "w": "learning,",
+   "start": 361.431,
+   "end": 361.674,
+   "emp": true
+  },
+  {
+   "w": "your",
+   "start": 361.674,
+   "end": 361.917,
+   "emp": false
+  },
+  {
+   "w": "mind",
+   "start": 361.917,
+   "end": 362.16,
+   "emp": true
+  },
+  {
+   "w": "is",
+   "start": 362.16,
+   "end": 362.403,
+   "emp": false
+  },
+  {
+   "w": "sharp",
+   "start": 362.403,
+   "end": 362.646,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 362.646,
+   "end": 362.889,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 362.889,
+   "end": 363.131,
+   "emp": false
+  },
+  {
+   "w": "life",
+   "start": 363.131,
+   "end": 363.374,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 363.374,
+   "end": 363.617,
+   "emp": false
+  },
+  {
+   "w": "fruitful.",
+   "start": 363.617,
+   "end": 363.86,
+   "emp": false
+  },
+  {
+   "w": "Every",
+   "start": 365.34,
+   "end": 365.642,
+   "emp": false
+  },
+  {
+   "w": "invention",
+   "start": 365.642,
+   "end": 365.944,
+   "emp": false
+  },
+  {
+   "w": "came",
+   "start": 365.944,
+   "end": 366.246,
+   "emp": false
+  },
+  {
+   "w": "because",
+   "start": 366.246,
+   "end": 366.548,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 366.548,
+   "end": 366.85,
+   "emp": false
+  },
+  {
+   "w": "man",
+   "start": 366.85,
+   "end": 367.152,
+   "emp": false
+  },
+  {
+   "w": "refuses",
+   "start": 367.152,
+   "end": 367.454,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 367.454,
+   "end": 367.756,
+   "emp": false
+  },
+  {
+   "w": "stop",
+   "start": 367.756,
+   "end": 368.058,
+   "emp": false
+  },
+  {
+   "w": "learning.",
+   "start": 368.058,
+   "end": 368.36,
+   "emp": true
+  },
+  {
+   "w": "Every",
+   "start": 368.98,
+   "end": 369.222,
+   "emp": false
+  },
+  {
+   "w": "invention",
+   "start": 369.222,
+   "end": 369.464,
+   "emp": false
+  },
+  {
+   "w": "came",
+   "start": 369.464,
+   "end": 369.705,
+   "emp": false
+  },
+  {
+   "w": "because",
+   "start": 369.705,
+   "end": 369.947,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 369.947,
+   "end": 370.189,
+   "emp": false
+  },
+  {
+   "w": "man",
+   "start": 370.189,
+   "end": 370.431,
+   "emp": false
+  },
+  {
+   "w": "continues",
+   "start": 370.431,
+   "end": 370.673,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 370.673,
+   "end": 370.915,
+   "emp": false
+  },
+  {
+   "w": "sharpen",
+   "start": 370.915,
+   "end": 371.156,
+   "emp": false
+  },
+  {
+   "w": "his",
+   "start": 371.156,
+   "end": 371.398,
+   "emp": false
+  },
+  {
+   "w": "mind.",
+   "start": 371.398,
+   "end": 371.64,
+   "emp": true
+  },
+  {
+   "w": "The",
+   "start": 372.26,
+   "end": 372.729,
+   "emp": false
+  },
+  {
+   "w": "Bible",
+   "start": 372.729,
+   "end": 373.198,
+   "emp": false
+  },
+  {
+   "w": "says",
+   "start": 373.198,
+   "end": 373.667,
+   "emp": false
+  },
+  {
+   "w": "iron",
+   "start": 373.667,
+   "end": 374.136,
+   "emp": false
+  },
+  {
+   "w": "sharpens",
+   "start": 374.136,
+   "end": 374.604,
+   "emp": false
+  },
+  {
+   "w": "iron,",
+   "start": 374.604,
+   "end": 375.073,
+   "emp": false
+  },
+  {
+   "w": "iron",
+   "start": 375.073,
+   "end": 375.542,
+   "emp": false
+  },
+  {
+   "w": "sharpens",
+   "start": 375.542,
+   "end": 376.011,
+   "emp": false
+  },
+  {
+   "w": "iron.",
+   "start": 376.011,
+   "end": 376.48,
+   "emp": false
+  },
+  {
+   "w": "So",
+   "start": 377,
+   "end": 377.283,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 377.283,
+   "end": 377.567,
+   "emp": false
+  },
+  {
+   "w": "cannot",
+   "start": 377.567,
+   "end": 377.85,
+   "emp": false
+  },
+  {
+   "w": "sharpen",
+   "start": 377.85,
+   "end": 378.133,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 378.133,
+   "end": 378.417,
+   "emp": false
+  },
+  {
+   "w": "mind.",
+   "start": 378.417,
+   "end": 378.7,
+   "emp": true
+  },
+  {
+   "w": "If",
+   "start": 378.84,
+   "end": 379.318,
+   "emp": false
+  },
+  {
+   "w": "you're",
+   "start": 379.318,
+   "end": 379.797,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 379.797,
+   "end": 380.275,
+   "emp": false
+  },
+  {
+   "w": "sharpening,",
+   "start": 380.275,
+   "end": 380.753,
+   "emp": false
+  },
+  {
+   "w": "if",
+   "start": 380.753,
+   "end": 381.232,
+   "emp": false
+  },
+  {
+   "w": "you're",
+   "start": 381.232,
+   "end": 381.71,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 381.71,
+   "end": 382.188,
+   "emp": false
+  },
+  {
+   "w": "pushing",
+   "start": 382.188,
+   "end": 382.667,
+   "emp": false
+  },
+  {
+   "w": "yourself",
+   "start": 382.667,
+   "end": 383.145,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 383.145,
+   "end": 383.623,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 383.623,
+   "end": 384.102,
+   "emp": false
+  },
+  {
+   "w": "things",
+   "start": 384.102,
+   "end": 384.58,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 384.58,
+   "end": 384.868,
+   "emp": false
+  },
+  {
+   "w": "are",
+   "start": 384.868,
+   "end": 385.156,
+   "emp": false
+  },
+  {
+   "w": "advancing",
+   "start": 385.156,
+   "end": 385.444,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 385.444,
+   "end": 385.732,
+   "emp": false
+  },
+  {
+   "w": "world,",
+   "start": 385.732,
+   "end": 386.02,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 386.02,
+   "end": 386.308,
+   "emp": false
+  },
+  {
+   "w": "cannot",
+   "start": 386.308,
+   "end": 386.596,
+   "emp": false
+  },
+  {
+   "w": "sharpen",
+   "start": 386.596,
+   "end": 386.884,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 386.884,
+   "end": 387.172,
+   "emp": false
+  },
+  {
+   "w": "mind.",
+   "start": 387.172,
+   "end": 387.46,
+   "emp": true
+  },
+  {
+   "w": "If",
+   "start": 387.88,
+   "end": 388.078,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 388.078,
+   "end": 388.276,
+   "emp": false
+  },
+  {
+   "w": "think",
+   "start": 388.276,
+   "end": 388.474,
+   "emp": false
+  },
+  {
+   "w": "about",
+   "start": 388.474,
+   "end": 388.672,
+   "emp": false
+  },
+  {
+   "w": "it,",
+   "start": 388.672,
+   "end": 388.87,
+   "emp": false
+  },
+  {
+   "w": "look",
+   "start": 388.87,
+   "end": 389.068,
+   "emp": false
+  },
+  {
+   "w": "at",
+   "start": 389.068,
+   "end": 389.266,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 389.266,
+   "end": 389.464,
+   "emp": false
+  },
+  {
+   "w": "Holy",
+   "start": 389.464,
+   "end": 389.662,
+   "emp": false
+  },
+  {
+   "w": "Spirit.",
+   "start": 389.662,
+   "end": 389.86,
+   "emp": false
+  },
+  {
+   "w": "For",
+   "start": 389.98,
+   "end": 390.168,
+   "emp": false
+  },
+  {
+   "w": "instance,",
+   "start": 390.168,
+   "end": 390.355,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 390.355,
+   "end": 390.543,
+   "emp": false
+  },
+  {
+   "w": "Holy",
+   "start": 390.543,
+   "end": 390.73,
+   "emp": false
+  },
+  {
+   "w": "Spirit",
+   "start": 390.73,
+   "end": 390.918,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 390.918,
+   "end": 391.105,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 391.105,
+   "end": 391.293,
+   "emp": false
+  },
+  {
+   "w": "dead.",
+   "start": 391.293,
+   "end": 391.48,
+   "emp": false
+  },
+  {
+   "w": "So",
+   "start": 392.6,
+   "end": 392.885,
+   "emp": false
+  },
+  {
+   "w": "if",
+   "start": 392.885,
+   "end": 393.169,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 393.169,
+   "end": 393.454,
+   "emp": false
+  },
+  {
+   "w": "wake",
+   "start": 393.454,
+   "end": 393.739,
+   "emp": false
+  },
+  {
+   "w": "up",
+   "start": 393.739,
+   "end": 394.024,
+   "emp": false
+  },
+  {
+   "w": "each",
+   "start": 394.024,
+   "end": 394.308,
+   "emp": false
+  },
+  {
+   "w": "day",
+   "start": 394.308,
+   "end": 394.593,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 394.593,
+   "end": 394.878,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 394.878,
+   "end": 395.162,
+   "emp": false
+  },
+  {
+   "w": "sharpen",
+   "start": 395.162,
+   "end": 395.447,
+   "emp": false
+  },
+  {
+   "w": "yourself",
+   "start": 395.447,
+   "end": 395.732,
+   "emp": false
+  },
+  {
+   "w": "by",
+   "start": 395.732,
+   "end": 396.016,
+   "emp": false
+  },
+  {
+   "w": "talking",
+   "start": 396.016,
+   "end": 396.301,
+   "emp": false
+  },
+  {
+   "w": "with",
+   "start": 396.301,
+   "end": 396.586,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 396.586,
+   "end": 396.871,
+   "emp": false
+  },
+  {
+   "w": "Holy",
+   "start": 396.871,
+   "end": 397.155,
+   "emp": false
+  },
+  {
+   "w": "Spirit,",
+   "start": 397.155,
+   "end": 397.44,
+   "emp": false
+  },
+  {
+   "w": "guess",
+   "start": 397.62,
+   "end": 397.9,
+   "emp": false
+  },
+  {
+   "w": "what?",
+   "start": 397.9,
+   "end": 398.18,
+   "emp": false
+  },
+  {
+   "w": "You",
+   "start": 398.18,
+   "end": 398.46,
+   "emp": false
+  },
+  {
+   "w": "are",
+   "start": 398.46,
+   "end": 398.74,
+   "emp": false
+  },
+  {
+   "w": "going",
+   "start": 398.74,
+   "end": 399.02,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 399.02,
+   "end": 399.3,
+   "emp": false
+  },
+  {
+   "w": "keep",
+   "start": 399.3,
+   "end": 399.58,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 399.58,
+   "end": 399.86,
+   "emp": false
+  },
+  {
+   "w": "sharp",
+   "start": 399.86,
+   "end": 400.14,
+   "emp": false
+  },
+  {
+   "w": "spirit.",
+   "start": 400.14,
+   "end": 400.42,
+   "emp": false
+  },
+  {
+   "w": "If",
+   "start": 400.42,
+   "end": 400.695,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 400.695,
+   "end": 400.97,
+   "emp": false
+  },
+  {
+   "w": "wake",
+   "start": 400.97,
+   "end": 401.245,
+   "emp": false
+  },
+  {
+   "w": "up",
+   "start": 401.245,
+   "end": 401.52,
+   "emp": false
+  },
+  {
+   "w": "each",
+   "start": 401.52,
+   "end": 401.795,
+   "emp": false
+  },
+  {
+   "w": "day",
+   "start": 401.795,
+   "end": 402.07,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 402.07,
+   "end": 402.345,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 402.345,
+   "end": 402.62,
+   "emp": false
+  },
+  {
+   "w": "tell",
+   "start": 402.62,
+   "end": 402.895,
+   "emp": false
+  },
+  {
+   "w": "yourself,",
+   "start": 402.895,
+   "end": 403.17,
+   "emp": false
+  },
+  {
+   "w": "I'm",
+   "start": 403.17,
+   "end": 403.445,
+   "emp": false
+  },
+  {
+   "w": "going",
+   "start": 403.445,
+   "end": 403.72,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 403.72,
+   "end": 403.995,
+   "emp": false
+  },
+  {
+   "w": "wake",
+   "start": 403.995,
+   "end": 404.27,
+   "emp": false
+  },
+  {
+   "w": "up",
+   "start": 404.27,
+   "end": 404.545,
+   "emp": false
+  },
+  {
+   "w": "today",
+   "start": 404.545,
+   "end": 404.82,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 404.82,
+   "end": 405.04,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 405.04,
+   "end": 405.26,
+   "emp": false
+  },
+  {
+   "w": "will",
+   "start": 405.26,
+   "end": 405.48,
+   "emp": false
+  },
+  {
+   "w": "learn",
+   "start": 405.48,
+   "end": 405.7,
+   "emp": true
+  },
+  {
+   "w": "something",
+   "start": 405.7,
+   "end": 405.92,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 405.92,
+   "end": 406.14,
+   "emp": false
+  },
+  {
+   "w": "have",
+   "start": 406.14,
+   "end": 406.36,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 406.36,
+   "end": 406.58,
+   "emp": false
+  },
+  {
+   "w": "learned",
+   "start": 406.58,
+   "end": 406.8,
+   "emp": true
+  },
+  {
+   "w": "before,",
+   "start": 406.8,
+   "end": 407.02,
+   "emp": false
+  },
+  {
+   "w": "guess",
+   "start": 407.02,
+   "end": 407.24,
+   "emp": false
+  },
+  {
+   "w": "what?",
+   "start": 407.24,
+   "end": 407.46,
+   "emp": false
+  },
+  {
+   "w": "You",
+   "start": 407.66,
+   "end": 407.896,
+   "emp": false
+  },
+  {
+   "w": "keep",
+   "start": 407.896,
+   "end": 408.132,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 408.132,
+   "end": 408.368,
+   "emp": false
+  },
+  {
+   "w": "mind",
+   "start": 408.368,
+   "end": 408.604,
+   "emp": true
+  },
+  {
+   "w": "sharp.",
+   "start": 408.604,
+   "end": 408.84,
+   "emp": false
+  },
+  {
+   "w": "Some",
+   "start": 409.4,
+   "end": 409.691,
+   "emp": false
+  },
+  {
+   "w": "years",
+   "start": 409.691,
+   "end": 409.982,
+   "emp": false
+  },
+  {
+   "w": "ago,",
+   "start": 409.982,
+   "end": 410.272,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 410.272,
+   "end": 410.563,
+   "emp": false
+  },
+  {
+   "w": "decided",
+   "start": 410.563,
+   "end": 410.854,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 410.854,
+   "end": 411.145,
+   "emp": false
+  },
+  {
+   "w": "focus",
+   "start": 411.145,
+   "end": 411.435,
+   "emp": false
+  },
+  {
+   "w": "on",
+   "start": 411.435,
+   "end": 411.726,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 411.726,
+   "end": 412.017,
+   "emp": false
+  },
+  {
+   "w": "field",
+   "start": 412.017,
+   "end": 412.308,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 412.308,
+   "end": 412.598,
+   "emp": false
+  },
+  {
+   "w": "artificial",
+   "start": 412.598,
+   "end": 412.889,
+   "emp": false
+  },
+  {
+   "w": "intelligence.",
+   "start": 412.889,
+   "end": 413.18,
+   "emp": false
+  },
+  {
+   "w": "And",
+   "start": 413.66,
+   "end": 414.056,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 414.056,
+   "end": 414.453,
+   "emp": false
+  },
+  {
+   "w": "two",
+   "start": 414.453,
+   "end": 414.849,
+   "emp": false
+  },
+  {
+   "w": "years,",
+   "start": 414.849,
+   "end": 415.245,
+   "emp": false
+  },
+  {
+   "w": "thereabouts,",
+   "start": 415.245,
+   "end": 415.642,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 415.642,
+   "end": 416.038,
+   "emp": false
+  },
+  {
+   "w": "saw",
+   "start": 416.038,
+   "end": 416.435,
+   "emp": false
+  },
+  {
+   "w": "myself",
+   "start": 416.435,
+   "end": 416.831,
+   "emp": false
+  },
+  {
+   "w": "10x",
+   "start": 416.831,
+   "end": 417.227,
+   "emp": false
+  },
+  {
+   "w": "my",
+   "start": 417.227,
+   "end": 417.624,
+   "emp": false
+  },
+  {
+   "w": "productivity.",
+   "start": 417.624,
+   "end": 418.02,
+   "emp": false
+  },
+  {
+   "w": "So",
+   "start": 419.08,
+   "end": 419.548,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 419.548,
+   "end": 420.016,
+   "emp": false
+  },
+  {
+   "w": "keep",
+   "start": 420.016,
+   "end": 420.484,
+   "emp": false
+  },
+  {
+   "w": "learning.",
+   "start": 420.484,
+   "end": 420.952,
+   "emp": true
+  },
+  {
+   "w": "Why?",
+   "start": 420.952,
+   "end": 421.42,
+   "emp": false
+  },
+  {
+   "w": "Think",
+   "start": 421.92,
+   "end": 422.22,
+   "emp": false
+  },
+  {
+   "w": "about",
+   "start": 422.22,
+   "end": 422.52,
+   "emp": false
+  },
+  {
+   "w": "it.",
+   "start": 422.52,
+   "end": 422.82,
+   "emp": false
+  },
+  {
+   "w": "Every",
+   "start": 423.04,
+   "end": 423.187,
+   "emp": false
+  },
+  {
+   "w": "time",
+   "start": 423.187,
+   "end": 423.333,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 423.333,
+   "end": 423.48,
+   "emp": false
+  },
+  {
+   "w": "want",
+   "start": 423.48,
+   "end": 423.627,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 423.627,
+   "end": 423.773,
+   "emp": false
+  },
+  {
+   "w": "cut",
+   "start": 423.773,
+   "end": 423.92,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 423.92,
+   "end": 424.067,
+   "emp": false
+  },
+  {
+   "w": "tree,",
+   "start": 424.067,
+   "end": 424.213,
+   "emp": false
+  },
+  {
+   "w": "what",
+   "start": 424.213,
+   "end": 424.36,
+   "emp": false
+  },
+  {
+   "w": "do",
+   "start": 424.36,
+   "end": 424.507,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 424.507,
+   "end": 424.653,
+   "emp": false
+  },
+  {
+   "w": "do?",
+   "start": 424.653,
+   "end": 424.8,
+   "emp": false
+  },
+  {
+   "w": "You",
+   "start": 425.12,
+   "end": 425.49,
+   "emp": false
+  },
+  {
+   "w": "sharpen",
+   "start": 425.49,
+   "end": 425.86,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 425.86,
+   "end": 426.23,
+   "emp": false
+  },
+  {
+   "w": "knife.",
+   "start": 426.23,
+   "end": 426.6,
+   "emp": false
+  },
+  {
+   "w": "Now,",
+   "start": 426.6,
+   "end": 426.934,
+   "emp": false
+  },
+  {
+   "w": "when",
+   "start": 426.934,
+   "end": 427.269,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 427.269,
+   "end": 427.603,
+   "emp": false
+  },
+  {
+   "w": "cut",
+   "start": 427.603,
+   "end": 427.937,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 427.937,
+   "end": 428.271,
+   "emp": false
+  },
+  {
+   "w": "couple",
+   "start": 428.271,
+   "end": 428.606,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 428.606,
+   "end": 428.94,
+   "emp": false
+  },
+  {
+   "w": "trees,",
+   "start": 428.94,
+   "end": 429.274,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 429.274,
+   "end": 429.609,
+   "emp": false
+  },
+  {
+   "w": "moment",
+   "start": 429.609,
+   "end": 429.943,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 429.943,
+   "end": 430.277,
+   "emp": false
+  },
+  {
+   "w": "knife",
+   "start": 430.277,
+   "end": 430.611,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 430.611,
+   "end": 430.946,
+   "emp": false
+  },
+  {
+   "w": "dull,",
+   "start": 430.946,
+   "end": 431.28,
+   "emp": false
+  },
+  {
+   "w": "if",
+   "start": 431.5,
+   "end": 431.623,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 431.623,
+   "end": 431.747,
+   "emp": false
+  },
+  {
+   "w": "want",
+   "start": 431.747,
+   "end": 431.87,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 431.87,
+   "end": 431.993,
+   "emp": false
+  },
+  {
+   "w": "cut",
+   "start": 431.993,
+   "end": 432.117,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 432.117,
+   "end": 432.24,
+   "emp": false
+  },
+  {
+   "w": "next",
+   "start": 432.24,
+   "end": 432.363,
+   "emp": false
+  },
+  {
+   "w": "tree,",
+   "start": 432.363,
+   "end": 432.487,
+   "emp": false
+  },
+  {
+   "w": "what",
+   "start": 432.487,
+   "end": 432.61,
+   "emp": false
+  },
+  {
+   "w": "do",
+   "start": 432.61,
+   "end": 432.733,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 432.733,
+   "end": 432.857,
+   "emp": false
+  },
+  {
+   "w": "do?",
+   "start": 432.857,
+   "end": 432.98,
+   "emp": false
+  },
+  {
+   "w": "You",
+   "start": 433.22,
+   "end": 433.44,
+   "emp": false
+  },
+  {
+   "w": "sharpen",
+   "start": 433.44,
+   "end": 433.66,
+   "emp": false
+  },
+  {
+   "w": "again.",
+   "start": 433.66,
+   "end": 433.88,
+   "emp": false
+  },
+  {
+   "w": "That's",
+   "start": 434.06,
+   "end": 434.336,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 434.336,
+   "end": 434.612,
+   "emp": false
+  },
+  {
+   "w": "thing",
+   "start": 434.612,
+   "end": 434.888,
+   "emp": false
+  },
+  {
+   "w": "about",
+   "start": 434.888,
+   "end": 435.164,
+   "emp": false
+  },
+  {
+   "w": "knowledge.",
+   "start": 435.164,
+   "end": 435.44,
+   "emp": true
+  },
+  {
+   "w": "You",
+   "start": 435.8,
+   "end": 436,
+   "emp": false
+  },
+  {
+   "w": "never",
+   "start": 436,
+   "end": 436.2,
+   "emp": false
+  },
+  {
+   "w": "get",
+   "start": 436.2,
+   "end": 436.4,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 436.4,
+   "end": 436.6,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 436.6,
+   "end": 436.8,
+   "emp": false
+  },
+  {
+   "w": "point.",
+   "start": 436.8,
+   "end": 437,
+   "emp": false
+  },
+  {
+   "w": "It",
+   "start": 437.38,
+   "end": 437.563,
+   "emp": false
+  },
+  {
+   "w": "doesn't",
+   "start": 437.563,
+   "end": 437.747,
+   "emp": false
+  },
+  {
+   "w": "matter",
+   "start": 437.747,
+   "end": 437.93,
+   "emp": false
+  },
+  {
+   "w": "what",
+   "start": 437.93,
+   "end": 438.113,
+   "emp": false
+  },
+  {
+   "w": "you've",
+   "start": 438.113,
+   "end": 438.297,
+   "emp": false
+  },
+  {
+   "w": "achieved.",
+   "start": 438.297,
+   "end": 438.48,
+   "emp": false
+  },
+  {
+   "w": "At",
+   "start": 438.7,
+   "end": 438.985,
+   "emp": false
+  },
+  {
+   "w": "every",
+   "start": 438.985,
+   "end": 439.27,
+   "emp": false
+  },
+  {
+   "w": "point,",
+   "start": 439.27,
+   "end": 439.555,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 439.555,
+   "end": 439.84,
+   "emp": false
+  },
+  {
+   "w": "want",
+   "start": 439.84,
+   "end": 440.125,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 440.125,
+   "end": 440.41,
+   "emp": false
+  },
+  {
+   "w": "get",
+   "start": 440.41,
+   "end": 440.695,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 440.695,
+   "end": 440.98,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 440.98,
+   "end": 441.265,
+   "emp": false
+  },
+  {
+   "w": "next",
+   "start": 441.265,
+   "end": 441.55,
+   "emp": false
+  },
+  {
+   "w": "particular",
+   "start": 441.55,
+   "end": 441.835,
+   "emp": false
+  },
+  {
+   "w": "height.",
+   "start": 441.835,
+   "end": 442.12,
+   "emp": false
+  },
+  {
+   "w": "For",
+   "start": 442.64,
+   "end": 442.925,
+   "emp": false
+  },
+  {
+   "w": "instance,",
+   "start": 442.925,
+   "end": 443.21,
+   "emp": false
+  },
+  {
+   "w": "primary",
+   "start": 443.21,
+   "end": 443.495,
+   "emp": false
+  },
+  {
+   "w": "school.",
+   "start": 443.495,
+   "end": 443.78,
+   "emp": false
+  },
+  {
+   "w": "You",
+   "start": 444.16,
+   "end": 444.33,
+   "emp": false
+  },
+  {
+   "w": "did",
+   "start": 444.33,
+   "end": 444.5,
+   "emp": false
+  },
+  {
+   "w": "well",
+   "start": 444.5,
+   "end": 444.67,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 444.67,
+   "end": 444.84,
+   "emp": false
+  },
+  {
+   "w": "primary",
+   "start": 444.84,
+   "end": 445.01,
+   "emp": false
+  },
+  {
+   "w": "school.",
+   "start": 445.01,
+   "end": 445.18,
+   "emp": false
+  },
+  {
+   "w": "But",
+   "start": 445.32,
+   "end": 445.448,
+   "emp": false
+  },
+  {
+   "w": "when",
+   "start": 445.448,
+   "end": 445.575,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 445.575,
+   "end": 445.703,
+   "emp": false
+  },
+  {
+   "w": "get",
+   "start": 445.703,
+   "end": 445.831,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 445.831,
+   "end": 445.958,
+   "emp": false
+  },
+  {
+   "w": "get",
+   "start": 445.958,
+   "end": 446.086,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 446.086,
+   "end": 446.214,
+   "emp": false
+  },
+  {
+   "w": "secondary",
+   "start": 446.214,
+   "end": 446.342,
+   "emp": false
+  },
+  {
+   "w": "school,",
+   "start": 446.342,
+   "end": 446.469,
+   "emp": false
+  },
+  {
+   "w": "what",
+   "start": 446.469,
+   "end": 446.597,
+   "emp": false
+  },
+  {
+   "w": "do",
+   "start": 446.597,
+   "end": 446.725,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 446.725,
+   "end": 446.852,
+   "emp": false
+  },
+  {
+   "w": "do?",
+   "start": 446.852,
+   "end": 446.98,
+   "emp": false
+  },
+  {
+   "w": "You",
+   "start": 447.18,
+   "end": 447.413,
+   "emp": false
+  },
+  {
+   "w": "sharpen",
+   "start": 447.413,
+   "end": 447.647,
+   "emp": false
+  },
+  {
+   "w": "again.",
+   "start": 447.647,
+   "end": 447.88,
+   "emp": false
+  },
+  {
+   "w": "You",
+   "start": 448.16,
+   "end": 448.357,
+   "emp": false
+  },
+  {
+   "w": "did",
+   "start": 448.357,
+   "end": 448.553,
+   "emp": false
+  },
+  {
+   "w": "well",
+   "start": 448.553,
+   "end": 448.75,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 448.75,
+   "end": 448.947,
+   "emp": false
+  },
+  {
+   "w": "secondary",
+   "start": 448.947,
+   "end": 449.143,
+   "emp": false
+  },
+  {
+   "w": "school.",
+   "start": 449.143,
+   "end": 449.34,
+   "emp": false
+  },
+  {
+   "w": "Once",
+   "start": 449.62,
+   "end": 449.764,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 449.764,
+   "end": 449.908,
+   "emp": false
+  },
+  {
+   "w": "get",
+   "start": 449.908,
+   "end": 450.052,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 450.052,
+   "end": 450.196,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 450.196,
+   "end": 450.34,
+   "emp": false
+  },
+  {
+   "w": "university,",
+   "start": 450.34,
+   "end": 450.484,
+   "emp": false
+  },
+  {
+   "w": "what",
+   "start": 450.484,
+   "end": 450.628,
+   "emp": false
+  },
+  {
+   "w": "do",
+   "start": 450.628,
+   "end": 450.772,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 450.772,
+   "end": 450.916,
+   "emp": false
+  },
+  {
+   "w": "do?",
+   "start": 450.916,
+   "end": 451.06,
+   "emp": false
+  },
+  {
+   "w": "You",
+   "start": 451.34,
+   "end": 451.636,
+   "emp": false
+  },
+  {
+   "w": "cannot",
+   "start": 451.636,
+   "end": 451.933,
+   "emp": false
+  },
+  {
+   "w": "use",
+   "start": 451.933,
+   "end": 452.229,
+   "emp": false
+  },
+  {
+   "w": "primary",
+   "start": 452.229,
+   "end": 452.525,
+   "emp": false
+  },
+  {
+   "w": "school",
+   "start": 452.525,
+   "end": 452.822,
+   "emp": false
+  },
+  {
+   "w": "knowledge",
+   "start": 452.822,
+   "end": 453.118,
+   "emp": true
+  },
+  {
+   "w": "to",
+   "start": 453.118,
+   "end": 453.415,
+   "emp": false
+  },
+  {
+   "w": "succeed",
+   "start": 453.415,
+   "end": 453.711,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 453.711,
+   "end": 454.007,
+   "emp": false
+  },
+  {
+   "w": "secondary",
+   "start": 454.007,
+   "end": 454.304,
+   "emp": false
+  },
+  {
+   "w": "school.",
+   "start": 454.304,
+   "end": 454.6,
+   "emp": false
+  },
+  {
+   "w": "Neither",
+   "start": 454.6,
+   "end": 454.873,
+   "emp": false
+  },
+  {
+   "w": "can",
+   "start": 454.873,
+   "end": 455.147,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 455.147,
+   "end": 455.42,
+   "emp": false
+  },
+  {
+   "w": "use",
+   "start": 455.42,
+   "end": 455.693,
+   "emp": false
+  },
+  {
+   "w": "secondary",
+   "start": 455.693,
+   "end": 455.967,
+   "emp": false
+  },
+  {
+   "w": "school",
+   "start": 455.967,
+   "end": 456.24,
+   "emp": false
+  },
+  {
+   "w": "knowledge",
+   "start": 456.24,
+   "end": 456.513,
+   "emp": true
+  },
+  {
+   "w": "to",
+   "start": 456.513,
+   "end": 456.787,
+   "emp": false
+  },
+  {
+   "w": "succeed",
+   "start": 456.787,
+   "end": 457.06,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 457.06,
+   "end": 457.333,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 457.333,
+   "end": 457.607,
+   "emp": false
+  },
+  {
+   "w": "university.",
+   "start": 457.607,
+   "end": 457.88,
+   "emp": false
+  },
+  {
+   "w": "Humility",
+   "start": 459.52,
+   "end": 459.927,
+   "emp": false
+  },
+  {
+   "w": "allows",
+   "start": 459.927,
+   "end": 460.333,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 460.333,
+   "end": 460.74,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 460.74,
+   "end": 461.147,
+   "emp": false
+  },
+  {
+   "w": "learn",
+   "start": 461.147,
+   "end": 461.553,
+   "emp": true
+  },
+  {
+   "w": "more.",
+   "start": 461.553,
+   "end": 461.96,
+   "emp": false
+  },
+  {
+   "w": "Only",
+   "start": 463.02,
+   "end": 463.428,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 463.428,
+   "end": 463.836,
+   "emp": false
+  },
+  {
+   "w": "humble",
+   "start": 463.836,
+   "end": 464.244,
+   "emp": false
+  },
+  {
+   "w": "can",
+   "start": 464.244,
+   "end": 464.652,
+   "emp": false
+  },
+  {
+   "w": "learn.",
+   "start": 464.652,
+   "end": 465.06,
+   "emp": true
+  },
+  {
+   "w": "God's",
+   "start": 466.1,
+   "end": 466.333,
+   "emp": false
+  },
+  {
+   "w": "word",
+   "start": 466.333,
+   "end": 466.567,
+   "emp": false
+  },
+  {
+   "w": "says,",
+   "start": 466.567,
+   "end": 466.8,
+   "emp": false
+  },
+  {
+   "w": "Receive",
+   "start": 467.1,
+   "end": 467.415,
+   "emp": false
+  },
+  {
+   "w": "my",
+   "start": 467.415,
+   "end": 467.73,
+   "emp": false
+  },
+  {
+   "w": "instructions",
+   "start": 467.73,
+   "end": 468.045,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 468.045,
+   "end": 468.36,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 468.36,
+   "end": 468.675,
+   "emp": false
+  },
+  {
+   "w": "silver,",
+   "start": 468.675,
+   "end": 468.99,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 468.99,
+   "end": 469.305,
+   "emp": false
+  },
+  {
+   "w": "knowledge",
+   "start": 469.305,
+   "end": 469.62,
+   "emp": true
+  },
+  {
+   "w": "rather",
+   "start": 469.62,
+   "end": 469.935,
+   "emp": false
+  },
+  {
+   "w": "than",
+   "start": 469.935,
+   "end": 470.25,
+   "emp": false
+  },
+  {
+   "w": "choice",
+   "start": 470.25,
+   "end": 470.565,
+   "emp": false
+  },
+  {
+   "w": "gold.",
+   "start": 470.565,
+   "end": 470.88,
+   "emp": false
+  },
+  {
+   "w": "Knowledge",
+   "start": 472.42,
+   "end": 472.832,
+   "emp": true
+  },
+  {
+   "w": "rather",
+   "start": 472.832,
+   "end": 473.244,
+   "emp": false
+  },
+  {
+   "w": "than",
+   "start": 473.244,
+   "end": 473.656,
+   "emp": false
+  },
+  {
+   "w": "choice",
+   "start": 473.656,
+   "end": 474.068,
+   "emp": false
+  },
+  {
+   "w": "gold.",
+   "start": 474.068,
+   "end": 474.48,
+   "emp": false
+  },
+  {
+   "w": "Learning",
+   "start": 474.98,
+   "end": 475.58,
+   "emp": true
+  },
+  {
+   "w": "requires",
+   "start": 475.58,
+   "end": 476.18,
+   "emp": false
+  },
+  {
+   "w": "humility.",
+   "start": 476.18,
+   "end": 476.78,
+   "emp": false
+  },
+  {
+   "w": "And",
+   "start": 477.68,
+   "end": 478.017,
+   "emp": false
+  },
+  {
+   "w": "humility",
+   "start": 478.017,
+   "end": 478.353,
+   "emp": false
+  },
+  {
+   "w": "keeps",
+   "start": 478.353,
+   "end": 478.69,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 478.69,
+   "end": 479.027,
+   "emp": false
+  },
+  {
+   "w": "heart",
+   "start": 479.027,
+   "end": 479.363,
+   "emp": false
+  },
+  {
+   "w": "open.",
+   "start": 479.363,
+   "end": 479.7,
+   "emp": false
+  },
+  {
+   "w": "Learning",
+   "start": 480.94,
+   "end": 481.507,
+   "emp": true
+  },
+  {
+   "w": "requires",
+   "start": 481.507,
+   "end": 482.073,
+   "emp": false
+  },
+  {
+   "w": "humility.",
+   "start": 482.073,
+   "end": 482.64,
+   "emp": false
+  },
+  {
+   "w": "And",
+   "start": 482.64,
+   "end": 483.013,
+   "emp": false
+  },
+  {
+   "w": "humility",
+   "start": 483.013,
+   "end": 483.387,
+   "emp": false
+  },
+  {
+   "w": "keeps",
+   "start": 483.387,
+   "end": 483.76,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 483.76,
+   "end": 484.133,
+   "emp": false
+  },
+  {
+   "w": "heart",
+   "start": 484.133,
+   "end": 484.507,
+   "emp": false
+  },
+  {
+   "w": "open.",
+   "start": 484.507,
+   "end": 484.88,
+   "emp": false
+  },
+  {
+   "w": "Look",
+   "start": 485.06,
+   "end": 485.293,
+   "emp": false
+  },
+  {
+   "w": "at",
+   "start": 485.293,
+   "end": 485.525,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 485.525,
+   "end": 485.758,
+   "emp": false
+  },
+  {
+   "w": "story",
+   "start": 485.758,
+   "end": 485.991,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 485.991,
+   "end": 486.224,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 486.224,
+   "end": 486.456,
+   "emp": false
+  },
+  {
+   "w": "man",
+   "start": 486.456,
+   "end": 486.689,
+   "emp": false
+  },
+  {
+   "w": "called",
+   "start": 486.689,
+   "end": 486.922,
+   "emp": false
+  },
+  {
+   "w": "Aquila",
+   "start": 486.922,
+   "end": 487.155,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 487.155,
+   "end": 487.387,
+   "emp": false
+  },
+  {
+   "w": "Priscilla.",
+   "start": 487.387,
+   "end": 487.62,
+   "emp": false
+  },
+  {
+   "w": "They",
+   "start": 488.48,
+   "end": 488.743,
+   "emp": false
+  },
+  {
+   "w": "were",
+   "start": 488.743,
+   "end": 489.006,
+   "emp": false
+  },
+  {
+   "w": "preaching",
+   "start": 489.006,
+   "end": 489.269,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 489.269,
+   "end": 489.531,
+   "emp": false
+  },
+  {
+   "w": "word",
+   "start": 489.531,
+   "end": 489.794,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 489.794,
+   "end": 490.057,
+   "emp": false
+  },
+  {
+   "w": "God.",
+   "start": 490.057,
+   "end": 490.32,
+   "emp": true
+  },
+  {
+   "w": "But",
+   "start": 490.68,
+   "end": 490.988,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 490.988,
+   "end": 491.296,
+   "emp": false
+  },
+  {
+   "w": "man",
+   "start": 491.296,
+   "end": 491.604,
+   "emp": false
+  },
+  {
+   "w": "called",
+   "start": 491.604,
+   "end": 491.912,
+   "emp": false
+  },
+  {
+   "w": "Apollos,",
+   "start": 491.912,
+   "end": 492.22,
+   "emp": false
+  },
+  {
+   "w": "an",
+   "start": 492.22,
+   "end": 492.528,
+   "emp": false
+  },
+  {
+   "w": "eloquent",
+   "start": 492.528,
+   "end": 492.836,
+   "emp": false
+  },
+  {
+   "w": "man,",
+   "start": 492.836,
+   "end": 493.144,
+   "emp": false
+  },
+  {
+   "w": "mighty",
+   "start": 493.144,
+   "end": 493.452,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 493.452,
+   "end": 493.76,
+   "emp": false
+  },
+  {
+   "w": "scripture,",
+   "start": 493.76,
+   "end": 494.068,
+   "emp": false
+  },
+  {
+   "w": "didn't",
+   "start": 494.068,
+   "end": 494.376,
+   "emp": false
+  },
+  {
+   "w": "know",
+   "start": 494.376,
+   "end": 494.684,
+   "emp": true
+  },
+  {
+   "w": "as",
+   "start": 494.684,
+   "end": 494.992,
+   "emp": false
+  },
+  {
+   "w": "much.",
+   "start": 494.992,
+   "end": 495.3,
+   "emp": false
+  },
+  {
+   "w": "So",
+   "start": 495.44,
+   "end": 495.831,
+   "emp": false
+  },
+  {
+   "w": "Aquila",
+   "start": 495.831,
+   "end": 496.222,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 496.222,
+   "end": 496.613,
+   "emp": false
+  },
+  {
+   "w": "Priscilla",
+   "start": 496.613,
+   "end": 497.004,
+   "emp": false
+  },
+  {
+   "w": "expounded",
+   "start": 497.004,
+   "end": 497.395,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 497.395,
+   "end": 497.785,
+   "emp": false
+  },
+  {
+   "w": "word",
+   "start": 497.785,
+   "end": 498.176,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 498.176,
+   "end": 498.567,
+   "emp": false
+  },
+  {
+   "w": "God",
+   "start": 498.567,
+   "end": 498.958,
+   "emp": true
+  },
+  {
+   "w": "to",
+   "start": 498.958,
+   "end": 499.349,
+   "emp": false
+  },
+  {
+   "w": "them.",
+   "start": 499.349,
+   "end": 499.74,
+   "emp": false
+  },
+  {
+   "w": "Apollos",
+   "start": 500.98,
+   "end": 501.317,
+   "emp": false
+  },
+  {
+   "w": "was",
+   "start": 501.317,
+   "end": 501.654,
+   "emp": false
+  },
+  {
+   "w": "very,",
+   "start": 501.654,
+   "end": 501.991,
+   "emp": false
+  },
+  {
+   "w": "oh,",
+   "start": 501.991,
+   "end": 502.329,
+   "emp": false
+  },
+  {
+   "w": "this",
+   "start": 502.329,
+   "end": 502.666,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 502.666,
+   "end": 503.003,
+   "emp": false
+  },
+  {
+   "w": "that.",
+   "start": 503.003,
+   "end": 503.34,
+   "emp": false
+  },
+  {
+   "w": "He",
+   "start": 503.4,
+   "end": 503.712,
+   "emp": false
+  },
+  {
+   "w": "was",
+   "start": 503.712,
+   "end": 504.024,
+   "emp": false
+  },
+  {
+   "w": "speaking",
+   "start": 504.024,
+   "end": 504.336,
+   "emp": false
+  },
+  {
+   "w": "with",
+   "start": 504.336,
+   "end": 504.648,
+   "emp": false
+  },
+  {
+   "w": "eloquence.",
+   "start": 504.648,
+   "end": 504.96,
+   "emp": false
+  },
+  {
+   "w": "But",
+   "start": 505.48,
+   "end": 505.806,
+   "emp": false
+  },
+  {
+   "w": "when",
+   "start": 505.806,
+   "end": 506.131,
+   "emp": false
+  },
+  {
+   "w": "Aquila",
+   "start": 506.131,
+   "end": 506.457,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 506.457,
+   "end": 506.783,
+   "emp": false
+  },
+  {
+   "w": "Priscilla",
+   "start": 506.783,
+   "end": 507.109,
+   "emp": false
+  },
+  {
+   "w": "saw",
+   "start": 507.109,
+   "end": 507.434,
+   "emp": false
+  },
+  {
+   "w": "him,",
+   "start": 507.434,
+   "end": 507.76,
+   "emp": false
+  },
+  {
+   "w": "The",
+   "start": 507.76,
+   "end": 508.104,
+   "emp": false
+  },
+  {
+   "w": "Bible",
+   "start": 508.104,
+   "end": 508.449,
+   "emp": false
+  },
+  {
+   "w": "says",
+   "start": 508.449,
+   "end": 508.793,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 508.793,
+   "end": 509.137,
+   "emp": false
+  },
+  {
+   "w": "they",
+   "start": 509.137,
+   "end": 509.481,
+   "emp": false
+  },
+  {
+   "w": "expanded",
+   "start": 509.481,
+   "end": 509.826,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 509.826,
+   "end": 510.17,
+   "emp": false
+  },
+  {
+   "w": "word",
+   "start": 510.17,
+   "end": 510.514,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 510.514,
+   "end": 510.859,
+   "emp": false
+  },
+  {
+   "w": "God",
+   "start": 510.859,
+   "end": 511.203,
+   "emp": true
+  },
+  {
+   "w": "more",
+   "start": 511.203,
+   "end": 511.547,
+   "emp": false
+  },
+  {
+   "w": "perfectly",
+   "start": 511.547,
+   "end": 511.891,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 511.891,
+   "end": 512.236,
+   "emp": false
+  },
+  {
+   "w": "them.",
+   "start": 512.236,
+   "end": 512.58,
+   "emp": false
+  },
+  {
+   "w": "In",
+   "start": 513.14,
+   "end": 513.595,
+   "emp": false
+  },
+  {
+   "w": "acceptance,",
+   "start": 513.595,
+   "end": 514.05,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 514.05,
+   "end": 514.505,
+   "emp": false
+  },
+  {
+   "w": "see.",
+   "start": 514.505,
+   "end": 514.96,
+   "emp": false
+  },
+  {
+   "w": "And",
+   "start": 514.96,
+   "end": 515.293,
+   "emp": false
+  },
+  {
+   "w": "guess",
+   "start": 515.293,
+   "end": 515.627,
+   "emp": false
+  },
+  {
+   "w": "what?",
+   "start": 515.627,
+   "end": 515.96,
+   "emp": false
+  },
+  {
+   "w": "Apollos",
+   "start": 516.62,
+   "end": 516.888,
+   "emp": false
+  },
+  {
+   "w": "got",
+   "start": 516.888,
+   "end": 517.156,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 517.156,
+   "end": 517.424,
+   "emp": false
+  },
+  {
+   "w": "know",
+   "start": 517.424,
+   "end": 517.692,
+   "emp": true
+  },
+  {
+   "w": "more.",
+   "start": 517.692,
+   "end": 517.96,
+   "emp": false
+  },
+  {
+   "w": "So",
+   "start": 518.5,
+   "end": 518.866,
+   "emp": false
+  },
+  {
+   "w": "even",
+   "start": 518.866,
+   "end": 519.231,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 519.231,
+   "end": 519.597,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 519.597,
+   "end": 519.962,
+   "emp": false
+  },
+  {
+   "w": "things",
+   "start": 519.962,
+   "end": 520.328,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 520.328,
+   "end": 520.693,
+   "emp": false
+  },
+  {
+   "w": "God,",
+   "start": 520.693,
+   "end": 521.059,
+   "emp": true
+  },
+  {
+   "w": "you",
+   "start": 521.059,
+   "end": 521.424,
+   "emp": false
+  },
+  {
+   "w": "never",
+   "start": 521.424,
+   "end": 521.79,
+   "emp": false
+  },
+  {
+   "w": "get",
+   "start": 521.79,
+   "end": 522.156,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 522.156,
+   "end": 522.521,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 522.521,
+   "end": 522.887,
+   "emp": false
+  },
+  {
+   "w": "point,",
+   "start": 522.887,
+   "end": 523.252,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 523.252,
+   "end": 523.618,
+   "emp": false
+  },
+  {
+   "w": "know,",
+   "start": 523.618,
+   "end": 523.983,
+   "emp": true
+  },
+  {
+   "w": "like",
+   "start": 523.983,
+   "end": 524.349,
+   "emp": false
+  },
+  {
+   "w": "we",
+   "start": 524.349,
+   "end": 524.714,
+   "emp": false
+  },
+  {
+   "w": "say,",
+   "start": 524.714,
+   "end": 525.08,
+   "emp": false
+  },
+  {
+   "w": "\"No",
+   "start": 525.36,
+   "end": 525.564,
+   "emp": false
+  },
+  {
+   "w": "See",
+   "start": 525.564,
+   "end": 525.768,
+   "emp": false
+  },
+  {
+   "w": "Finish\"",
+   "start": 525.768,
+   "end": 525.972,
+   "emp": false
+  },
+  {
+   "w": "with",
+   "start": 525.972,
+   "end": 526.176,
+   "emp": false
+  },
+  {
+   "w": "God.",
+   "start": 526.176,
+   "end": 526.38,
+   "emp": true
+  },
+  {
+   "w": "Somebody",
+   "start": 526.64,
+   "end": 526.804,
+   "emp": false
+  },
+  {
+   "w": "said",
+   "start": 526.804,
+   "end": 526.968,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 526.968,
+   "end": 527.132,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 527.132,
+   "end": 527.296,
+   "emp": false
+  },
+  {
+   "w": "me.",
+   "start": 527.296,
+   "end": 527.46,
+   "emp": false
+  },
+  {
+   "w": "\"No",
+   "start": 527.98,
+   "end": 528.18,
+   "emp": false
+  },
+  {
+   "w": "See",
+   "start": 528.18,
+   "end": 528.38,
+   "emp": false
+  },
+  {
+   "w": "Finish\"",
+   "start": 528.38,
+   "end": 528.58,
+   "emp": false
+  },
+  {
+   "w": "with",
+   "start": 528.58,
+   "end": 528.78,
+   "emp": false
+  },
+  {
+   "w": "God.",
+   "start": 528.78,
+   "end": 528.98,
+   "emp": true
+  },
+  {
+   "w": "Look",
+   "start": 529.24,
+   "end": 529.513,
+   "emp": false
+  },
+  {
+   "w": "at,",
+   "start": 529.513,
+   "end": 529.787,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 529.787,
+   "end": 530.06,
+   "emp": false
+  },
+  {
+   "w": "instance,",
+   "start": 530.06,
+   "end": 530.333,
+   "emp": false
+  },
+  {
+   "w": "Prophet",
+   "start": 530.333,
+   "end": 530.607,
+   "emp": false
+  },
+  {
+   "w": "Moses.",
+   "start": 530.607,
+   "end": 530.88,
+   "emp": false
+  },
+  {
+   "w": "He",
+   "start": 531.42,
+   "end": 531.673,
+   "emp": false
+  },
+  {
+   "w": "kept",
+   "start": 531.673,
+   "end": 531.927,
+   "emp": false
+  },
+  {
+   "w": "learning.",
+   "start": 531.927,
+   "end": 532.18,
+   "emp": true
+  },
+  {
+   "w": "After",
+   "start": 532.58,
+   "end": 532.793,
+   "emp": false
+  },
+  {
+   "w": "40",
+   "start": 532.793,
+   "end": 533.005,
+   "emp": false
+  },
+  {
+   "w": "years",
+   "start": 533.005,
+   "end": 533.218,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 533.218,
+   "end": 533.431,
+   "emp": false
+  },
+  {
+   "w": "Babylon,",
+   "start": 533.431,
+   "end": 533.644,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 533.644,
+   "end": 533.856,
+   "emp": false
+  },
+  {
+   "w": "learned",
+   "start": 533.856,
+   "end": 534.069,
+   "emp": true
+  },
+  {
+   "w": "40",
+   "start": 534.069,
+   "end": 534.282,
+   "emp": false
+  },
+  {
+   "w": "years",
+   "start": 534.282,
+   "end": 534.495,
+   "emp": false
+  },
+  {
+   "w": "with",
+   "start": 534.495,
+   "end": 534.707,
+   "emp": false
+  },
+  {
+   "w": "God.",
+   "start": 534.707,
+   "end": 534.92,
+   "emp": true
+  },
+  {
+   "w": "Look",
+   "start": 535.2,
+   "end": 535.353,
+   "emp": false
+  },
+  {
+   "w": "at",
+   "start": 535.353,
+   "end": 535.507,
+   "emp": false
+  },
+  {
+   "w": "Daniel.",
+   "start": 535.507,
+   "end": 535.66,
+   "emp": true
+  },
+  {
+   "w": "He",
+   "start": 535.66,
+   "end": 535.923,
+   "emp": false
+  },
+  {
+   "w": "was",
+   "start": 535.923,
+   "end": 536.185,
+   "emp": false
+  },
+  {
+   "w": "trained",
+   "start": 536.185,
+   "end": 536.447,
+   "emp": false
+  },
+  {
+   "w": "before",
+   "start": 536.447,
+   "end": 536.71,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 536.71,
+   "end": 536.972,
+   "emp": false
+  },
+  {
+   "w": "came",
+   "start": 536.972,
+   "end": 537.235,
+   "emp": false
+  },
+  {
+   "w": "into",
+   "start": 537.235,
+   "end": 537.497,
+   "emp": false
+  },
+  {
+   "w": "Babylon.",
+   "start": 537.497,
+   "end": 537.76,
+   "emp": false
+  },
+  {
+   "w": "But",
+   "start": 538.04,
+   "end": 538.2,
+   "emp": false
+  },
+  {
+   "w": "when",
+   "start": 538.2,
+   "end": 538.36,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 538.36,
+   "end": 538.52,
+   "emp": false
+  },
+  {
+   "w": "got",
+   "start": 538.52,
+   "end": 538.68,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 538.68,
+   "end": 538.84,
+   "emp": false
+  },
+  {
+   "w": "Babylon,",
+   "start": 538.84,
+   "end": 539,
+   "emp": false
+  },
+  {
+   "w": "guess",
+   "start": 539,
+   "end": 539.16,
+   "emp": false
+  },
+  {
+   "w": "what?",
+   "start": 539.16,
+   "end": 539.32,
+   "emp": false
+  },
+  {
+   "w": "He",
+   "start": 539.56,
+   "end": 539.793,
+   "emp": false
+  },
+  {
+   "w": "sat",
+   "start": 539.793,
+   "end": 540.027,
+   "emp": false
+  },
+  {
+   "w": "down.",
+   "start": 540.027,
+   "end": 540.26,
+   "emp": false
+  },
+  {
+   "w": "The",
+   "start": 540.5,
+   "end": 540.696,
+   "emp": false
+  },
+  {
+   "w": "Bible",
+   "start": 540.696,
+   "end": 540.892,
+   "emp": false
+  },
+  {
+   "w": "says",
+   "start": 540.892,
+   "end": 541.088,
+   "emp": false
+  },
+  {
+   "w": "about",
+   "start": 541.088,
+   "end": 541.284,
+   "emp": false
+  },
+  {
+   "w": "him.",
+   "start": 541.284,
+   "end": 541.48,
+   "emp": false
+  },
+  {
+   "w": "Dissolving",
+   "start": 542.12,
+   "end": 542.393,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 542.393,
+   "end": 542.667,
+   "emp": false
+  },
+  {
+   "w": "doubt.",
+   "start": 542.667,
+   "end": 542.94,
+   "emp": false
+  },
+  {
+   "w": "Interpreting",
+   "start": 543.14,
+   "end": 543.371,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 543.371,
+   "end": 543.602,
+   "emp": false
+  },
+  {
+   "w": "hard",
+   "start": 543.602,
+   "end": 543.833,
+   "emp": false
+  },
+  {
+   "w": "sentences",
+   "start": 543.833,
+   "end": 544.064,
+   "emp": false
+  },
+  {
+   "w": "were",
+   "start": 544.064,
+   "end": 544.296,
+   "emp": false
+  },
+  {
+   "w": "found",
+   "start": 544.296,
+   "end": 544.527,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 544.527,
+   "end": 544.758,
+   "emp": false
+  },
+  {
+   "w": "this",
+   "start": 544.758,
+   "end": 544.989,
+   "emp": false
+  },
+  {
+   "w": "Daniel.",
+   "start": 544.989,
+   "end": 545.22,
+   "emp": true
+  },
+  {
+   "w": "Look",
+   "start": 545.66,
+   "end": 545.99,
+   "emp": false
+  },
+  {
+   "w": "at",
+   "start": 545.99,
+   "end": 546.32,
+   "emp": false
+  },
+  {
+   "w": "Apostle",
+   "start": 546.32,
+   "end": 546.65,
+   "emp": false
+  },
+  {
+   "w": "Paul.",
+   "start": 546.65,
+   "end": 546.98,
+   "emp": false
+  },
+  {
+   "w": "Wrote",
+   "start": 547.72,
+   "end": 547.93,
+   "emp": false
+  },
+  {
+   "w": "two",
+   "start": 547.93,
+   "end": 548.14,
+   "emp": false
+  },
+  {
+   "w": "thirds",
+   "start": 548.14,
+   "end": 548.35,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 548.35,
+   "end": 548.56,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 548.56,
+   "end": 548.77,
+   "emp": false
+  },
+  {
+   "w": "New",
+   "start": 548.77,
+   "end": 548.98,
+   "emp": false
+  },
+  {
+   "w": "Testament",
+   "start": 548.98,
+   "end": 549.19,
+   "emp": false
+  },
+  {
+   "w": "books.",
+   "start": 549.19,
+   "end": 549.4,
+   "emp": false
+  },
+  {
+   "w": "Kept",
+   "start": 549.76,
+   "end": 549.95,
+   "emp": false
+  },
+  {
+   "w": "learning.",
+   "start": 549.95,
+   "end": 550.14,
+   "emp": true
+  },
+  {
+   "w": "So",
+   "start": 550.82,
+   "end": 550.97,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 550.97,
+   "end": 551.12,
+   "emp": false
+  },
+  {
+   "w": "want",
+   "start": 551.12,
+   "end": 551.27,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 551.27,
+   "end": 551.42,
+   "emp": false
+  },
+  {
+   "w": "challenge",
+   "start": 551.42,
+   "end": 551.57,
+   "emp": false
+  },
+  {
+   "w": "you.",
+   "start": 551.57,
+   "end": 551.72,
+   "emp": false
+  },
+  {
+   "w": "Be",
+   "start": 551.96,
+   "end": 552.183,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 552.183,
+   "end": 552.407,
+   "emp": false
+  },
+  {
+   "w": "tree",
+   "start": 552.407,
+   "end": 552.63,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 552.63,
+   "end": 552.853,
+   "emp": false
+  },
+  {
+   "w": "keeps",
+   "start": 552.853,
+   "end": 553.077,
+   "emp": false
+  },
+  {
+   "w": "growing.",
+   "start": 553.077,
+   "end": 553.3,
+   "emp": true
+  },
+  {
+   "w": "Not",
+   "start": 553.64,
+   "end": 553.818,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 553.818,
+   "end": 553.996,
+   "emp": false
+  },
+  {
+   "w": "fence",
+   "start": 553.996,
+   "end": 554.175,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 554.175,
+   "end": 554.353,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 554.353,
+   "end": 554.531,
+   "emp": false
+  },
+  {
+   "w": "made",
+   "start": 554.531,
+   "end": 554.709,
+   "emp": false
+  },
+  {
+   "w": "with",
+   "start": 554.709,
+   "end": 554.887,
+   "emp": false
+  },
+  {
+   "w": "wood",
+   "start": 554.887,
+   "end": 555.065,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 555.065,
+   "end": 555.244,
+   "emp": false
+  },
+  {
+   "w": "never",
+   "start": 555.244,
+   "end": 555.422,
+   "emp": false
+  },
+  {
+   "w": "grows.",
+   "start": 555.422,
+   "end": 555.6,
+   "emp": false
+  },
+  {
+   "w": "Did",
+   "start": 556.32,
+   "end": 556.472,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 556.472,
+   "end": 556.624,
+   "emp": false
+  },
+  {
+   "w": "receive",
+   "start": 556.624,
+   "end": 556.776,
+   "emp": false
+  },
+  {
+   "w": "it",
+   "start": 556.776,
+   "end": 556.928,
+   "emp": false
+  },
+  {
+   "w": "today?",
+   "start": 556.928,
+   "end": 557.08,
+   "emp": false
+  },
+  {
+   "w": "I'll",
+   "start": 557.5,
+   "end": 557.644,
+   "emp": false
+  },
+  {
+   "w": "see",
+   "start": 557.644,
+   "end": 557.789,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 557.789,
+   "end": 557.933,
+   "emp": false
+  },
+  {
+   "w": "again",
+   "start": 557.933,
+   "end": 558.078,
+   "emp": false
+  },
+  {
+   "w": "tomorrow",
+   "start": 558.078,
+   "end": 558.222,
+   "emp": false
+  },
+  {
+   "w": "at",
+   "start": 558.222,
+   "end": 558.367,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 558.367,
+   "end": 558.511,
+   "emp": false
+  },
+  {
+   "w": "same",
+   "start": 558.511,
+   "end": 558.656,
+   "emp": false
+  },
+  {
+   "w": "time.",
+   "start": 558.656,
+   "end": 558.8,
+   "emp": false
+  },
+  {
+   "w": "Don't",
+   "start": 559.1,
+   "end": 559.487,
+   "emp": false
+  },
+  {
+   "w": "forget",
+   "start": 559.487,
+   "end": 559.873,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 559.873,
+   "end": 560.26,
+   "emp": false
+  },
+  {
+   "w": "like,",
+   "start": 560.26,
+   "end": 560.647,
+   "emp": false
+  },
+  {
+   "w": "share,",
+   "start": 560.647,
+   "end": 561.033,
+   "emp": false
+  },
+  {
+   "w": "subscribe.",
+   "start": 561.033,
+   "end": 561.42,
+   "emp": false
+  },
+  {
+   "w": "Because",
+   "start": 561.42,
+   "end": 562.073,
+   "emp": false
+  },
+  {
+   "w": "Jesus",
+   "start": 562.073,
+   "end": 562.727,
+   "emp": true
+  },
+  {
+   "w": "Christ",
+   "start": 562.727,
+   "end": 563.38,
+   "emp": true
+  },
+  {
+   "w": "is",
+   "start": 563.38,
+   "end": 564.033,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 564.033,
+   "end": 564.687,
+   "emp": false
+  },
+  {
+   "w": "joy.",
+   "start": 564.687,
+   "end": 565.34,
+   "emp": false
+  },
+  {
+   "w": "Thank",
+   "start": 566.02,
+   "end": 566.288,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 566.288,
+   "end": 566.556,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 566.556,
+   "end": 566.824,
+   "emp": false
+  },
+  {
+   "w": "listening",
+   "start": 566.824,
+   "end": 567.092,
+   "emp": false
+  },
+  {
+   "w": "today.",
+   "start": 567.092,
+   "end": 567.36,
+   "emp": false
+  },
+  {
+   "w": "Join",
+   "start": 567.58,
+   "end": 567.835,
+   "emp": false
+  },
+  {
+   "w": "our",
+   "start": 567.835,
+   "end": 568.09,
+   "emp": false
+  },
+  {
+   "w": "Kids",
+   "start": 568.09,
+   "end": 568.345,
+   "emp": false
+  },
+  {
+   "w": "Inspiring",
+   "start": 568.345,
+   "end": 568.6,
+   "emp": false
+  },
+  {
+   "w": "Nation",
+   "start": 568.6,
+   "end": 568.855,
+   "emp": false
+  },
+  {
+   "w": "community",
+   "start": 568.855,
+   "end": 569.11,
+   "emp": false
+  },
+  {
+   "w": "on",
+   "start": 569.11,
+   "end": 569.365,
+   "emp": false
+  },
+  {
+   "w": "Telegram.",
+   "start": 569.365,
+   "end": 569.62,
+   "emp": false
+  },
+  {
+   "w": "At",
+   "start": 569.78,
+   "end": 570.169,
+   "emp": false
+  },
+  {
+   "w": "t.me",
+   "start": 570.169,
+   "end": 570.557,
+   "emp": false
+  },
+  {
+   "w": "forward",
+   "start": 570.557,
+   "end": 570.946,
+   "emp": false
+  },
+  {
+   "w": "slash",
+   "start": 570.946,
+   "end": 571.334,
+   "emp": false
+  },
+  {
+   "w": "Kids",
+   "start": 571.334,
+   "end": 571.723,
+   "emp": false
+  },
+  {
+   "w": "Inspiring",
+   "start": 571.723,
+   "end": 572.111,
+   "emp": false
+  },
+  {
+   "w": "Nation.",
+   "start": 572.111,
+   "end": 572.5,
+   "emp": false
+  },
+  {
+   "w": "Share",
+   "start": 572.74,
+   "end": 572.965,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 572.965,
+   "end": 573.19,
+   "emp": false
+  },
+  {
+   "w": "testimonies",
+   "start": 573.19,
+   "end": 573.415,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 573.415,
+   "end": 573.64,
+   "emp": false
+  },
+  {
+   "w": "prayer",
+   "start": 573.64,
+   "end": 573.865,
+   "emp": false
+  },
+  {
+   "w": "points",
+   "start": 573.865,
+   "end": 574.09,
+   "emp": false
+  },
+  {
+   "w": "on",
+   "start": 574.09,
+   "end": 574.315,
+   "emp": false
+  },
+  {
+   "w": "WhatsApp.",
+   "start": 574.315,
+   "end": 574.54,
+   "emp": false
+  },
+  {
+   "w": "Plus",
+   "start": 574.7,
+   "end": 576.56,
+   "emp": false
+  },
+  {
+   "w": "234-811-349-4684.",
+   "start": 576.56,
+   "end": 578.42,
+   "emp": false
+  },
+  {
+   "w": "Always",
+   "start": 578.7,
+   "end": 579.011,
+   "emp": false
+  },
+  {
+   "w": "remember,",
+   "start": 579.011,
+   "end": 579.323,
+   "emp": false
+  },
+  {
+   "w": "you're",
+   "start": 579.323,
+   "end": 579.634,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 579.634,
+   "end": 579.946,
+   "emp": false
+  },
+  {
+   "w": "just",
+   "start": 579.946,
+   "end": 580.257,
+   "emp": false
+  },
+  {
+   "w": "growing",
+   "start": 580.257,
+   "end": 580.569,
+   "emp": true
+  },
+  {
+   "w": "older.",
+   "start": 580.569,
+   "end": 580.88,
+   "emp": false
+  },
+  {
+   "w": "You're",
+   "start": 581.1,
+   "end": 581.358,
+   "emp": false
+  },
+  {
+   "w": "becoming",
+   "start": 581.358,
+   "end": 581.615,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 581.615,
+   "end": 581.872,
+   "emp": false
+  },
+  {
+   "w": "good",
+   "start": 581.872,
+   "end": 582.13,
+   "emp": false
+  },
+  {
+   "w": "child",
+   "start": 582.13,
+   "end": 582.388,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 582.388,
+   "end": 582.645,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 582.645,
+   "end": 582.902,
+   "emp": false
+  },
+  {
+   "w": "generation.",
+   "start": 582.902,
+   "end": 583.16,
+   "emp": false
+  },
+  {
+   "w": "Keep",
+   "start": 583.52,
+   "end": 583.783,
+   "emp": false
+  },
+  {
+   "w": "taking",
+   "start": 583.783,
+   "end": 584.047,
+   "emp": false
+  },
+  {
+   "w": "quantum",
+   "start": 584.047,
+   "end": 584.31,
+   "emp": false
+  },
+  {
+   "w": "leaps",
+   "start": 584.31,
+   "end": 584.573,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 584.573,
+   "end": 584.837,
+   "emp": false
+  },
+  {
+   "w": "joy.",
+   "start": 584.837,
+   "end": 585.1,
+   "emp": false
+  },
+  {
+   "w": "Because",
+   "start": 585.4,
+   "end": 585.89,
+   "emp": false
+  },
+  {
+   "w": "Jesus",
+   "start": 585.89,
+   "end": 586.38,
+   "emp": true
+  },
+  {
+   "w": "Christ",
+   "start": 586.38,
+   "end": 586.87,
+   "emp": true
+  },
+  {
+   "w": "is",
+   "start": 586.87,
+   "end": 587.36,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 587.36,
+   "end": 587.85,
+   "emp": false
+  },
+  {
+   "w": "joy.",
+   "start": 587.85,
+   "end": 588.34,
+   "emp": false
+  }
+ ]
+}

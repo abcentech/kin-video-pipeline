@@ -1,0 +1,85 @@
+{
+  "source": "lf_jul13.mp4",
+  "title": "SPEAK LIFE",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": false,
+  "wordmarkFill": true,
+  "videoSeconds": 595,
+  "subscribeEvery": 180,
+  "hookAt": 145,
+  "hookText": "Your words are deciding how long you live",
+  "openLoop": "Coming up: the affirmation that rewrites your life",
+  "openLoopAt": 215,
+  "teasers": [
+    { "at": 232, "text": "Still ahead: why your words outlive you by 10 years" },
+    { "at": 350, "text": "Still ahead: speak like the conqueror, not the grasshopper" }
+  ],
+  "recap": {
+    "at": 445,
+    "title": "Speak Life",
+    "items": [
+      "Death and life are in the power of your tongue",
+      "You are made in God's image — your words create",
+      "Every decision follows the words you accept",
+      "You will eat the fruit of the words you plant",
+      "So speak life: health, faith, and long life"
+    ]
+  },
+  "outro": {
+    "at": 576,
+    "day": 2,
+    "total": 5,
+    "next": "Renewing the Mind",
+    "label": "Next episode",
+    "url": "KidsInspiringNation.t.me"
+  },
+  "immersion": {
+    "enabled": true,
+    "bed": "audio/jul13_bed.mp3",
+    "bedVolume": 0.14,
+    "voiceEnd": 590,
+    "grade": false,
+    "particles": false,
+    "sfx": true,
+    "scriptures": []
+  },
+  "scenes": [
+    {
+      "start": 268,
+      "end": 277,
+      "section": "WORDS DECIDE",
+      "point": "Every decision you've ever made began with words you heard",
+      "ref": "",
+      "emoji": "🧭",
+      "noSplit": true
+    },
+    {
+      "start": 288,
+      "end": 297,
+      "section": "WORDS SHAPE YOU",
+      "point": "The words you replay become the life you live",
+      "ref": "",
+      "emoji": "🔁",
+      "noSplit": true
+    },
+    {
+      "start": 366,
+      "end": 375,
+      "section": "TODAY'S HARVEST",
+      "point": "Everything you are today grew from yesterday's words",
+      "ref": "",
+      "emoji": "🌾",
+      "noSplit": true
+    },
+    {
+      "start": 380,
+      "end": 389,
+      "section": "SPEAK LIFE",
+      "point": "Speak life over yourself — out loud, on purpose",
+      "ref": "",
+      "emoji": "🗣️",
+      "noSplit": true
+    }
+  ]
+}

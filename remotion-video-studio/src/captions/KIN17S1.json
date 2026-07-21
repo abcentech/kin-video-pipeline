@@ -1,0 +1,328 @@
+{
+ "words": [
+  {
+   "w": "growing",
+   "start": 0.02,
+   "end": 0.66,
+   "emp": false
+  },
+  {
+   "w": "life",
+   "start": 0.66,
+   "end": 1.09,
+   "emp": false
+  },
+  {
+   "w": "knowledge",
+   "start": 1.09,
+   "end": 1.67,
+   "emp": true
+  },
+  {
+   "w": "fills",
+   "start": 1.67,
+   "end": 2.02,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 2.02,
+   "end": 2.29,
+   "emp": false
+  },
+  {
+   "w": "head",
+   "start": 2.29,
+   "end": 2.58,
+   "emp": false
+  },
+  {
+   "w": "as",
+   "start": 2.58,
+   "end": 2.73,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 2.73,
+   "end": 2.96,
+   "emp": false
+  },
+  {
+   "w": "grow",
+   "start": 2.96,
+   "end": 3.12,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 3.12,
+   "end": 3.22,
+   "emp": false
+  },
+  {
+   "w": "life",
+   "start": 3.2,
+   "end": 3.92,
+   "emp": false
+  },
+  {
+   "w": "understanding",
+   "start": 3.92,
+   "end": 4.48,
+   "emp": true
+  },
+  {
+   "w": "opens",
+   "start": 4.48,
+   "end": 4.8,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 4.8,
+   "end": 5.04,
+   "emp": false
+  },
+  {
+   "w": "eyes",
+   "start": 5.04,
+   "end": 5.36,
+   "emp": false
+  },
+  {
+   "w": "but",
+   "start": 5.36,
+   "end": 6.48,
+   "emp": false
+  },
+  {
+   "w": "it",
+   "start": 6.48,
+   "end": 6.65,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 6.65,
+   "end": 6.82,
+   "emp": false
+  },
+  {
+   "w": "wisdom",
+   "start": 6.82,
+   "end": 7.56,
+   "emp": true
+  },
+  {
+   "w": "that",
+   "start": 7.56,
+   "end": 7.67,
+   "emp": false
+  },
+  {
+   "w": "directs",
+   "start": 7.67,
+   "end": 8.26,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 8.26,
+   "end": 8.6,
+   "emp": false
+  },
+  {
+   "w": "steps",
+   "start": 8.6,
+   "end": 9.04,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 9.04,
+   "end": 9.29,
+   "emp": false
+  },
+  {
+   "w": "multiplies",
+   "start": 9.29,
+   "end": 10.15,
+   "emp": true
+  },
+  {
+   "w": "your",
+   "start": 10.15,
+   "end": 10.48,
+   "emp": false
+  },
+  {
+   "w": "fruitful",
+   "start": 10.48,
+   "end": 11.17,
+   "emp": true
+  },
+  {
+   "w": "years",
+   "start": 11.17,
+   "end": 11.68,
+   "emp": true
+  },
+  {
+   "w": "knowledge",
+   "start": 12.88,
+   "end": 12.98,
+   "emp": true
+  },
+  {
+   "w": "fills",
+   "start": 12.9,
+   "end": 13.22,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 13.22,
+   "end": 13.97,
+   "emp": false
+  },
+  {
+   "w": "head",
+   "start": 13.97,
+   "end": 14.1,
+   "emp": false
+  },
+  {
+   "w": "understanding",
+   "start": 14.1,
+   "end": 15.57,
+   "emp": true
+  },
+  {
+   "w": "enlightens",
+   "start": 15.57,
+   "end": 16.8,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 16.8,
+   "end": 17.07,
+   "emp": false
+  },
+  {
+   "w": "eyes",
+   "start": 17.07,
+   "end": 17.52,
+   "emp": false
+  },
+  {
+   "w": "but",
+   "start": 17.52,
+   "end": 17.76,
+   "emp": false
+  },
+  {
+   "w": "it",
+   "start": 17.76,
+   "end": 17.92,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 17.92,
+   "end": 18.08,
+   "emp": false
+  },
+  {
+   "w": "wisdom",
+   "start": 18.08,
+   "end": 18.61,
+   "emp": true
+  },
+  {
+   "w": "wisdom",
+   "start": 18.61,
+   "end": 19.06,
+   "emp": true
+  },
+  {
+   "w": "that",
+   "start": 19.06,
+   "end": 19.39,
+   "emp": false
+  },
+  {
+   "w": "multiplies",
+   "start": 19.39,
+   "end": 20.21,
+   "emp": true
+  },
+  {
+   "w": "your",
+   "start": 20.21,
+   "end": 20.54,
+   "emp": false
+  },
+  {
+   "w": "fruitful",
+   "start": 20.54,
+   "end": 21.19,
+   "emp": true
+  },
+  {
+   "w": "years",
+   "start": 21.19,
+   "end": 21.61,
+   "emp": true
+  },
+  {
+   "w": "i'm",
+   "start": 21.61,
+   "end": 21.85,
+   "emp": false
+  },
+  {
+   "w": "told",
+   "start": 21.85,
+   "end": 22.18,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 22.18,
+   "end": 22.42,
+   "emp": false
+  },
+  {
+   "w": "story",
+   "start": 22.42,
+   "end": 22.82,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 22.82,
+   "end": 22.98,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 22.98,
+   "end": 23.4,
+   "emp": false
+  },
+  {
+   "w": "young",
+   "start": 23.4,
+   "end": 23.5,
+   "emp": false
+  },
+  {
+   "w": "child",
+   "start": 23.48,
+   "end": 24,
+   "emp": false
+  }
+ ]
+}

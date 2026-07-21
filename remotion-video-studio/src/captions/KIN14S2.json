@@ -1,0 +1,490 @@
+{
+ "words": [
+  {
+   "w": "85",
+   "start": 0.06,
+   "end": 0.3,
+   "emp": false
+  },
+  {
+   "w": "say,",
+   "start": 0.3,
+   "end": 0.56,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 0.56,
+   "end": 0.81,
+   "emp": false
+  },
+  {
+   "w": "am",
+   "start": 0.81,
+   "end": 0.91,
+   "emp": false
+  },
+  {
+   "w": "as",
+   "start": 0.86,
+   "end": 1.07,
+   "emp": false
+  },
+  {
+   "w": "strong",
+   "start": 1.07,
+   "end": 1.65,
+   "emp": true
+  },
+  {
+   "w": "today",
+   "start": 1.65,
+   "end": 2.16,
+   "emp": false
+  },
+  {
+   "w": "as",
+   "start": 2.16,
+   "end": 2.54,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 2.54,
+   "end": 2.7,
+   "emp": false
+  },
+  {
+   "w": "was",
+   "start": 2.7,
+   "end": 3.24,
+   "emp": false
+  },
+  {
+   "w": "when",
+   "start": 3.24,
+   "end": 3.43,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 3.43,
+   "end": 3.93,
+   "emp": false
+  },
+  {
+   "w": "was",
+   "start": 3.93,
+   "end": 4.4,
+   "emp": false
+  },
+  {
+   "w": "spoken",
+   "start": 4.4,
+   "end": 5.07,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 5.07,
+   "end": 5.33,
+   "emp": false
+  },
+  {
+   "w": "40",
+   "start": 5.33,
+   "end": 6.13,
+   "emp": false
+  },
+  {
+   "w": "years",
+   "start": 6.13,
+   "end": 6.78,
+   "emp": false
+  },
+  {
+   "w": "ago.",
+   "start": 6.78,
+   "end": 7.6,
+   "emp": false
+  },
+  {
+   "w": "Give",
+   "start": 8.52,
+   "end": 8.62,
+   "emp": false
+  },
+  {
+   "w": "me",
+   "start": 8.52,
+   "end": 8.62,
+   "emp": false
+  },
+  {
+   "w": "this",
+   "start": 8.52,
+   "end": 8.62,
+   "emp": false
+  },
+  {
+   "w": "mountain.",
+   "start": 8.57,
+   "end": 9.54,
+   "emp": true
+  },
+  {
+   "w": "It",
+   "start": 10.22,
+   "end": 10.32,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 10.22,
+   "end": 10.32,
+   "emp": false
+  },
+  {
+   "w": "mine.",
+   "start": 10.28,
+   "end": 10.88,
+   "emp": true
+  },
+  {
+   "w": "He",
+   "start": 11.74,
+   "end": 11.84,
+   "emp": false
+  },
+  {
+   "w": "did",
+   "start": 11.74,
+   "end": 11.84,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 11.74,
+   "end": 11.84,
+   "emp": false
+  },
+  {
+   "w": "see",
+   "start": 11.76,
+   "end": 11.86,
+   "emp": false
+  },
+  {
+   "w": "himself",
+   "start": 11.8,
+   "end": 12.33,
+   "emp": false
+  },
+  {
+   "w": "at",
+   "start": 12.33,
+   "end": 12.55,
+   "emp": false
+  },
+  {
+   "w": "85.",
+   "start": 12.55,
+   "end": 13.28,
+   "emp": false
+  },
+  {
+   "w": "Oh,",
+   "start": 13.86,
+   "end": 13.96,
+   "emp": false
+  },
+  {
+   "w": "I'm",
+   "start": 13.92,
+   "end": 14.37,
+   "emp": false
+  },
+  {
+   "w": "an",
+   "start": 14.37,
+   "end": 14.68,
+   "emp": false
+  },
+  {
+   "w": "old",
+   "start": 14.68,
+   "end": 15.15,
+   "emp": false
+  },
+  {
+   "w": "man.",
+   "start": 15.15,
+   "end": 16.14,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 16.58,
+   "end": 16.68,
+   "emp": false
+  },
+  {
+   "w": "suffered",
+   "start": 16.61,
+   "end": 16.71,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 16.68,
+   "end": 16.8,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 16.8,
+   "end": 16.98,
+   "emp": false
+  },
+  {
+   "w": "wilderness",
+   "start": 16.98,
+   "end": 17.65,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 17.65,
+   "end": 17.76,
+   "emp": false
+  },
+  {
+   "w": "40",
+   "start": 17.76,
+   "end": 18.14,
+   "emp": false
+  },
+  {
+   "w": "years",
+   "start": 18.14,
+   "end": 18.42,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 18.42,
+   "end": 18.6,
+   "emp": false
+  },
+  {
+   "w": "there",
+   "start": 18.6,
+   "end": 19.02,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 19.02,
+   "end": 19.12,
+   "emp": false
+  },
+  {
+   "w": "nothing",
+   "start": 19.04,
+   "end": 19.44,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 19.44,
+   "end": 19.56,
+   "emp": false
+  },
+  {
+   "w": "do.",
+   "start": 19.56,
+   "end": 19.9,
+   "emp": false
+  },
+  {
+   "w": "No.",
+   "start": 20,
+   "end": 20.14,
+   "emp": false
+  },
+  {
+   "w": "Pakele",
+   "start": 20.9,
+   "end": 21,
+   "emp": false
+  },
+  {
+   "w": "thought",
+   "start": 20.96,
+   "end": 21.37,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 21.37,
+   "end": 21.71,
+   "emp": false
+  },
+  {
+   "w": "his",
+   "start": 21.71,
+   "end": 21.97,
+   "emp": false
+  },
+  {
+   "w": "mind",
+   "start": 21.97,
+   "end": 22.22,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 22.22,
+   "end": 22.6,
+   "emp": false
+  },
+  {
+   "w": "at",
+   "start": 22.6,
+   "end": 22.79,
+   "emp": false
+  },
+  {
+   "w": "85,",
+   "start": 22.79,
+   "end": 23.55,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 23.55,
+   "end": 23.74,
+   "emp": false
+  },
+  {
+   "w": "could",
+   "start": 23.74,
+   "end": 24.22,
+   "emp": false
+  },
+  {
+   "w": "take",
+   "start": 24.22,
+   "end": 24.33,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 24.33,
+   "end": 25.29,
+   "emp": false
+  },
+  {
+   "w": "mountain.",
+   "start": 25.29,
+   "end": 26,
+   "emp": true
+  },
+  {
+   "w": "So",
+   "start": 27.02,
+   "end": 27.12,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 27.12,
+   "end": 27.34,
+   "emp": false
+  },
+  {
+   "w": "don't",
+   "start": 27.34,
+   "end": 27.77,
+   "emp": false
+  },
+  {
+   "w": "just",
+   "start": 27.77,
+   "end": 28.03,
+   "emp": false
+  },
+  {
+   "w": "renew",
+   "start": 28.03,
+   "end": 28.42,
+   "emp": true
+  },
+  {
+   "w": "your",
+   "start": 28.42,
+   "end": 28.73,
+   "emp": false
+  },
+  {
+   "w": "mind,",
+   "start": 28.73,
+   "end": 29.18,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 29.18,
+   "end": 29.42,
+   "emp": false
+  },
+  {
+   "w": "don't",
+   "start": 29.42,
+   "end": 29.8,
+   "emp": false
+  },
+  {
+   "w": "just",
+   "start": 29.8,
+   "end": 30.11,
+   "emp": false
+  },
+  {
+   "w": "retrain",
+   "start": 30.11,
+   "end": 30.4,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 30.4,
+   "end": 31.27,
+   "emp": false
+  },
+  {
+   "w": "mind,",
+   "start": 31.27,
+   "end": 31.56,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 31.56,
+   "end": 31.89,
+   "emp": false
+  },
+  {
+   "w": "renew",
+   "start": 31.89,
+   "end": 32.44,
+   "emp": true
+  },
+  {
+   "w": "it.",
+   "start": 32.44,
+   "end": 33,
+   "emp": false
+  }
+ ]
+}

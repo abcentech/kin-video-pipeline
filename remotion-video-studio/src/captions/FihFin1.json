@@ -1,0 +1,760 @@
+{
+ "words": [
+  {
+   "w": "Hello",
+   "start": 0.38,
+   "end": 0.48,
+   "emp": false
+  },
+  {
+   "w": "everyone,",
+   "start": 0.39,
+   "end": 1.49,
+   "emp": false
+  },
+  {
+   "w": "what",
+   "start": 1.49,
+   "end": 2.49,
+   "emp": false
+  },
+  {
+   "w": "if",
+   "start": 2.49,
+   "end": 3,
+   "emp": false
+  },
+  {
+   "w": "every",
+   "start": 3,
+   "end": 3.46,
+   "emp": false
+  },
+  {
+   "w": "hospital",
+   "start": 3.46,
+   "end": 4.2,
+   "emp": true
+  },
+  {
+   "w": "in",
+   "start": 4.2,
+   "end": 4.38,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 4.38,
+   "end": 4.65,
+   "emp": false
+  },
+  {
+   "w": "world",
+   "start": 4.65,
+   "end": 5.11,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 5.11,
+   "end": 5.29,
+   "emp": false
+  },
+  {
+   "w": "closed?",
+   "start": 5.29,
+   "end": 5.9,
+   "emp": false
+  },
+  {
+   "w": "No",
+   "start": 7.38,
+   "end": 7.54,
+   "emp": false
+  },
+  {
+   "w": "doctors,",
+   "start": 7.54,
+   "end": 7.9,
+   "emp": false
+  },
+  {
+   "w": "no",
+   "start": 7.9,
+   "end": 8.26,
+   "emp": false
+  },
+  {
+   "w": "medicine,",
+   "start": 8.26,
+   "end": 10.08,
+   "emp": true
+  },
+  {
+   "w": "no",
+   "start": 10.08,
+   "end": 10.44,
+   "emp": false
+  },
+  {
+   "w": "surgeries,",
+   "start": 10.44,
+   "end": 12.44,
+   "emp": false
+  },
+  {
+   "w": "no",
+   "start": 12.44,
+   "end": 12.8,
+   "emp": false
+  },
+  {
+   "w": "pharmacies.",
+   "start": 12.8,
+   "end": 15.24,
+   "emp": false
+  },
+  {
+   "w": "How",
+   "start": 17.02,
+   "end": 17.12,
+   "emp": false
+  },
+  {
+   "w": "long",
+   "start": 17.02,
+   "end": 17.12,
+   "emp": false
+  },
+  {
+   "w": "do",
+   "start": 17.02,
+   "end": 17.12,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 17.02,
+   "end": 17.4,
+   "emp": false
+  },
+  {
+   "w": "think",
+   "start": 17.4,
+   "end": 17.5,
+   "emp": false
+  },
+  {
+   "w": "humanity",
+   "start": 17.41,
+   "end": 18.44,
+   "emp": false
+  },
+  {
+   "w": "will",
+   "start": 18.44,
+   "end": 18.95,
+   "emp": false
+  },
+  {
+   "w": "survive?",
+   "start": 18.95,
+   "end": 20.3,
+   "emp": true
+  },
+  {
+   "w": "The",
+   "start": 20.7,
+   "end": 21.08,
+   "emp": false
+  },
+  {
+   "w": "truth",
+   "start": 21.08,
+   "end": 21.18,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 21.14,
+   "end": 21.35,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 21.35,
+   "end": 21.77,
+   "emp": false
+  },
+  {
+   "w": "sickness",
+   "start": 21.77,
+   "end": 22.61,
+   "emp": true
+  },
+  {
+   "w": "has",
+   "start": 22.61,
+   "end": 22.92,
+   "emp": false
+  },
+  {
+   "w": "become",
+   "start": 22.92,
+   "end": 23.55,
+   "emp": false
+  },
+  {
+   "w": "so",
+   "start": 23.55,
+   "end": 23.76,
+   "emp": false
+  },
+  {
+   "w": "normal",
+   "start": 23.76,
+   "end": 24.45,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 24.45,
+   "end": 24.9,
+   "emp": false
+  },
+  {
+   "w": "many",
+   "start": 24.9,
+   "end": 25.32,
+   "emp": false
+  },
+  {
+   "w": "people",
+   "start": 25.32,
+   "end": 25.98,
+   "emp": false
+  },
+  {
+   "w": "expect",
+   "start": 25.98,
+   "end": 26.64,
+   "emp": false
+  },
+  {
+   "w": "it",
+   "start": 26.64,
+   "end": 26.74,
+   "emp": false
+  },
+  {
+   "w": "more",
+   "start": 26.74,
+   "end": 27.3,
+   "emp": false
+  },
+  {
+   "w": "than",
+   "start": 27.3,
+   "end": 27.74,
+   "emp": false
+  },
+  {
+   "w": "they",
+   "start": 27.74,
+   "end": 28.18,
+   "emp": false
+  },
+  {
+   "w": "expect",
+   "start": 28.18,
+   "end": 28.84,
+   "emp": false
+  },
+  {
+   "w": "health.",
+   "start": 28.84,
+   "end": 29.9,
+   "emp": false
+  },
+  {
+   "w": "But",
+   "start": 30.38,
+   "end": 30.48,
+   "emp": false
+  },
+  {
+   "w": "what",
+   "start": 30.44,
+   "end": 31.02,
+   "emp": false
+  },
+  {
+   "w": "if",
+   "start": 31.02,
+   "end": 31.31,
+   "emp": false
+  },
+  {
+   "w": "God",
+   "start": 31.31,
+   "end": 31.75,
+   "emp": false
+  },
+  {
+   "w": "never",
+   "start": 31.75,
+   "end": 32.48,
+   "emp": false
+  },
+  {
+   "w": "expects",
+   "start": 32.48,
+   "end": 33.49,
+   "emp": false
+  },
+  {
+   "w": "us",
+   "start": 33.49,
+   "end": 33.79,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 33.79,
+   "end": 34.2,
+   "emp": false
+  },
+  {
+   "w": "live",
+   "start": 34.2,
+   "end": 34.66,
+   "emp": false
+  },
+  {
+   "w": "defeated",
+   "start": 34.66,
+   "end": 35.83,
+   "emp": false
+  },
+  {
+   "w": "by",
+   "start": 35.83,
+   "end": 36.07,
+   "emp": false
+  },
+  {
+   "w": "sickness",
+   "start": 36.07,
+   "end": 37.35,
+   "emp": true
+  },
+  {
+   "w": "and",
+   "start": 37.35,
+   "end": 37.73,
+   "emp": false
+  },
+  {
+   "w": "or",
+   "start": 37.73,
+   "end": 38.02,
+   "emp": false
+  },
+  {
+   "w": "diseases?",
+   "start": 38.02,
+   "end": 39.68,
+   "emp": false
+  },
+  {
+   "w": "What",
+   "start": 40.16,
+   "end": 40.26,
+   "emp": false
+  },
+  {
+   "w": "if",
+   "start": 40.23,
+   "end": 40.54,
+   "emp": false
+  },
+  {
+   "w": "there's",
+   "start": 40.54,
+   "end": 40.94,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 40.94,
+   "end": 41.04,
+   "emp": false
+  },
+  {
+   "w": "power",
+   "start": 41.03,
+   "end": 41.52,
+   "emp": false
+  },
+  {
+   "w": "greater",
+   "start": 41.52,
+   "end": 42.2,
+   "emp": false
+  },
+  {
+   "w": "than",
+   "start": 42.2,
+   "end": 42.59,
+   "emp": false
+  },
+  {
+   "w": "medicine,",
+   "start": 42.59,
+   "end": 43.59,
+   "emp": true
+  },
+  {
+   "w": "deeper",
+   "start": 43.59,
+   "end": 44.34,
+   "emp": false
+  },
+  {
+   "w": "than",
+   "start": 44.34,
+   "end": 44.48,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 44.48,
+   "end": 44.74,
+   "emp": false
+  },
+  {
+   "w": "human",
+   "start": 44.74,
+   "end": 45.18,
+   "emp": false
+  },
+  {
+   "w": "strength",
+   "start": 45.18,
+   "end": 45.89,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 45.89,
+   "end": 46.12,
+   "emp": false
+  },
+  {
+   "w": "stronger",
+   "start": 46.12,
+   "end": 46.86,
+   "emp": false
+  },
+  {
+   "w": "than",
+   "start": 46.86,
+   "end": 47.24,
+   "emp": false
+  },
+  {
+   "w": "every",
+   "start": 47.24,
+   "end": 47.65,
+   "emp": false
+  },
+  {
+   "w": "diagnosis?",
+   "start": 47.65,
+   "end": 48.76,
+   "emp": false
+  },
+  {
+   "w": "A",
+   "start": 49.18,
+   "end": 49.28,
+   "emp": false
+  },
+  {
+   "w": "man",
+   "start": 49.18,
+   "end": 49.32,
+   "emp": false
+  },
+  {
+   "w": "who",
+   "start": 49.32,
+   "end": 49.56,
+   "emp": false
+  },
+  {
+   "w": "never",
+   "start": 49.56,
+   "end": 49.72,
+   "emp": false
+  },
+  {
+   "w": "walked,",
+   "start": 49.72,
+   "end": 50.36,
+   "emp": false
+  },
+  {
+   "w": "never",
+   "start": 50.36,
+   "end": 50.76,
+   "emp": false
+  },
+  {
+   "w": "had",
+   "start": 50.76,
+   "end": 51,
+   "emp": false
+  },
+  {
+   "w": "surgery,",
+   "start": 51,
+   "end": 51.73,
+   "emp": false
+  },
+  {
+   "w": "never",
+   "start": 51.73,
+   "end": 52.13,
+   "emp": false
+  },
+  {
+   "w": "visited",
+   "start": 52.13,
+   "end": 52.69,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 52.69,
+   "end": 53.04,
+   "emp": false
+  },
+  {
+   "w": "pharmacy,",
+   "start": 53.04,
+   "end": 53.75,
+   "emp": false
+  },
+  {
+   "w": "never",
+   "start": 53.75,
+   "end": 54.15,
+   "emp": false
+  },
+  {
+   "w": "took",
+   "start": 54.15,
+   "end": 54.47,
+   "emp": false
+  },
+  {
+   "w": "medicine,",
+   "start": 54.47,
+   "end": 55.25,
+   "emp": true
+  },
+  {
+   "w": "never",
+   "start": 55.25,
+   "end": 55.67,
+   "emp": false
+  },
+  {
+   "w": "had",
+   "start": 55.67,
+   "end": 55.92,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 55.92,
+   "end": 56.02,
+   "emp": false
+  },
+  {
+   "w": "doctor,",
+   "start": 56,
+   "end": 56.76,
+   "emp": false
+  },
+  {
+   "w": "walked",
+   "start": 56.76,
+   "end": 57.37,
+   "emp": false
+  },
+  {
+   "w": "suddenly.",
+   "start": 57.37,
+   "end": 58.5,
+   "emp": false
+  },
+  {
+   "w": "What",
+   "start": 59.2,
+   "end": 59.47,
+   "emp": false
+  },
+  {
+   "w": "changed?",
+   "start": 59.47,
+   "end": 59.73,
+   "emp": false
+  },
+  {
+   "w": "Was",
+   "start": 59.73,
+   "end": 59.99,
+   "emp": false
+  },
+  {
+   "w": "it",
+   "start": 59.99,
+   "end": 60.16,
+   "emp": false
+  },
+  {
+   "w": "Peter?",
+   "start": 60.16,
+   "end": 60.86,
+   "emp": false
+  },
+  {
+   "w": "Was",
+   "start": 60.86,
+   "end": 61.12,
+   "emp": false
+  },
+  {
+   "w": "it",
+   "start": 61.12,
+   "end": 61.29,
+   "emp": false
+  },
+  {
+   "w": "prayer?",
+   "start": 61.29,
+   "end": 62.07,
+   "emp": false
+  },
+  {
+   "w": "Was",
+   "start": 62.07,
+   "end": 62.34,
+   "emp": false
+  },
+  {
+   "w": "it",
+   "start": 62.34,
+   "end": 62.5,
+   "emp": false
+  },
+  {
+   "w": "luck?",
+   "start": 62.5,
+   "end": 63.22,
+   "emp": false
+  },
+  {
+   "w": "Peter",
+   "start": 63.52,
+   "end": 63.78,
+   "emp": false
+  },
+  {
+   "w": "gives",
+   "start": 63.78,
+   "end": 63.89,
+   "emp": false
+  },
+  {
+   "w": "us",
+   "start": 63.89,
+   "end": 63.99,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 63.91,
+   "end": 64.06,
+   "emp": false
+  },
+  {
+   "w": "answer.",
+   "start": 64.06,
+   "end": 64.58,
+   "emp": false
+  },
+  {
+   "w": "And",
+   "start": 65.54,
+   "end": 65.64,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 65.54,
+   "end": 65.64,
+   "emp": false
+  },
+  {
+   "w": "his",
+   "start": 65.56,
+   "end": 65.92,
+   "emp": false
+  },
+  {
+   "w": "name,",
+   "start": 65.92,
+   "end": 66.29,
+   "emp": true
+  },
+  {
+   "w": "through",
+   "start": 66.29,
+   "end": 67.16,
+   "emp": false
+  },
+  {
+   "w": "faith,",
+   "start": 67.16,
+   "end": 68.02,
+   "emp": true
+  },
+  {
+   "w": "in",
+   "start": 68.02,
+   "end": 68.26,
+   "emp": false
+  },
+  {
+   "w": "his",
+   "start": 68.26,
+   "end": 68.63,
+   "emp": false
+  },
+  {
+   "w": "name.",
+   "start": 68.63,
+   "end": 69.56,
+   "emp": true
+  },
+  {
+   "w": "Amen.",
+   "start": 69.56,
+   "end": 69.92,
+   "emp": false
+  }
+ ]
+}

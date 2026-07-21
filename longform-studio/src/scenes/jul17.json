@@ -1,0 +1,76 @@
+{
+  "source": "lf_jul17.mp4",
+  "title": "GROW IN WISDOM",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": false,
+  "wordmarkFill": true,
+  "videoSeconds": 596,
+  "subscribeEvery": 180,
+  "hookAt": 118,
+  "hookText": "The gap between smart and wise can add decades",
+  "openLoop": "Coming up: why the lion doesn't care about your certificate",
+  "openLoopAt": 226,
+  "teasers": [
+    { "at": 244, "text": "Still ahead: the one fear that begins all wisdom" },
+    { "at": 430, "text": "Still ahead: where real wisdom actually comes from" }
+  ],
+  "recap": {
+    "at": 535,
+    "title": "Grow in Wisdom",
+    "items": [
+      "Wisdom is the skill of living God's way",
+      "Knowledge fills the head; wisdom shapes the life",
+      "The fear of the Lord is where wisdom begins",
+      "You can know much and still not know how to live",
+      "Get wisdom — it is the principal thing"
+    ]
+  },
+  "outro": {
+    "at": 560,
+    "day": 5,
+    "total": 5,
+    "next": "Prayer Service · Tonight 8PM",
+    "label": "Join us live",
+    "url": "KidsInspiringNation.t.me"
+  },
+  "immersion": {
+    "enabled": true,
+    "bed": "audio/jul17_bed.mp3",
+    "bedVolume": 0.14,
+    "voiceEnd": 592,
+    "grade": false,
+    "particles": false,
+    "sfx": true,
+    "scriptures": []
+  },
+  "scenes": [
+    {
+      "start": 312,
+      "end": 320,
+      "section": "KNOW VS LIVE",
+      "point": "Knowledge fills your head; wisdom decides your life",
+      "ref": "",
+      "emoji": "🧠",
+      "noSplit": true
+    },
+    {
+      "start": 420,
+      "end": 429,
+      "section": "SKILL OF LIVING",
+      "point": "You can know everything and still not know how to live",
+      "ref": "",
+      "emoji": "📖",
+      "noSplit": true
+    },
+    {
+      "start": 495,
+      "end": 504,
+      "section": "WISDOM = LONG LIFE",
+      "point": "Long life follows the wise, not just the clever",
+      "ref": "",
+      "emoji": "🌳",
+      "noSplit": true
+    }
+  ]
+}

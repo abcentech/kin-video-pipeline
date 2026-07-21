@@ -1,0 +1,27 @@
+{
+  "name": "remotion-video-studio",
+  "version": "1.0.0",
+  "description": "Kids Inspiring Nation - viral shorts",
+  "license": "UNLICENSED",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.481",
+    "@remotion/google-fonts": "4.0.481",
+    "@remotion/lottie": "^4.0.481",
+    "@remotion/motion-blur": "^4.0.481",
+    "@remotion/paths": "^4.0.481",
+    "@remotion/shapes": "^4.0.481",
+    "@remotion/transitions": "^4.0.481",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.481",
+    "zod": "3.23.8"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.0",
+    "typescript": "5.8.3"
+  }
+}

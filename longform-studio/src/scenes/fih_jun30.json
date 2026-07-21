@@ -1,0 +1,96 @@
+{
+  "source": "lf_fih_jun30.mp4",
+  "title": "FAITH IN HIS NAME",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": false,
+  "videoSeconds": 604,
+  "subscribeEvery": 180,
+  "wordmarkFill": true,
+  "hookAt": 103,
+  "hookText": "The Greatest Gift You Can Give",
+  "openLoop": "What you carry is worth more than silver or gold",
+  "keywords": [
+    { "at": 288, "text": "Living water" },
+    { "at": 410, "text": "Faith in His name" },
+    { "at": 480, "text": "His glory alone" }
+  ],
+  "recap": {
+    "at": 552,
+    "title": "How healing flows through you",
+    "items": [
+      "Give people the Name above every sickness",
+      "You're a filled cup — pour into others",
+      "Pray short prayers, full of care",
+      "Pray in faith, never by your own holiness",
+      "Give Jesus all the glory"
+    ]
+  },
+  "outro": {
+    "at": 560,
+    "label": "The series is complete",
+    "next": "New month · New series",
+    "url": "KidsInspiringNation.t.me"
+  },
+  "scenes": [
+    {
+      "start": 221,
+      "end": 228,
+      "section": "NAME ABOVE SICKNESS",
+      "point": "Give them the Name above every sickness, disease and illness",
+      "ref": "Acts 3:6",
+      "emoji": "🕊️",
+      "noSplit": true,
+      "teaser": "Power in His name, word and touch"
+    },
+    {
+      "start": 271,
+      "end": 278,
+      "section": "EMPTY CUPS FILLED",
+      "point": "You're an empty cup He filled — now pour into others",
+      "ref": "",
+      "emoji": "🫗",
+      "noSplit": true,
+      "teaser": "Stagnant water stinks — keep it flowing"
+    },
+    {
+      "start": 330,
+      "end": 337,
+      "section": "SHORT PRAYERS, BIG CARE",
+      "point": "Jesus' prayers were short — but filled with care",
+      "ref": "",
+      "emoji": "⏱️",
+      "noSplit": true,
+      "teaser": "He never walked past a need"
+    },
+    {
+      "start": 359,
+      "end": 368,
+      "section": "NEVER WALKED PAST",
+      "point": "To the dead He stopped, to the lame He looked, to the blind He spoke",
+      "ref": "",
+      "emoji": "🤲",
+      "noSplit": true,
+      "teaser": "But it only works one way"
+    },
+    {
+      "start": 385,
+      "end": 393,
+      "section": "PRAY IN FAITH",
+      "point": "Without faith it's impossible to please God — pray believing",
+      "ref": "Hebrews 11:6",
+      "emoji": "🙏",
+      "noSplit": true,
+      "teaser": "So who gets the glory?"
+    },
+    {
+      "start": 497,
+      "end": 507,
+      "section": "GIVE JESUS THE GLORY",
+      "point": "Healing is never about your fame — it's all for Jesus' glory",
+      "ref": "",
+      "emoji": "👑",
+      "noSplit": true
+    }
+  ]
+}

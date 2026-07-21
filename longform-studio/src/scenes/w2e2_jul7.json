@@ -1,0 +1,76 @@
+{
+  "source": "lf_w2e2_jul7.mp4",
+  "title": "THE SECRET TO SPIRITUAL LONGEVITY",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": false,
+  "videoSeconds": 598,
+  "subscribeEvery": 180,
+  "wordmarkFill": true,
+  "hookAt": 114,
+  "hookText": "The man who walked so close he never died",
+  "openLoop": "Why consistency — not intensity — keeps you close to God",
+  "openLoopAt": 232,
+  "outro": {
+    "at": 550,
+    "day": 2,
+    "total": 5,
+    "next": "The Secrets of Longevity — Seven Decades of Service",
+    "label": "Next episode",
+    "url": "KidsInspiringNation.t.me"
+  },
+  "recap": {
+    "at": 530,
+    "title": "Walk with God — every day",
+    "items": [
+      "Enoch walked so close with God he never saw death",
+      "It's a marathon, not a sprint",
+      "Nobody drifts into intimacy — it's chosen daily",
+      "Consistency, not intensity, builds longevity",
+      "Walk with Him for a lifetime, not a moment"
+    ]
+  },
+  "keywords": [
+    { "at": 158, "text": "They all lived long — and still died" }
+  ],
+  "immersion": {
+    "enabled": true,
+    "bed": "audio/sol_e1_bed.mp3",
+    "bedVolume": 0.16,
+    "voiceEnd": 545,
+    "grade": true,
+    "particles": true,
+    "sfx": true,
+    "scriptures": []
+  },
+  "scenes": [
+    {
+      "start": 176,
+      "end": 185,
+      "section": "HE NEVER DIED",
+      "point": "Enoch walked so close with God he never saw death",
+      "ref": "Genesis 5:24",
+      "emoji": "🚶",
+      "noSplit": true,
+      "teaser": "Still ahead: the real secret"
+    },
+    {
+      "start": 344,
+      "end": 356,
+      "section": "THE REAL SECRET",
+      "point": "The miracle isn't drama — it's daily consistency",
+      "ref": "",
+      "emoji": "📅",
+      "noSplit": true
+    },
+    {
+      "start": 386,
+      "end": 392,
+      "section": "A LIFE THAT PLEASES HIM",
+      "point": "A walk with God is a life that pleases God",
+      "ref": "Hebrews 11:5",
+      "emoji": "🙏",
+      "noSplit": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "source": "lf_w4e1.mp4",
+  "title": "HONOR THE BODY",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": false,
+  "wordmarkFill": true,
+  "videoSeconds": 594,
+  "subscribeEvery": 180,
+  "hookAt": 93,
+  "hookText": "The one car you can never replace",
+  "openLoop": "By the end: the one thing God never does to what He builds",
+  "openLoopAt": 130,
+  "teasers": [
+    { "at": 330, "text": "Still ahead: why you can't improve on God's design" },
+    { "at": 458, "text": "Still ahead: what your body is really worth" }
+  ],
+  "recap": {
+    "at": 546,
+    "title": "Honor the Body",
+    "items": [
+      "Your body belongs to God — you're not the owner",
+      "You are God's workmanship, crafted on purpose",
+      "Nothing about you is a mistake or a mis-print",
+      "A steward asks 'how does this serve God?'",
+      "So honor the body: it carries your assignment"
+    ]
+  },
+  "outro": {
+    "at": 558,
+    "day": 2,
+    "total": 5,
+    "next": "Eat well for the Body",
+    "label": "Next episode",
+    "url": "KidsInspiringNation.t.me"
+  },
+  "immersion": {
+    "enabled": true,
+    "bed": "audio/w4_bed.mp3",
+    "bedVolume": 0.1,
+    "voiceEnd": 588,
+    "grade": false,
+    "particles": false,
+    "sfx": true,
+    "scriptures": []
+  },
+  "scenes": [
+    {
+      "start": 177,
+      "end": 186,
+      "section": "GOD'S PROPERTY",
+      "point": "Your body isn't yours — it belongs to God",
+      "ref": "",
+      "emoji": "🏷️",
+      "noSplit": true
+    },
+    {
+      "start": 262,
+      "end": 274,
+      "section": "MADE ON PURPOSE",
+      "point": "You are God's workmanship — crafted, not random",
+      "ref": "",
+      "emoji": "🧬",
+      "noSplit": true
+    },
+    {
+      "start": 405,
+      "end": 416,
+      "section": "BUILT FOR A MISSION",
+      "point": "He made you exactly right for what you're here to do",
+      "ref": "",
+      "emoji": "🎯",
+      "noSplit": true
+    }
+  ]
+}

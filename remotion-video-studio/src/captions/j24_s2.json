@@ -1,0 +1,1006 @@
+{
+ "words": [
+  {
+   "w": "demonstration",
+   "start": 0,
+   "end": 0.14,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 0.14,
+   "end": 0.35,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 0.35,
+   "end": 0.66,
+   "emp": false
+  },
+  {
+   "w": "spirits",
+   "start": 0.66,
+   "end": 1.38,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 1.38,
+   "end": 1.8,
+   "emp": false
+  },
+  {
+   "w": "power",
+   "start": 1.8,
+   "end": 2.22,
+   "emp": true
+  },
+  {
+   "w": "in",
+   "start": 2.22,
+   "end": 2.43,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 2.43,
+   "end": 2.99,
+   "emp": false
+  },
+  {
+   "w": "name",
+   "start": 2.99,
+   "end": 3.16,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 3.16,
+   "end": 3.77,
+   "emp": false
+  },
+  {
+   "w": "Jesus",
+   "start": 3.77,
+   "end": 5.62,
+   "emp": true
+  },
+  {
+   "w": "simple",
+   "start": 5.62,
+   "end": 6.59,
+   "emp": false
+  },
+  {
+   "w": "prayers",
+   "start": 6.59,
+   "end": 7.4,
+   "emp": false
+  },
+  {
+   "w": "can",
+   "start": 7.4,
+   "end": 8.3,
+   "emp": false
+  },
+  {
+   "w": "generate",
+   "start": 8.3,
+   "end": 9.4,
+   "emp": false
+  },
+  {
+   "w": "great",
+   "start": 9.4,
+   "end": 10.08,
+   "emp": false
+  },
+  {
+   "w": "faith",
+   "start": 10.08,
+   "end": 10.69,
+   "emp": true
+  },
+  {
+   "w": "I",
+   "start": 10.69,
+   "end": 11.22,
+   "emp": false
+  },
+  {
+   "w": "did",
+   "start": 11.22,
+   "end": 11.43,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 11.43,
+   "end": 11.59,
+   "emp": false
+  },
+  {
+   "w": "study",
+   "start": 11.59,
+   "end": 12.51,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 12.51,
+   "end": 12.78,
+   "emp": false
+  },
+  {
+   "w": "all",
+   "start": 12.78,
+   "end": 13.29,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 13.29,
+   "end": 13.46,
+   "emp": false
+  },
+  {
+   "w": "prayers",
+   "start": 13.46,
+   "end": 14.26,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 14.26,
+   "end": 14.5,
+   "emp": false
+  },
+  {
+   "w": "Jesus",
+   "start": 14.5,
+   "end": 15.51,
+   "emp": true
+  },
+  {
+   "w": "they",
+   "start": 15.51,
+   "end": 15.75,
+   "emp": false
+  },
+  {
+   "w": "were",
+   "start": 15.75,
+   "end": 16.3,
+   "emp": false
+  },
+  {
+   "w": "just",
+   "start": 16.3,
+   "end": 16.6,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 16.6,
+   "end": 16.92,
+   "emp": false
+  },
+  {
+   "w": "few",
+   "start": 16.92,
+   "end": 17.02,
+   "emp": false
+  },
+  {
+   "w": "words",
+   "start": 17.64,
+   "end": 18.02,
+   "emp": false
+  },
+  {
+   "w": "as",
+   "start": 18.02,
+   "end": 18.28,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 18.28,
+   "end": 18.77,
+   "emp": false
+  },
+  {
+   "w": "was",
+   "start": 18.77,
+   "end": 19.14,
+   "emp": false
+  },
+  {
+   "w": "believed",
+   "start": 19.14,
+   "end": 20.16,
+   "emp": false
+  },
+  {
+   "w": "go",
+   "start": 20.16,
+   "end": 24.24,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 24.24,
+   "end": 24.36,
+   "emp": false
+  },
+  {
+   "w": "cheapest",
+   "start": 24.36,
+   "end": 24.89,
+   "emp": false
+  },
+  {
+   "w": "word",
+   "start": 24.89,
+   "end": 25.15,
+   "emp": false
+  },
+  {
+   "w": "Jesus",
+   "start": 25.15,
+   "end": 25.74,
+   "emp": true
+  },
+  {
+   "w": "spoke",
+   "start": 25.74,
+   "end": 26.03,
+   "emp": false
+  },
+  {
+   "w": "or",
+   "start": 26.03,
+   "end": 26.62,
+   "emp": false
+  },
+  {
+   "w": "two",
+   "start": 26.62,
+   "end": 27.25,
+   "emp": false
+  },
+  {
+   "w": "letters",
+   "start": 27.25,
+   "end": 27.45,
+   "emp": false
+  },
+  {
+   "w": "go",
+   "start": 27.45,
+   "end": 28.16,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 28.16,
+   "end": 29.51,
+   "emp": false
+  },
+  {
+   "w": "will",
+   "start": 29.51,
+   "end": 30.42,
+   "emp": false
+  },
+  {
+   "w": "be",
+   "start": 30.42,
+   "end": 31.2,
+   "emp": false
+  },
+  {
+   "w": "claim",
+   "start": 31.2,
+   "end": 33.22,
+   "emp": false
+  },
+  {
+   "w": "so",
+   "start": 33.22,
+   "end": 33.44,
+   "emp": false
+  },
+  {
+   "w": "there's",
+   "start": 33.44,
+   "end": 33.97,
+   "emp": false
+  },
+  {
+   "w": "no",
+   "start": 33.97,
+   "end": 34.14,
+   "emp": true
+  },
+  {
+   "w": "need",
+   "start": 34.14,
+   "end": 34.63,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 34.63,
+   "end": 34.73,
+   "emp": false
+  },
+  {
+   "w": "trying",
+   "start": 34.69,
+   "end": 35.41,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 35.41,
+   "end": 35.51,
+   "emp": false
+  },
+  {
+   "w": "do",
+   "start": 35.44,
+   "end": 35.62,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 35.62,
+   "end": 36.05,
+   "emp": true
+  },
+  {
+   "w": "know",
+   "start": 36.05,
+   "end": 36.15,
+   "emp": false
+  },
+  {
+   "w": "some",
+   "start": 36.12,
+   "end": 36.28,
+   "emp": false
+  },
+  {
+   "w": "people",
+   "start": 36.28,
+   "end": 36.48,
+   "emp": false
+  },
+  {
+   "w": "like",
+   "start": 36.48,
+   "end": 36.58,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 36.58,
+   "end": 36.68,
+   "emp": false
+  },
+  {
+   "w": "do",
+   "start": 36.68,
+   "end": 36.78,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 36.78,
+   "end": 36.96,
+   "emp": false
+  },
+  {
+   "w": "we",
+   "start": 36.96,
+   "end": 37.11,
+   "emp": false
+  },
+  {
+   "w": "do",
+   "start": 37.11,
+   "end": 37.21,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 37.39,
+   "end": 37.78,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 37.78,
+   "end": 37.89,
+   "emp": false
+  },
+  {
+   "w": "name",
+   "start": 37.89,
+   "end": 38.48,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 38.48,
+   "end": 38.8,
+   "emp": false
+  },
+  {
+   "w": "God",
+   "start": 38.8,
+   "end": 39.21,
+   "emp": true
+  },
+  {
+   "w": "the",
+   "start": 39.21,
+   "end": 40.08,
+   "emp": false
+  },
+  {
+   "w": "father",
+   "start": 40.08,
+   "end": 40.53,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 40.53,
+   "end": 40.82,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 40.82,
+   "end": 41.37,
+   "emp": false
+  },
+  {
+   "w": "name",
+   "start": 41.37,
+   "end": 41.87,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 41.87,
+   "end": 42.15,
+   "emp": false
+  },
+  {
+   "w": "God",
+   "start": 42.15,
+   "end": 42.79,
+   "emp": true
+  },
+  {
+   "w": "the",
+   "start": 42.79,
+   "end": 43.1,
+   "emp": false
+  },
+  {
+   "w": "son",
+   "start": 43.1,
+   "end": 43.22,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 43.22,
+   "end": 43.76,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 43.76,
+   "end": 43.91,
+   "emp": false
+  },
+  {
+   "w": "name",
+   "start": 43.91,
+   "end": 44.06,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 44.06,
+   "end": 44.26,
+   "emp": false
+  },
+  {
+   "w": "God",
+   "start": 44.26,
+   "end": 44.38,
+   "emp": true
+  },
+  {
+   "w": "the",
+   "start": 44.38,
+   "end": 44.48,
+   "emp": false
+  },
+  {
+   "w": "spirit",
+   "start": 44.42,
+   "end": 44.76,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 44.76,
+   "end": 45.04,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 45.04,
+   "end": 45.14,
+   "emp": false
+  },
+  {
+   "w": "name",
+   "start": 45.04,
+   "end": 45.27,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 45.27,
+   "end": 45.38,
+   "emp": false
+  },
+  {
+   "w": "holy",
+   "start": 45.38,
+   "end": 45.61,
+   "emp": false
+  },
+  {
+   "w": "angel",
+   "start": 45.61,
+   "end": 45.92,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 45.92,
+   "end": 46.48,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 46.48,
+   "end": 47.43,
+   "emp": false
+  },
+  {
+   "w": "name",
+   "start": 47.43,
+   "end": 48.56,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 48.56,
+   "end": 48.66,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 48.56,
+   "end": 48.66,
+   "emp": false
+  },
+  {
+   "w": "angel",
+   "start": 48.56,
+   "end": 48.66,
+   "emp": false
+  },
+  {
+   "w": "Michael",
+   "start": 48.56,
+   "end": 48.66,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 48.56,
+   "end": 48.66,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 48.56,
+   "end": 48.66,
+   "emp": false
+  },
+  {
+   "w": "name",
+   "start": 48.56,
+   "end": 48.66,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 48.56,
+   "end": 48.66,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 48.56,
+   "end": 48.66,
+   "emp": false
+  },
+  {
+   "w": "angel",
+   "start": 48.56,
+   "end": 48.9,
+   "emp": false
+  },
+  {
+   "w": "Gabriel",
+   "start": 48.9,
+   "end": 49.18,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 49.18,
+   "end": 49.28,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 49.24,
+   "end": 49.36,
+   "emp": false
+  },
+  {
+   "w": "name",
+   "start": 49.36,
+   "end": 49.53,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 49.53,
+   "end": 49.63,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 49.61,
+   "end": 49.76,
+   "emp": false
+  },
+  {
+   "w": "father",
+   "start": 49.76,
+   "end": 50.07,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 50.07,
+   "end": 50.2,
+   "emp": false
+  },
+  {
+   "w": "Abraham",
+   "start": 50.2,
+   "end": 50.56,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 50.56,
+   "end": 50.84,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 50.84,
+   "end": 50.94,
+   "emp": false
+  },
+  {
+   "w": "name",
+   "start": 50.9,
+   "end": 51.19,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 51.19,
+   "end": 51.4,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 51.4,
+   "end": 51.58,
+   "emp": false
+  },
+  {
+   "w": "father",
+   "start": 51.58,
+   "end": 51.72,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 51.72,
+   "end": 51.92,
+   "emp": false
+  },
+  {
+   "w": "Isaac",
+   "start": 51.92,
+   "end": 52.27,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 52.27,
+   "end": 52.64,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 52.64,
+   "end": 52.89,
+   "emp": false
+  },
+  {
+   "w": "name",
+   "start": 52.89,
+   "end": 52.99,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 52.96,
+   "end": 53.06,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 53.05,
+   "end": 53.26,
+   "emp": false
+  },
+  {
+   "w": "father",
+   "start": 53.26,
+   "end": 53.47,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 53.47,
+   "end": 53.57,
+   "emp": false
+  },
+  {
+   "w": "Jacob",
+   "start": 53.56,
+   "end": 53.79,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 53.79,
+   "end": 53.91,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 53.91,
+   "end": 54.01,
+   "emp": false
+  },
+  {
+   "w": "name",
+   "start": 54.01,
+   "end": 54.2,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 54.2,
+   "end": 54.3,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 54.29,
+   "end": 54.43,
+   "emp": false
+  },
+  {
+   "w": "God",
+   "start": 54.43,
+   "end": 54.57,
+   "emp": true
+  },
+  {
+   "w": "who",
+   "start": 54.57,
+   "end": 54.7,
+   "emp": false
+  },
+  {
+   "w": "was",
+   "start": 54.7,
+   "end": 54.92,
+   "emp": false
+  },
+  {
+   "w": "who",
+   "start": 54.92,
+   "end": 55.44,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 55.44,
+   "end": 55.66,
+   "emp": false
+  },
+  {
+   "w": "who",
+   "start": 55.66,
+   "end": 55.92,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 55.92,
+   "end": 56.02,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 56,
+   "end": 56.1,
+   "emp": false
+  },
+  {
+   "w": "called",
+   "start": 56.05,
+   "end": 56.3,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 56.3,
+   "end": 56.52,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 56.52,
+   "end": 56.77,
+   "emp": false
+  },
+  {
+   "w": "name",
+   "start": 56.77,
+   "end": 56.87,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 56.84,
+   "end": 56.94,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 56.92,
+   "end": 57.14,
+   "emp": false
+  },
+  {
+   "w": "God",
+   "start": 57.14,
+   "end": 57.24,
+   "emp": true
+  },
+  {
+   "w": "surrounding",
+   "start": 57.18,
+   "end": 57.68,
+   "emp": false
+  },
+  {
+   "w": "us",
+   "start": 57.68,
+   "end": 57.78,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 57.78,
+   "end": 57.88,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 57.86,
+   "end": 57.99,
+   "emp": false
+  },
+  {
+   "w": "name",
+   "start": 57.99,
+   "end": 58.17,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 58.17,
+   "end": 58.3,
+   "emp": false
+  },
+  {
+   "w": "Abba",
+   "start": 58.3,
+   "end": 59.53,
+   "emp": false
+  },
+  {
+   "w": "simple",
+   "start": 59.53,
+   "end": 60.08,
+   "emp": false
+  },
+  {
+   "w": "prayers",
+   "start": 60.08,
+   "end": 60.73,
+   "emp": false
+  },
+  {
+   "w": "long",
+   "start": 60.73,
+   "end": 62.66,
+   "emp": false
+  },
+  {
+   "w": "prayers",
+   "start": 62.66,
+   "end": 63.04,
+   "emp": false
+  },
+  {
+   "w": "reduce",
+   "start": 63.04,
+   "end": 65.3,
+   "emp": false
+  },
+  {
+   "w": "potency",
+   "start": 65.92,
+   "end": 67.3,
+   "emp": false
+  }
+ ]
+}

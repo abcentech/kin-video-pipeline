@@ -1,0 +1,91 @@
+{
+  "source": "lf_fih_jun25.mp4",
+  "title": "PRAY IN FAITH",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": false,
+  "videoSeconds": 573,
+  "subscribeEvery": 180,
+  "wordmarkFill": true,
+  "hookAt": 99,
+  "hookText": "HOW DO YOU PRAY IN FAITH?",
+  "openLoop": "Why some are healed instantly — and others gradually",
+  "keywords": [
+    { "at": 230, "text": "Expect to receive" },
+    { "at": 310, "text": "Just expect" }
+  ],
+  "recap": {
+    "at": 518,
+    "title": "How to pray in faith",
+    "items": [
+      "Pray in faith — expect God",
+      "Faith is God-fidence",
+      "Healing comes — instant or gradual",
+      "Don't fear — believe He's working",
+      "Keep your eyes on Jesus"
+    ]
+  },
+  "outro": {
+    "at": 535,
+    "next": "Give God the glory — refuse the credit"
+  },
+  "scenes": [
+    {
+      "start": 219,
+      "end": 228,
+      "section": "GOD-FIDENCE",
+      "point": "Faith is God-fidence — confidence in Christ's finished work",
+      "ref": "1 Peter 2:24",
+      "emoji": "💪",
+      "noSplit": true,
+      "teaser": "Why some healings take time"
+    },
+    {
+      "start": 286,
+      "end": 297,
+      "section": "INSTANT OR GRADUAL",
+      "point": "Expect healing — whether it comes instantly or gradually",
+      "ref": "",
+      "emoji": "⏳",
+      "noSplit": true,
+      "teaser": "Don't pick God's timing for Him"
+    },
+    {
+      "start": 348,
+      "end": 359,
+      "section": "HIS TIME, NOT YOURS",
+      "point": "Expect God to work on His time, not your schedule",
+      "ref": "",
+      "emoji": "🕊️",
+      "noSplit": true
+    },
+    {
+      "start": 394,
+      "end": 405,
+      "section": "ALWAYS WORKING",
+      "point": "Believe He's working — even when you can't see it",
+      "ref": "",
+      "emoji": "👁️",
+      "noSplit": true,
+      "teaser": "The fear that blocks your healing"
+    },
+    {
+      "start": 439,
+      "end": 450,
+      "section": "DO NOT FEAR",
+      "point": "Don't fear — God said it 365 times. Healing is your daily bread",
+      "ref": "Matthew 6:11",
+      "emoji": "🛡️",
+      "noSplit": true
+    },
+    {
+      "start": 470,
+      "end": 481,
+      "section": "LOOK UNTO JESUS",
+      "point": "Keep your eyes on Jesus, not the symptoms",
+      "ref": "Hebrews 12:2",
+      "emoji": "⚓",
+      "noSplit": true
+    }
+  ]
+}

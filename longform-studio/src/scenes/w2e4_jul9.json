@@ -1,0 +1,94 @@
+{
+  "source": "lf_w2e4_jul9.mp4",
+  "title": "LIVE LONG BY FAITH",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": false,
+  "videoSeconds": 617,
+  "subscribeEvery": 180,
+  "wordmarkFill": true,
+  "hookAt": 134,
+  "hookText": "The secret to a long life is repeated 4 times in the Bible",
+  "openLoop": "Coming up: why faith is a marathon, not a sprint",
+  "openLoopAt": 148,
+  "outro": {
+    "at": 588,
+    "day": 4,
+    "total": 5,
+    "next": "No Spectator Seasons — Every Season Has an Assignment",
+    "label": "Next episode",
+    "url": "KidsInspiringNation.t.me"
+  },
+  "recap": {
+    "at": 547,
+    "title": "The just shall live by faith",
+    "items": [
+      "No one lives long and productive without walking by faith",
+      "Faith believes before it sees the results",
+      "God shows the next step, not the whole staircase",
+      "Faith is the ability to plod on, day after day",
+      "God builds you for the load, not the applause"
+    ]
+  },
+  "keywords": [
+    { "at": 405, "text": "One step at a time" }
+  ],
+  "immersion": {
+    "enabled": true,
+    "bed": "audio/sol_e1_bed.mp3",
+    "bedVolume": 0.16,
+    "voiceEnd": 611,
+    "grade": true,
+    "particles": true,
+    "sfx": true,
+    "scriptures": []
+  },
+  "scenes": [
+    {
+      "start": 229,
+      "end": 239,
+      "section": "NO SHORTCUT",
+      "point": "No one lives long and productive without walking by faith",
+      "ref": "Hebrews 11:1",
+      "emoji": "🚶",
+      "noSplit": true,
+      "teaser": "Still ahead: how God really moves you forward"
+    },
+    {
+      "start": 297,
+      "end": 306,
+      "section": "BELIEVE FIRST",
+      "point": "Faith believes before it sees the results",
+      "ref": "",
+      "emoji": "🌱",
+      "noSplit": true
+    },
+    {
+      "start": 406,
+      "end": 415,
+      "section": "THE NEXT STEP",
+      "point": "God shows the next step, not the whole staircase",
+      "ref": "",
+      "emoji": "🪜",
+      "noSplit": true
+    },
+    {
+      "start": 495,
+      "end": 504,
+      "section": "THE MARATHON",
+      "point": "Faith is the ability to plod on, day after day",
+      "ref": "",
+      "emoji": "🏃",
+      "noSplit": true
+    },
+    {
+      "start": 520,
+      "end": 528,
+      "section": "BUILT FOR THE LOAD",
+      "point": "God builds you for the load, not the applause",
+      "ref": "",
+      "emoji": "🌉",
+      "noSplit": true
+    }
+  ]
+}

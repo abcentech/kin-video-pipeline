@@ -1,0 +1,228 @@
+{
+  "source": "lf_jul14.mp4",
+  "title": "Sustaining Life in a Sound Body",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": true,
+  "wordmarkFill": true,
+  "subscribeEvery": 180,
+  "videoSeconds": 475.7,
+  "openLoop": "Stay to the end: the secret that kept a man strong at 85",
+  "openLoopAt": 17.0,
+  "teasers": [
+    {
+      "at": 137.0,
+      "text": "Still ahead: the 85-year-old who claimed a mountain"
+    },
+    {
+      "at": 269.0,
+      "text": "Still ahead: why your thoughts carve your future"
+    }
+  ],
+  "immersion": {
+    "enabled": true,
+    "grade": false,
+    "particles": false,
+    "sfx": true,
+    "bed": "audio/jul14_bed.mp3",
+    "bedVolume": 0.12,
+    "voiceEnd": 475.0,
+    "scriptures": [
+      {
+        "at": 29.0,
+        "ref": "Romans 12:2",
+        "text": "And **be not conformed to this world: but be transformed by the renewing of your mind**, that ye may prove what is that good, and acceptable, and perfect, will of God.",
+        "place": "full",
+        "hold": 8
+      },
+      {
+        "at": 119.0,
+        "ref": "Proverbs 23:7",
+        "text": "**For as he thinketh in his heart, so is he**: Eat and drink, saith he to thee; but his heart is not with thee.",
+        "place": "full",
+        "hold": 7
+      },
+      {
+        "at": 155.0,
+        "ref": "Psalm 91:1",
+        "text": "**He that dwelleth in the secret place of the most High** shall abide under the shadow of the Almighty.",
+        "place": "full",
+        "hold": 7
+      },
+      {
+        "at": 307.0,
+        "ref": "2 Timothy 1:7",
+        "text": "**For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.**",
+        "place": "full",
+        "hold": 8
+      },
+      {
+        "at": 400.0,
+        "ref": "Philippians 4:8",
+        "text": "Finally, brethren, **whatsoever things are true**, whatsoever things are **honest**, whatsoever things are **just**, whatsoever things are **pure**, whatsoever things are **lovely**, whatsoever things are of **good report**; if there be any **virtue**, and if there be any **praise**, **think on these things**.",
+        "place": "full",
+        "hold": 8.5
+      },
+      {
+        "at": 413.0,
+        "ref": "Psalm 91:16",
+        "text": "**With long life will I satisfy him**, and shew him my salvation.",
+        "place": "full",
+        "hold": 7
+      },
+      {
+        "at": 420.5,
+        "ref": "Psalm 92:14",
+        "text": "**They shall still bring forth fruit in old age; they shall be fat and flourishing**; to shew that the LORD is upright.",
+        "place": "full",
+        "hold": 7
+      }
+    ]
+  },
+  "recap": {
+    "at": 445.0,
+    "title": "Renew Your Mind",
+    "items": [
+      "The secret place is a condition of your mind",
+      "Eden is no more a place \u2014 you are the garden of God",
+      "Thoughts shape words, acts, habits, destiny",
+      "Reject fear: God gave you a sound mind",
+      "Think God's promises, not your environment"
+    ]
+  },
+  "outro": {
+    "at": 460.0,
+    "day": 3,
+    "total": 5,
+    "next": "Choose Joy",
+    "label": "Next episode",
+    "url": "KidsInspiringNation.t.me"
+  },
+  "scenes": [
+    {
+      "start": 1.0,
+      "end": 8.5,
+      "section": "SUSTAINING LIFE IN A SOUND BODY",
+      "point": "How do you sustain your life in a sound body?",
+      "emoji": "\ud83e\udde0",
+      "noSplit": true
+    },
+    {
+      "start": 43.0,
+      "end": 52.0,
+      "section": "PSALM 91:1",
+      "point": "The secret place is a condition of the mind",
+      "ref": "Psalm 91:1",
+      "emoji": "\ud83d\udd4a\ufe0f",
+      "image": "jul14_slide03.png",
+      "motion": "push-in",
+      "full": true
+    },
+    {
+      "start": 78.0,
+      "end": 88.0,
+      "section": "THE INNER VOICE",
+      "point": "Your longest conversation is the one in your mind",
+      "emoji": "\ud83d\udcad",
+      "image": "jul14_slide02.png",
+      "motion": "dolly-left",
+      "full": true
+    },
+    {
+      "start": 169.0,
+      "end": 178.0,
+      "section": "YOU ARE GOD'S GARDEN",
+      "point": "Eden is no more a place \u2014 you are the garden of God",
+      "emoji": "\ud83c\udf3f",
+      "image": "jul14_slide04.png",
+      "motion": "push-in",
+      "full": true
+    },
+    {
+      "start": 197.0,
+      "end": 208.0,
+      "section": "THE FLOW OF TRANSFORMATION",
+      "point": "Thoughts \u2192 words \u2192 acts \u2192 habits \u2192 destiny",
+      "emoji": "\ud83c\udf0a",
+      "image": "jul14_slide05.png",
+      "motion": "crane-up",
+      "full": true
+    },
+    {
+      "start": 225.0,
+      "end": 232.0,
+      "section": "TWO KINDS OF THOUGHTS",
+      "point": "Fearful thoughts wear the body down \u2014 faith-thoughts renew it",
+      "emoji": "\u2696\ufe0f",
+      "noSplit": true
+    },
+    {
+      "start": 247.0,
+      "end": 257.0,
+      "section": "STILL STRONG AT 85",
+      "point": "Caleb: give me this mountain \u2014 it is mine",
+      "ref": "Joshua 14:12",
+      "emoji": "\u26f0\ufe0f",
+      "image": "jul14_slide08.png",
+      "motion": "dolly-right",
+      "full": true
+    },
+    {
+      "start": 282.0,
+      "end": 291.0,
+      "section": "FILL YOUR MIND",
+      "point": "Don't just empty the mind \u2014 fill it with God-thoughts",
+      "emoji": "\u2728",
+      "image": "jul14_slide09.png",
+      "motion": "push-in",
+      "full": true
+    },
+    {
+      "start": 295.0,
+      "end": 304.0,
+      "section": "A SOUND MIND",
+      "point": "God gave you power, love and a sound mind",
+      "ref": "2 Timothy 1:7",
+      "emoji": "\ud83d\udee1\ufe0f",
+      "image": "jul14_slide06.png",
+      "motion": "dolly-left",
+      "full": true
+    },
+    {
+      "start": 319.0,
+      "end": 326.0,
+      "section": "THINK LONGEVITY",
+      "point": "A sound mind thinks life, not fear",
+      "emoji": "\ud83c\udf31",
+      "noSplit": true
+    },
+    {
+      "start": 374.0,
+      "end": 384.0,
+      "section": "GUARD YOUR FOCUS",
+      "point": "You attract what you are \u2014 you attract how you think",
+      "emoji": "\ud83c\udfaf",
+      "image": "jul14_slide07.png",
+      "motion": "push-in",
+      "full": true
+    },
+    {
+      "start": 431.0,
+      "end": 443.0,
+      "section": "THE RIVER OF THOUGHT",
+      "point": "Your thoughts follow the channel carved in your mind",
+      "emoji": "\ud83c\udfde\ufe0f",
+      "image": "jul14_slide10.png",
+      "motion": "crane-up",
+      "full": true
+    },
+    {
+      "start": 456.0,
+      "end": 462.0,
+      "section": "SEVEN DECADES",
+      "point": "Think longevity \u2014 and you will live it",
+      "emoji": "\ud83d\udd25",
+      "noSplit": true
+    }
+  ]
+}

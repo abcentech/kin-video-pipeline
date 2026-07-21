@@ -1,0 +1,28 @@
+# deps & build output
+node_modules/
+out/
+dist/
+.DS_Store
+
+# large ML models — fetched via scripts/fetch_models.sh
+models/*.bin
+models/*.onnx
+
+# episode media (never commit shoots / renders / graded sources)
+*.mp4
+*.mov
+*.MP4
+# ...but keep the reusable branded shorts closing clip
+!skills/video-to-short/assets/closing_9x16.mp4
+
+# generated per-episode assets
+*_hero*.png
+*_slide*.png
+*_depth.png
+*.wav
+build/transcripts/
+cmus_tmp*
+
+# secrets — keys live in the environment / .env (never committed)
+.env
+.env.local

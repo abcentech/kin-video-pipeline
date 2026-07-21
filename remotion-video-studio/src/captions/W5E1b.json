@@ -1,0 +1,460 @@
+{
+ "words": [
+  {
+   "w": "Life,",
+   "start": 0.22,
+   "end": 2.4,
+   "emp": false
+  },
+  {
+   "w": "like",
+   "start": 2.4,
+   "end": 2.92,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 2.92,
+   "end": 3.02,
+   "emp": false
+  },
+  {
+   "w": "think",
+   "start": 3.02,
+   "end": 3.53,
+   "emp": false
+  },
+  {
+   "w": "they",
+   "start": 3.53,
+   "end": 4.34,
+   "emp": false
+  },
+  {
+   "w": "said,",
+   "start": 4.34,
+   "end": 5.06,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 5.06,
+   "end": 5.2,
+   "emp": false
+  },
+  {
+   "w": "like",
+   "start": 5.2,
+   "end": 5.35,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 5.35,
+   "end": 5.45,
+   "emp": false
+  },
+  {
+   "w": "bicycle.",
+   "start": 5.42,
+   "end": 5.96,
+   "emp": true
+  },
+  {
+   "w": "You",
+   "start": 7.06,
+   "end": 7.16,
+   "emp": false
+  },
+  {
+   "w": "need",
+   "start": 7.06,
+   "end": 7.16,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 7.06,
+   "end": 7.16,
+   "emp": false
+  },
+  {
+   "w": "keep",
+   "start": 7.08,
+   "end": 7.28,
+   "emp": false
+  },
+  {
+   "w": "pedaling",
+   "start": 7.28,
+   "end": 7.84,
+   "emp": true
+  },
+  {
+   "w": "so",
+   "start": 7.84,
+   "end": 8.01,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 8.01,
+   "end": 8.45,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 8.45,
+   "end": 8.82,
+   "emp": false
+  },
+  {
+   "w": "don't",
+   "start": 8.82,
+   "end": 9.09,
+   "emp": false
+  },
+  {
+   "w": "fall.",
+   "start": 9.09,
+   "end": 9.74,
+   "emp": true
+  },
+  {
+   "w": "For",
+   "start": 10.22,
+   "end": 10.44,
+   "emp": false
+  },
+  {
+   "w": "faith,",
+   "start": 10.44,
+   "end": 10.75,
+   "emp": true
+  },
+  {
+   "w": "healing.",
+   "start": 10.75,
+   "end": 11.8,
+   "emp": false
+  },
+  {
+   "w": "Healing",
+   "start": 12.7,
+   "end": 12.8,
+   "emp": false
+  },
+  {
+   "w": "by",
+   "start": 12.7,
+   "end": 12.92,
+   "emp": false
+  },
+  {
+   "w": "faith",
+   "start": 12.92,
+   "end": 13.06,
+   "emp": true
+  },
+  {
+   "w": "is",
+   "start": 13.06,
+   "end": 13.23,
+   "emp": false
+  },
+  {
+   "w": "also",
+   "start": 13.23,
+   "end": 13.59,
+   "emp": false
+  },
+  {
+   "w": "like",
+   "start": 13.59,
+   "end": 13.96,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 13.96,
+   "end": 14.46,
+   "emp": false
+  },
+  {
+   "w": "bicycle.",
+   "start": 14.46,
+   "end": 14.96,
+   "emp": true
+  },
+  {
+   "w": "You",
+   "start": 15.58,
+   "end": 15.71,
+   "emp": false
+  },
+  {
+   "w": "need",
+   "start": 15.71,
+   "end": 15.81,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 15.8,
+   "end": 15.92,
+   "emp": false
+  },
+  {
+   "w": "keep",
+   "start": 15.92,
+   "end": 16.35,
+   "emp": false
+  },
+  {
+   "w": "trusting",
+   "start": 16.35,
+   "end": 17.34,
+   "emp": true
+  },
+  {
+   "w": "so",
+   "start": 17.34,
+   "end": 17.44,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 17.42,
+   "end": 17.74,
+   "emp": false
+  },
+  {
+   "w": "don't",
+   "start": 17.74,
+   "end": 18.29,
+   "emp": false
+  },
+  {
+   "w": "get",
+   "start": 18.29,
+   "end": 18.59,
+   "emp": false
+  },
+  {
+   "w": "sick.",
+   "start": 18.59,
+   "end": 19.4,
+   "emp": true
+  },
+  {
+   "w": "The",
+   "start": 20.32,
+   "end": 20.42,
+   "emp": false
+  },
+  {
+   "w": "goal",
+   "start": 20.32,
+   "end": 20.42,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 20.32,
+   "end": 20.42,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 20.34,
+   "end": 20.54,
+   "emp": false
+  },
+  {
+   "w": "continue",
+   "start": 20.54,
+   "end": 21.05,
+   "emp": false
+  },
+  {
+   "w": "pedaling.",
+   "start": 21.05,
+   "end": 22.04,
+   "emp": true
+  },
+  {
+   "w": "Healing",
+   "start": 23.42,
+   "end": 23.52,
+   "emp": false
+  },
+  {
+   "w": "by",
+   "start": 23.42,
+   "end": 23.64,
+   "emp": false
+  },
+  {
+   "w": "faith,",
+   "start": 23.64,
+   "end": 24.25,
+   "emp": true
+  },
+  {
+   "w": "living",
+   "start": 24.25,
+   "end": 25.18,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 25.18,
+   "end": 25.36,
+   "emp": false
+  },
+  {
+   "w": "health",
+   "start": 25.36,
+   "end": 26.19,
+   "emp": false
+  },
+  {
+   "w": "by",
+   "start": 26.19,
+   "end": 26.67,
+   "emp": false
+  },
+  {
+   "w": "faith,",
+   "start": 26.67,
+   "end": 27.33,
+   "emp": true
+  },
+  {
+   "w": "is",
+   "start": 27.33,
+   "end": 27.44,
+   "emp": false
+  },
+  {
+   "w": "like",
+   "start": 27.44,
+   "end": 27.67,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 27.67,
+   "end": 27.77,
+   "emp": false
+  },
+  {
+   "w": "bicycle.",
+   "start": 27.72,
+   "end": 28.32,
+   "emp": true
+  },
+  {
+   "w": "You",
+   "start": 28.52,
+   "end": 28.62,
+   "emp": false
+  },
+  {
+   "w": "need",
+   "start": 28.54,
+   "end": 28.81,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 28.81,
+   "end": 28.95,
+   "emp": false
+  },
+  {
+   "w": "keep",
+   "start": 28.95,
+   "end": 29.22,
+   "emp": false
+  },
+  {
+   "w": "pedaling",
+   "start": 29.22,
+   "end": 29.68,
+   "emp": true
+  },
+  {
+   "w": "so",
+   "start": 29.68,
+   "end": 30.08,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 30.08,
+   "end": 30.18,
+   "emp": false
+  },
+  {
+   "w": "don't",
+   "start": 30.13,
+   "end": 30.47,
+   "emp": false
+  },
+  {
+   "w": "fall.",
+   "start": 30.47,
+   "end": 30.98,
+   "emp": true
+  },
+  {
+   "w": "Understand",
+   "start": 31.54,
+   "end": 31.85,
+   "emp": false
+  },
+  {
+   "w": "finally",
+   "start": 31.85,
+   "end": 32.43,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 32.43,
+   "end": 32.79,
+   "emp": false
+  },
+  {
+   "w": "faith",
+   "start": 32.79,
+   "end": 33.3,
+   "emp": true
+  },
+  {
+   "w": "keeps",
+   "start": 33.3,
+   "end": 33.65,
+   "emp": false
+  },
+  {
+   "w": "looking",
+   "start": 33.65,
+   "end": 34.25,
+   "emp": false
+  },
+  {
+   "w": "at",
+   "start": 34.25,
+   "end": 34.44,
+   "emp": false
+  },
+  {
+   "w": "Jesus.",
+   "start": 34.44,
+   "end": 35.16,
+   "emp": false
+  }
+ ]
+}

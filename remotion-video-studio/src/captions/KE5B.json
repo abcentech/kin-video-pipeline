@@ -1,0 +1,538 @@
+{
+ "words": [
+  {
+   "w": "because",
+   "start": 0.02,
+   "end": 1.18,
+   "emp": false
+  },
+  {
+   "w": "longevity",
+   "start": 1.18,
+   "end": 1.76,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 1.76,
+   "end": 2.04,
+   "emp": false
+  },
+  {
+   "w": "God",
+   "start": 2.04,
+   "end": 2.17,
+   "emp": true
+  },
+  {
+   "w": "means",
+   "start": 2.17,
+   "end": 2.4,
+   "emp": false
+  },
+  {
+   "w": "serving",
+   "start": 2.4,
+   "end": 2.77,
+   "emp": false
+  },
+  {
+   "w": "him",
+   "start": 2.77,
+   "end": 2.93,
+   "emp": false
+  },
+  {
+   "w": "faithfully",
+   "start": 2.93,
+   "end": 3.58,
+   "emp": false
+  },
+  {
+   "w": "across",
+   "start": 3.58,
+   "end": 4.32,
+   "emp": false
+  },
+  {
+   "w": "what?",
+   "start": 4.32,
+   "end": 4.6,
+   "emp": false
+  },
+  {
+   "w": "Seasons.",
+   "start": 5.1,
+   "end": 5.54,
+   "emp": false
+  },
+  {
+   "w": "Serving",
+   "start": 6.5,
+   "end": 6.6,
+   "emp": false
+  },
+  {
+   "w": "him",
+   "start": 6.5,
+   "end": 6.6,
+   "emp": false
+  },
+  {
+   "w": "faithfully",
+   "start": 6.52,
+   "end": 7.66,
+   "emp": false
+  },
+  {
+   "w": "across",
+   "start": 7.66,
+   "end": 7.76,
+   "emp": false
+  },
+  {
+   "w": "seasons.",
+   "start": 7.68,
+   "end": 8.52,
+   "emp": false
+  },
+  {
+   "w": "So,",
+   "start": 9.12,
+   "end": 9.22,
+   "emp": false
+  },
+  {
+   "w": "childhood",
+   "start": 9.14,
+   "end": 9.44,
+   "emp": false
+  },
+  {
+   "w": "has",
+   "start": 9.44,
+   "end": 9.65,
+   "emp": false
+  },
+  {
+   "w": "an",
+   "start": 9.65,
+   "end": 10.3,
+   "emp": false
+  },
+  {
+   "w": "assignment.",
+   "start": 10.3,
+   "end": 10.54,
+   "emp": false
+  },
+  {
+   "w": "1",
+   "start": 11.32,
+   "end": 11.42,
+   "emp": false
+  },
+  {
+   "w": "Samuel",
+   "start": 11.32,
+   "end": 11.42,
+   "emp": false
+  },
+  {
+   "w": "chapter",
+   "start": 11.34,
+   "end": 11.87,
+   "emp": false
+  },
+  {
+   "w": "3,",
+   "start": 11.87,
+   "end": 12.14,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 12.58,
+   "end": 12.68,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 12.58,
+   "end": 12.68,
+   "emp": false
+  },
+  {
+   "w": "boy",
+   "start": 12.6,
+   "end": 12.7,
+   "emp": false
+  },
+  {
+   "w": "Samuel",
+   "start": 12.68,
+   "end": 13.05,
+   "emp": false
+  },
+  {
+   "w": "ministered",
+   "start": 13.05,
+   "end": 13.76,
+   "emp": false
+  },
+  {
+   "w": "before",
+   "start": 13.76,
+   "end": 14.04,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 14.04,
+   "end": 14.22,
+   "emp": false
+  },
+  {
+   "w": "Lord",
+   "start": 14.22,
+   "end": 14.52,
+   "emp": false
+  },
+  {
+   "w": "while",
+   "start": 14.52,
+   "end": 14.75,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 14.75,
+   "end": 14.85,
+   "emp": false
+  },
+  {
+   "w": "was",
+   "start": 14.84,
+   "end": 14.98,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 14.98,
+   "end": 15.08,
+   "emp": false
+  },
+  {
+   "w": "child.",
+   "start": 15.02,
+   "end": 15.42,
+   "emp": false
+  },
+  {
+   "w": "Samuel,",
+   "start": 17.66,
+   "end": 17.98,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 17.98,
+   "end": 18.09,
+   "emp": false
+  },
+  {
+   "w": "young",
+   "start": 18.09,
+   "end": 18.84,
+   "emp": false
+  },
+  {
+   "w": "man,",
+   "start": 18.84,
+   "end": 19,
+   "emp": false
+  },
+  {
+   "w": "wasn't",
+   "start": 20.6,
+   "end": 20.7,
+   "emp": false
+  },
+  {
+   "w": "too",
+   "start": 20.6,
+   "end": 20.7,
+   "emp": false
+  },
+  {
+   "w": "small",
+   "start": 20.62,
+   "end": 21.32,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 21.32,
+   "end": 21.42,
+   "emp": false
+  },
+  {
+   "w": "hear",
+   "start": 21.42,
+   "end": 21.77,
+   "emp": false
+  },
+  {
+   "w": "God.",
+   "start": 21.77,
+   "end": 21.92,
+   "emp": true
+  },
+  {
+   "w": "He",
+   "start": 22.76,
+   "end": 22.86,
+   "emp": false
+  },
+  {
+   "w": "was",
+   "start": 22.76,
+   "end": 22.86,
+   "emp": false
+  },
+  {
+   "w": "called",
+   "start": 22.76,
+   "end": 22.86,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 22.78,
+   "end": 22.94,
+   "emp": false
+  },
+  {
+   "w": "first",
+   "start": 22.94,
+   "end": 23.31,
+   "emp": false
+  },
+  {
+   "w": "time.",
+   "start": 23.31,
+   "end": 23.86,
+   "emp": false
+  },
+  {
+   "w": "He",
+   "start": 24.18,
+   "end": 24.28,
+   "emp": false
+  },
+  {
+   "w": "went",
+   "start": 24.2,
+   "end": 24.37,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 24.37,
+   "end": 24.54,
+   "emp": false
+  },
+  {
+   "w": "his",
+   "start": 24.54,
+   "end": 25.36,
+   "emp": false
+  },
+  {
+   "w": "apparently",
+   "start": 25.36,
+   "end": 25.78,
+   "emp": false
+  },
+  {
+   "w": "adopted",
+   "start": 25.78,
+   "end": 26.8,
+   "emp": false
+  },
+  {
+   "w": "father,",
+   "start": 26.8,
+   "end": 27.34,
+   "emp": false
+  },
+  {
+   "w": "Eli,",
+   "start": 27.34,
+   "end": 27.82,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 28.24,
+   "end": 28.34,
+   "emp": false
+  },
+  {
+   "w": "said,",
+   "start": 28.26,
+   "end": 28.54,
+   "emp": false
+  },
+  {
+   "w": "sir,",
+   "start": 28.54,
+   "end": 28.7,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 28.7,
+   "end": 28.8,
+   "emp": true
+  },
+  {
+   "w": "called",
+   "start": 28.8,
+   "end": 29,
+   "emp": false
+  },
+  {
+   "w": "me.",
+   "start": 29,
+   "end": 29.18,
+   "emp": false
+  },
+  {
+   "w": "He",
+   "start": 29.36,
+   "end": 29.46,
+   "emp": false
+  },
+  {
+   "w": "said,",
+   "start": 29.38,
+   "end": 29.48,
+   "emp": false
+  },
+  {
+   "w": "no,",
+   "start": 29.46,
+   "end": 29.6,
+   "emp": true
+  },
+  {
+   "w": "I",
+   "start": 29.6,
+   "end": 29.7,
+   "emp": false
+  },
+  {
+   "w": "didn't.",
+   "start": 29.63,
+   "end": 29.98,
+   "emp": false
+  },
+  {
+   "w": "After",
+   "start": 30.02,
+   "end": 30.3,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 30.3,
+   "end": 30.48,
+   "emp": false
+  },
+  {
+   "w": "third",
+   "start": 30.48,
+   "end": 30.79,
+   "emp": false
+  },
+  {
+   "w": "time,",
+   "start": 30.79,
+   "end": 31.23,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 31.23,
+   "end": 31.42,
+   "emp": false
+  },
+  {
+   "w": "said",
+   "start": 31.42,
+   "end": 31.8,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 31.8,
+   "end": 32,
+   "emp": false
+  },
+  {
+   "w": "me,",
+   "start": 32,
+   "end": 32.24,
+   "emp": false
+  },
+  {
+   "w": "when",
+   "start": 32.24,
+   "end": 32.48,
+   "emp": false
+  },
+  {
+   "w": "next",
+   "start": 32.48,
+   "end": 32.72,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 32.72,
+   "end": 32.84,
+   "emp": false
+  },
+  {
+   "w": "calls,",
+   "start": 32.84,
+   "end": 33.32,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 33.32,
+   "end": 33.46,
+   "emp": false
+  },
+  {
+   "w": "says,",
+   "start": 33.46,
+   "end": 34,
+   "emp": false
+  },
+  {
+   "w": "speak",
+   "start": 34,
+   "end": 34.1,
+   "emp": false
+  },
+  {
+   "w": "loud.",
+   "start": 34,
+   "end": 34.1,
+   "emp": false
+  }
+ ]
+}

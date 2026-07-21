@@ -1,0 +1,364 @@
+{
+ "words": [
+  {
+   "w": "said",
+   "start": 0.03,
+   "end": 0.23,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 0.23,
+   "end": 0.34,
+   "emp": false
+  },
+  {
+   "w": "Matthew",
+   "start": 0.34,
+   "end": 0.74,
+   "emp": false
+  },
+  {
+   "w": "chapter",
+   "start": 0.74,
+   "end": 1.14,
+   "emp": false
+  },
+  {
+   "w": "4",
+   "start": 1.14,
+   "end": 1.34,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 1.34,
+   "end": 1.54,
+   "emp": false
+  },
+  {
+   "w": "verse",
+   "start": 1.54,
+   "end": 1.87,
+   "emp": false
+  },
+  {
+   "w": "4,",
+   "start": 1.87,
+   "end": 2.37,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 2.37,
+   "end": 3.06,
+   "emp": false
+  },
+  {
+   "w": "said,",
+   "start": 3.06,
+   "end": 3.76,
+   "emp": false
+  },
+  {
+   "w": "man",
+   "start": 3.76,
+   "end": 4.01,
+   "emp": false
+  },
+  {
+   "w": "shall",
+   "start": 4.01,
+   "end": 4.6,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 4.6,
+   "end": 4.84,
+   "emp": false
+  },
+  {
+   "w": "live",
+   "start": 4.84,
+   "end": 5.22,
+   "emp": false
+  },
+  {
+   "w": "by",
+   "start": 5.22,
+   "end": 5.41,
+   "emp": false
+  },
+  {
+   "w": "bread",
+   "start": 5.41,
+   "end": 5.88,
+   "emp": false
+  },
+  {
+   "w": "alone,",
+   "start": 5.88,
+   "end": 6.88,
+   "emp": false
+  },
+  {
+   "w": "but",
+   "start": 6.88,
+   "end": 7.02,
+   "emp": false
+  },
+  {
+   "w": "by",
+   "start": 7.02,
+   "end": 7.13,
+   "emp": false
+  },
+  {
+   "w": "every",
+   "start": 7.13,
+   "end": 7.4,
+   "emp": true
+  },
+  {
+   "w": "word",
+   "start": 7.4,
+   "end": 7.62,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 7.62,
+   "end": 7.84,
+   "emp": false
+  },
+  {
+   "w": "comes",
+   "start": 7.84,
+   "end": 8.11,
+   "emp": false
+  },
+  {
+   "w": "from",
+   "start": 8.11,
+   "end": 8.33,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 8.33,
+   "end": 8.49,
+   "emp": false
+  },
+  {
+   "w": "mouth",
+   "start": 8.49,
+   "end": 8.81,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 8.81,
+   "end": 8.91,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 8.87,
+   "end": 9.03,
+   "emp": false
+  },
+  {
+   "w": "Lord.",
+   "start": 9.03,
+   "end": 10.08,
+   "emp": false
+  },
+  {
+   "w": "Because",
+   "start": 10.08,
+   "end": 10.53,
+   "emp": false
+  },
+  {
+   "w": "what",
+   "start": 10.53,
+   "end": 11.15,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 11.15,
+   "end": 11.61,
+   "emp": true
+  },
+  {
+   "w": "feed",
+   "start": 11.61,
+   "end": 12.38,
+   "emp": false
+  },
+  {
+   "w": "really",
+   "start": 12.38,
+   "end": 13.31,
+   "emp": false
+  },
+  {
+   "w": "does",
+   "start": 13.31,
+   "end": 13.96,
+   "emp": false
+  },
+  {
+   "w": "grow.",
+   "start": 13.96,
+   "end": 14.8,
+   "emp": false
+  },
+  {
+   "w": "So",
+   "start": 14.8,
+   "end": 15.04,
+   "emp": false
+  },
+  {
+   "w": "if",
+   "start": 15.04,
+   "end": 15.28,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 15.28,
+   "end": 15.76,
+   "emp": false
+  },
+  {
+   "w": "spirit",
+   "start": 15.76,
+   "end": 16.46,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 16.46,
+   "end": 17.01,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 17.01,
+   "end": 17.11,
+   "emp": false
+  },
+  {
+   "w": "fed",
+   "start": 17.08,
+   "end": 17.44,
+   "emp": false
+  },
+  {
+   "w": "daily,",
+   "start": 17.44,
+   "end": 18.28,
+   "emp": false
+  },
+  {
+   "w": "it",
+   "start": 18.28,
+   "end": 18.52,
+   "emp": false
+  },
+  {
+   "w": "will",
+   "start": 18.52,
+   "end": 19,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 19,
+   "end": 19.36,
+   "emp": false
+  },
+  {
+   "w": "grow",
+   "start": 19.36,
+   "end": 19.84,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 19.84,
+   "end": 20.08,
+   "emp": false
+  },
+  {
+   "w": "capacity",
+   "start": 20.08,
+   "end": 21.05,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 21.05,
+   "end": 21.29,
+   "emp": false
+  },
+  {
+   "w": "sustain",
+   "start": 21.29,
+   "end": 22.13,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 22.13,
+   "end": 22.58,
+   "emp": true
+  },
+  {
+   "w": "for",
+   "start": 22.58,
+   "end": 22.75,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 22.75,
+   "end": 22.85,
+   "emp": false
+  },
+  {
+   "w": "long",
+   "start": 22.8,
+   "end": 23.03,
+   "emp": false
+  },
+  {
+   "w": "life.",
+   "start": 23.03,
+   "end": 23.46,
+   "emp": true
+  },
+  {
+   "w": "A",
+   "start": 25.16,
+   "end": 25.26,
+   "emp": false
+  },
+  {
+   "w": "weak",
+   "start": 25.16,
+   "end": 25.26,
+   "emp": false
+  },
+  {
+   "w": "body...",
+   "start": 25.16,
+   "end": 26,
+   "emp": false
+  }
+ ]
+}

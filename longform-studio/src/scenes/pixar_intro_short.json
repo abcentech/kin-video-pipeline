@@ -1,0 +1,1025 @@
+{
+  "audio": "pixar_intro_short_clean.mp3",
+  "title": "The Secrets of Longevity — Seven Decades of Service (short)",
+  "titleMain": "THE SECRETS OF LONGEVITY",
+  "titleSub": "SEVEN DECADES OF SERVICE",
+  "tagline": "Your days are numbered. Make them count.",
+  "cta": "Begins this July · @KidsInspiringNation",
+  "titleAt": 74.3,
+  "tail": 0.5,
+  "beats": [
+    {
+      "i": 0,
+      "start": 0,
+      "end": 12.92,
+      "vo": "What if the secret to a long life wasn't found in medicine, or money, or even genetics? Think about this for a moment.",
+      "hero": "beat0_hero.png",
+      "depth": "beat0_hero_depth.png",
+      "veo": "beat0_veo.mp4",
+      "motion": "push-in"
+    },
+    {
+      "i": 1,
+      "start": 12.92,
+      "end": 20.4,
+      "vo": "If you lived to be a hundred years old, you would have only thirty-six thousand five hundred days.",
+      "hero": "beat5_hero.png",
+      "depth": "beat5_hero_depth.png",
+      "veo": "beat5_veo.mp4",
+      "motion": "dolly-right"
+    },
+    {
+      "i": 2,
+      "start": 20.4,
+      "end": 32.88,
+      "vo": "The equivalent of eight hundred and seventy-six thousand hours. Nobody leaves this earth with a million hours in the bank. Time is God's most valuable gift.",
+      "hero": "beat6_hero.png",
+      "depth": "beat6_hero_depth.png",
+      "veo": "beat6_veo.mp4",
+      "motion": "push-in"
+    },
+    {
+      "i": 3,
+      "start": 32.88,
+      "end": 44.72,
+      "vo": "So the real question is not how long will I live, but how well can I live.",
+      "hero": "beat7_hero.png",
+      "depth": "beat7_hero_depth.png",
+      "veo": null,
+      "motion": "pull-back"
+    },
+    {
+      "i": 4,
+      "start": 44.72,
+      "end": 55.4,
+      "vo": "Abraham, a hundred and seventy-five years. Isaac, a hundred and eighty. Jacob, a hundred and forty-seven. What was it that made them?",
+      "hero": "beat9_hero.png",
+      "depth": "beat9_hero_depth.png",
+      "veo": null,
+      "motion": "dolly-right"
+    },
+    {
+      "i": 5,
+      "start": 55.4,
+      "end": 63.48,
+      "vo": "Was it history? Or does God have something to teach us about living long, fruitful, satisfying lives?",
+      "hero": "beat12_hero.png",
+      "depth": "beat12_hero_depth.png",
+      "veo": "beat12_veo.mp4",
+      "motion": "orbit"
+    },
+    {
+      "i": 6,
+      "start": 63.48,
+      "end": 70.68,
+      "vo": "With long life will I satisfy him, and show him my salvation. God's desire is not simply that you live longer,",
+      "hero": "beat4_hero.png",
+      "depth": "beat4_hero_depth.png",
+      "veo": null,
+      "motion": "crane-up"
+    },
+    {
+      "i": 7,
+      "start": 70.68,
+      "end": 80.5,
+      "vo": "but that you live for his glory. Welcome to The Secrets of Longevity — Seven Decades of Service.",
+      "hero": "beat15_hero.png",
+      "depth": "beat15_hero_depth.png",
+      "veo": null,
+      "motion": "push-in"
+    }
+  ],
+  "sound": {
+    "bed": "audio/mix_short.mp3",
+    "bedVolume": 0.55,
+    "cues": [
+      {
+        "at": 12.8,
+        "file": "audio/whoosh.mp3",
+        "volume": 0.4
+      },
+      {
+        "at": 17.34,
+        "file": "audio/shimmer.mp3",
+        "volume": 0.35
+      },
+      {
+        "at": 20.28,
+        "file": "audio/whoosh.mp3",
+        "volume": 0.4
+      },
+      {
+        "at": 32.76,
+        "file": "audio/whoosh.mp3",
+        "volume": 0.4
+      },
+      {
+        "at": 44.6,
+        "file": "audio/whoosh.mp3",
+        "volume": 0.4
+      },
+      {
+        "at": 45.51,
+        "file": "audio/shimmer.mp3",
+        "volume": 0.35
+      },
+      {
+        "at": 50.61,
+        "file": "audio/shimmer.mp3",
+        "volume": 0.35
+      },
+      {
+        "at": 55.28,
+        "file": "audio/whoosh.mp3",
+        "volume": 0.4
+      },
+      {
+        "at": 63.36,
+        "file": "audio/whoosh.mp3",
+        "volume": 0.4
+      },
+      {
+        "at": 68.28,
+        "file": "audio/riser.mp3",
+        "volume": 0.5
+      },
+      {
+        "at": 70.56,
+        "file": "audio/whoosh.mp3",
+        "volume": 0.4
+      }
+    ]
+  },
+  "words": [
+    {
+      "w": "what",
+      "start": 0.09,
+      "end": 0.86,
+      "emp": false
+    },
+    {
+      "w": "if",
+      "start": 0.86,
+      "end": 1.29,
+      "emp": false
+    },
+    {
+      "w": "the",
+      "start": 1.29,
+      "end": 2.97,
+      "emp": false
+    },
+    {
+      "w": "secret",
+      "start": 2.97,
+      "end": 3.23,
+      "emp": true
+    },
+    {
+      "w": "to",
+      "start": 3.23,
+      "end": 3.65,
+      "emp": false
+    },
+    {
+      "w": "a",
+      "start": 3.65,
+      "end": 4.19,
+      "emp": false
+    },
+    {
+      "w": "long",
+      "start": 4.19,
+      "end": 5.11,
+      "emp": true
+    },
+    {
+      "w": "life",
+      "start": 5.11,
+      "end": 5.64,
+      "emp": true
+    },
+    {
+      "w": "wasn't",
+      "start": 5.64,
+      "end": 6.04,
+      "emp": false
+    },
+    {
+      "w": "found",
+      "start": 6.04,
+      "end": 6.18,
+      "emp": false
+    },
+    {
+      "w": "in",
+      "start": 6.18,
+      "end": 6.3,
+      "emp": false
+    },
+    {
+      "w": "medicine",
+      "start": 6.3,
+      "end": 6.72,
+      "emp": false
+    },
+    {
+      "w": "or",
+      "start": 6.72,
+      "end": 8.16,
+      "emp": false
+    },
+    {
+      "w": "money",
+      "start": 8.16,
+      "end": 8.62,
+      "emp": false
+    },
+    {
+      "w": "or",
+      "start": 8.62,
+      "end": 9.59,
+      "emp": false
+    },
+    {
+      "w": "even",
+      "start": 9.59,
+      "end": 9.96,
+      "emp": false
+    },
+    {
+      "w": "genetics",
+      "start": 9.96,
+      "end": 10.37,
+      "emp": true
+    },
+    {
+      "w": "think",
+      "start": 10.37,
+      "end": 12.6,
+      "emp": false
+    },
+    {
+      "w": "about",
+      "start": 12.6,
+      "end": 12.84,
+      "emp": false
+    },
+    {
+      "w": "this",
+      "start": 12.84,
+      "end": 13.16,
+      "emp": false
+    },
+    {
+      "w": "for",
+      "start": 13.16,
+      "end": 13.4,
+      "emp": false
+    },
+    {
+      "w": "a",
+      "start": 13.4,
+      "end": 13.48,
+      "emp": false
+    },
+    {
+      "w": "moment",
+      "start": 13.48,
+      "end": 13.96,
+      "emp": false
+    },
+    {
+      "w": "if",
+      "start": 13.96,
+      "end": 14.12,
+      "emp": false
+    },
+    {
+      "w": "you",
+      "start": 14.12,
+      "end": 14.36,
+      "emp": false
+    },
+    {
+      "w": "live",
+      "start": 14.36,
+      "end": 14.68,
+      "emp": false
+    },
+    {
+      "w": "to",
+      "start": 14.68,
+      "end": 14.84,
+      "emp": false
+    },
+    {
+      "w": "be",
+      "start": 14.84,
+      "end": 15,
+      "emp": false
+    },
+    {
+      "w": "a",
+      "start": 15,
+      "end": 15.08,
+      "emp": false
+    },
+    {
+      "w": "hundred",
+      "start": 15.08,
+      "end": 15.93,
+      "emp": true
+    },
+    {
+      "w": "years",
+      "start": 15.93,
+      "end": 16.04,
+      "emp": false
+    },
+    {
+      "w": "you",
+      "start": 16.04,
+      "end": 16.28,
+      "emp": false
+    },
+    {
+      "w": "would",
+      "start": 16.28,
+      "end": 16.69,
+      "emp": false
+    },
+    {
+      "w": "have",
+      "start": 16.69,
+      "end": 17.03,
+      "emp": false
+    },
+    {
+      "w": "only",
+      "start": 17.03,
+      "end": 17.34,
+      "emp": false
+    },
+    {
+      "w": "36,500",
+      "start": 17.34,
+      "end": 19.12,
+      "emp": true
+    },
+    {
+      "w": "days",
+      "start": 19.12,
+      "end": 19.29,
+      "emp": false
+    },
+    {
+      "w": "the",
+      "start": 19.29,
+      "end": 20.28,
+      "emp": false
+    },
+    {
+      "w": "equivalent",
+      "start": 20.37,
+      "end": 21.47,
+      "emp": false
+    },
+    {
+      "w": "of",
+      "start": 21.47,
+      "end": 21.7,
+      "emp": false
+    },
+    {
+      "w": "876,000",
+      "start": 21.7,
+      "end": 24.06,
+      "emp": true
+    },
+    {
+      "w": "hours",
+      "start": 24.06,
+      "end": 24.65,
+      "emp": false
+    },
+    {
+      "w": "nobody",
+      "start": 24.65,
+      "end": 25.24,
+      "emp": false
+    },
+    {
+      "w": "leaves",
+      "start": 25.24,
+      "end": 25.83,
+      "emp": false
+    },
+    {
+      "w": "this",
+      "start": 25.83,
+      "end": 26.42,
+      "emp": false
+    },
+    {
+      "w": "earth",
+      "start": 26.42,
+      "end": 27.01,
+      "emp": false
+    },
+    {
+      "w": "with",
+      "start": 27.01,
+      "end": 27.07,
+      "emp": false
+    },
+    {
+      "w": "a",
+      "start": 27.07,
+      "end": 28.34,
+      "emp": false
+    },
+    {
+      "w": "million",
+      "start": 28.34,
+      "end": 28.896,
+      "emp": true
+    },
+    {
+      "w": "hours",
+      "start": 28.896,
+      "end": 29.452,
+      "emp": false
+    },
+    {
+      "w": "in",
+      "start": 29.452,
+      "end": 30.008,
+      "emp": false
+    },
+    {
+      "w": "the",
+      "start": 30.008,
+      "end": 30.564,
+      "emp": false
+    },
+    {
+      "w": "bank",
+      "start": 30.564,
+      "end": 31.12,
+      "emp": false
+    },
+    {
+      "w": "time",
+      "start": 31.12,
+      "end": 32.16,
+      "emp": false
+    },
+    {
+      "w": "is",
+      "start": 32.16,
+      "end": 32.34,
+      "emp": false
+    },
+    {
+      "w": "God's",
+      "start": 32.34,
+      "end": 32.66,
+      "emp": false
+    },
+    {
+      "w": "most",
+      "start": 32.66,
+      "end": 32.76,
+      "emp": false
+    },
+    {
+      "w": "valuable",
+      "start": 32.76,
+      "end": 33.65,
+      "emp": false
+    },
+    {
+      "w": "gift",
+      "start": 33.65,
+      "end": 34.54,
+      "emp": true
+    },
+    {
+      "w": "so",
+      "start": 34.54,
+      "end": 34.81,
+      "emp": false
+    },
+    {
+      "w": "the",
+      "start": 34.81,
+      "end": 35.31,
+      "emp": false
+    },
+    {
+      "w": "real",
+      "start": 35.31,
+      "end": 35.89,
+      "emp": false
+    },
+    {
+      "w": "question",
+      "start": 35.89,
+      "end": 36.95,
+      "emp": false
+    },
+    {
+      "w": "is",
+      "start": 36.95,
+      "end": 37.14,
+      "emp": false
+    },
+    {
+      "w": "not",
+      "start": 37.14,
+      "end": 37.85,
+      "emp": false
+    },
+    {
+      "w": "how",
+      "start": 37.85,
+      "end": 37.96,
+      "emp": false
+    },
+    {
+      "w": "long",
+      "start": 37.96,
+      "end": 38.51,
+      "emp": false
+    },
+    {
+      "w": "will",
+      "start": 38.51,
+      "end": 39.06,
+      "emp": false
+    },
+    {
+      "w": "I",
+      "start": 39.06,
+      "end": 39.19,
+      "emp": false
+    },
+    {
+      "w": "live",
+      "start": 39.19,
+      "end": 39.52,
+      "emp": false
+    },
+    {
+      "w": "but",
+      "start": 39.52,
+      "end": 40.14,
+      "emp": false
+    },
+    {
+      "w": "how",
+      "start": 40.14,
+      "end": 40.82,
+      "emp": false
+    },
+    {
+      "w": "well",
+      "start": 40.82,
+      "end": 41.16,
+      "emp": false
+    },
+    {
+      "w": "can",
+      "start": 41.16,
+      "end": 42.3,
+      "emp": false
+    },
+    {
+      "w": "I",
+      "start": 42.3,
+      "end": 42.35,
+      "emp": false
+    },
+    {
+      "w": "live",
+      "start": 42.35,
+      "end": 42.48,
+      "emp": false
+    },
+    {
+      "w": "look",
+      "start": 42.48,
+      "end": 44.44,
+      "emp": false
+    },
+    {
+      "w": "at",
+      "start": 44.44,
+      "end": 44.6,
+      "emp": false
+    },
+    {
+      "w": "Abraham",
+      "start": 44.69,
+      "end": 45.51,
+      "emp": false
+    },
+    {
+      "w": "175",
+      "start": 45.51,
+      "end": 46.7,
+      "emp": true
+    },
+    {
+      "w": "years",
+      "start": 46.7,
+      "end": 47.73,
+      "emp": false
+    },
+    {
+      "w": "Isaac",
+      "start": 47.73,
+      "end": 48.465,
+      "emp": false
+    },
+    {
+      "w": "180",
+      "start": 48.465,
+      "end": 49.2,
+      "emp": true
+    },
+    {
+      "w": "years",
+      "start": 49.2,
+      "end": 49.86,
+      "emp": false
+    },
+    {
+      "w": "Jacob",
+      "start": 49.86,
+      "end": 50.61,
+      "emp": false
+    },
+    {
+      "w": "147",
+      "start": 50.61,
+      "end": 51.36,
+      "emp": true
+    },
+    {
+      "w": "years",
+      "start": 51.36,
+      "end": 52.66,
+      "emp": false
+    },
+    {
+      "w": "was",
+      "start": 52.66,
+      "end": 52.82,
+      "emp": false
+    },
+    {
+      "w": "it",
+      "start": 52.82,
+      "end": 53.09,
+      "emp": false
+    },
+    {
+      "w": "history",
+      "start": 53.09,
+      "end": 54.19,
+      "emp": false
+    },
+    {
+      "w": "or",
+      "start": 54.19,
+      "end": 54.4,
+      "emp": false
+    },
+    {
+      "w": "does",
+      "start": 54.4,
+      "end": 54.97,
+      "emp": false
+    },
+    {
+      "w": "God",
+      "start": 54.97,
+      "end": 55.21,
+      "emp": false
+    },
+    {
+      "w": "have",
+      "start": 55.21,
+      "end": 55.35,
+      "emp": false
+    },
+    {
+      "w": "something",
+      "start": 55.35,
+      "end": 55.82,
+      "emp": false
+    },
+    {
+      "w": "to",
+      "start": 55.82,
+      "end": 56.4,
+      "emp": false
+    },
+    {
+      "w": "teach",
+      "start": 56.4,
+      "end": 56.6,
+      "emp": false
+    },
+    {
+      "w": "us",
+      "start": 56.6,
+      "end": 56.8,
+      "emp": false
+    },
+    {
+      "w": "about",
+      "start": 56.8,
+      "end": 57.3,
+      "emp": false
+    },
+    {
+      "w": "living",
+      "start": 57.3,
+      "end": 57.91,
+      "emp": false
+    },
+    {
+      "w": "long",
+      "start": 57.91,
+      "end": 58.31,
+      "emp": false
+    },
+    {
+      "w": "fruitful",
+      "start": 58.31,
+      "end": 59.13,
+      "emp": true
+    },
+    {
+      "w": "and",
+      "start": 59.13,
+      "end": 59.73,
+      "emp": false
+    },
+    {
+      "w": "satisfying",
+      "start": 59.73,
+      "end": 60.43,
+      "emp": false
+    },
+    {
+      "w": "lives",
+      "start": 60.43,
+      "end": 60.93,
+      "emp": false
+    },
+    {
+      "w": "with",
+      "start": 60.93,
+      "end": 61.32,
+      "emp": false
+    },
+    {
+      "w": "long",
+      "start": 61.32,
+      "end": 61.73,
+      "emp": true
+    },
+    {
+      "w": "life",
+      "start": 61.73,
+      "end": 62.13,
+      "emp": true
+    },
+    {
+      "w": "will",
+      "start": 62.13,
+      "end": 62.53,
+      "emp": false
+    },
+    {
+      "w": "I",
+      "start": 62.53,
+      "end": 62.63,
+      "emp": false
+    },
+    {
+      "w": "satisfy",
+      "start": 62.63,
+      "end": 63.34,
+      "emp": true
+    },
+    {
+      "w": "him",
+      "start": 63.34,
+      "end": 63.38,
+      "emp": false
+    },
+    {
+      "w": "and",
+      "start": 63.38,
+      "end": 64.04,
+      "emp": false
+    },
+    {
+      "w": "I",
+      "start": 64.04,
+      "end": 64.6,
+      "emp": false
+    },
+    {
+      "w": "will",
+      "start": 64.6,
+      "end": 64.67,
+      "emp": false
+    },
+    {
+      "w": "show",
+      "start": 64.67,
+      "end": 64.84,
+      "emp": false
+    },
+    {
+      "w": "him",
+      "start": 64.84,
+      "end": 65.15,
+      "emp": false
+    },
+    {
+      "w": "my",
+      "start": 65.15,
+      "end": 65.35,
+      "emp": false
+    },
+    {
+      "w": "salvation",
+      "start": 65.35,
+      "end": 66.28,
+      "emp": true
+    },
+    {
+      "w": "because",
+      "start": 66.28,
+      "end": 67,
+      "emp": false
+    },
+    {
+      "w": "God's",
+      "start": 67,
+      "end": 67.97,
+      "emp": false
+    },
+    {
+      "w": "desire",
+      "start": 67.97,
+      "end": 68.16,
+      "emp": false
+    },
+    {
+      "w": "is",
+      "start": 68.16,
+      "end": 68.33,
+      "emp": false
+    },
+    {
+      "w": "not",
+      "start": 68.33,
+      "end": 69.03,
+      "emp": false
+    },
+    {
+      "w": "simply",
+      "start": 69.03,
+      "end": 69.27,
+      "emp": false
+    },
+    {
+      "w": "that",
+      "start": 69.27,
+      "end": 69.93,
+      "emp": false
+    },
+    {
+      "w": "you",
+      "start": 69.93,
+      "end": 69.98,
+      "emp": false
+    },
+    {
+      "w": "live",
+      "start": 69.98,
+      "end": 70.39,
+      "emp": false
+    },
+    {
+      "w": "longer",
+      "start": 70.39,
+      "end": 71.01,
+      "emp": false
+    },
+    {
+      "w": "but",
+      "start": 71.01,
+      "end": 71.32,
+      "emp": false
+    },
+    {
+      "w": "that",
+      "start": 71.32,
+      "end": 71.72,
+      "emp": false
+    },
+    {
+      "w": "you",
+      "start": 71.72,
+      "end": 72.04,
+      "emp": false
+    },
+    {
+      "w": "live",
+      "start": 72.04,
+      "end": 72.9,
+      "emp": false
+    },
+    {
+      "w": "for",
+      "start": 72.9,
+      "end": 73.24,
+      "emp": false
+    },
+    {
+      "w": "His",
+      "start": 73.24,
+      "end": 73.4,
+      "emp": false
+    },
+    {
+      "w": "glory",
+      "start": 73.4,
+      "end": 73.72,
+      "emp": true
+    },
+    {
+      "w": "welcome",
+      "start": 74.69,
+      "end": 75.09,
+      "emp": false
+    },
+    {
+      "w": "to",
+      "start": 75.09,
+      "end": 75.23,
+      "emp": false
+    },
+    {
+      "w": "secrets",
+      "start": 75.23,
+      "end": 75.72,
+      "emp": false
+    },
+    {
+      "w": "of",
+      "start": 75.72,
+      "end": 75.86,
+      "emp": false
+    },
+    {
+      "w": "longevity",
+      "start": 75.86,
+      "end": 76.52,
+      "emp": true
+    },
+    {
+      "w": "seven",
+      "start": 76.52,
+      "end": 77.73,
+      "emp": true
+    },
+    {
+      "w": "decades",
+      "start": 77.73,
+      "end": 78.38,
+      "emp": false
+    },
+    {
+      "w": "of",
+      "start": 78.38,
+      "end": 79.08,
+      "emp": false
+    },
+    {
+      "w": "service",
+      "start": 79.08,
+      "end": 80.52,
+      "emp": false
+    }
+  ]
+}

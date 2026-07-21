@@ -1,0 +1,580 @@
+{
+ "words": [
+  {
+   "w": "Today,",
+   "start": 0.02,
+   "end": 0.97,
+   "emp": false
+  },
+  {
+   "w": "like",
+   "start": 0.97,
+   "end": 1.31,
+   "emp": false
+  },
+  {
+   "w": "Dr.",
+   "start": 1.31,
+   "end": 1.61,
+   "emp": false
+  },
+  {
+   "w": "Munroe",
+   "start": 1.61,
+   "end": 2.41,
+   "emp": false
+  },
+  {
+   "w": "said,",
+   "start": 2.41,
+   "end": 3.05,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 3.05,
+   "end": 3.16,
+   "emp": false
+  },
+  {
+   "w": "said",
+   "start": 3.16,
+   "end": 3.57,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 3.57,
+   "end": 3.67,
+   "emp": false
+  },
+  {
+   "w": "richest",
+   "start": 3.57,
+   "end": 4,
+   "emp": true
+  },
+  {
+   "w": "place",
+   "start": 4,
+   "end": 4.27,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 4.27,
+   "end": 4.38,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 4.38,
+   "end": 4.55,
+   "emp": false
+  },
+  {
+   "w": "world",
+   "start": 4.55,
+   "end": 4.88,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 4.88,
+   "end": 5.16,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 5.16,
+   "end": 5.77,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 5.77,
+   "end": 5.9,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 5.9,
+   "end": 6.36,
+   "emp": false
+  },
+  {
+   "w": "catacombs",
+   "start": 6.36,
+   "end": 7,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 7,
+   "end": 7.4,
+   "emp": false
+  },
+  {
+   "w": "Egypt,",
+   "start": 7.4,
+   "end": 7.66,
+   "emp": false
+  },
+  {
+   "w": "nor",
+   "start": 7.66,
+   "end": 7.79,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 7.79,
+   "end": 8.58,
+   "emp": false
+  },
+  {
+   "w": "mausoleums",
+   "start": 8.58,
+   "end": 9.42,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 9.42,
+   "end": 9.64,
+   "emp": false
+  },
+  {
+   "w": "great",
+   "start": 9.64,
+   "end": 10.52,
+   "emp": false
+  },
+  {
+   "w": "wealth,",
+   "start": 10.52,
+   "end": 11.12,
+   "emp": true
+  },
+  {
+   "w": "nor",
+   "start": 11.12,
+   "end": 11.5,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 11.5,
+   "end": 11.79,
+   "emp": false
+  },
+  {
+   "w": "various",
+   "start": 11.79,
+   "end": 11.95,
+   "emp": false
+  },
+  {
+   "w": "gold",
+   "start": 11.95,
+   "end": 12.2,
+   "emp": true
+  },
+  {
+   "w": "deposits",
+   "start": 12.2,
+   "end": 12.71,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 12.71,
+   "end": 12.84,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 12.84,
+   "end": 13.03,
+   "emp": false
+  },
+  {
+   "w": "world,",
+   "start": 13.03,
+   "end": 13.47,
+   "emp": false
+  },
+  {
+   "w": "nor",
+   "start": 13.47,
+   "end": 13.66,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 13.66,
+   "end": 13.85,
+   "emp": false
+  },
+  {
+   "w": "treasuries",
+   "start": 13.85,
+   "end": 14.48,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 14.48,
+   "end": 14.61,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 14.61,
+   "end": 14.8,
+   "emp": false
+  },
+  {
+   "w": "central",
+   "start": 14.8,
+   "end": 15.25,
+   "emp": false
+  },
+  {
+   "w": "banks.",
+   "start": 15.25,
+   "end": 15.86,
+   "emp": false
+  },
+  {
+   "w": "The",
+   "start": 16.4,
+   "end": 16.5,
+   "emp": false
+  },
+  {
+   "w": "greatest",
+   "start": 16.42,
+   "end": 16.65,
+   "emp": true
+  },
+  {
+   "w": "place",
+   "start": 16.65,
+   "end": 16.98,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 16.98,
+   "end": 17.14,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 17.14,
+   "end": 17.72,
+   "emp": false
+  },
+  {
+   "w": "world,",
+   "start": 17.72,
+   "end": 17.86,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 17.86,
+   "end": 18.07,
+   "emp": false
+  },
+  {
+   "w": "richest",
+   "start": 18.07,
+   "end": 18.58,
+   "emp": true
+  },
+  {
+   "w": "place",
+   "start": 18.58,
+   "end": 18.94,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 18.94,
+   "end": 19.08,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 19.08,
+   "end": 19.29,
+   "emp": false
+  },
+  {
+   "w": "world",
+   "start": 19.29,
+   "end": 19.79,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 19.79,
+   "end": 19.97,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 19.97,
+   "end": 20.07,
+   "emp": false
+  },
+  {
+   "w": "cemetery",
+   "start": 20,
+   "end": 20.58,
+   "emp": true
+  },
+  {
+   "w": "in",
+   "start": 20.58,
+   "end": 20.72,
+   "emp": false
+  },
+  {
+   "w": "life",
+   "start": 20.72,
+   "end": 21.01,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 21.01,
+   "end": 21.3,
+   "emp": false
+  },
+  {
+   "w": "never",
+   "start": 21.3,
+   "end": 22.17,
+   "emp": false
+  },
+  {
+   "w": "fulfilled",
+   "start": 22.17,
+   "end": 22.31,
+   "emp": false
+  },
+  {
+   "w": "purpose.",
+   "start": 22.31,
+   "end": 23.16,
+   "emp": true
+  },
+  {
+   "w": "Make",
+   "start": 23.64,
+   "end": 23.74,
+   "emp": false
+  },
+  {
+   "w": "up",
+   "start": 23.64,
+   "end": 23.74,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 23.66,
+   "end": 23.88,
+   "emp": false
+  },
+  {
+   "w": "mind",
+   "start": 23.88,
+   "end": 24.17,
+   "emp": false
+  },
+  {
+   "w": "today,",
+   "start": 24.17,
+   "end": 24.67,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 24.67,
+   "end": 24.97,
+   "emp": false
+  },
+  {
+   "w": "will",
+   "start": 24.97,
+   "end": 25.07,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 25.03,
+   "end": 25.25,
+   "emp": false
+  },
+  {
+   "w": "die",
+   "start": 25.25,
+   "end": 25.47,
+   "emp": false
+  },
+  {
+   "w": "until",
+   "start": 25.47,
+   "end": 25.83,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 25.83,
+   "end": 25.93,
+   "emp": false
+  },
+  {
+   "w": "fulfilled",
+   "start": 25.9,
+   "end": 26.56,
+   "emp": false
+  },
+  {
+   "w": "purpose.",
+   "start": 26.56,
+   "end": 27.36,
+   "emp": true
+  },
+  {
+   "w": "Say",
+   "start": 27.38,
+   "end": 27.6,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 27.6,
+   "end": 27.92,
+   "emp": false
+  },
+  {
+   "w": "with",
+   "start": 27.92,
+   "end": 28.25,
+   "emp": false
+  },
+  {
+   "w": "me,",
+   "start": 28.25,
+   "end": 28.64,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 28.64,
+   "end": 28.74,
+   "emp": false
+  },
+  {
+   "w": "will",
+   "start": 28.69,
+   "end": 28.96,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 28.96,
+   "end": 29.19,
+   "emp": false
+  },
+  {
+   "w": "die",
+   "start": 29.19,
+   "end": 29.44,
+   "emp": false
+  },
+  {
+   "w": "until",
+   "start": 29.44,
+   "end": 29.84,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 29.84,
+   "end": 29.94,
+   "emp": false
+  },
+  {
+   "w": "fulfilled",
+   "start": 29.92,
+   "end": 30.93,
+   "emp": false
+  },
+  {
+   "w": "purpose.",
+   "start": 30.93,
+   "end": 31.48,
+   "emp": true
+  },
+  {
+   "w": "Did",
+   "start": 31.68,
+   "end": 31.78,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 31.7,
+   "end": 31.8,
+   "emp": false
+  },
+  {
+   "w": "enjoy",
+   "start": 31.78,
+   "end": 32.03,
+   "emp": false
+  },
+  {
+   "w": "today?",
+   "start": 32.03,
+   "end": 32.46,
+   "emp": false
+  },
+  {
+   "w": "Go",
+   "start": 33.3,
+   "end": 33.4,
+   "emp": false
+  },
+  {
+   "w": "listen",
+   "start": 33.3,
+   "end": 33.4,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 33.32,
+   "end": 33.51,
+   "emp": false
+  },
+  {
+   "w": "this",
+   "start": 33.51,
+   "end": 33.88,
+   "emp": false
+  },
+  {
+   "w": "again.",
+   "start": 33.88,
+   "end": 34.8,
+   "emp": false
+  }
+ ]
+}

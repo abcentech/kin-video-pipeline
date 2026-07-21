@@ -1,0 +1,502 @@
+{
+ "words": [
+  {
+   "w": "It's",
+   "start": 0.03,
+   "end": 0.2,
+   "emp": false
+  },
+  {
+   "w": "about",
+   "start": 0.2,
+   "end": 0.47,
+   "emp": false
+  },
+  {
+   "w": "50",
+   "start": 0.47,
+   "end": 0.82,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 0.82,
+   "end": 0.92,
+   "emp": false
+  },
+  {
+   "w": "60",
+   "start": 0.89,
+   "end": 1.26,
+   "emp": false
+  },
+  {
+   "w": "years.",
+   "start": 1.26,
+   "end": 1.68,
+   "emp": false
+  },
+  {
+   "w": "But",
+   "start": 2.48,
+   "end": 2.6,
+   "emp": false
+  },
+  {
+   "w": "it",
+   "start": 2.6,
+   "end": 2.96,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 2.96,
+   "end": 3.32,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 3.32,
+   "end": 3.88,
+   "emp": false
+  },
+  {
+   "w": "statistics",
+   "start": 3.88,
+   "end": 4.93,
+   "emp": true
+  },
+  {
+   "w": "that",
+   "start": 4.93,
+   "end": 5.06,
+   "emp": false
+  },
+  {
+   "w": "determines",
+   "start": 5.06,
+   "end": 5.46,
+   "emp": false
+  },
+  {
+   "w": "how",
+   "start": 5.46,
+   "end": 5.84,
+   "emp": false
+  },
+  {
+   "w": "long",
+   "start": 5.84,
+   "end": 6.12,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 6.12,
+   "end": 6.38,
+   "emp": false
+  },
+  {
+   "w": "live.",
+   "start": 6.38,
+   "end": 7,
+   "emp": false
+  },
+  {
+   "w": "It",
+   "start": 8,
+   "end": 8.1,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 8,
+   "end": 8.1,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 8,
+   "end": 8.1,
+   "emp": false
+  },
+  {
+   "w": "God",
+   "start": 8.03,
+   "end": 8.2,
+   "emp": true
+  },
+  {
+   "w": "who",
+   "start": 8.2,
+   "end": 8.56,
+   "emp": false
+  },
+  {
+   "w": "numbers",
+   "start": 8.56,
+   "end": 9.39,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 9.39,
+   "end": 10.18,
+   "emp": false
+  },
+  {
+   "w": "days.",
+   "start": 10.18,
+   "end": 10.72,
+   "emp": true
+  },
+  {
+   "w": "Caleb,",
+   "start": 16.44,
+   "end": 16.54,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 16.44,
+   "end": 16.54,
+   "emp": false
+  },
+  {
+   "w": "instance,",
+   "start": 16.47,
+   "end": 17.56,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 17.56,
+   "end": 18.09,
+   "emp": false
+  },
+  {
+   "w": "said,",
+   "start": 18.09,
+   "end": 19.8,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 19.8,
+   "end": 19.9,
+   "emp": false
+  },
+  {
+   "w": "was",
+   "start": 19.81,
+   "end": 20.08,
+   "emp": false
+  },
+  {
+   "w": "40",
+   "start": 20.08,
+   "end": 20.62,
+   "emp": false
+  },
+  {
+   "w": "years",
+   "start": 20.62,
+   "end": 21.08,
+   "emp": false
+  },
+  {
+   "w": "when",
+   "start": 21.08,
+   "end": 21.35,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 21.35,
+   "end": 21.45,
+   "emp": false
+  },
+  {
+   "w": "was",
+   "start": 21.45,
+   "end": 21.62,
+   "emp": false
+  },
+  {
+   "w": "sent",
+   "start": 21.62,
+   "end": 21.89,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 21.89,
+   "end": 22.02,
+   "emp": false
+  },
+  {
+   "w": "Canaan.",
+   "start": 22.02,
+   "end": 22.68,
+   "emp": false
+  },
+  {
+   "w": "He",
+   "start": 23.3,
+   "end": 23.4,
+   "emp": false
+  },
+  {
+   "w": "said,",
+   "start": 23.3,
+   "end": 23.4,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 23.39,
+   "end": 23.49,
+   "emp": false
+  },
+  {
+   "w": "am",
+   "start": 23.48,
+   "end": 23.66,
+   "emp": false
+  },
+  {
+   "w": "40.",
+   "start": 23.66,
+   "end": 24.48,
+   "emp": false
+  },
+  {
+   "w": "He",
+   "start": 24.96,
+   "end": 25.06,
+   "emp": false
+  },
+  {
+   "w": "said,",
+   "start": 24.99,
+   "end": 25.29,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 25.29,
+   "end": 25.39,
+   "emp": false
+  },
+  {
+   "w": "am",
+   "start": 25.39,
+   "end": 25.62,
+   "emp": false
+  },
+  {
+   "w": "85",
+   "start": 25.62,
+   "end": 26.22,
+   "emp": false
+  },
+  {
+   "w": "years",
+   "start": 26.22,
+   "end": 27.14,
+   "emp": false
+  },
+  {
+   "w": "today.",
+   "start": 27.14,
+   "end": 27.6,
+   "emp": false
+  },
+  {
+   "w": "He",
+   "start": 28.29,
+   "end": 28.45,
+   "emp": false
+  },
+  {
+   "w": "said,",
+   "start": 28.45,
+   "end": 29.03,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 29.03,
+   "end": 29.13,
+   "emp": false
+  },
+  {
+   "w": "am",
+   "start": 29.13,
+   "end": 29.32,
+   "emp": false
+  },
+  {
+   "w": "as",
+   "start": 29.32,
+   "end": 29.52,
+   "emp": false
+  },
+  {
+   "w": "strong",
+   "start": 29.52,
+   "end": 30.44,
+   "emp": true
+  },
+  {
+   "w": "40",
+   "start": 30.44,
+   "end": 30.69,
+   "emp": false
+  },
+  {
+   "w": "years",
+   "start": 30.69,
+   "end": 31.18,
+   "emp": false
+  },
+  {
+   "w": "ago",
+   "start": 31.18,
+   "end": 31.62,
+   "emp": false
+  },
+  {
+   "w": "as",
+   "start": 31.62,
+   "end": 31.72,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 31.66,
+   "end": 31.76,
+   "emp": false
+  },
+  {
+   "w": "am",
+   "start": 31.76,
+   "end": 31.95,
+   "emp": false
+  },
+  {
+   "w": "today.",
+   "start": 31.95,
+   "end": 32.84,
+   "emp": false
+  },
+  {
+   "w": "Give",
+   "start": 33.38,
+   "end": 33.48,
+   "emp": false
+  },
+  {
+   "w": "me",
+   "start": 33.38,
+   "end": 33.48,
+   "emp": false
+  },
+  {
+   "w": "this",
+   "start": 33.41,
+   "end": 33.74,
+   "emp": false
+  },
+  {
+   "w": "mountain.",
+   "start": 33.74,
+   "end": 34.78,
+   "emp": true
+  },
+  {
+   "w": "So",
+   "start": 35.48,
+   "end": 35.58,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 35.48,
+   "end": 35.58,
+   "emp": false
+  },
+  {
+   "w": "Father",
+   "start": 35.51,
+   "end": 35.74,
+   "emp": false
+  },
+  {
+   "w": "Caleb,",
+   "start": 35.74,
+   "end": 36.38,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 36.38,
+   "end": 36.74,
+   "emp": false
+  },
+  {
+   "w": "could",
+   "start": 36.74,
+   "end": 37.67,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 37.67,
+   "end": 38.19,
+   "emp": false
+  },
+  {
+   "w": "die",
+   "start": 38.19,
+   "end": 38.84,
+   "emp": false
+  },
+  {
+   "w": "until",
+   "start": 38.84,
+   "end": 39.16,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 39.16,
+   "end": 39.32,
+   "emp": false
+  },
+  {
+   "w": "had",
+   "start": 39.32,
+   "end": 39.56,
+   "emp": false
+  },
+  {
+   "w": "proven",
+   "start": 39.56,
+   "end": 40.04,
+   "emp": false
+  },
+  {
+   "w": "his",
+   "start": 40.04,
+   "end": 40.28,
+   "emp": false
+  },
+  {
+   "w": "assignments.",
+   "start": 40.28,
+   "end": 41.5,
+   "emp": false
+  }
+ ]
+}

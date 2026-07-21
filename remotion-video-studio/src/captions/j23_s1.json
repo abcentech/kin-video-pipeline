@@ -1,0 +1,688 @@
+{
+ "words": [
+  {
+   "w": "abroad",
+   "start": 0.33,
+   "end": 1.11,
+   "emp": false
+  },
+  {
+   "w": "as",
+   "start": 1.11,
+   "end": 2.11,
+   "emp": false
+  },
+  {
+   "w": "sheep",
+   "start": 2.11,
+   "end": 2.52,
+   "emp": false
+  },
+  {
+   "w": "having",
+   "start": 2.52,
+   "end": 3.72,
+   "emp": false
+  },
+  {
+   "w": "no",
+   "start": 3.72,
+   "end": 4.34,
+   "emp": true
+  },
+  {
+   "w": "shepherd",
+   "start": 4.34,
+   "end": 5.91,
+   "emp": false
+  },
+  {
+   "w": "now",
+   "start": 5.91,
+   "end": 6.29,
+   "emp": true
+  },
+  {
+   "w": "we",
+   "start": 6.29,
+   "end": 6.65,
+   "emp": false
+  },
+  {
+   "w": "see",
+   "start": 6.65,
+   "end": 7.17,
+   "emp": false
+  },
+  {
+   "w": "this",
+   "start": 7.17,
+   "end": 7.72,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 7.72,
+   "end": 8.08,
+   "emp": false
+  },
+  {
+   "w": "Jesus",
+   "start": 8.08,
+   "end": 8.54,
+   "emp": true
+  },
+  {
+   "w": "Christ",
+   "start": 8.54,
+   "end": 9.62,
+   "emp": false
+  },
+  {
+   "w": "every",
+   "start": 9.62,
+   "end": 10.06,
+   "emp": true
+  },
+  {
+   "w": "time",
+   "start": 10.06,
+   "end": 10.28,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 10.28,
+   "end": 10.69,
+   "emp": false
+  },
+  {
+   "w": "saw",
+   "start": 10.69,
+   "end": 11.06,
+   "emp": false
+  },
+  {
+   "w": "people",
+   "start": 11.06,
+   "end": 12.02,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 12.02,
+   "end": 12.51,
+   "emp": false
+  },
+  {
+   "w": "showed",
+   "start": 12.51,
+   "end": 13.25,
+   "emp": false
+  },
+  {
+   "w": "compassion",
+   "start": 13.25,
+   "end": 14.86,
+   "emp": false
+  },
+  {
+   "w": "every",
+   "start": 14.86,
+   "end": 15.48,
+   "emp": true
+  },
+  {
+   "w": "time",
+   "start": 15.48,
+   "end": 16.26,
+   "emp": false
+  },
+  {
+   "w": "Jesus",
+   "start": 16.26,
+   "end": 16.64,
+   "emp": true
+  },
+  {
+   "w": "sure",
+   "start": 16.64,
+   "end": 16.96,
+   "emp": false
+  },
+  {
+   "w": "saw",
+   "start": 16.96,
+   "end": 17.45,
+   "emp": false
+  },
+  {
+   "w": "people",
+   "start": 17.45,
+   "end": 18.07,
+   "emp": false
+  },
+  {
+   "w": "sick",
+   "start": 18.07,
+   "end": 19.98,
+   "emp": false
+  },
+  {
+   "w": "sad",
+   "start": 19.98,
+   "end": 21.35,
+   "emp": false
+  },
+  {
+   "w": "looking",
+   "start": 21.35,
+   "end": 22.32,
+   "emp": false
+  },
+  {
+   "w": "disappointed",
+   "start": 22.64,
+   "end": 24.55,
+   "emp": false
+  },
+  {
+   "w": "Jesus",
+   "start": 24.55,
+   "end": 25.14,
+   "emp": true
+  },
+  {
+   "w": "always",
+   "start": 25.14,
+   "end": 26.13,
+   "emp": false
+  },
+  {
+   "w": "showed",
+   "start": 26.13,
+   "end": 27.12,
+   "emp": false
+  },
+  {
+   "w": "compassion",
+   "start": 27.12,
+   "end": 28.85,
+   "emp": false
+  },
+  {
+   "w": "if",
+   "start": 28.85,
+   "end": 29.49,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 29.49,
+   "end": 29.76,
+   "emp": true
+  },
+  {
+   "w": "look",
+   "start": 29.76,
+   "end": 29.86,
+   "emp": false
+  },
+  {
+   "w": "at",
+   "start": 29.83,
+   "end": 30.11,
+   "emp": false
+  },
+  {
+   "w": "Matthew",
+   "start": 30.11,
+   "end": 30.24,
+   "emp": false
+  },
+  {
+   "w": "chapter",
+   "start": 30.24,
+   "end": 30.44,
+   "emp": false
+  },
+  {
+   "w": "8",
+   "start": 30.44,
+   "end": 30.85,
+   "emp": false
+  },
+  {
+   "w": "Matthew",
+   "start": 30.85,
+   "end": 31.15,
+   "emp": false
+  },
+  {
+   "w": "chapter",
+   "start": 31.15,
+   "end": 31.62,
+   "emp": false
+  },
+  {
+   "w": "8",
+   "start": 31.62,
+   "end": 31.85,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 31.85,
+   "end": 32.06,
+   "emp": false
+  },
+  {
+   "w": "verse",
+   "start": 32.06,
+   "end": 32.63,
+   "emp": false
+  },
+  {
+   "w": "3",
+   "start": 32.63,
+   "end": 32.73,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 32.68,
+   "end": 32.82,
+   "emp": false
+  },
+  {
+   "w": "Bible",
+   "start": 32.82,
+   "end": 33.05,
+   "emp": false
+  },
+  {
+   "w": "says",
+   "start": 33.05,
+   "end": 33.24,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 33.24,
+   "end": 33.36,
+   "emp": false
+  },
+  {
+   "w": "Jesus",
+   "start": 33.36,
+   "end": 33.6,
+   "emp": true
+  },
+  {
+   "w": "put",
+   "start": 33.6,
+   "end": 33.74,
+   "emp": false
+  },
+  {
+   "w": "forth",
+   "start": 33.74,
+   "end": 33.98,
+   "emp": false
+  },
+  {
+   "w": "his",
+   "start": 33.98,
+   "end": 34.14,
+   "emp": false
+  },
+  {
+   "w": "hand",
+   "start": 34.14,
+   "end": 36.32,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 36.32,
+   "end": 36.54,
+   "emp": false
+  },
+  {
+   "w": "putting",
+   "start": 36.54,
+   "end": 37.03,
+   "emp": false
+  },
+  {
+   "w": "off",
+   "start": 37.03,
+   "end": 37.24,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 37.24,
+   "end": 37.38,
+   "emp": false
+  },
+  {
+   "w": "his",
+   "start": 37.38,
+   "end": 37.58,
+   "emp": false
+  },
+  {
+   "w": "hand",
+   "start": 37.58,
+   "end": 37.85,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 37.85,
+   "end": 38.15,
+   "emp": false
+  },
+  {
+   "w": "putting",
+   "start": 38.15,
+   "end": 38.77,
+   "emp": false
+  },
+  {
+   "w": "forth",
+   "start": 38.77,
+   "end": 38.99,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 38.99,
+   "end": 39.13,
+   "emp": false
+  },
+  {
+   "w": "his",
+   "start": 39.13,
+   "end": 39.34,
+   "emp": false
+  },
+  {
+   "w": "hand",
+   "start": 39.34,
+   "end": 39.66,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 39.66,
+   "end": 40.32,
+   "emp": false
+  },
+  {
+   "w": "care",
+   "start": 40.32,
+   "end": 42.53,
+   "emp": false
+  },
+  {
+   "w": "so",
+   "start": 42.53,
+   "end": 43.26,
+   "emp": false
+  },
+  {
+   "w": "when",
+   "start": 43.26,
+   "end": 43.69,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 43.69,
+   "end": 43.81,
+   "emp": true
+  },
+  {
+   "w": "want",
+   "start": 43.81,
+   "end": 43.98,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 43.98,
+   "end": 44.08,
+   "emp": false
+  },
+  {
+   "w": "pray",
+   "start": 44.08,
+   "end": 44.53,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 44.53,
+   "end": 44.87,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 44.87,
+   "end": 45.2,
+   "emp": false
+  },
+  {
+   "w": "sick",
+   "start": 45.2,
+   "end": 45.68,
+   "emp": false
+  },
+  {
+   "w": "beyond",
+   "start": 45.68,
+   "end": 46.31,
+   "emp": false
+  },
+  {
+   "w": "asking",
+   "start": 46.31,
+   "end": 46.7,
+   "emp": false
+  },
+  {
+   "w": "what",
+   "start": 46.7,
+   "end": 47.04,
+   "emp": false
+  },
+  {
+   "w": "Jesus",
+   "start": 47.04,
+   "end": 47.47,
+   "emp": true
+  },
+  {
+   "w": "will",
+   "start": 47.47,
+   "end": 47.81,
+   "emp": false
+  },
+  {
+   "w": "do",
+   "start": 47.81,
+   "end": 47.98,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 47.98,
+   "end": 48.51,
+   "emp": false
+  },
+  {
+   "w": "them",
+   "start": 48.51,
+   "end": 48.68,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 48.9,
+   "end": 49.09,
+   "emp": true
+  },
+  {
+   "w": "have",
+   "start": 49.09,
+   "end": 49.36,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 49.36,
+   "end": 49.55,
+   "emp": false
+  },
+  {
+   "w": "show",
+   "start": 49.55,
+   "end": 49.92,
+   "emp": false
+  },
+  {
+   "w": "compassion",
+   "start": 49.92,
+   "end": 50.91,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 50.91,
+   "end": 51.2,
+   "emp": true
+  },
+  {
+   "w": "have",
+   "start": 51.2,
+   "end": 51.59,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 51.59,
+   "end": 51.78,
+   "emp": false
+  },
+  {
+   "w": "genuinely",
+   "start": 51.78,
+   "end": 52.67,
+   "emp": false
+  },
+  {
+   "w": "care",
+   "start": 52.67,
+   "end": 53.84,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 53.84,
+   "end": 54.66,
+   "emp": true
+  },
+  {
+   "w": "have",
+   "start": 54.66,
+   "end": 54.92,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 54.92,
+   "end": 55.04,
+   "emp": false
+  },
+  {
+   "w": "show",
+   "start": 55.04,
+   "end": 55.2,
+   "emp": false
+  },
+  {
+   "w": "compassion",
+   "start": 55.2,
+   "end": 55.86,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 55.86,
+   "end": 56.05,
+   "emp": true
+  },
+  {
+   "w": "have",
+   "start": 56.05,
+   "end": 56.31,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 56.31,
+   "end": 56.44,
+   "emp": false
+  },
+  {
+   "w": "genuinely",
+   "start": 56.44,
+   "end": 57.19,
+   "emp": false
+  },
+  {
+   "w": "care",
+   "start": 57.19,
+   "end": 57.43,
+   "emp": false
+  },
+  {
+   "w": "because",
+   "start": 57.43,
+   "end": 58.4,
+   "emp": false
+  },
+  {
+   "w": "Jesus",
+   "start": 58.4,
+   "end": 58.76,
+   "emp": true
+  },
+  {
+   "w": "never",
+   "start": 58.76,
+   "end": 58.97,
+   "emp": true
+  },
+  {
+   "w": "treated",
+   "start": 58.97,
+   "end": 59.28,
+   "emp": false
+  },
+  {
+   "w": "people's",
+   "start": 59.28,
+   "end": 59.56,
+   "emp": false
+  },
+  {
+   "w": "problems",
+   "start": 59.56,
+   "end": 62.04,
+   "emp": false
+  }
+ ]
+}

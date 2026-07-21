@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "w": "The",
+      "start": 0.02,
+      "end": 0.8,
+      "emp": false
+    },
+    {
+      "w": "moment",
+      "start": 0.8,
+      "end": 1.11,
+      "emp": false
+    },
+    {
+      "w": "demands",
+      "start": 1.11,
+      "end": 2,
+      "emp": false
+    },
+    {
+      "w": "students",
+      "start": 2,
+      "end": 2.99,
+      "emp": false
+    },
+    {
+      "w": ",",
+      "start": 2.99,
+      "end": 3.5,
+      "emp": false
+    },
+    {
+      "w": "they",
+      "start": 3.5,
+      "end": 3.81,
+      "emp": false
+    },
+    {
+      "w": "continue",
+      "start": 3.81,
+      "end": 4.9,
+      "emp": false
+    },
+    {
+      "w": "walking",
+      "start": 4.9,
+      "end": 5.85,
+      "emp": true
+    },
+    {
+      "w": ",",
+      "start": 5.85,
+      "end": 6.12,
+      "emp": false
+    },
+    {
+      "w": "leap",
+      "start": 6.12,
+      "end": 6.7,
+      "emp": false
+    },
+    {
+      "w": "ing",
+      "start": 6.7,
+      "end": 7.06,
+      "emp": false
+    },
+    {
+      "w": "and",
+      "start": 7.06,
+      "end": 7.4,
+      "emp": false
+    },
+    {
+      "w": "praising",
+      "start": 7.4,
+      "end": 8.81,
+      "emp": true
+    },
+    {
+      "w": "God",
+      "start": 8.81,
+      "end": 9,
+      "emp": false
+    },
+    {
+      "w": ".",
+      "start": 9,
+      "end": 9.1,
+      "emp": false
+    }
+  ]
+}

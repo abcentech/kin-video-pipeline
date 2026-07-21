@@ -1,0 +1,76 @@
+{
+  "source": "lf_jul16.mp4",
+  "title": "KEEP LEARNING",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": false,
+  "wordmarkFill": true,
+  "videoSeconds": 588,
+  "subscribeEvery": 180,
+  "hookAt": 128,
+  "hookText": "Your mind ages the day you stop learning",
+  "openLoop": "Coming up: why the greatest minds never graduated",
+  "openLoopAt": 190,
+  "teasers": [
+    { "at": 250, "text": "Still ahead: you can't cut tomorrow's tree with today's blade" },
+    { "at": 410, "text": "Still ahead: the humility that keeps you learning for life" }
+  ],
+  "recap": {
+    "at": 505,
+    "title": "Keep Learning",
+    "items": [
+      "Vitality is measured by curiosity, not biology",
+      "You cannot take a holiday from feeding your mind",
+      "A wise man keeps hearing and increasing learning",
+      "What got you here won't keep you here",
+      "The greatest minds never stopped being students"
+    ]
+  },
+  "outro": {
+    "at": 560,
+    "day": 5,
+    "total": 5,
+    "next": "Grow in Wisdom",
+    "label": "Next episode",
+    "url": "KidsInspiringNation.t.me"
+  },
+  "immersion": {
+    "enabled": true,
+    "bed": "audio/jul16_bed.mp3",
+    "bedVolume": 0.14,
+    "voiceEnd": 584,
+    "grade": false,
+    "particles": false,
+    "sfx": true,
+    "scriptures": []
+  },
+  "scenes": [
+    {
+      "start": 336,
+      "end": 345,
+      "section": "STAY CURIOUS",
+      "point": "Stay curious and your mind refuses to retire",
+      "ref": "",
+      "emoji": "🔎",
+      "noSplit": true
+    },
+    {
+      "start": 360,
+      "end": 369,
+      "section": "KEEP GROWING",
+      "point": "What got you here won't keep you here — keep learning",
+      "ref": "",
+      "emoji": "📈",
+      "noSplit": true
+    },
+    {
+      "start": 490,
+      "end": 499,
+      "section": "STAY A STUDENT",
+      "point": "The wise never stop being students",
+      "ref": "",
+      "emoji": "🎓",
+      "noSplit": true
+    }
+  ]
+}

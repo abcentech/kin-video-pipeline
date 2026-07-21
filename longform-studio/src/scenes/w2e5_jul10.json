@@ -1,0 +1,94 @@
+{
+  "source": "lf_w2e5_jul10.mp4",
+  "title": "NO SPECTATOR SEASONS",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": false,
+  "videoSeconds": 598,
+  "subscribeEvery": 180,
+  "wordmarkFill": true,
+  "hookAt": 134,
+  "hookText": "The one lie that makes you waste half your life",
+  "openLoop": "Why every season — from 7 to 85 — still has a job for you",
+  "openLoopAt": 200,
+  "outro": {
+    "at": 550,
+    "day": 5,
+    "total": 5,
+    "next": "The whole 'Kind' series is live now",
+    "label": "Series finale · Day 5 of 5",
+    "url": "KidsInspiringNation.t.me"
+  },
+  "recap": {
+    "at": 520,
+    "title": "Every season has an assignment",
+    "items": [
+      "In God's economy there are no spectator seasons",
+      "The enemy steals seasons by saying 'this one doesn't count'",
+      "If God gave you breath today, He gave you an assignment",
+      "You're never too young — and never too old — to be used",
+      "Longevity is serving Him faithfully across every season"
+    ]
+  },
+  "keywords": [
+    { "at": 360, "text": "No spectator seasons" }
+  ],
+  "immersion": {
+    "enabled": true,
+    "bed": "audio/sol_e1_bed.mp3",
+    "bedVolume": 0.16,
+    "voiceEnd": 558,
+    "grade": true,
+    "particles": true,
+    "sfx": true,
+    "scriptures": []
+  },
+  "scenes": [
+    {
+      "start": 220,
+      "end": 230,
+      "section": "THE THIEF OF SEASONS",
+      "point": "The enemy steals your seasons by saying 'this one doesn't count'",
+      "ref": "",
+      "emoji": "🎭",
+      "noSplit": true,
+      "teaser": "Still ahead: the assignment for your age"
+    },
+    {
+      "start": 250,
+      "end": 260,
+      "section": "BREATH = ASSIGNMENT",
+      "point": "If God gave you breath today, He gave you an assignment today",
+      "ref": "",
+      "emoji": "🌬️",
+      "noSplit": true
+    },
+    {
+      "start": 316,
+      "end": 326,
+      "section": "NOT A REHEARSAL",
+      "point": "A child's worship is real service — not a rehearsal",
+      "ref": "1 Samuel 3:1",
+      "emoji": "🙌",
+      "noSplit": true
+    },
+    {
+      "start": 372,
+      "end": 382,
+      "section": "NO WASTED AGE",
+      "point": "You're never too young — and never too old — to be used",
+      "ref": "1 Timothy 4:12",
+      "emoji": "👵",
+      "noSplit": true
+    },
+    {
+      "start": 456,
+      "end": 466,
+      "section": "MIDLIFE CONTINUITY",
+      "point": "There is no midlife crisis — only midlife continuity",
+      "ref": "",
+      "emoji": "🔄",
+      "noSplit": true
+    }
+  ]
+}

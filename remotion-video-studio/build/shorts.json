@@ -1,0 +1,37 @@
+{
+  "handle": "@KidsInspiringNations",
+  "intro": 3.4,
+  "closing": 4.43,
+  "channels": [
+    {"glyph":"▶️","label":"YouTube","color":"#FF0033"},
+    {"glyph":"📸","label":"Instagram","color":"#E1306C"},
+    {"glyph":"👍","label":"Facebook","color":"#1877F2"},
+    {"glyph":"🌐","label":"Website","color":"#FFC500"}
+  ],
+  "shorts": [
+    {
+      "id": "J22S4",
+      "video": "cine_j22_s4.mp4",
+      "music": "music_j22_s4.mp3",
+      "clip": 63,
+      "captions": "j22_s4.json",
+      "hook": "ALLOW PEOPLE TO EXPLAIN THEIR NEED"
+    },
+    {
+      "id": "J22S5",
+      "video": "cine_j22_s5.mp4",
+      "music": "music_j22_s5.mp3",
+      "clip": 40,
+      "captions": "j22_s5.json",
+      "hook": "BEFORE HE HEALS, HE ASKS"
+    },
+    {
+      "id": "J22S6",
+      "video": "cine_j22_s6.mp4",
+      "music": "music_j22_s6.mp3",
+      "clip": 48,
+      "captions": "j22_s6.json",
+      "hook": "IMAGINE THEIR PAINS"
+    }
+  ]
+}

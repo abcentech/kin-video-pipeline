@@ -1,0 +1,252 @@
+{
+  "audio": "pixar_intro_audio.mp3",
+  "title": "July intro 1 — The Secrets of Longevity",
+  "beats": [
+    {
+      "i": 0,
+      "start": 0,
+      "end": 8,
+      "vo": "What if the secret to a long life wasn't found in medicine, or money, or even genetics?",
+      "hero": "beat0_hero.png",
+      "depth": "beat0_hero_depth.png",
+      "veo": null,
+      "motion": "push-in"
+    },
+    {
+      "i": 1,
+      "start": 8,
+      "end": 16.5,
+      "vo": "What if living well is not measured by how many years you have? Think about this for a moment.",
+      "hero": "beat1_hero.png",
+      "depth": "beat1_hero_depth.png",
+      "veo": null,
+      "motion": "pull-back"
+    },
+    {
+      "i": 2,
+      "start": 16.5,
+      "end": 27,
+      "vo": "How rich are you? Not in money, not in houses, not in possessions.",
+      "hero": "beat2_hero.png",
+      "depth": "beat2_hero_depth.png",
+      "veo": null,
+      "motion": "dolly-left"
+    },
+    {
+      "i": 3,
+      "start": 27,
+      "end": 35.16,
+      "vo": "How rich are you in this?",
+      "hero": "beat3_hero.png",
+      "depth": "beat3_hero_depth.png",
+      "veo": null,
+      "motion": "push-in"
+    },
+    {
+      "i": 4,
+      "start": 35.16,
+      "end": 46.48,
+      "vo": "With long life will I satisfy you, and show you my salvation.",
+      "hero": "beat4_hero.png",
+      "depth": "beat4_hero_depth.png",
+      "veo": null,
+      "motion": "crane-up"
+    },
+    {
+      "i": 5,
+      "start": 46.48,
+      "end": 55.36,
+      "vo": "Even if you lived to be a hundred years old, you would have only thirty-six thousand five hundred days.",
+      "hero": "beat5_hero.png",
+      "depth": "beat5_hero_depth.png",
+      "veo": null,
+      "motion": "dolly-right"
+    },
+    {
+      "i": 6,
+      "start": 55.36,
+      "end": 67.9,
+      "vo": "That's only eight hundred and seventy-six thousand hours. No one leaves this world with a million.",
+      "hero": "beat6_hero.png",
+      "depth": "beat6_hero_depth.png",
+      "veo": null,
+      "motion": "push-in"
+    },
+    {
+      "i": 7,
+      "start": 67.9,
+      "end": 76.24,
+      "vo": "Time is the one currency God places into your hands every morning.",
+      "hero": "beat7_hero.png",
+      "depth": "beat7_hero_depth.png",
+      "veo": null,
+      "motion": "pull-back"
+    },
+    {
+      "i": 8,
+      "start": 76.24,
+      "end": 85,
+      "vo": "That raises a question. Why do some live long, while others are taken so young?",
+      "hero": "beat8_hero.png",
+      "depth": "beat8_hero_depth.png",
+      "veo": null,
+      "motion": "dolly-left"
+    },
+    {
+      "i": 9,
+      "start": 85,
+      "end": 94.8,
+      "vo": "Abraham, a hundred and seventy-five years. Isaac, a hundred and eighty. Jacob, a hundred and forty-seven.",
+      "hero": "beat9_hero.png",
+      "depth": "beat9_hero_depth.png",
+      "veo": null,
+      "motion": "dolly-right"
+    },
+    {
+      "i": 10,
+      "start": 94.8,
+      "end": 103,
+      "vo": "Was it merely genetics? Was it environment? Or has God revealed timeless principles for a long, faithful life?",
+      "hero": "beat10_hero.png",
+      "depth": "beat10_hero_depth.png",
+      "veo": null,
+      "motion": "push-in"
+    },
+    {
+      "i": 11,
+      "start": 103,
+      "end": 111,
+      "vo": "For as the days of a tree, so shall the days of my people be. A healthy tree is deeply rooted.",
+      "hero": "beat11_hero.png",
+      "depth": "beat11_hero_depth.png",
+      "veo": null,
+      "motion": "crane-up"
+    },
+    {
+      "i": 12,
+      "start": 111,
+      "end": 120.8,
+      "vo": "It stands through storms. It keeps growing. It keeps bearing fruit, year after year.",
+      "hero": "beat12_hero.png",
+      "depth": "beat12_hero_depth.png",
+      "veo": null,
+      "motion": "orbit"
+    },
+    {
+      "i": 13,
+      "start": 120.8,
+      "end": 130.96,
+      "vo": "Not a life cut short. Not a life merely existing. A life rooted, fruitful, finishing well.",
+      "hero": "beat13_hero.png",
+      "depth": "beat13_hero_depth.png",
+      "veo": null,
+      "motion": "pull-back"
+    },
+    {
+      "i": 14,
+      "start": 130.96,
+      "end": 137.2,
+      "vo": "This series is not about adding years to your life, but adding life to your years.",
+      "hero": "beat14_hero.png",
+      "depth": "beat14_hero_depth.png",
+      "veo": null,
+      "motion": "dolly-right"
+    },
+    {
+      "i": 15,
+      "start": 137.2,
+      "end": 144.5,
+      "vo": "Purpose to every season, faithfulness to every decade. Welcome to The Secrets of Longevity.",
+      "hero": "beat15_hero.png",
+      "depth": "beat15_hero_depth.png",
+      "veo": null,
+      "motion": "push-in"
+    }
+  ],
+  "sound": {
+    "bed": "audio/bed.mp3",
+    "bedVolume": 0.16,
+    "cues": [
+      {
+        "at": 0,
+        "file": "audio/swell.mp3",
+        "volume": 0.55
+      },
+      {
+        "at": 7.88,
+        "file": "audio/whoosh.mp3",
+        "volume": 0.5
+      },
+      {
+        "at": 16.38,
+        "file": "audio/whoosh.mp3",
+        "volume": 0.5
+      },
+      {
+        "at": 26.88,
+        "file": "audio/whoosh.mp3",
+        "volume": 0.5
+      },
+      {
+        "at": 35.04,
+        "file": "audio/whoosh.mp3",
+        "volume": 0.5
+      },
+      {
+        "at": 46.36,
+        "file": "audio/whoosh.mp3",
+        "volume": 0.5
+      },
+      {
+        "at": 55.24,
+        "file": "audio/whoosh.mp3",
+        "volume": 0.5
+      },
+      {
+        "at": 67.78,
+        "file": "audio/whoosh.mp3",
+        "volume": 0.5
+      },
+      {
+        "at": 76.11999999999999,
+        "file": "audio/whoosh.mp3",
+        "volume": 0.5
+      },
+      {
+        "at": 84.88,
+        "file": "audio/whoosh.mp3",
+        "volume": 0.5
+      },
+      {
+        "at": 94.67999999999999,
+        "file": "audio/whoosh.mp3",
+        "volume": 0.5
+      },
+      {
+        "at": 102.88,
+        "file": "audio/whoosh.mp3",
+        "volume": 0.5
+      },
+      {
+        "at": 110.88,
+        "file": "audio/whoosh.mp3",
+        "volume": 0.5
+      },
+      {
+        "at": 120.67999999999999,
+        "file": "audio/whoosh.mp3",
+        "volume": 0.5
+      },
+      {
+        "at": 130.84,
+        "file": "audio/whoosh.mp3",
+        "volume": 0.5
+      },
+      {
+        "at": 137.07999999999998,
+        "file": "audio/whoosh.mp3",
+        "volume": 0.5
+      }
+    ]
+  }
+}

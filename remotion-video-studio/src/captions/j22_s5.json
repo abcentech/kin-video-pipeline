@@ -1,0 +1,454 @@
+{
+ "words": [
+  {
+   "w": "Before",
+   "start": 0.72,
+   "end": 1.45,
+   "emp": false
+  },
+  {
+   "w": "Jesus",
+   "start": 1.45,
+   "end": 1.69,
+   "emp": true
+  },
+  {
+   "w": "heals,",
+   "start": 1.69,
+   "end": 2.74,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 2.74,
+   "end": 2.9,
+   "emp": false
+  },
+  {
+   "w": "would",
+   "start": 2.9,
+   "end": 3.41,
+   "emp": false
+  },
+  {
+   "w": "always",
+   "start": 3.41,
+   "end": 4.06,
+   "emp": false
+  },
+  {
+   "w": "ask,",
+   "start": 4.06,
+   "end": 4.54,
+   "emp": false
+  },
+  {
+   "w": "what",
+   "start": 4.54,
+   "end": 4.84,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 4.84,
+   "end": 4.99,
+   "emp": false
+  },
+  {
+   "w": "wrong?",
+   "start": 4.99,
+   "end": 5.6,
+   "emp": false
+  },
+  {
+   "w": "What",
+   "start": 7.46,
+   "end": 7.56,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 7.46,
+   "end": 7.6,
+   "emp": false
+  },
+  {
+   "w": "wrong?",
+   "start": 7.6,
+   "end": 8.3,
+   "emp": false
+  },
+  {
+   "w": "So",
+   "start": 9.22,
+   "end": 9.4,
+   "emp": false
+  },
+  {
+   "w": "understand",
+   "start": 9.4,
+   "end": 9.54,
+   "emp": false
+  },
+  {
+   "w": "this",
+   "start": 9.54,
+   "end": 9.95,
+   "emp": false
+  },
+  {
+   "w": "today,",
+   "start": 9.95,
+   "end": 10.7,
+   "emp": true
+  },
+  {
+   "w": "that",
+   "start": 10.7,
+   "end": 11.04,
+   "emp": false
+  },
+  {
+   "w": "if",
+   "start": 11.04,
+   "end": 11.24,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 11.24,
+   "end": 11.46,
+   "emp": true
+  },
+  {
+   "w": "are",
+   "start": 11.46,
+   "end": 11.71,
+   "emp": false
+  },
+  {
+   "w": "going",
+   "start": 11.71,
+   "end": 12.18,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 12.18,
+   "end": 12.49,
+   "emp": false
+  },
+  {
+   "w": "pray",
+   "start": 12.49,
+   "end": 12.64,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 12.64,
+   "end": 12.89,
+   "emp": false
+  },
+  {
+   "w": "people,",
+   "start": 12.89,
+   "end": 13.6,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 14.48,
+   "end": 14.58,
+   "emp": true
+  },
+  {
+   "w": "must",
+   "start": 14.53,
+   "end": 15.21,
+   "emp": false
+  },
+  {
+   "w": "always",
+   "start": 15.21,
+   "end": 15.43,
+   "emp": false
+  },
+  {
+   "w": "ask,",
+   "start": 15.43,
+   "end": 16.16,
+   "emp": false
+  },
+  {
+   "w": "what",
+   "start": 16.16,
+   "end": 16.75,
+   "emp": false
+  },
+  {
+   "w": "would",
+   "start": 16.75,
+   "end": 17.75,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 17.75,
+   "end": 17.93,
+   "emp": true
+  },
+  {
+   "w": "want",
+   "start": 17.93,
+   "end": 18.51,
+   "emp": false
+  },
+  {
+   "w": "Jesus",
+   "start": 18.51,
+   "end": 19.26,
+   "emp": true
+  },
+  {
+   "w": "to",
+   "start": 19.26,
+   "end": 19.54,
+   "emp": false
+  },
+  {
+   "w": "do",
+   "start": 19.54,
+   "end": 19.84,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 19.84,
+   "end": 20.27,
+   "emp": false
+  },
+  {
+   "w": "you?",
+   "start": 20.27,
+   "end": 21.22,
+   "emp": true
+  },
+  {
+   "w": "What",
+   "start": 22.22,
+   "end": 22.32,
+   "emp": false
+  },
+  {
+   "w": "would",
+   "start": 22.32,
+   "end": 22.42,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 22.38,
+   "end": 22.95,
+   "emp": true
+  },
+  {
+   "w": "want",
+   "start": 22.95,
+   "end": 23.26,
+   "emp": false
+  },
+  {
+   "w": "Jesus",
+   "start": 23.26,
+   "end": 23.9,
+   "emp": true
+  },
+  {
+   "w": "to",
+   "start": 23.9,
+   "end": 24.24,
+   "emp": false
+  },
+  {
+   "w": "do",
+   "start": 24.24,
+   "end": 24.4,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 24.4,
+   "end": 24.78,
+   "emp": false
+  },
+  {
+   "w": "you?",
+   "start": 24.78,
+   "end": 25.6,
+   "emp": true
+  },
+  {
+   "w": "The",
+   "start": 26.52,
+   "end": 27.08,
+   "emp": false
+  },
+  {
+   "w": "moment",
+   "start": 27.08,
+   "end": 27.25,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 27.25,
+   "end": 27.52,
+   "emp": true
+  },
+  {
+   "w": "understand",
+   "start": 27.52,
+   "end": 28.49,
+   "emp": false
+  },
+  {
+   "w": "that,",
+   "start": 28.49,
+   "end": 29.08,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 29.08,
+   "end": 29.63,
+   "emp": true
+  },
+  {
+   "w": "begin",
+   "start": 29.63,
+   "end": 29.83,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 29.83,
+   "end": 29.93,
+   "emp": false
+  },
+  {
+   "w": "journey",
+   "start": 29.92,
+   "end": 30.59,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 30.59,
+   "end": 31.03,
+   "emp": false
+  },
+  {
+   "w": "healing",
+   "start": 31.03,
+   "end": 31.57,
+   "emp": true
+  },
+  {
+   "w": "people",
+   "start": 31.57,
+   "end": 32.21,
+   "emp": false
+  },
+  {
+   "w": "like",
+   "start": 32.21,
+   "end": 33.1,
+   "emp": false
+  },
+  {
+   "w": "Jesus,",
+   "start": 33.1,
+   "end": 33.96,
+   "emp": true
+  },
+  {
+   "w": "healing",
+   "start": 33.96,
+   "end": 34.42,
+   "emp": true
+  },
+  {
+   "w": "them.",
+   "start": 34.42,
+   "end": 34.8,
+   "emp": false
+  },
+  {
+   "w": "The",
+   "start": 36.16,
+   "end": 36.26,
+   "emp": false
+  },
+  {
+   "w": "moment",
+   "start": 36.16,
+   "end": 36.26,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 36.16,
+   "end": 36.47,
+   "emp": true
+  },
+  {
+   "w": "understand",
+   "start": 36.47,
+   "end": 37.05,
+   "emp": false
+  },
+  {
+   "w": "that,",
+   "start": 37.05,
+   "end": 37.52,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 37.52,
+   "end": 37.81,
+   "emp": true
+  },
+  {
+   "w": "begin",
+   "start": 37.81,
+   "end": 38.3,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 38.3,
+   "end": 38.49,
+   "emp": false
+  },
+  {
+   "w": "heal",
+   "start": 38.49,
+   "end": 38.88,
+   "emp": false
+  },
+  {
+   "w": "like",
+   "start": 38.88,
+   "end": 39.43,
+   "emp": false
+  },
+  {
+   "w": "Jesus,",
+   "start": 39.43,
+   "end": 40,
+   "emp": true
+  }
+ ]
+}

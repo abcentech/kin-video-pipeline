@@ -1,0 +1,460 @@
+{
+ "words": [
+  {
+   "w": "We",
+   "start": 0.78,
+   "end": 0.88,
+   "emp": false
+  },
+  {
+   "w": "will",
+   "start": 0.78,
+   "end": 0.88,
+   "emp": false
+  },
+  {
+   "w": "have",
+   "start": 0.8,
+   "end": 0.9,
+   "emp": false
+  },
+  {
+   "w": "spoken",
+   "start": 0.87,
+   "end": 2,
+   "emp": false
+  },
+  {
+   "w": "several",
+   "start": 2,
+   "end": 2.1,
+   "emp": false
+  },
+  {
+   "w": "words.",
+   "start": 2.02,
+   "end": 2.78,
+   "emp": true
+  },
+  {
+   "w": "I",
+   "start": 4.88,
+   "end": 4.98,
+   "emp": false
+  },
+  {
+   "w": "don't",
+   "start": 4.88,
+   "end": 4.98,
+   "emp": false
+  },
+  {
+   "w": "know",
+   "start": 4.88,
+   "end": 4.98,
+   "emp": false
+  },
+  {
+   "w": "how",
+   "start": 4.88,
+   "end": 4.98,
+   "emp": false
+  },
+  {
+   "w": "many",
+   "start": 4.88,
+   "end": 4.98,
+   "emp": false
+  },
+  {
+   "w": "words",
+   "start": 4.9,
+   "end": 5.03,
+   "emp": true
+  },
+  {
+   "w": "you",
+   "start": 5.03,
+   "end": 5.19,
+   "emp": false
+  },
+  {
+   "w": "speak",
+   "start": 5.19,
+   "end": 6.05,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 6.05,
+   "end": 6.15,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 6.1,
+   "end": 6.2,
+   "emp": false
+  },
+  {
+   "w": "day.",
+   "start": 6.15,
+   "end": 6.82,
+   "emp": false
+  },
+  {
+   "w": "But",
+   "start": 7.46,
+   "end": 7.56,
+   "emp": false
+  },
+  {
+   "w": "can",
+   "start": 7.46,
+   "end": 7.56,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 7.46,
+   "end": 7.56,
+   "emp": false
+  },
+  {
+   "w": "do",
+   "start": 7.48,
+   "end": 7.59,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 7.59,
+   "end": 7.69,
+   "emp": false
+  },
+  {
+   "w": "tabular",
+   "start": 7.66,
+   "end": 8.68,
+   "emp": false
+  },
+  {
+   "w": "representation",
+   "start": 8.68,
+   "end": 9.22,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 9.22,
+   "end": 9.32,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 9.32,
+   "end": 9.47,
+   "emp": false
+  },
+  {
+   "w": "words",
+   "start": 9.47,
+   "end": 9.72,
+   "emp": true
+  },
+  {
+   "w": "you've",
+   "start": 9.72,
+   "end": 10.02,
+   "emp": false
+  },
+  {
+   "w": "spoken,",
+   "start": 10.02,
+   "end": 10.38,
+   "emp": false
+  },
+  {
+   "w": "maybe",
+   "start": 10.78,
+   "end": 10.88,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 10.8,
+   "end": 10.94,
+   "emp": false
+  },
+  {
+   "w": "day",
+   "start": 10.94,
+   "end": 11.08,
+   "emp": false
+  },
+  {
+   "w": "before,",
+   "start": 11.08,
+   "end": 12,
+   "emp": false
+  },
+  {
+   "w": "yesterday,",
+   "start": 12,
+   "end": 12.5,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 13.32,
+   "end": 13.42,
+   "emp": false
+  },
+  {
+   "w": "ask",
+   "start": 13.32,
+   "end": 13.42,
+   "emp": false
+  },
+  {
+   "w": "yourself,",
+   "start": 13.34,
+   "end": 14.54,
+   "emp": false
+  },
+  {
+   "w": "which",
+   "start": 14.54,
+   "end": 14.64,
+   "emp": false
+  },
+  {
+   "w": "words",
+   "start": 14.54,
+   "end": 15.04,
+   "emp": true
+  },
+  {
+   "w": "are",
+   "start": 15.04,
+   "end": 15.36,
+   "emp": false
+  },
+  {
+   "w": "life",
+   "start": 15.36,
+   "end": 15.76,
+   "emp": true
+  },
+  {
+   "w": "and",
+   "start": 15.76,
+   "end": 15.96,
+   "emp": false
+  },
+  {
+   "w": "which",
+   "start": 15.96,
+   "end": 16.22,
+   "emp": false
+  },
+  {
+   "w": "words",
+   "start": 16.22,
+   "end": 16.33,
+   "emp": true
+  },
+  {
+   "w": "are",
+   "start": 16.33,
+   "end": 16.84,
+   "emp": false
+  },
+  {
+   "w": "death?",
+   "start": 16.84,
+   "end": 17.4,
+   "emp": true
+  },
+  {
+   "w": "In",
+   "start": 19.64,
+   "end": 19.74,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 19.64,
+   "end": 19.74,
+   "emp": false
+  },
+  {
+   "w": "mouth",
+   "start": 19.64,
+   "end": 19.74,
+   "emp": true
+  },
+  {
+   "w": "lies",
+   "start": 19.66,
+   "end": 19.94,
+   "emp": false
+  },
+  {
+   "w": "how",
+   "start": 19.94,
+   "end": 20.86,
+   "emp": false
+  },
+  {
+   "w": "long",
+   "start": 20.86,
+   "end": 21.24,
+   "emp": true
+  },
+  {
+   "w": "you",
+   "start": 21.24,
+   "end": 21.76,
+   "emp": false
+  },
+  {
+   "w": "live.",
+   "start": 21.76,
+   "end": 23,
+   "emp": true
+  },
+  {
+   "w": "In",
+   "start": 24.46,
+   "end": 24.56,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 24.46,
+   "end": 24.56,
+   "emp": false
+  },
+  {
+   "w": "mouth",
+   "start": 24.48,
+   "end": 24.58,
+   "emp": true
+  },
+  {
+   "w": "lies",
+   "start": 24.56,
+   "end": 25.13,
+   "emp": false
+  },
+  {
+   "w": "how",
+   "start": 25.13,
+   "end": 25.68,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 25.68,
+   "end": 25.99,
+   "emp": false
+  },
+  {
+   "w": "will",
+   "start": 25.99,
+   "end": 26.56,
+   "emp": false
+  },
+  {
+   "w": "die.",
+   "start": 26.56,
+   "end": 27.46,
+   "emp": false
+  },
+  {
+   "w": "In",
+   "start": 28.58,
+   "end": 28.79,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 28.79,
+   "end": 29.78,
+   "emp": false
+  },
+  {
+   "w": "mouth",
+   "start": 29.78,
+   "end": 29.88,
+   "emp": true
+  },
+  {
+   "w": "lies",
+   "start": 29.85,
+   "end": 30.34,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 30.34,
+   "end": 30.56,
+   "emp": false
+  },
+  {
+   "w": "things",
+   "start": 30.56,
+   "end": 31,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 31,
+   "end": 31.2,
+   "emp": false
+  },
+  {
+   "w": "have",
+   "start": 31.2,
+   "end": 31.4,
+   "emp": false
+  },
+  {
+   "w": "happened",
+   "start": 31.4,
+   "end": 31.53,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 31.53,
+   "end": 31.9,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 31.9,
+   "end": 32.06,
+   "emp": false
+  },
+  {
+   "w": "all",
+   "start": 32.06,
+   "end": 32.45,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 32.45,
+   "end": 32.97,
+   "emp": false
+  },
+  {
+   "w": "life.",
+   "start": 32.97,
+   "end": 33.5,
+   "emp": true
+  }
+ ]
+}

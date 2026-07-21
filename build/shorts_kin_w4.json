@@ -1,0 +1,23 @@
+{
+  "handle": "@KidsInspiringNation",
+  "intro": 0,
+  "closing": 0,
+  "channels": [
+    { "icon": "icons/youtube.svg",   "label": "YouTube",   "color": "#FF0033" },
+    { "icon": "icons/instagram.svg", "label": "Instagram", "color": "#E1306C" },
+    { "icon": "icons/telegram.svg",  "label": "Telegram",  "color": "#229ED9" },
+    { "icon": "icons/facebook.svg",  "label": "Facebook",  "color": "#1877F2" },
+    { "icon": "icons/web.svg",       "label": "KidsInspiringNation.org", "color": "#FFC500" }
+  ],
+  "shorts": [
+    { "id": "KINW4E1S1", "video": "sh_KINW4E1S1.mp4", "music": "In_The_Name-2.mp3", "clip": 34, "captions": "KINW4E1S1.json", "hook": "YOUR BODY IS GOD'S WORKMANSHIP", "reHook": "HE KNOWS EVERY STRAND", "inserts": [] },
+    { "id": "KINW4E1S2", "video": "sh_KINW4E1S2.mp4", "music": "In_The_Name-2.mp3", "clip": 52, "captions": "KINW4E1S2.json", "hook": "GOD MAKES NO REVISED EDITIONS", "reHook": "PERFECT FROM INCEPTION", "inserts": [] },
+    { "id": "KINW4E1S3", "video": "sh_KINW4E1S3.mp4", "music": "In_The_Name-2.mp3", "clip": 34, "captions": "KINW4E1S3.json", "hook": "JESUS BID 'PRICELESS' FOR YOU", "reHook": "BOUGHT WITH BLOOD, NOT MONEY", "inserts": [] },
+    { "id": "KINW4E2S1", "video": "sh_KINW4E2S1.mp4", "music": "In_The_Name-2.mp3", "clip": 32, "captions": "KINW4E2S1.json", "hook": "YOUR ONLY JOB: FUEL THE BODY", "reHook": "WHAT DO YOU EAT?", "inserts": [] },
+    { "id": "KINW4E2S2", "video": "sh_KINW4E2S2.mp4", "music": "In_The_Name-2.mp3", "clip": 26, "captions": "KINW4E2S2.json", "hook": "FOOD IS FUEL FOR LIFE", "reHook": "BE CAREFUL WHAT YOU EAT", "inserts": [] },
+    { "id": "KINW4E2S3", "video": "sh_KINW4E2S3.mp4", "music": "In_The_Name-2.mp3", "clip": 17, "captions": "KINW4E2S3.json", "hook": "SUGAR DESTROYS. JUNK DRAINS.", "reHook": "DISCIPLINE YOUR MOUTH", "inserts": [] },
+    { "id": "KINW4E3S1", "video": "sh_KINW4E3S1.mp4", "music": "In_The_Name-2.mp3", "clip": 28, "captions": "KINW4E3S1.json", "hook": "RUN NONSTOP AND YOU BREAK DOWN", "reHook": "TAKE YOUR PIT STOPS", "inserts": [] },
+    { "id": "KINW4E3S2", "video": "sh_KINW4E3S2.mp4", "music": "In_The_Name-2.mp3", "clip": 26, "captions": "KINW4E3S2.json", "hook": "SLEEP IS WHEN GOD REPAIRS YOU", "reHook": "EVEN E-CARS MUST RECHARGE", "inserts": [] },
+    { "id": "KINW4E3S3", "video": "sh_KINW4E3S3.mp4", "music": "In_The_Name-2.mp3", "clip": 35, "captions": "KINW4E3S3.json", "hook": "BABIES SLEEP 18 HOURS. YOU GAME 22.", "reHook": "REST IS NOT WEAKNESS", "inserts": [] }
+  ]
+}

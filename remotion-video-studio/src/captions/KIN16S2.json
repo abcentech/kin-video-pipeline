@@ -1,0 +1,538 @@
+{
+ "words": [
+  {
+   "w": "why",
+   "start": 0.07,
+   "end": 0.96,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 0.96,
+   "end": 1.06,
+   "emp": false
+  },
+  {
+   "w": "heart",
+   "start": 1.01,
+   "end": 1.29,
+   "emp": true
+  },
+  {
+   "w": "that",
+   "start": 1.29,
+   "end": 1.46,
+   "emp": false
+  },
+  {
+   "w": "keeps",
+   "start": 1.46,
+   "end": 1.71,
+   "emp": false
+  },
+  {
+   "w": "learning",
+   "start": 1.71,
+   "end": 2.14,
+   "emp": true
+  },
+  {
+   "w": "never",
+   "start": 2.14,
+   "end": 2.7,
+   "emp": false
+  },
+  {
+   "w": "grows",
+   "start": 2.7,
+   "end": 2.98,
+   "emp": false
+  },
+  {
+   "w": "old",
+   "start": 2.98,
+   "end": 3.28,
+   "emp": true
+  },
+  {
+   "w": "look",
+   "start": 3.28,
+   "end": 3.87,
+   "emp": false
+  },
+  {
+   "w": "at",
+   "start": 3.87,
+   "end": 4.51,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 4.51,
+   "end": 4.61,
+   "emp": false
+  },
+  {
+   "w": "way",
+   "start": 4.6,
+   "end": 5.06,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 5.06,
+   "end": 5.25,
+   "emp": false
+  },
+  {
+   "w": "world",
+   "start": 5.25,
+   "end": 5.56,
+   "emp": true
+  },
+  {
+   "w": "is",
+   "start": 5.56,
+   "end": 5.7,
+   "emp": false
+  },
+  {
+   "w": "advancing",
+   "start": 5.7,
+   "end": 6.38,
+   "emp": false
+  },
+  {
+   "w": "now",
+   "start": 6.38,
+   "end": 6.48,
+   "emp": false
+  },
+  {
+   "w": "we",
+   "start": 6.43,
+   "end": 6.55,
+   "emp": false
+  },
+  {
+   "w": "know",
+   "start": 6.55,
+   "end": 6.78,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 6.78,
+   "end": 6.99,
+   "emp": false
+  },
+  {
+   "w": "advent",
+   "start": 6.99,
+   "end": 7.33,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 7.33,
+   "end": 7.45,
+   "emp": false
+  },
+  {
+   "w": "artificial",
+   "start": 7.45,
+   "end": 8.19,
+   "emp": false
+  },
+  {
+   "w": "intelligence",
+   "start": 8.19,
+   "end": 8.65,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 8.65,
+   "end": 8.78,
+   "emp": false
+  },
+  {
+   "w": "all",
+   "start": 8.78,
+   "end": 8.91,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 8.91,
+   "end": 9.02,
+   "emp": false
+  },
+  {
+   "w": "those",
+   "start": 9.02,
+   "end": 9.16,
+   "emp": false
+  },
+  {
+   "w": "things",
+   "start": 9.16,
+   "end": 9.43,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 9.43,
+   "end": 9.84,
+   "emp": false
+  },
+  {
+   "w": "somebody",
+   "start": 9.84,
+   "end": 9.94,
+   "emp": false
+  },
+  {
+   "w": "will",
+   "start": 9.92,
+   "end": 10.1,
+   "emp": false
+  },
+  {
+   "w": "tell",
+   "start": 10.1,
+   "end": 10.28,
+   "emp": false
+  },
+  {
+   "w": "himself",
+   "start": 10.28,
+   "end": 10.6,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 10.6,
+   "end": 10.81,
+   "emp": false
+  },
+  {
+   "w": "me",
+   "start": 10.81,
+   "end": 11.65,
+   "emp": false
+  },
+  {
+   "w": "all",
+   "start": 11.65,
+   "end": 12.11,
+   "emp": false
+  },
+  {
+   "w": "those",
+   "start": 12.11,
+   "end": 12.44,
+   "emp": false
+  },
+  {
+   "w": "things",
+   "start": 12.44,
+   "end": 12.79,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 12.79,
+   "end": 12.91,
+   "emp": false
+  },
+  {
+   "w": "don't",
+   "start": 12.91,
+   "end": 13.36,
+   "emp": false
+  },
+  {
+   "w": "want",
+   "start": 13.36,
+   "end": 13.6,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 13.6,
+   "end": 13.7,
+   "emp": false
+  },
+  {
+   "w": "do",
+   "start": 13.6,
+   "end": 13.8,
+   "emp": false
+  },
+  {
+   "w": "it",
+   "start": 13.8,
+   "end": 14,
+   "emp": false
+  },
+  {
+   "w": "I",
+   "start": 14,
+   "end": 14.28,
+   "emp": false
+  },
+  {
+   "w": "mean",
+   "start": 14.28,
+   "end": 14.51,
+   "emp": false
+  },
+  {
+   "w": "how",
+   "start": 14.51,
+   "end": 14.89,
+   "emp": false
+  },
+  {
+   "w": "do",
+   "start": 14.89,
+   "end": 15.02,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 15.02,
+   "end": 15.33,
+   "emp": false
+  },
+  {
+   "w": "expect",
+   "start": 15.33,
+   "end": 15.95,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 15.95,
+   "end": 16.15,
+   "emp": false
+  },
+  {
+   "w": "live",
+   "start": 16.15,
+   "end": 16.55,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 16.55,
+   "end": 16.82,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 16.82,
+   "end": 16.93,
+   "emp": false
+  },
+  {
+   "w": "world",
+   "start": 16.93,
+   "end": 17.2,
+   "emp": true
+  },
+  {
+   "w": "that",
+   "start": 17.2,
+   "end": 17.65,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 17.65,
+   "end": 18.11,
+   "emp": false
+  },
+  {
+   "w": "did",
+   "start": 18.11,
+   "end": 18.29,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 18.29,
+   "end": 18.61,
+   "emp": false
+  },
+  {
+   "w": "train",
+   "start": 18.61,
+   "end": 19.15,
+   "emp": true
+  },
+  {
+   "w": "for",
+   "start": 19.15,
+   "end": 19.5,
+   "emp": false
+  },
+  {
+   "w": "how",
+   "start": 19.5,
+   "end": 20.42,
+   "emp": false
+  },
+  {
+   "w": "do",
+   "start": 20.42,
+   "end": 20.52,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 20.49,
+   "end": 20.59,
+   "emp": false
+  },
+  {
+   "w": "expect",
+   "start": 20.58,
+   "end": 20.8,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 20.8,
+   "end": 21.01,
+   "emp": false
+  },
+  {
+   "w": "live",
+   "start": 21.01,
+   "end": 21.11,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 21.08,
+   "end": 21.18,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 21.1,
+   "end": 21.2,
+   "emp": false
+  },
+  {
+   "w": "world",
+   "start": 21.11,
+   "end": 21.28,
+   "emp": true
+  },
+  {
+   "w": "that",
+   "start": 21.28,
+   "end": 21.41,
+   "emp": false
+  },
+  {
+   "w": "you're",
+   "start": 21.41,
+   "end": 21.71,
+   "emp": false
+  },
+  {
+   "w": "not",
+   "start": 21.71,
+   "end": 21.81,
+   "emp": false
+  },
+  {
+   "w": "trained",
+   "start": 21.76,
+   "end": 22.01,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 22.01,
+   "end": 22.12,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 22.12,
+   "end": 22.68,
+   "emp": false
+  },
+  {
+   "w": "know",
+   "start": 22.68,
+   "end": 23.42,
+   "emp": false
+  },
+  {
+   "w": "because",
+   "start": 23.42,
+   "end": 23.84,
+   "emp": false
+  },
+  {
+   "w": "as",
+   "start": 23.84,
+   "end": 24.52,
+   "emp": false
+  },
+  {
+   "w": "people",
+   "start": 24.52,
+   "end": 24.62,
+   "emp": false
+  },
+  {
+   "w": "grow",
+   "start": 24.57,
+   "end": 24.94,
+   "emp": true
+  },
+  {
+   "w": "older",
+   "start": 24.94,
+   "end": 25.41,
+   "emp": false
+  },
+  {
+   "w": "they",
+   "start": 25.41,
+   "end": 25.77,
+   "emp": false
+  },
+  {
+   "w": "say",
+   "start": 25.77,
+   "end": 26.04,
+   "emp": false
+  },
+  {
+   "w": "things",
+   "start": 26.04,
+   "end": 26.59,
+   "emp": false
+  },
+  {
+   "w": "like",
+   "start": 26.59,
+   "end": 27,
+   "emp": false
+  },
+  {
+   "w": "ah",
+   "start": 27,
+   "end": 27.1,
+   "emp": false
+  }
+ ]
+}

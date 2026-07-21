@@ -1,0 +1,24 @@
+{
+  "handle": "@KidsInspiringNation",
+  "intro": 0,
+  "closing": 0,
+  "channels": [
+    { "icon": "icons/youtube.svg",   "label": "YouTube",   "color": "#FF0033" },
+    { "icon": "icons/instagram.svg", "label": "Instagram", "color": "#E1306C" },
+    { "icon": "icons/telegram.svg",  "label": "Telegram",  "color": "#229ED9" },
+    { "icon": "icons/facebook.svg",  "label": "Facebook",  "color": "#1877F2" },
+    { "icon": "icons/web.svg",       "label": "KidsInspiringNation.org", "color": "#FFC500" }
+  ],
+  "shorts": [
+    { "id": "KIN13S1", "video": "sh_KIN13S1.mp4", "music": "In_The_Name-2.mp3", "clip": 33.5, "captions": "KIN13S1.json", "hook": "YOUR WORDS DECIDE HOW LONG YOU LIVE", "reHook": "LIFE OR DEATH — YOU PICK", "inserts": [] },
+    { "id": "KIN13S2", "video": "sh_KIN13S2.mp4", "music": "In_The_Name-2.mp3", "clip": 40, "captions": "KIN13S2.json", "hook": "YOU CREATE WITH WORDS, LIKE GOD", "reHook": "MADE IN HIS IMAGE", "inserts": [] },
+    { "id": "KIN14S1", "video": "sh_KIN14S1.mp4", "music": "In_The_Name-2.mp3", "clip": 39.5, "captions": "KIN14S1.json", "hook": "YOUR LONGEST CONVERSATION IS IN YOUR MIND", "reHook": "IT'S SHAPING YOU", "inserts": [] },
+    { "id": "KIN14S2", "video": "sh_KIN14S2.mp4", "music": "In_The_Name-2.mp3", "clip": 33, "captions": "KIN14S2.json", "hook": "AT 85 HE CLAIMED HIS MOUNTAIN", "reHook": "AGE DIDN'T STOP CALEB", "inserts": [] },
+    { "id": "KIN15S1", "video": "sh_KIN15S1.mp4", "music": "In_The_Name-2.mp3", "clip": 30, "captions": "KIN15S1.json", "hook": "JOY IS MEDICINE WITH NO SIDE EFFECTS", "reHook": "NO PRESCRIPTION NEEDED", "inserts": [] },
+    { "id": "KIN15S2", "video": "sh_KIN15S2.mp4", "music": "In_The_Name-2.mp3", "clip": 24, "captions": "KIN15S2.json", "hook": "JOY ISN'T A REWARD, IT'S A CHOICE", "reHook": "DECIDE IT DAILY", "inserts": [] },
+    { "id": "KIN16S1", "video": "sh_KIN16S1.mp4", "music": "In_The_Name-2.mp3", "clip": 28, "captions": "KIN16S1.json", "hook": "STOP LEARNING AND YOU START DYING", "reHook": "AT ANY AGE", "inserts": [] },
+    { "id": "KIN16S2", "video": "sh_KIN16S2.mp4", "music": "In_The_Name-2.mp3", "clip": 27, "captions": "KIN16S2.json", "hook": "A HEART THAT KEEPS LEARNING NEVER GROWS OLD", "reHook": "TRAIN FOR THIS WORLD", "inserts": [] },
+    { "id": "KIN17S1", "video": "sh_KIN17S1.mp4", "music": "In_The_Name-2.mp3", "clip": 24, "captions": "KIN17S1.json", "hook": "WISDOM MULTIPLIES YOUR YEARS", "reHook": "NOT JUST KNOWLEDGE", "inserts": [] },
+    { "id": "KIN17S2", "video": "sh_KIN17S2.mp4", "music": "In_The_Name-2.mp3", "clip": 56, "captions": "KIN17S2.json", "hook": "HE BROUGHT A CERTIFICATE TO A LION", "reHook": "WISDOM BEATS A DEGREE", "inserts": [] }
+  ]
+}

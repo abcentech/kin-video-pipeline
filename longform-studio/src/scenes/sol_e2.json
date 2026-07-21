@@ -1,0 +1,116 @@
+{
+  "source": "lf_sol_e2.mp4",
+  "title": "LIVE WELL, NOT JUST LONG",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": false,
+  "videoSeconds": 583,
+  "subscribeEvery": 180,
+  "wordmarkFill": true,
+  "hookAt": 92,
+  "hookText": "Live Well, Not Just Long",
+  "openLoop": "The richest place on earth isn't a bank",
+  "keywords": [
+    { "at": 205, "text": "Number your days" },
+    { "at": 475, "text": "Finish strong" }
+  ],
+  "recap": {
+    "at": 498,
+    "title": "How to live a life that counts",
+    "items": [
+      "God preserves you to finish your assignment",
+      "It's God — not statistics — who numbers your days",
+      "Not the years in your life, but the life in your years",
+      "Live well — it's never too late or too early",
+      "Don't just begin well — finish well"
+    ]
+  },
+  "outro": {
+    "at": 562,
+    "next": "Finish your assignment",
+    "url": "KidsInspiringNation.t.me"
+  },
+  "immersion": {
+    "enabled": true,
+    "bed": "audio/sol_e2_bed.mp3",
+    "bedVolume": 0.16,
+    "voiceEnd": 562,
+    "grade": true,
+    "particles": true,
+    "sfx": true,
+    "scriptures": [
+      { "at": 192, "ref": "Psalm 90:12", "text": "Teach us to number our days, that we may apply our hearts unto wisdom.", "place": "lower", "hold": 6 }
+    ]
+  },
+  "scenes": [
+    {
+      "start": 97,
+      "end": 106,
+      "section": "COMPLETE YOUR ASSIGNMENT",
+      "point": "God preserves your life so you can finish your assignment",
+      "ref": "",
+      "emoji": "🎯",
+      "noSplit": true,
+      "teaser": "Who decides how long you live?"
+    },
+    {
+      "start": 213,
+      "end": 225,
+      "section": "GOD NUMBERS YOUR DAYS",
+      "point": "Not statistics — God alone numbers your days",
+      "ref": "",
+      "emoji": "📅",
+      "noSplit": true,
+      "teaser": "One man refused to die first"
+    },
+    {
+      "start": 256,
+      "end": 270,
+      "section": "GIVE ME THIS MOUNTAIN",
+      "point": "Caleb at 85: 'I'm as strong as ever — give me this mountain'",
+      "ref": "Joshua 14:11",
+      "emoji": "⛰️",
+      "noSplit": true,
+      "teaser": "It's not the years that count"
+    },
+    {
+      "start": 366,
+      "end": 378,
+      "section": "LIVE WELL, NOT LONG",
+      "point": "The goal isn't to live long — it's to live well",
+      "ref": "",
+      "emoji": "✨",
+      "noSplit": true,
+      "teaser": "He met God in his 30s"
+    },
+    {
+      "start": 400,
+      "end": 413,
+      "section": "FINISH THE RACE",
+      "point": "Paul met God in his 30s and poured out for 35 years",
+      "ref": "2 Timothy 4:7",
+      "emoji": "🏁",
+      "noSplit": true,
+      "teaser": "It's never too late — or too early"
+    },
+    {
+      "start": 452,
+      "end": 466,
+      "section": "NEVER TOO LATE OR EARLY",
+      "point": "Abraham 75 · Moses 80 · Paul 35 · Samuel 12 — your stage doesn't matter",
+      "ref": "",
+      "emoji": "⏳",
+      "noSplit": true,
+      "teaser": "How do you want to be remembered?"
+    },
+    {
+      "start": 484,
+      "end": 497,
+      "section": "FINISH WELL",
+      "point": "God's desire isn't that you begin well — but that you finish well",
+      "ref": "",
+      "emoji": "👑",
+      "noSplit": true
+    }
+  ]
+}

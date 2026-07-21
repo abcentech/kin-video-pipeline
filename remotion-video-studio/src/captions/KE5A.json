@@ -1,0 +1,580 @@
+{
+ "words": [
+  {
+   "w": "If",
+   "start": 0.12,
+   "end": 0.22,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 0.22,
+   "end": 0.32,
+   "emp": true
+  },
+  {
+   "w": "want",
+   "start": 0.31,
+   "end": 0.56,
+   "emp": false
+  },
+  {
+   "w": "longevity,",
+   "start": 0.56,
+   "end": 1.31,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 1.31,
+   "end": 1.6,
+   "emp": false
+  },
+  {
+   "w": "discover",
+   "start": 1.6,
+   "end": 2.08,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 2.08,
+   "end": 2.2,
+   "emp": false
+  },
+  {
+   "w": "assignment",
+   "start": 2.2,
+   "end": 2.64,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 2.64,
+   "end": 2.75,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 2.75,
+   "end": 2.86,
+   "emp": false
+  },
+  {
+   "w": "season.",
+   "start": 2.86,
+   "end": 3.2,
+   "emp": false
+  },
+  {
+   "w": "The",
+   "start": 4.7,
+   "end": 4.8,
+   "emp": false
+  },
+  {
+   "w": "enemy",
+   "start": 4.7,
+   "end": 4.92,
+   "emp": false
+  },
+  {
+   "w": "steals",
+   "start": 4.92,
+   "end": 5.18,
+   "emp": false
+  },
+  {
+   "w": "seasons",
+   "start": 5.18,
+   "end": 6.3,
+   "emp": false
+  },
+  {
+   "w": "by",
+   "start": 6.3,
+   "end": 6.4,
+   "emp": false
+  },
+  {
+   "w": "convincing",
+   "start": 6.4,
+   "end": 7.44,
+   "emp": false
+  },
+  {
+   "w": "us",
+   "start": 7.44,
+   "end": 7.66,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 7.66,
+   "end": 7.82,
+   "emp": false
+  },
+  {
+   "w": "they",
+   "start": 7.82,
+   "end": 8.1,
+   "emp": false
+  },
+  {
+   "w": "don't",
+   "start": 8.1,
+   "end": 8.21,
+   "emp": false
+  },
+  {
+   "w": "matter,",
+   "start": 8.21,
+   "end": 8.52,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 8.52,
+   "end": 8.74,
+   "emp": false
+  },
+  {
+   "w": "they",
+   "start": 8.74,
+   "end": 8.96,
+   "emp": false
+  },
+  {
+   "w": "don't",
+   "start": 8.96,
+   "end": 9.4,
+   "emp": false
+  },
+  {
+   "w": "count.",
+   "start": 9.4,
+   "end": 9.68,
+   "emp": false
+  },
+  {
+   "w": "Some",
+   "start": 10.7,
+   "end": 10.8,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 10.7,
+   "end": 10.8,
+   "emp": false
+  },
+  {
+   "w": "us",
+   "start": 10.7,
+   "end": 10.92,
+   "emp": false
+  },
+  {
+   "w": "are",
+   "start": 10.92,
+   "end": 11.02,
+   "emp": false
+  },
+  {
+   "w": "young",
+   "start": 11.01,
+   "end": 11.62,
+   "emp": false
+  },
+  {
+   "w": "now.",
+   "start": 11.62,
+   "end": 12.38,
+   "emp": true
+  },
+  {
+   "w": "You",
+   "start": 12.38,
+   "end": 12.51,
+   "emp": true
+  },
+  {
+   "w": "are",
+   "start": 12.51,
+   "end": 12.64,
+   "emp": false
+  },
+  {
+   "w": "too",
+   "start": 12.64,
+   "end": 12.77,
+   "emp": false
+  },
+  {
+   "w": "young",
+   "start": 12.77,
+   "end": 12.99,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 12.99,
+   "end": 13.09,
+   "emp": false
+  },
+  {
+   "w": "matter.",
+   "start": 13.08,
+   "end": 13.52,
+   "emp": false
+  },
+  {
+   "w": "Not",
+   "start": 13.82,
+   "end": 14.04,
+   "emp": false
+  },
+  {
+   "w": "Samuel.",
+   "start": 14.04,
+   "end": 14.22,
+   "emp": false
+  },
+  {
+   "w": "Some",
+   "start": 15.32,
+   "end": 15.42,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 15.32,
+   "end": 15.42,
+   "emp": false
+  },
+  {
+   "w": "us",
+   "start": 15.34,
+   "end": 15.54,
+   "emp": false
+  },
+  {
+   "w": "are",
+   "start": 15.54,
+   "end": 15.8,
+   "emp": false
+  },
+  {
+   "w": "old.",
+   "start": 15.8,
+   "end": 16.68,
+   "emp": false
+  },
+  {
+   "w": "You",
+   "start": 16.68,
+   "end": 16.92,
+   "emp": true
+  },
+  {
+   "w": "are",
+   "start": 16.92,
+   "end": 17.04,
+   "emp": false
+  },
+  {
+   "w": "too",
+   "start": 17.04,
+   "end": 17.22,
+   "emp": false
+  },
+  {
+   "w": "old",
+   "start": 17.22,
+   "end": 17.4,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 17.4,
+   "end": 17.52,
+   "emp": false
+  },
+  {
+   "w": "be",
+   "start": 17.52,
+   "end": 17.64,
+   "emp": false
+  },
+  {
+   "w": "used.",
+   "start": 17.64,
+   "end": 18.1,
+   "emp": false
+  },
+  {
+   "w": "Not",
+   "start": 18.6,
+   "end": 18.82,
+   "emp": false
+  },
+  {
+   "w": "Moses.",
+   "start": 18.82,
+   "end": 19.9,
+   "emp": false
+  },
+  {
+   "w": "The",
+   "start": 21.52,
+   "end": 21.62,
+   "emp": false
+  },
+  {
+   "w": "in-between",
+   "start": 21.52,
+   "end": 21.74,
+   "emp": false
+  },
+  {
+   "w": "season",
+   "start": 21.74,
+   "end": 22.51,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 22.51,
+   "end": 22.78,
+   "emp": false
+  },
+  {
+   "w": "just",
+   "start": 22.78,
+   "end": 23.33,
+   "emp": false
+  },
+  {
+   "w": "what",
+   "start": 23.33,
+   "end": 23.88,
+   "emp": false
+  },
+  {
+   "w": "we",
+   "start": 23.88,
+   "end": 24.15,
+   "emp": false
+  },
+  {
+   "w": "call",
+   "start": 24.15,
+   "end": 24.7,
+   "emp": false
+  },
+  {
+   "w": "waiting.",
+   "start": 24.7,
+   "end": 26.16,
+   "emp": false
+  },
+  {
+   "w": "If",
+   "start": 27.18,
+   "end": 27.38,
+   "emp": false
+  },
+  {
+   "w": "God",
+   "start": 27.38,
+   "end": 27.48,
+   "emp": true
+  },
+  {
+   "w": "has",
+   "start": 27.41,
+   "end": 27.56,
+   "emp": false
+  },
+  {
+   "w": "given",
+   "start": 27.56,
+   "end": 27.81,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 27.81,
+   "end": 27.96,
+   "emp": true
+  },
+  {
+   "w": "breath",
+   "start": 27.96,
+   "end": 28.26,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 28.26,
+   "end": 28.36,
+   "emp": false
+  },
+  {
+   "w": "this",
+   "start": 28.36,
+   "end": 28.56,
+   "emp": false
+  },
+  {
+   "w": "season,",
+   "start": 28.56,
+   "end": 28.96,
+   "emp": false
+  },
+  {
+   "w": "He",
+   "start": 28.96,
+   "end": 29.06,
+   "emp": false
+  },
+  {
+   "w": "has",
+   "start": 29.06,
+   "end": 29.21,
+   "emp": false
+  },
+  {
+   "w": "given",
+   "start": 29.21,
+   "end": 29.46,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 29.46,
+   "end": 29.61,
+   "emp": true
+  },
+  {
+   "w": "an",
+   "start": 29.61,
+   "end": 29.71,
+   "emp": false
+  },
+  {
+   "w": "assignment",
+   "start": 29.71,
+   "end": 30.21,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 30.21,
+   "end": 30.31,
+   "emp": false
+  },
+  {
+   "w": "it.",
+   "start": 30.31,
+   "end": 30.62,
+   "emp": false
+  },
+  {
+   "w": "Every",
+   "start": 31.3,
+   "end": 31.4,
+   "emp": true
+  },
+  {
+   "w": "time",
+   "start": 31.3,
+   "end": 31.43,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 31.43,
+   "end": 31.53,
+   "emp": true
+  },
+  {
+   "w": "are",
+   "start": 31.52,
+   "end": 31.63,
+   "emp": false
+  },
+  {
+   "w": "alive,",
+   "start": 31.63,
+   "end": 32.1,
+   "emp": false
+  },
+  {
+   "w": "every",
+   "start": 32.1,
+   "end": 32.44,
+   "emp": true
+  },
+  {
+   "w": "season",
+   "start": 32.44,
+   "end": 32.9,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 32.9,
+   "end": 33.04,
+   "emp": true
+  },
+  {
+   "w": "are",
+   "start": 33.04,
+   "end": 33.24,
+   "emp": false
+  },
+  {
+   "w": "alive,",
+   "start": 33.24,
+   "end": 33.71,
+   "emp": false
+  },
+  {
+   "w": "there's",
+   "start": 33.71,
+   "end": 34.18,
+   "emp": false
+  },
+  {
+   "w": "an",
+   "start": 34.18,
+   "end": 34.31,
+   "emp": false
+  },
+  {
+   "w": "assignment",
+   "start": 34.31,
+   "end": 35,
+   "emp": false
+  },
+  {
+   "w": "for",
+   "start": 35,
+   "end": 35.13,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 35.13,
+   "end": 35.46,
+   "emp": false
+  },
+  {
+   "w": "life.",
+   "start": 35.46,
+   "end": 36,
+   "emp": true
+  }
+ ]
+}

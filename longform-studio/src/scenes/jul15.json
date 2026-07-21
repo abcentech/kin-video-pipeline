@@ -1,0 +1,76 @@
+{
+  "source": "lf_jul15.mp4",
+  "title": "CHOOSE JOY",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": false,
+  "wordmarkFill": true,
+  "videoSeconds": 597,
+  "subscribeEvery": 180,
+  "hookAt": 120,
+  "hookText": "The people who live longest made one daily choice",
+  "openLoop": "Coming up: the 5-year filter that kills worry",
+  "openLoopAt": 228,
+  "teasers": [
+    { "at": 254, "text": "Still ahead: how gratitude changes what you see" },
+    { "at": 430, "text": "Still ahead: the joy that carried Abraham 25 years" }
+  ],
+  "recap": {
+    "at": 550,
+    "title": "Choose Joy",
+    "items": [
+      "Joy is the oldest medicine — and it's a choice",
+      "Joy is not a reward for an easy life",
+      "Ask: will this matter in 5 years? Then choose joy",
+      "Gratitude changes the picture you're looking at",
+      "Rejoice before the outcome: I will not be moved"
+    ]
+  },
+  "outro": {
+    "at": 578,
+    "day": 4,
+    "total": 5,
+    "next": "Keep Learning",
+    "label": "Next episode",
+    "url": "KidsInspiringNation.t.me"
+  },
+  "immersion": {
+    "enabled": true,
+    "bed": "audio/jul15_bed.mp3",
+    "bedVolume": 0.14,
+    "voiceEnd": 592,
+    "grade": false,
+    "particles": false,
+    "sfx": true,
+    "scriptures": []
+  },
+  "scenes": [
+    {
+      "start": 345,
+      "end": 354,
+      "section": "CHOOSE JOY",
+      "point": "Joy is a choice you make before the answer comes",
+      "ref": "",
+      "emoji": "🔆",
+      "noSplit": true
+    },
+    {
+      "start": 388,
+      "end": 397,
+      "section": "STAND FIRM",
+      "point": "Decide in advance: whatever comes, I will not be moved",
+      "ref": "",
+      "emoji": "🪨",
+      "noSplit": true
+    },
+    {
+      "start": 408,
+      "end": 417,
+      "section": "REJOICE ANYWAY",
+      "point": "Rejoice before the outcome — that's real faith",
+      "ref": "",
+      "emoji": "🙌",
+      "noSplit": true
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "source": "lf_w4e5.mp4",
+  "title": "CLEANSE THE BODY",
+  "handle": "@KidsInspiringNation",
+  "showHook": false,
+  "showWatermark": true,
+  "wordmarkFill": true,
+  "subscribeEvery": 180,
+  "videoSeconds": 480.5,
+  "hookAt": 18,
+  "hookText": "Would you drive a car you never wash?",
+  "openLoop": "By the end: the 3-in-1 habit that cleanses body, mind AND spirit",
+  "openLoopAt": 64,
+  "teasers": [
+    { "at": 224, "text": "Still ahead: why you can judge a school by its toilets" },
+    { "at": 366, "text": "Still ahead: when the answer isn't to manage it — but to FLEE" }
+  ],
+  "outro": {
+    "at": 473,
+    "day": 5,
+    "total": 5,
+    "next": "The whole series is live now",
+    "label": "Series finale · 5 of 5",
+    "url": "KidsInspiringNation.org",
+    "prayer": "Prayer Service · Saturdays 7:30pm · KidsInspiringNation.t.me"
+  },
+  "immersion": {
+    "enabled": true,
+    "bed": "audio/w4_bed.mp3",
+    "bedVolume": 0.12,
+    "voiceEnd": 478,
+    "grade": false,
+    "particles": false,
+    "sfx": true,
+    "scriptures": [
+      { "at": 40, "ref": "2 Corinthians 7:1", "text": "Having therefore these promises, dearly beloved, let us **cleanse ourselves from all filthiness of the flesh and spirit**, perfecting holiness in the fear of God.", "place": "full", "hold": 9 },
+      { "at": 262, "ref": "Romans 12:2", "text": "And **be not conformed to this world: but be ye transformed by the renewing of your mind**, that ye may prove what is that good, and acceptable, and perfect, will of God.", "place": "full", "hold": 8 },
+      { "at": 305, "ref": "Psalm 1:1-2", "text": "**Blessed is the man that walketh not in the counsel of the ungodly**... but his delight is in the law of the LORD.", "place": "full", "hold": 7 },
+      { "at": 402, "ref": "1 Peter 2:11", "text": "Dearly beloved... **abstain from fleshly lusts, which war against the soul.**", "place": "full", "hold": 6 },
+      { "at": 438, "ref": "1 Thessalonians 5:22", "text": "**Abstain from all appearance of evil.**", "place": "full", "hold": 5 }
+    ]
+  },
+  "scenes": [
+    { "start": 6, "end": 14, "section": "", "point": "", "image": "w4e5_slide01.png", "full": true, "motion": "push-in" },
+    { "start": 26, "end": 37, "section": "CLEAN, INSIDE & OUT", "point": "God wants a clean body AND a clean spirit", "emoji": "✨", "noSplit": true },
+    { "start": 51, "end": 60, "section": "", "point": "", "image": "w4e5_slide02.png", "full": true, "motion": "pull-back" },
+    { "start": 105, "end": 116, "section": "", "point": "", "image": "w4e5_slide04.png", "full": true, "motion": "push-in" },
+    { "start": 128, "end": 139, "section": "CONSTANT, NOT OCCASIONAL", "point": "Like a white car, you need constant cleansing", "emoji": "🚿", "noSplit": true },
+    { "start": 152, "end": 162, "section": "", "point": "", "image": "w4e5_slide03.png", "full": true, "motion": "push-in" },
+    { "start": 167, "end": 177, "section": "", "point": "", "image": "w4e5_slide05.png", "full": true, "motion": "pull-back" },
+    { "start": 205, "end": 216, "section": "", "point": "", "image": "w4e5_slide06.png", "full": true, "motion": "push-in" },
+    { "start": 247, "end": 258, "section": "", "point": "", "image": "w4e5_slide07.png", "full": true, "motion": "pull-back" },
+    { "start": 275, "end": 286, "section": "", "point": "", "image": "w4e5_slide08.png", "full": true, "motion": "push-in" },
+    { "start": 332, "end": 344, "section": "", "point": "", "image": "w4e5_slide09.png", "full": true, "motion": "push-in" },
+    { "start": 388, "end": 398, "section": "EVERYONE ISN'T THE STANDARD", "point": "Everybody doing it doesn't make it good for you", "emoji": "🚦", "noSplit": true },
+    { "start": 412, "end": 423, "section": "", "point": "", "image": "w4e5_slide10.png", "full": true, "motion": "push-in" },
+    { "start": 450, "end": 461, "section": "", "point": "", "image": "w4e5_slide11.png", "full": true, "motion": "pull-back" },
+    { "start": 462, "end": 472, "section": "", "point": "", "image": "w4e5_slide12.png", "full": true, "motion": "push-in" }
+  ]
+}

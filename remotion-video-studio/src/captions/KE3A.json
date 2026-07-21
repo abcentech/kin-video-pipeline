@@ -1,0 +1,628 @@
+{
+ "words": [
+  {
+   "w": "And",
+   "start": 0.02,
+   "end": 0.13,
+   "emp": false
+  },
+  {
+   "w": "10,000",
+   "start": 0.13,
+   "end": 0.86,
+   "emp": false
+  },
+  {
+   "w": "at",
+   "start": 0.86,
+   "end": 0.96,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 0.94,
+   "end": 1.11,
+   "emp": false
+  },
+  {
+   "w": "right,",
+   "start": 1.11,
+   "end": 1.55,
+   "emp": false
+  },
+  {
+   "w": "it's",
+   "start": 1.55,
+   "end": 1.86,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 1.86,
+   "end": 1.96,
+   "emp": false
+  },
+  {
+   "w": "condition",
+   "start": 1.94,
+   "end": 2.67,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 2.67,
+   "end": 2.99,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 2.99,
+   "end": 3.26,
+   "emp": true
+  },
+  {
+   "w": "love",
+   "start": 3.26,
+   "end": 3.54,
+   "emp": false
+  },
+  {
+   "w": "God.",
+   "start": 3.54,
+   "end": 3.84,
+   "emp": true
+  },
+  {
+   "w": "That",
+   "start": 5.08,
+   "end": 5.18,
+   "emp": false
+  },
+  {
+   "w": "is",
+   "start": 5.08,
+   "end": 5.18,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 5.08,
+   "end": 5.18,
+   "emp": false
+  },
+  {
+   "w": "refuge",
+   "start": 5.1,
+   "end": 5.38,
+   "emp": false
+  },
+  {
+   "w": "and",
+   "start": 5.38,
+   "end": 5.66,
+   "emp": false
+  },
+  {
+   "w": "your",
+   "start": 5.66,
+   "end": 6.04,
+   "emp": false
+  },
+  {
+   "w": "fortress,",
+   "start": 6.04,
+   "end": 7.04,
+   "emp": false
+  },
+  {
+   "w": "it's",
+   "start": 7.04,
+   "end": 7.36,
+   "emp": false
+  },
+  {
+   "w": "a",
+   "start": 7.36,
+   "end": 7.46,
+   "emp": false
+  },
+  {
+   "w": "condition",
+   "start": 7.44,
+   "end": 8.2,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 8.2,
+   "end": 8.44,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 8.44,
+   "end": 8.61,
+   "emp": true
+  },
+  {
+   "w": "love",
+   "start": 8.61,
+   "end": 8.85,
+   "emp": false
+  },
+  {
+   "w": "God.",
+   "start": 8.85,
+   "end": 9.22,
+   "emp": true
+  },
+  {
+   "w": "Because",
+   "start": 10.38,
+   "end": 10.48,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 10.38,
+   "end": 10.48,
+   "emp": false
+  },
+  {
+   "w": "who",
+   "start": 10.4,
+   "end": 10.5,
+   "emp": false
+  },
+  {
+   "w": "loves",
+   "start": 10.45,
+   "end": 10.94,
+   "emp": false
+  },
+  {
+   "w": "God",
+   "start": 10.94,
+   "end": 11.24,
+   "emp": true
+  },
+  {
+   "w": "is",
+   "start": 11.24,
+   "end": 11.44,
+   "emp": false
+  },
+  {
+   "w": "the",
+   "start": 11.44,
+   "end": 11.74,
+   "emp": false
+  },
+  {
+   "w": "one",
+   "start": 11.74,
+   "end": 12.1,
+   "emp": true
+  },
+  {
+   "w": "who",
+   "start": 12.1,
+   "end": 12.34,
+   "emp": false
+  },
+  {
+   "w": "God",
+   "start": 12.34,
+   "end": 12.64,
+   "emp": true
+  },
+  {
+   "w": "will",
+   "start": 12.64,
+   "end": 13.04,
+   "emp": false
+  },
+  {
+   "w": "want",
+   "start": 13.04,
+   "end": 13.44,
+   "emp": false
+  },
+  {
+   "w": "to",
+   "start": 13.44,
+   "end": 13.64,
+   "emp": false
+  },
+  {
+   "w": "walk",
+   "start": 13.64,
+   "end": 14.04,
+   "emp": false
+  },
+  {
+   "w": "with.",
+   "start": 14.04,
+   "end": 14.84,
+   "emp": false
+  },
+  {
+   "w": "Out",
+   "start": 16.22,
+   "end": 16.32,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 16.22,
+   "end": 16.32,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 16.22,
+   "end": 16.32,
+   "emp": false
+  },
+  {
+   "w": "promise,",
+   "start": 16.29,
+   "end": 16.86,
+   "emp": false
+  },
+  {
+   "w": "out",
+   "start": 16.86,
+   "end": 17.21,
+   "emp": false
+  },
+  {
+   "w": "of",
+   "start": 17.21,
+   "end": 17.42,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 17.42,
+   "end": 17.94,
+   "emp": false
+  },
+  {
+   "w": "love",
+   "start": 17.94,
+   "end": 18.41,
+   "emp": false
+  },
+  {
+   "w": "condition,",
+   "start": 18.41,
+   "end": 19.6,
+   "emp": false
+  },
+  {
+   "w": "flows",
+   "start": 19.6,
+   "end": 20,
+   "emp": false
+  },
+  {
+   "w": "every",
+   "start": 20,
+   "end": 20.37,
+   "emp": true
+  },
+  {
+   "w": "promise",
+   "start": 20.37,
+   "end": 20.99,
+   "emp": false
+  },
+  {
+   "w": "you",
+   "start": 20.99,
+   "end": 21.56,
+   "emp": true
+  },
+  {
+   "w": "find",
+   "start": 21.56,
+   "end": 21.66,
+   "emp": false
+  },
+  {
+   "w": "in",
+   "start": 21.56,
+   "end": 21.74,
+   "emp": false
+  },
+  {
+   "w": "that",
+   "start": 21.74,
+   "end": 22.05,
+   "emp": false
+  },
+  {
+   "w": "verse.",
+   "start": 22.05,
+   "end": 22.74,
+   "emp": false
+  },
+  {
+   "w": "Including",
+   "start": 23.68,
+   "end": 23.78,
+   "emp": false
+  },
+  {
+   "w": "verse",
+   "start": 23.7,
+   "end": 24.01,
+   "emp": false
+  },
+  {
+   "w": "16,",
+   "start": 24.01,
+   "end": 24.73,
+   "emp": false
+  },
+  {
+   "w": "it",
+   "start": 24.73,
+   "end": 24.91,
+   "emp": false
+  },
+  {
+   "w": "says,",
+   "start": 24.91,
+   "end": 25.48,
+   "emp": false
+  },
+  {
+   "w": "with",
+   "start": 25.48,
+   "end": 25.87,
+   "emp": false
+  },
+  {
+   "w": "long",
+   "start": 25.87,
+   "end": 26.06,
+   "emp": false
+  },
+  {
+   "w": "life,",
+   "start": 26.06,
+   "end": 26.49,
+   "emp": true
+  },
+  {
+   "w": "will",
+   "start": 26.49,
+   "end": 26.78,
+   "emp": false
+  },
+  {
+   "w": "life",
+   "start": 26.78,
+   "end": 27.07,
+   "emp": true
+  },
+  {
+   "w": "satisfy",
+   "start": 27.07,
+   "end": 27.54,
+   "emp": false
+  },
+  {
+   "w": "you.",
+   "start": 27.54,
+   "end": 28.04,
+   "emp": true
+  },
+  {
+   "w": "So",
+   "start": 28.44,
+   "end": 28.54,
+   "emp": false
+  },
+  {
+   "w": "look",
+   "start": 28.44,
+   "end": 28.54,
+   "emp": false
+  },
+  {
+   "w": "at",
+   "start": 28.46,
+   "end": 28.56,
+   "emp": false
+  },
+  {
+   "w": "it",
+   "start": 28.48,
+   "end": 28.59,
+   "emp": false
+  },
+  {
+   "w": "this",
+   "start": 28.59,
+   "end": 28.81,
+   "emp": false
+  },
+  {
+   "w": "way,",
+   "start": 28.81,
+   "end": 29.08,
+   "emp": false
+  },
+  {
+   "w": "because",
+   "start": 29.08,
+   "end": 29.46,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 29.46,
+   "end": 29.57,
+   "emp": false
+  },
+  {
+   "w": "has",
+   "start": 29.57,
+   "end": 29.73,
+   "emp": false
+  },
+  {
+   "w": "set",
+   "start": 29.73,
+   "end": 29.89,
+   "emp": false
+  },
+  {
+   "w": "his",
+   "start": 29.89,
+   "end": 30.16,
+   "emp": false
+  },
+  {
+   "w": "love",
+   "start": 30.16,
+   "end": 30.27,
+   "emp": false
+  },
+  {
+   "w": "upon",
+   "start": 30.27,
+   "end": 30.49,
+   "emp": false
+  },
+  {
+   "w": "me,",
+   "start": 30.49,
+   "end": 30.71,
+   "emp": false
+  },
+  {
+   "w": "with",
+   "start": 30.71,
+   "end": 30.93,
+   "emp": false
+  },
+  {
+   "w": "long",
+   "start": 30.93,
+   "end": 31.15,
+   "emp": false
+  },
+  {
+   "w": "life,",
+   "start": 31.15,
+   "end": 31.48,
+   "emp": true
+  },
+  {
+   "w": "will",
+   "start": 31.48,
+   "end": 31.7,
+   "emp": false
+  },
+  {
+   "w": "life",
+   "start": 31.7,
+   "end": 31.92,
+   "emp": true
+  },
+  {
+   "w": "satisfy",
+   "start": 31.92,
+   "end": 32.29,
+   "emp": false
+  },
+  {
+   "w": "you.",
+   "start": 32.29,
+   "end": 32.7,
+   "emp": true
+  },
+  {
+   "w": "Because",
+   "start": 32.94,
+   "end": 33.31,
+   "emp": false
+  },
+  {
+   "w": "he",
+   "start": 33.31,
+   "end": 33.48,
+   "emp": false
+  },
+  {
+   "w": "has",
+   "start": 33.48,
+   "end": 33.74,
+   "emp": false
+  },
+  {
+   "w": "set",
+   "start": 33.74,
+   "end": 34,
+   "emp": false
+  },
+  {
+   "w": "his",
+   "start": 34,
+   "end": 34.26,
+   "emp": false
+  },
+  {
+   "w": "love",
+   "start": 34.26,
+   "end": 34.66,
+   "emp": false
+  },
+  {
+   "w": "upon",
+   "start": 34.66,
+   "end": 34.96,
+   "emp": false
+  },
+  {
+   "w": "me,",
+   "start": 34.96,
+   "end": 35.3,
+   "emp": false
+  },
+  {
+   "w": "it",
+   "start": 35.3,
+   "end": 35.47,
+   "emp": false
+  },
+  {
+   "w": "will",
+   "start": 35.47,
+   "end": 35.82,
+   "emp": false
+  },
+  {
+   "w": "trip",
+   "start": 35.82,
+   "end": 36.2,
+   "emp": false
+  },
+  {
+   "w": "up",
+   "start": 36.2,
+   "end": 36.34,
+   "emp": false
+  },
+  {
+   "w": "upon.",
+   "start": 36.34,
+   "end": 37,
+   "emp": false
+  }
+ ]
+}

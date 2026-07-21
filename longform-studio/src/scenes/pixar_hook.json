@@ -1,0 +1,43 @@
+{
+  "title": "The Secrets of Longevity — hook (20s)",
+  "titleMain": "THE SECRETS OF LONGEVITY",
+  "titleSub": "SEVEN DECADES OF SERVICE",
+  "tagline": "Your days are numbered. Make them count.",
+  "cta": "Begins this July · @KidsInspiringNation",
+  "slider": "bottom",
+  "progressBar": true,
+  "beats": [
+    { "i": 0, "start": 0.0, "end": 5.0, "vo": "", "hero": "beat0_hero.png", "depth": "beat0_hero_depth.png", "veo": "beat0_veo.mp4", "motion": "push-in" },
+    { "i": 1, "start": 5.0, "end": 9.5, "vo": "", "hero": "beat6_hero.png", "depth": "beat6_hero_depth.png", "veo": "beat6_veo.mp4", "motion": "push-in" },
+    { "i": 2, "start": 9.5, "end": 14.0, "vo": "", "hero": "beat12_hero.png", "depth": "beat12_hero_depth.png", "veo": "beat12_veo.mp4", "motion": "orbit" },
+    { "i": 3, "start": 14.0, "end": 16.0, "vo": "", "hero": "beat15_hero.png", "depth": "beat15_hero_depth.png", "veo": null, "motion": "push-in" }
+  ],
+  "words": [
+    { "w": "What", "start": 0.4, "end": 0.7 },
+    { "w": "if", "start": 0.7, "end": 0.9 },
+    { "w": "the", "start": 0.9, "end": 1.1 },
+    { "w": "secret", "start": 1.1, "end": 1.8, "emp": true },
+    { "w": "to", "start": 1.8, "end": 2.0 },
+    { "w": "a", "start": 2.0, "end": 2.1 },
+    { "w": "long", "start": 2.2, "end": 2.8, "emp": true },
+    { "w": "life", "start": 2.8, "end": 3.6, "emp": true },
+    { "w": "Time", "start": 5.5, "end": 6.2, "emp": true },
+    { "w": "is", "start": 6.2, "end": 6.5 },
+    { "w": "God's", "start": 6.5, "end": 7.1 },
+    { "w": "gift", "start": 7.1, "end": 8.2, "emp": true },
+    { "w": "Live", "start": 9.9, "end": 10.4 },
+    { "w": "long.", "start": 10.4, "end": 11.3, "emp": true },
+    { "w": "Live", "start": 11.7, "end": 12.2 },
+    { "w": "well.", "start": 12.2, "end": 13.3, "emp": true }
+  ],
+  "sound": {
+    "bed": "audio/mix_hook.mp3",
+    "bedVolume": 0.7,
+    "cues": [
+      { "at": 4.9, "file": "audio/whoosh.mp3", "volume": 0.4 },
+      { "at": 9.4, "file": "audio/whoosh.mp3", "volume": 0.4 },
+      { "at": 11.6, "file": "audio/riser.mp3", "volume": 0.5 },
+      { "at": 1.1, "file": "audio/shimmer.mp3", "volume": 0.3 }
+    ]
+  }
+}
