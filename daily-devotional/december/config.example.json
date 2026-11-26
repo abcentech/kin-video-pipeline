@@ -1,0 +1,9 @@
+{
+  "_comment": "Copy to december/config.local.json (git-ignored) and edit. Every key is optional; an environment variable DEC_<NAME> (DEC_INBOX, DEC_GUIDE, DEC_FILM_MASTER, DEC_WHISPER_EXE, DEC_WHISPER_MODEL, DEC_RNNOISE, DEC_PYTHON, DEC_FACE_MODEL) wins over this file. Use forward slashes, also on Windows.",
+  "inbox": "/path/to/recordings",
+  "guide": "/path/to/Teachers_Edition.html",
+  "filmMaster": "/path/to/film_master_16x9.mp4",
+  "whisperExe": "/path/to/whisper.cpp/build/bin/whisper-cli",
+  "whisperModel": "/path/to/ggml-large-v3-turbo-q5_0.bin",
+  "python": "/path/to/daily-devotional/studio/.venv/bin/python"
+}

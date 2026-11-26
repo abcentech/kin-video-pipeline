@@ -1,0 +1,44 @@
+# local configuration
+december/config.local.json
+.env
+.env.*
+
+# dependencies and environments
+node_modules/
+studio/.venv/
+studio/samples/
+__pycache__/
+*.pyc
+
+# scratch, renders, per-day working files
+.tmp/
+out/
+december/work/
+december-public/day[0-9]*/
+december-public/fixture/
+december-public/outro/
+inbox/
+assets/
+
+# tools fetched by setup (binaries and models)
+tools/whisper/
+tools/matte/models/
+tools/matte/node_modules/
+*.onnx
+*.bin
+*.gguf
+*.pt
+*.pth
+
+# media (the only media in the repo are the small fonts/brand files and the face-detector model)
+*.mp4
+*.mov
+*.mkv
+*.m4a
+*.mp3
+*.wav
+*.flac
+*.cube
+!december-public/fonts/*
+!december-public/brand/**
+!studio/models/blaze_face_short_range.tflite

@@ -1,0 +1,602 @@
+{
+  "day": 3,
+  "presenter": {
+    "name": "",
+    "role": "Kids Inspiring Nation"
+  },
+  "fix": {
+    "1": "2:25.",
+    "3": "I will",
+    "11": "locust",
+    "12": "hath",
+    "13": "eaten,",
+    "15": "cankerworm,",
+    "16": "",
+    "19": "caterpiller,",
+    "20": "",
+    "23": "palmerworm,",
+    "24": "",
+    "27": "army",
+    "40": "devotion.",
+    "63": "farm,",
+    "72": "sugar,",
+    "110": "promised:",
+    "111": "“I",
+    "119": "locust",
+    "120": "hath",
+    "121": "eaten.”",
+    "132": "not",
+    "144": "real…",
+    "148": "real,",
+    "174": "His",
+    "190": "Years,",
+    "198": "safe,",
+    "201": "after,",
+    "239": "hour.",
+    "240": "",
+    "246": "Christmases…",
+    "247": "",
+    "248": "",
+    "249": "",
+    "250": "",
+    "272": "were",
+    "273": "",
+    "274": "hidden",
+    "275": "from",
+    "276": "Him.",
+    "291": "Himself.",
+    "298": "His",
+    "299": "Son.",
+    "303": "Father,",
+    "344": "cannot",
+    "345": "",
+    "346": "eat.",
+    "356": "10:",
+    "357": "“I",
+    "359": "come",
+    "364": "life.”",
+    "379": "Himself,",
+    "381": "One",
+    "407": "Christmases?",
+    "437": "back,",
+    "460": "His",
+    "461": "Son,",
+    "463": "let",
+    "464": "Him",
+    "481": "years,",
+    "492": "children.",
+    "493": "Son,",
+    "494": "daughter,",
+    "507": "gained,",
+    "515": "Father.",
+    "527": "son.",
+    "535": "that",
+    "538": "Daddy",
+    "552": "us,",
+    "553": "it's",
+    "589": "who",
+    "591": "His",
+    "592": "Son,",
+    "593": "who",
+    "595": "life,",
+    "596": "and",
+    "599": "years",
+    "601": "His",
+    "602": "own…",
+    "606": "year,",
+    "613": "His",
+    "616": "His",
+    "617": "Son.",
+    "623": "today:",
+    "624": "",
+    "625": "father,",
+    "626": "",
+    "628": "",
+    "630": "Let",
+    "631": "God",
+    "633": "Father,",
+    "634": "through",
+    "639": "restore",
+    "641": "years.",
+    "652": "Your",
+    "660": "years.",
+    "667": "birthdays,",
+    "668": "",
+    "669": "Christmases,",
+    "670": "",
+    "681": "Son",
+    "690": "Yourself",
+    "695": "father",
+    "700": "Yourself",
+    "710": "Christ.",
+    "711": "",
+    "712": "",
+    "713": "",
+    "714": "",
+    "715": "",
+    "717": "You,",
+    "725": "Christ",
+    "726": "we",
+    "727": "pray.",
+    "731": "me:",
+    "735": "Father,"
+  },
+  "maxPause": 0.75,
+  "keep": [
+    ["w0", "w32"],
+    ["w33", "w40"],
+    ["w41", "w52"],
+    ["w53", "w74"],
+    ["w75", "w89"],
+    ["w90", "w104"],
+    ["w105", "w121"],
+    ["w122", "w136"],
+    ["w137", "w152"],
+    ["w153", "w170"],
+    ["w171", "w176"],
+    ["w177", "w189"],
+    ["w190", "w217"],
+    ["w218", "w244"],
+    ["w245", "w276"],
+    ["w277", "w291"],
+    ["w292", "w310"],
+    ["w311", "w325"],
+    ["w337", "w346"],
+    ["w347", "w367"],
+    ["w368", "w384"],
+    ["w385", "w400"],
+    ["w401", "w416"],
+    ["w417", "w431"],
+    ["w432", "w448"],
+    ["w449", "w468"],
+    ["w469", "w492"],
+    ["w493", "w515"],
+    ["w516", "w527"],
+    ["w528", "w548"],
+    ["w549", "w567"],
+    ["w568", "w584"],
+    ["w585", "w602"],
+    ["w603", "w617"],
+    ["w618", "w629"],
+    ["w630", "w647"],
+    ["w648", "w728"],
+    ["w729", "w741"],
+    ["w742", "w774"]
+  ],
+  "pace": [
+    { "span": ["w176", "w177"], "maxPause": 1.5 },
+    { "span": ["w291", "w292"], "maxPause": 1.5 },
+    { "span": ["w384", "w386"], "maxPause": 1.5 },
+    { "span": ["w648", "w728"], "maxPause": 2 },
+    { "span": ["w729", "w741"], "maxPause": 1 }
+  ],
+  "air": [
+    { "after": "w468", "dur": 8.2, "lead": 1.4 },
+    { "after": "w617", "dur": 11.5, "lead": 1.2 }
+  ],
+  "hook": [
+    {
+      "span": ["w122", "w136"],
+      "say": "He did not say those years never happened | or did not matter. He *counted* them.",
+      "big": {
+        "text": "HE *COUNTED* THEM",
+        "on": "w135"
+      },
+      "hold": 0.3
+    }
+  ],
+  "film": {
+    "play": true,
+    "from": 18.1,
+    "to": 34.7
+  },
+  "cues": [
+    {
+      "kind": "scripture",
+      "at": "w7",
+      "mode": "page",
+      "ref": "Joel 2:25",
+      "flourish": true,
+      "text": "And **I will restore to you the years** that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you.",
+      "read": ["w7", "w32"]
+    },
+    {
+      "kind": "keyword",
+      "at": "w57",
+      "text": "THEY COME | IN *ARMIES*"
+    },
+    {
+      "kind": "teaser",
+      "at": "w76",
+      "text": "Three truths for every child who has lost years"
+    },
+    {
+      "kind": "keyword",
+      "at": "w98",
+      "text": "*EATEN UP*"
+    },
+    {
+      "kind": "point",
+      "at": "w122",
+      "to": "end:w136+0.8",
+      "text": "He did not say those years | never happened. | *He counted them.*",
+      "sync": ["w122", "w136"]
+    },
+    {
+      "kind": "snap",
+      "at": "w150"
+    },
+    {
+      "kind": "keyword",
+      "at": "w172",
+      "text": "GOD RESTORES | *IN HIS OWN WAY*"
+    },
+    {
+      "kind": "chapter",
+      "at": "w177",
+      "label": "TRUTH 1 OF 3",
+      "numeral": 1,
+      "title": "God Counts *The Years Too*"
+    },
+    {
+      "kind": "point",
+      "at": "w208",
+      "to": "end:w217+0.8",
+      "text": "Those years were real. | And it is *not your fault.*",
+      "sync": ["w208", "w217"]
+    },
+    {
+      "kind": "film",
+      "at": "w222",
+      "to": "end:w228+0.6",
+      "from": 30.55
+    },
+    {
+      "kind": "art",
+      "at": "w241",
+      "to": "end:w276+0.3",
+      "plate": "truth1-night-at-the-door",
+      "mode": "full"
+    },
+    {
+      "kind": "point",
+      "at": "w287",
+      "to": "end:w291+0.8",
+      "text": "He just promises you | *Himself.*",
+      "sync": ["w287", "w291"]
+    },
+    {
+      "kind": "chapter",
+      "at": "w292",
+      "label": "TRUTH 2 OF 3",
+      "numeral": 2,
+      "title": "The Father Restores *By Sending His Son*"
+    },
+    {
+      "kind": "subscribe",
+      "at": "w300",
+      "variant": "subscribe"
+    },
+    {
+      "kind": "art",
+      "at": "w337",
+      "to": "end:w367+0.3",
+      "plate": "truth2-life-locusts-cannot-eat",
+      "mode": "full"
+    },
+    {
+      "kind": "point",
+      "at": "w377",
+      "to": "end:w384+0.6",
+      "text": "He gave Himself — | the One who *is life.*",
+      "sync": ["w377", "w384"]
+    },
+    {
+      "kind": "chapter",
+      "at": "w385",
+      "label": "TRUTH 3 OF 3",
+      "numeral": 3,
+      "title": "*Count The Years* Honestly"
+    },
+    {
+      "kind": "keyword",
+      "at": "w408",
+      "text": "THEY | *NOTICED*"
+    },
+    {
+      "kind": "art",
+      "at": "w417",
+      "to": "end:w448+0.3",
+      "plate": "truth3-how-many-years",
+      "mode": "full"
+    },
+    {
+      "kind": "point",
+      "at": "w449",
+      "to": "end:w461+0.5",
+      "text": "Bring the number | to the Father | who *sent His Son.*",
+      "sync": ["w449", "w461"]
+    },
+    {
+      "kind": "recap",
+      "at": "end:w468+0.8",
+      "dur": 7.2,
+      "title": "TODAY'S THREE TRUTHS",
+      "items": [
+        "God counts the years too",
+        "The Father restores by sending His Son",
+        "Count the years honestly"
+      ]
+    },
+    {
+      "kind": "snap",
+      "at": "w493"
+    },
+    {
+      "kind": "point",
+      "at": "w495",
+      "to": "end:w507+0.6",
+      "text": "The years that were lost | *can be gained.*",
+      "sync": ["w495", "w507"]
+    },
+    {
+      "kind": "subscribe",
+      "at": "w528",
+      "variant": "share"
+    },
+    {
+      "kind": "point",
+      "at": "w585",
+      "to": "end:w595+0.6",
+      "text": "There is a God | who sent His Son, | *who is life.*",
+      "sync": ["w585", "w595"]
+    },
+    {
+      "kind": "keyword",
+      "at": "w606",
+      "text": "HE SAW | *EVERY YEAR*"
+    },
+    {
+      "kind": "response",
+      "at": "end:w617+0.4",
+      "to": "end:w617+10.6",
+      "child": {
+        "text": "Write down seven good things God has given you this year. Read them quietly to God. Keep the list."
+      },
+      "father": {
+        "text": "On paper, answer the question: how many years? Beside it, write one thing you missed in each year. Pray over it."
+      }
+    },
+    {
+      "kind": "snap",
+      "at": "w621"
+    },
+    {
+      "kind": "prayer",
+      "at": "w648",
+      "to": "end:w725",
+      "lines": [
+        {
+          "text": "Father, You are the One that restores years.",
+          "sync": ["w654", "w660"]
+        },
+        {
+          "text": "You came as a Son so that we can meet the Father. Show Yourself today.",
+          "sync": ["w677", "w691"]
+        },
+        {
+          "text": "Thank You, Holy Father. In the name of Jesus Christ.",
+          "sync": ["w716", "w725"]
+        }
+      ]
+    },
+    {
+      "kind": "declare",
+      "at": "w729",
+      "text": "God is my Father, | and Jesus Christ is *my life.*",
+      "sync": ["w732", "w741"],
+      "to": "end:w741+0.9"
+    },
+    {
+      "kind": "subscribe",
+      "at": "w751",
+      "variant": "share"
+    }
+  ],
+  "art": [
+    {
+      "id": "truth1-night-at-the-door",
+      "prompt": "Night inside a small one-room home with deep teal walls. On the right third of the frame a small boy of about seven in a yellow shirt has fallen asleep sitting on the floor with his back against a closed wooden door, knees drawn up, his cheek resting on his folded arms, a plain steel wristwatch with a blank face on his small wrist. Beside him on the floor a single candle has burned down to a short stub and still glows warmly. Soft silver-blue moonlight falls through a small high window onto him like a gentle watching light. The mood is tender and peaceful; he is safe and seen. Large calm empty area of teal wall on the left.",
+      "lights": [
+        { "x": 0.926, "y": 0.81, "r": 0.07, "kind": "flicker" },
+        { "x": 0.66, "y": 0.1, "r": 0.2, "kind": "rays" }
+      ],
+      "move": "push",
+      "space": "left"
+    },
+    {
+      "id": "truth2-life-locusts-cannot-eat",
+      "prompt": "Early morning at the edge of a West African village of round mud huts with thatched roofs. A tall man in a simple long cream robe, seen from behind so his face is not visible, walks slowly along a narrow earth path through a field of tall, heavy golden millet, holding the hand of a small boy of about seven in a yellow shirt who walks beside him and looks up at him. The low sun ahead of them pours warm golden rays through the millet heads and rims their shoulders. A few round thatched huts far away on the left. Deep teal sky fading to gold at the horizon, a large calm empty sky at the top.",
+      "lights": [
+        { "x": 0.7, "y": 0.63, "r": 0.22, "kind": "rays" }
+      ],
+      "move": "up",
+      "space": "top"
+    },
+    {
+      "id": "truth3-how-many-years",
+      "prompt": "Night inside a small one-room home with deep teal walls. On the right third of the frame a West African father in a green patterned shirt sits on a low wooden stool, leaning forward, holding a small child's steel wristwatch with a blank face in his open palm and looking down at it with quiet sorrow. Behind him, softly out of focus, his son of about seven in a yellow shirt sleeps peacefully on a woven mat under a cloth. A single candle on a small wooden table beside the father lights his face warmly. Large calm empty area of teal wall on the left.",
+      "lights": [
+        { "x": 0.945, "y": 0.55, "r": 0.08, "kind": "flicker" },
+        { "x": 0.72, "y": 0.6, "r": 0.13, "kind": "glow" }
+      ],
+      "move": "left",
+      "space": "left"
+    }
+  ],
+  "safeguard": true,
+  "trailer": [
+    {
+      "kind": "line",
+      "mood": "cold",
+      "span": ["w251", "w268"],
+      "say": "The birthdays where you got no *wishes.* | The night of waiting for someone to come through the door.",
+      "big": {
+        "text": "NO *WISHES*",
+        "on": "w257"
+      }
+    },
+    {
+      "kind": "title"
+    },
+    {
+      "kind": "film",
+      "from": 29,
+      "dur": 3
+    },
+    {
+      "kind": "line",
+      "mood": "tension",
+      "span": ["w182", "w189"],
+      "say": "Maybe your father took some *years* from you."
+    },
+    {
+      "kind": "film",
+      "from": 31.7,
+      "dur": 3
+    },
+    {
+      "kind": "line",
+      "mood": "tension",
+      "span": ["w222", "w231"],
+      "say": "You stopped your watch, you stopped counting, | you stopped *caring.*"
+    },
+    {
+      "kind": "verse",
+      "ref": "Joel 2:25",
+      "text": "And **I will restore to you the years** that the locust hath eaten",
+      "read": ["w2", "w13"]
+    },
+    {
+      "kind": "line",
+      "mood": "turn",
+      "span": ["w277", "w291"],
+      "say": "He did not promise that those years would not happen. | He just promises you *Himself.*",
+      "big": {
+        "text": "GOD *HIMSELF*",
+        "on": "w291"
+      }
+    },
+    {
+      "kind": "line",
+      "mood": "button",
+      "span": ["w493", "w515"],
+      "say": "Son, daughter, the years that were lost because your father wasn't there | can be *gained,* because you have Jesus Christ as your Father."
+    },
+    {
+      "kind": "end"
+    }
+  ],
+  "shorts": [
+    {
+      "id": "word",
+      "title": "The years you lost: | *He counted them.*",
+      "verse": {
+        "ref": "Joel 2:25",
+        "text": "And **I will restore to you the years** that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you.",
+        "read": ["w2", "w32"]
+      },
+      "lines": [
+        { "span": ["w75", "w89"] },
+        { "span": ["w90", "w104"] },
+        { "span": ["w105", "w121"] },
+        { "span": ["w122", "w136"] }
+      ],
+      "post": "A locust year is a year eaten up before anyone could enjoy it. God did not say those years never happened. He counted them. Joel 2:25. Full devotional on YouTube @KidsInspiringNation #TheFatherShowedUp #DailyDevotional #KidsInspiringNation #Joel2 #FamilyDevotion"
+    },
+    {
+      "id": "truth",
+      "title": "God counts | *the years too.*",
+      "lines": [
+        { "span": ["w177", "w189"] },
+        { "span": ["w190", "w217"] },
+        { "span": ["w218", "w244"] },
+        { "span": ["w245", "w276"] },
+        { "span": ["w277", "w291"] }
+      ],
+      "post": "Maybe somebody took years from you. Those years were real, and it is not your fault. God saw every moment, and He promises you Himself. Joel 2:25. Full devotional on YouTube @KidsInspiringNation #TheFatherShowedUp #KidsInspiringNation #DailyDevotional #Hope #Family"
+    },
+    {
+      "id": "fathers",
+      "title": "Fathers: | *how many years?*",
+      "lines": [
+        { "span": ["w385", "w400"] },
+        { "span": ["w401", "w416"] },
+        { "span": ["w417", "w431"] },
+        { "span": ["w432", "w448"] },
+        { "span": ["w449", "w468"] }
+      ],
+      "post": "Fathers, count the years honestly. They noticed. You cannot buy those years back, but you can bring the number to the Father who sent His Son. Joel 2:25. Full devotional on YouTube @KidsInspiringNation #TheFatherShowedUp #Fatherhood #Fathers #KidsInspiringNation #DailyDevotional"
+    }
+  ],
+  "social": {
+    "titles": [
+      "God Sees The Years I Lost | Day 3 · The Father Showed Up",
+      "He Counted Them: For Every Child Who Lost Years",
+      "I Will Restore The Years: Joel 2:25 For Every Family"
+    ],
+    "description": "Locusts can eat a whole farm in one afternoon, and some children have lost years the same way. God did not say those years never happened: He counted them, and He sent His Son to restore what was lost.\n\nTHE WORD: Joel 2:25 (read Joel 2:21–27 aloud)\nTONIGHT, children: write down seven good things God has given you this year. Read them quietly to God. Keep the list.\nTONIGHT, fathers: on paper, answer the question: how many years? Beside it, write one thing you missed in each year. Pray over it.\nSAY IT: God saw every year. He gives me Himself.",
+    "pinned": "What is one good thing God has given you this year? Write it below, and under it write: “God saw every year.”",
+    "hashtags": [
+      "#TheFatherShowedUp",
+      "#DailyDevotional",
+      "#KidsInspiringNation",
+      "#Fatherhood",
+      "#FamilyDevotion",
+      "#Joel2"
+    ],
+    "thumbnail": {
+      "line": "YEARS *RESTORED*",
+      "frame": "end:w138"
+    }
+  },
+  "notes": {
+    "check": [
+      "w3 I will (KJV) - heard I'll",
+      "w15-24 cankerworm / caterpiller / palmerworm - heard kanka worm / kala pilla / palma worm; captioned KJV",
+      "w27 army - heard hammy",
+      "w44-45 Or ants (Locusts are small. Or ants, in case you haven't seen locusts before) - as heard; may be Like ants",
+      "w111 I (“I restore to you the years”) - one short token; may be I'll / I will, left as heard",
+      "w120-121 hath eaten - heard are eating",
+      "w132 not (or did not matter) - heard no",
+      "w142-148 as heard: your lost years might be real… or they are real",
+      "w153 Whereas - as heard",
+      "w190 Years (Years, when you…) - heard Yes; the guide says years when",
+      "w235-240 as heard: you have cried hour after hour; w240 (heard sad) uncaptioned; the guide says carried one sad hour",
+      "w246-250 The Christmases… - heard The Christmas Is That Was Me; w247-250 uncaptioned",
+      "w272-276 None of those were hidden from Him - heard None of those who are eating for me; the guide says was hidden from Him",
+      "w326-336 cut: Neither did you wipe us years. You know what he did? - first sentence unintelligible",
+      "w344-346 cannot eat - heard can on it",
+      "w359 come (I am come, John 10:10) - heard called",
+      "w365-367 as heard: The thief stole.",
+      "w368-371 as heard: Why do you not have the lost years back? - may be While you may not have the lost years back (guide: God may not give back the lost years)",
+      "w437 back (You can't buy those years back) - heard brother; could be brother",
+      "w461 Son - heard soul",
+      "w463-464 let Him (and let Him also restore you) - heard tell him",
+      "w486 return (they also return the same to their own children) - as heard; may be repeat",
+      "w507 gained - as heard (can be gained)",
+      "w527 son (a good father to your own son) - heard soul",
+      "w535 that (the months that were lost) - heard they",
+      "w538 Daddy (Daddy was not there) - heard Baby",
+      "w599 years (who restores years) - heard yes",
+      "w602 own… - he seems to stop after His own (no way heard)",
+      "w624,w626,w628 uncaptioned: their (heard their father, their son, their daughter)",
+      "w630-633 Let God the Father - heard Let's quote the Father",
+      "w660 years (You are the One that restores years) - heard Yes",
+      "w667-671 birthdays, Christmases, nights - heard but this Christmas is nights; kept off the prayer plate",
+      "w698 continuous - as heard; kept off the prayer plate",
+      "w711-715 uncaptioned: that He is lost again (as heard); kept off the prayer plate",
+      "w726-727 we pray - heard Joel 2:25"
+    ]
+  }
+}

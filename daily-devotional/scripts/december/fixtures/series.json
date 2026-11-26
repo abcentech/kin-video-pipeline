@@ -1,0 +1,50 @@
+{
+ "series": {
+  "title": "The Father Showed Up",
+  "declaration": "GOD IS MY FATHER. HE KNOWS MY NAME. HE HAS NEVER BEEN LATE."
+ },
+ "opener": {
+  "title": "To Every Child",
+  "ref": "2 Corinthians 6:18",
+  "verse": "And will be a Father unto you."
+ },
+ "days": [
+  {
+   "day": 1,
+   "title": "The Father Who Is Never Late",
+   "dateLabel": "TUE 1 DEC",
+   "ref": "Galatians 4:4–5",
+   "verse": "But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law, To redeem them that were under the law, that we might receive the adoption of sons.",
+   "film": {
+    "file": "Day01.mp4",
+    "from": 4,
+    "to": 54,
+    "dur": 50
+   },
+   "truths": [
+    {
+     "n": 1,
+     "title": "Grown-Up Problems Are Not Your Fault"
+    },
+    {
+     "n": 2,
+     "title": "The Father Sent His Son, Right On Time"
+    },
+    {
+     "n": 3,
+     "title": "Wait With Hope"
+    }
+   ],
+   "declaration": "My Father in heaven is never late."
+  },
+  {
+   "day": 2,
+   "title": "He Knows Your Name",
+   "dateLabel": "WED 2 DEC",
+   "ref": "Isaiah 43:1",
+   "verse": "I have called thee by thy name; thou art mine.",
+   "truths": [],
+   "declaration": "He knows my name."
+  }
+ ]
+}

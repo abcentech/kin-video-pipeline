@@ -1,0 +1,511 @@
+{
+  "day": 4,
+  "presenter": {
+    "name": "",
+    "role": "Kids Inspiring Nation"
+  },
+  "fix": {
+    "1": "4:6.",
+    "4": "ye",
+    "12": "Spirit",
+    "30": "Spirit",
+    "32": "His",
+    "33": "Son",
+    "35": "He",
+    "44": "Father.",
+    "51": "Him",
+    "52": "Father",
+    "57": "His",
+    "75": "dad.",
+    "76": "“Father”,",
+    "84": "“Wherefore",
+    "91": "but",
+    "92": "a",
+    "93": "son.”",
+    "98": "“Because",
+    "101": "sons,”",
+    "102": "you",
+    "111": "order.",
+    "144": "“Father”",
+    "173": "word",
+    "182": "“Father”",
+    "189": "“Hi",
+    "190": "God.”",
+    "191": "Your",
+    "192": "mouth is stuck.",
+    "204": "word",
+    "209": "",
+    "210": "a",
+    "211": "man failed.",
+    "214": "“Father”",
+    "230": "word.",
+    "238": "“My",
+    "239": "Father.”",
+    "241": "He",
+    "243": "His",
+    "249": "He",
+    "251": "“Our",
+    "252": "Father.”",
+    "259": "His",
+    "260": "Son,",
+    "269": "too:",
+    "270": "“My",
+    "271": "Father.”",
+    "277": "His",
+    "295": "cry.",
+    "307": "“Abba,",
+    "308": "Father.”",
+    "314": "Spirit",
+    "316": "His",
+    "317": "Son.",
+    "326": "Him",
+    "353": "father,",
+    "354": "he's",
+    "368": "Him,",
+    "369": "who",
+    "371": "His",
+    "372": "Son,",
+    "373": "so",
+    "406": "“Father”",
+    "446": "“Our",
+    "447": "Father.”",
+    "493": "Father",
+    "502": "bended",
+    "507": "cry:",
+    "508": "“Abba,",
+    "509": "Father.”",
+    "511": "He",
+    "514": "Father",
+    "521": "Father",
+    "528": "Father",
+    "535": "Father",
+    "551": "Spirit",
+    "553": "His",
+    "579": "true",
+    "619": "You",
+    "635": "“Abba,",
+    "636": "Father.”",
+    "713": "You,",
+    "750": "Father."
+  },
+  "maxPause": 0.75,
+  "keep": [
+    ["w0", "w21"],
+    ["w22", "w25"],
+    ["w26", "w40"],
+    ["w41", "w65"],
+    ["w69", "w80"],
+    ["w81", "w93"],
+    ["w94", "w107"],
+    ["w108", "w130"],
+    ["w131", "w136"],
+    ["w137", "w177"],
+    ["w178", "w192"],
+    ["w193", "w221"],
+    ["w222", "w239"],
+    ["w240", "w271"],
+    ["w272", "w295"],
+    ["w296", "w327"],
+    ["w328", "w358"],
+    ["w359", "w383"],
+    ["w384", "w400"],
+    ["w401", "w439"],
+    ["w440", "w476"],
+    ["w477", "w499"],
+    ["w500", "w509"],
+    ["w510", "w538"],
+    ["w547", "w562"],
+    ["w563", "w607"],
+    ["w608", "w625"],
+    ["w626", "w651"],
+    ["w652", "w677"],
+    ["w678", "w694"],
+    ["w695", "w715"],
+    ["w716", "w751"]
+  ],
+  "pace": [
+    { "span": ["w18", "w21"], "maxPause": 1.0 },
+    { "span": ["w130", "w131"], "maxPause": 1.5 },
+    { "span": ["w221", "w222"], "maxPause": 1.5 },
+    { "span": ["w306", "w308"], "maxPause": 1.4 },
+    { "span": ["w383", "w384"], "maxPause": 1.5 },
+    { "span": ["w384", "w400"], "maxPause": 1.4 },
+    { "span": ["w500", "w509"], "maxPause": 1.4 },
+    { "span": ["w510", "w538"], "maxPause": 1.4 },
+    { "span": ["w611", "w715"], "maxPause": 2.0 }
+  ],
+  "air": [
+    { "after": "w538", "dur": 8.2, "lead": 1.4 },
+    { "after": "w607", "dur": 11.5, "lead": 1.2 },
+    { "after": "w715", "dur": 5.0, "lead": 0.3 }
+  ],
+  "hook": [
+    {
+      "span": ["w167", "w177"],
+      "say": "God is not angry that the word | is *slow* to come.",
+      "big": { "text": "NOT *ANGRY*", "on": "w170" }
+    },
+    {
+      "span": ["w203", "w217"],
+      "hold": 0.3
+    }
+  ],
+  "film": {
+    "play": true,
+    "from": 0,
+    "to": 28.7
+  },
+  "cues": [
+    {
+      "kind": "scripture",
+      "at": "w2",
+      "mode": "page",
+      "ref": "Galatians 4:6",
+      "flourish": true,
+      "text": "And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, **crying, Abba, Father.**",
+      "read": ["w2", "w21"]
+    },
+    {
+      "kind": "scripture",
+      "at": "w81",
+      "mode": "card",
+      "ref": "Galatians 4:7",
+      "text": "Wherefore thou art no more a servant, but **a son**",
+      "read": ["w84", "w93"]
+    },
+    {
+      "kind": "point",
+      "at": "w98",
+      "to": "end:w107+0.6",
+      "text": "Because you are sons, | you can become | a *good father.*",
+      "sync": ["w98", "w107"]
+    },
+    {
+      "kind": "teaser",
+      "at": "w112",
+      "text": "Three truths for every child who finds “Father” a hard word"
+    },
+    {
+      "kind": "chapter",
+      "at": "w131",
+      "label": "TRUTH 1 OF 3",
+      "numeral": 1,
+      "title": "The Word Still *Belongs To God*"
+    },
+    {
+      "kind": "point",
+      "at": "w167",
+      "to": "end:w177+0.2",
+      "text": "God is not angry | that the word | is *slow to come.*",
+      "sync": ["w167", "w177"]
+    },
+    {
+      "kind": "art",
+      "at": "w178",
+      "to": "end:w202",
+      "plate": "truth1-mouth-stuck",
+      "mode": "full"
+    },
+    {
+      "kind": "snap",
+      "at": "w206"
+    },
+    {
+      "kind": "point",
+      "at": "w212",
+      "to": "end:w217+0.8",
+      "text": "That word “Father” | *belongs to God.*",
+      "sync": ["w212", "w217"]
+    },
+    {
+      "kind": "chapter",
+      "at": "w222",
+      "label": "TRUTH 2 OF 3",
+      "numeral": 2,
+      "title": "The Son Gave Us *His Own Word*"
+    },
+    {
+      "kind": "art",
+      "at": "w240",
+      "to": "end:w271",
+      "plate": "truth2-our-father",
+      "mode": "full"
+    },
+    {
+      "kind": "subscribe",
+      "at": "w272",
+      "variant": "subscribe"
+    },
+    {
+      "kind": "keyword",
+      "at": "w307",
+      "text": "“ABBA, | *FATHER*”"
+    },
+    {
+      "kind": "point",
+      "at": "w318",
+      "to": "end:w327+0.8",
+      "text": "You have been adopted | so you can call Him | *Father.*",
+      "sync": ["w318", "w327"]
+    },
+    {
+      "kind": "chapter",
+      "at": "w384",
+      "label": "TRUTH 3 OF 3",
+      "numeral": 3,
+      "title": "Become A Son *Before You Try To Be A Father*"
+    },
+    {
+      "kind": "point",
+      "at": "w401",
+      "to": "end:w408+0.8",
+      "text": "Your children learn | the word “Father” | *from you.*",
+      "sync": ["w401", "w408"]
+    },
+    {
+      "kind": "snap",
+      "at": "w465"
+    },
+    {
+      "kind": "keyword",
+      "at": "w473",
+      "text": "EVERYONE | IS A *CHILD*"
+    },
+    {
+      "kind": "art",
+      "at": "w484",
+      "to": "end:w509",
+      "plate": "truth3-son-first",
+      "mode": "full"
+    },
+    {
+      "kind": "recap",
+      "at": "end:w538+0.75",
+      "dur": 7.6,
+      "title": "TODAY'S THREE TRUTHS",
+      "items": [
+        "The word “Father” still belongs to God",
+        "The Son gave us His own word",
+        "Become a son before you try to be a father"
+      ]
+    },
+    {
+      "kind": "subscribe",
+      "at": "w573",
+      "variant": "share"
+    },
+    {
+      "kind": "response",
+      "at": "end:w607+0.4",
+      "to": "end:w607+10.6",
+      "child": {
+        "text": "Say “Our Father” slowly and quietly, three times. If it is hard tonight, just listen while others say it."
+      },
+      "father": {
+        "text": "Say the two words out loud, once, slowly. Then pray the whole prayer. If you cannot finish, start with the first two words."
+      }
+    },
+    {
+      "kind": "prayer",
+      "at": "w611",
+      "to": "end:w711",
+      "lines": [
+        {
+          "text": "Father, in the name of Jesus, we thank You for every son, every daughter here.",
+          "sync": ["w611", "w625"]
+        },
+        {
+          "text": "Help every one of us be able to cry, “Abba, Father.”",
+          "sync": ["w626", "w636"]
+        },
+        {
+          "text": "And every father who is struggling: help every father.",
+          "sync": ["w678", "w686"]
+        },
+        {
+          "text": "That our daughters may receive the gift of fatherhood.",
+          "sync": ["w703", "w711"]
+        }
+      ]
+    },
+    {
+      "kind": "declare",
+      "at": "end:w715+0.2",
+      "text": "God is my Father. I am *His child.*",
+      "to": "end:w715+5.2"
+    },
+    {
+      "kind": "subscribe",
+      "at": "w728",
+      "variant": "subscribe"
+    }
+  ],
+  "art": [
+    {
+      "id": "truth1-mouth-stuck",
+      "prompt": "Late afternoon in the dusty earth yard of a small West African village school, a low building with a long veranda and a big shade tree behind. On the right third of the frame a small boy of about seven in a yellow shirt stands with his hands pressed together in prayer, his mouth closed, his eyes cast down, shy and a little sad. A kind man in a plain blue t-shirt kneels on one knee in front of him so his face is at the boy's eye level, seen in profile, one hand resting gently on the boy's shoulder, smiling softly. Far behind them, small and out of focus, two other children stand with folded hands. Warm low golden sunlight falls through the leaves of the tree and rims the boy's face and shoulders. Large calm empty area of soft golden haze and tree shade on the left.",
+      "lights": [
+        { "x": 0.93, "y": 0.06, "r": 0.2, "kind": "rays" },
+        { "x": 0.86, "y": 0.36, "r": 0.08, "kind": "glow" }
+      ],
+      "move": "push",
+      "space": "left"
+    },
+    {
+      "id": "truth2-our-father",
+      "prompt": "Early morning on a quiet grassy hillside above a calm lake. In the centre, seen directly from behind, a man in a simple cream robe kneels on the grass in prayer with a brown cloth draped over his head and shoulders like a hood, his head slightly bowed and turned fully away from us toward the sunrise, so that no part of his face, cheek or profile can be seen, only the back of the head-cloth and his shoulders. A little to the left of him, three men in simple robes of brown, blue and grey kneel on the grass too, heads bowed, hands folded, learning the prayer from him; their faces are turned down and in soft shadow. The first golden light of sunrise spills over the hill from the right and rims their shoulders. Large calm empty area of pale gold morning sky across the top.",
+      "lights": [
+        { "x": 0.852, "y": 0.51, "r": 0.1, "kind": "glow" },
+        { "x": 0.85, "y": 0.67, "r": 0.06, "kind": "glow" }
+      ],
+      "move": "push",
+      "space": "top"
+    },
+    {
+      "id": "truth3-son-first",
+      "prompt": "Night inside a small one-room home with deep teal walls. On the right third of the frame a West African father in a green patterned shirt kneels on a woven mat beside his small son of about seven in a yellow shirt; both have their hands folded. The boy prays with his eyes closed and his face lifted; the father kneels lower beside him with his head bowed and eyes closed, listening to his son pray like a child himself. A single candle burns on a low wooden table beside them. Soft golden light falls on both of them from a small high window. Large calm empty area of teal wall on the left.",
+      "lights": [
+        { "x": 0.961, "y": 0.56, "r": 0.06, "kind": "flicker" },
+        { "x": 0.87, "y": 0.1, "r": 0.22, "kind": "rays" }
+      ],
+      "move": "left",
+      "space": "left"
+    }
+  ],
+  "safeguard": true,
+  "trailer": [
+    {
+      "kind": "line",
+      "mood": "cold",
+      "span": ["w137", "w156"],
+      "say": "Maybe, as a son or your daughter, “Father” is a *hard* word for you | because of a man who left.",
+      "big": { "text": "HARD *WORD*", "on": "w148" }
+    },
+    { "kind": "title" },
+    { "kind": "film", "from": 13, "dur": 3 },
+    {
+      "kind": "line",
+      "mood": "tension",
+      "span": ["w178", "w184"],
+      "say": "Maybe you've never said “Father” to *God.*"
+    },
+    { "kind": "film", "from": 20.5, "dur": 3, "from9": 1.5, "focusX": 48 },
+    {
+      "kind": "line",
+      "mood": "tension",
+      "span": ["w185", "w192"]
+    },
+    {
+      "kind": "verse",
+      "ref": "Galatians 4:6",
+      "text": "God hath sent forth the Spirit of his Son into your hearts, **crying, Abba, Father.**",
+      "read": ["w7", "w21"]
+    },
+    {
+      "kind": "line",
+      "mood": "turn",
+      "span": ["w318", "w327"],
+      "say": "You have been *adopted* so you can call Him Father.",
+      "big": { "text": "CALL HIM *FATHER*", "on": "w327" }
+    },
+    {
+      "kind": "line",
+      "mood": "button",
+      "span": ["w547", "w562"],
+      "say": "Have you received the Spirit of His Son so that you can cry to the *Father?*"
+    },
+    { "kind": "end" }
+  ],
+  "shorts": [
+    {
+      "id": "word",
+      "title": "Why God lets you | call Him *“Father”*",
+      "verse": {
+        "ref": "Galatians 4:6",
+        "text": "And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, **crying, Abba, Father.**",
+        "read": ["w2", "w21"]
+      },
+      "lines": [
+        { "span": ["w45", "w65"] },
+        { "span": ["w69", "w80"] },
+        { "span": ["w81", "w93"] },
+        { "span": ["w94", "w107"] },
+        { "span": ["w108", "w121"] }
+      ],
+      "post": "“Abba” is what a small child calls his daddy, and God sends the Spirit of His Son so you can say it too. Galatians 4:6. Full devotional on YouTube @KidsInspiringNation #TheFatherShowedUp #DailyDevotional #KidsInspiringNation #Galatians4 #FamilyDevotion"
+    },
+    {
+      "id": "truth",
+      "title": "When “Father” | is a *hard word*",
+      "lines": [
+        { "span": ["w131", "w136"] },
+        { "span": ["w137", "w177"] },
+        { "span": ["w178", "w192"] },
+        { "span": ["w193", "w217"] }
+      ],
+      "post": "Maybe “Father” is a hard word for you. God is not angry that the word is slow to come, and it still belongs to Him. Galatians 4:6. Full devotional on YouTube @KidsInspiringNation #TheFatherShowedUp #KidsInspiringNation #DailyDevotional #OurFather #Family"
+    },
+    {
+      "id": "fathers",
+      "title": "Fathers: | become a *son first.*",
+      "lines": [
+        { "span": ["w384", "w400"] },
+        { "span": ["w401", "w439"] },
+        { "span": ["w440", "w476"] },
+        { "span": ["w477", "w499"] }
+      ],
+      "post": "Fathers, your children learn the word “Father” from you. Before you can be a good father, come to the Father as a son. Galatians 4:6. Full devotional on YouTube @KidsInspiringNation #TheFatherShowedUp #Fatherhood #Fathers #KidsInspiringNation #DailyDevotional"
+    }
+  ],
+  "social": {
+    "titles": [
+      "Learning To Say “Our Father” | Day 4 · The Father Showed Up",
+      "When “Father” Is A Hard Word To Say",
+      "The Word “Father” Still Belongs To God"
+    ],
+    "description": "For some children “Father” is a hard word, because of a man who left or one they have never met. Tonight we learn that the word still belongs to God, who sent the Spirit of His Son into our hearts so we can cry, “Abba, Father.”\n\nTHE WORD: Galatians 4:6 (read Galatians 4:4–7 aloud)\nTONIGHT, children: say “Our Father” slowly and quietly, three times. If it is hard tonight, just listen while others say it.\nTONIGHT, fathers: say the two words out loud, once, slowly. Then pray the whole prayer. If you cannot finish, start with the first two words.\nSAY IT: God is my Father. I am His child.",
+    "pinned": "Which two words did Jesus teach us to pray first? Write them below, and under them write: “God is my Father. I am His child.”",
+    "hashtags": [
+      "#TheFatherShowedUp",
+      "#DailyDevotional",
+      "#KidsInspiringNation",
+      "#Fatherhood",
+      "#FamilyDevotion",
+      "#Galatians4"
+    ],
+    "thumbnail": {
+      "line": "OUR *FATHER*",
+      "frame": "w112+2.0"
+    }
+  },
+  "notes": {
+    "check": [
+      "w4 ye (Because ye are sons, in the reading) - heard you; the page shows KJV",
+      "w40 as heard: because He wants us to be here (may be heirs or His)",
+      "w66-68 cut: Abba or Pata (Papa? Baba?) - not clear",
+      "w75-76 daddy or dad. “Father”, it's a close word - punctuation as heard (5 s pause after his)",
+      "w84-93 Wherefore you are no more a servant but a son - heard for his son; he says you are (KJV thou art)",
+      "w111 order (Look at the order) - heard other; the guide says notice the order",
+      "w142 as heard: as a son or your daughter",
+      "w165 provoked (or one who provoked you) - as heard",
+      "w173 word (the word is slow to come) - heard world",
+      "w189-192 “Hi God.” Your mouth is stuck. - heard you're multi-stalk; the guide says when your mouth is stuck",
+      "w209-211 because a man failed - heard because of the man-filled; the guide says because a man failed",
+      "w231-239 as heard: You will hear Him again to say, “My Father.”",
+      "w269-271 say it too: “My Father.” - heard say it to my Father; the guide says so we could say it too",
+      "w317, w372 Son - heard soul",
+      "w328-339 as heard: So, can I ask you to - while you want to sleep tonight",
+      "w410-418 as heard: because you said or you fathered them, whatever you learned",
+      "w463-472 as heard: There is no one that is a father of God",
+      "w502 bended (bended knees) - heard bedded",
+      "w504-505 as heard: cry hearts",
+      "w538 grandchild (Father of every grandchild) - may be grandfather",
+      "w539-546 cut: And so this mind. Salmon to you today. (this is my ... to you today?) - not clear",
+      "w565-568 as heard: whoever it is painted the wrong picture",
+      "w637-651 as heard, kept off the prayer plate: You respect it from what the picture of Father will be spirited in our house",
+      "w652-670 as heard, kept off the prayer plate: That with our hearts in hands, we can relate to You as Father, not as God in Your Father",
+      "w687-702 as heard, kept off the prayer plate: Also come to you and call your father. That our sons may be more their fathers.",
+      "w745 life (Jesus Christ is our life) - may be Lord"
+    ]
+  }
+}

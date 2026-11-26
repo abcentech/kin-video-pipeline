@@ -1,0 +1,811 @@
+{
+  "day": 1,
+  "presenter": {
+    "name": "",
+    "role": "Kids Inspiring Nation"
+  },
+  "fix": {
+    "5": "4:4–5.",
+    "8": "fulness",
+    "46": "“And",
+    "56": "Spirit",
+    "59": "Son",
+    "62": "hearts,",
+    "65": "Father.”",
+    "71": "4:1–7,",
+    "78": "came",
+    "79": "because",
+    "84": "heirs,",
+    "95": "Father",
+    "104": "",
+    "105": "key",
+    "106": "phrase:",
+    "109": "fulness",
+    "126": "it.",
+    "149": "Father.",
+    "155": "late,",
+    "156": "even",
+    "161": "it",
+    "165": "Fathers,",
+    "180": "grown-up",
+    "216": "heard",
+    "233": "“I",
+    "242": "you.”",
+    "244": "he",
+    "247": "",
+    "248": "",
+    "249": "It",
+    "256": "money,",
+    "257": "to",
+    "260": "peace,",
+    "261": "or",
+    "296": "Father",
+    "302": "He",
+    "304": "His",
+    "305": "Son",
+    "312": "Father,",
+    "317": "His",
+    "318": "Son.",
+    "330": "a",
+    "331": "child.",
+    "332": "It",
+    "334": "late.",
+    "338": "hour",
+    "339": "He",
+    "340": "chose,",
+    "342": "Father",
+    "344": "His",
+    "345": "Son,",
+    "354": "waiting",
+    "362": "Him",
+    "363": "Father.",
+    "379": "He",
+    "394": "Father",
+    "404": "strayed",
+    "412": "were",
+    "414": "really",
+    "415": "there.",
+    "423": "sat",
+    "424": "up",
+    "425": "waiting.",
+    "426": "",
+    "428": "were",
+    "434": "were",
+    "446": "burden.",
+    "459": "Father",
+    "465": "His",
+    "466": "Son",
+    "471": "hurt,",
+    "492": "today:",
+    "497": "Father,",
+    "501": "He",
+    "506": "His",
+    "514": "He",
+    "520": "follow",
+    "521": "Him,",
+    "524": "follow",
+    "525": "Him.",
+    "529": "He",
+    "538": "faithfulness",
+    "539": "",
+    "547": "Father",
+    "550": "flesh:",
+    "552": "Father,",
+    "554": "Father,",
+    "557": "Father.",
+    "569": "me:",
+    "570": "“My",
+    "571": "Father",
+    "574": "late.”",
+    "579": "me:",
+    "580": "“My",
+    "581": "Father",
+    "584": "late.”",
+    "595": "",
+    "596": "listening,",
+    "603": "You",
+    "608": "the",
+    "610": "Father,",
+    "611": "our",
+    "616": "fatherhood,",
+    "622": "You",
+    "625": "Father",
+    "631": "You,",
+    "639": "",
+    "640": "",
+    "670": "Father."
+  },
+  "maxPause": 0.75,
+  "keep": [
+    [
+      "w0",
+      "w5"
+    ],
+    [
+      "w6",
+      "w65"
+    ],
+    [
+      "w66",
+      "w99"
+    ],
+    [
+      "w100",
+      "w126"
+    ],
+    [
+      "w127",
+      "w149"
+    ],
+    [
+      "w150",
+      "w164"
+    ],
+    [
+      "w165",
+      "w177"
+    ],
+    [
+      "w178",
+      "w199"
+    ],
+    [
+      "w214",
+      "w246"
+    ],
+    [
+      "w247",
+      "w276"
+    ],
+    [
+      "w277",
+      "w300"
+    ],
+    [
+      "w301",
+      "w318"
+    ],
+    [
+      "w319",
+      "w350"
+    ],
+    [
+      "w351",
+      "w381"
+    ],
+    [
+      "w382",
+      "w397"
+    ],
+    [
+      "w400",
+      "w426"
+    ],
+    [
+      "w427",
+      "w456"
+    ],
+    [
+      "w457",
+      "w482"
+    ],
+    [
+      "w483",
+      "w510"
+    ],
+    [
+      "w511",
+      "w525"
+    ],
+    [
+      "w526",
+      "w541"
+    ],
+    [
+      "w542",
+      "w566"
+    ],
+    [
+      "w567",
+      "w584"
+    ],
+    [
+      "w585",
+      "w643"
+    ],
+    [
+      "w644",
+      "w671"
+    ]
+  ],
+  "pace": [
+    {
+      "span": [
+        "w40",
+        "w41"
+      ],
+      "maxPause": 2.2
+    },
+    {
+      "span": [
+        "w177",
+        "w178"
+      ],
+      "maxPause": 1.5
+    },
+    {
+      "span": [
+        "w300",
+        "w301"
+      ],
+      "maxPause": 1.5
+    },
+    {
+      "span": [
+        "w511",
+        "w541"
+      ],
+      "maxPause": 2
+    },
+    {
+      "span": [
+        "w567",
+        "w584"
+      ],
+      "maxPause": 1
+    },
+    {
+      "span": [
+        "w585",
+        "w643"
+      ],
+      "maxPause": 2
+    }
+  ],
+  "air": [
+    {
+      "after": "w482",
+      "dur": 8
+    },
+    {
+      "after": "w584",
+      "dur": 12.6,
+      "lead": 2.2
+    }
+  ],
+  "hook": [
+    {
+      "span": [
+        "w277",
+        "w300"
+      ],
+      "say": "So if someone did not keep a promise in your house, it's *not* your *fault.* | Just look at the Father who is never late.",
+      "big": {
+        "text": "NOT YOUR *FAULT*",
+        "on": "w289"
+      },
+      "hold": 0.3
+    }
+  ],
+  "film": {
+    "play": true,
+    "from": 1,
+    "to": 49.8
+  },
+  "cues": [
+    {
+      "kind": "scripture",
+      "at": "w6",
+      "mode": "page",
+      "ref": "Galatians 4:4–5",
+      "flourish": true,
+      "text": "But when **the fulness of the time** was come, God sent forth his Son, made of a woman, made under the law, To redeem them that were under the law, that we might receive the adoption of sons.",
+      "read": [
+        "w6",
+        "w40"
+      ]
+    },
+    {
+      "kind": "scripture",
+      "at": "w46",
+      "mode": "page",
+      "ref": "Galatians 4:6",
+      "text": "And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, **Abba, Father.**",
+      "read": [
+        "w46",
+        "w65"
+      ]
+    },
+    {
+      "kind": "teaser",
+      "at": "w72",
+      "text": "Three truths for every child who has waited"
+    },
+    {
+      "kind": "point",
+      "at": "w114",
+      "to": "end:w126+0.9",
+      "text": "God chose the hour — | and *He kept it.*",
+      "sync": [
+        "w114",
+        "w126"
+      ]
+    },
+    {
+      "kind": "keyword",
+      "at": "w144",
+      "text": "*ADOPTED*"
+    },
+    {
+      "kind": "snap",
+      "at": "w154"
+    },
+    {
+      "kind": "point",
+      "at": "w166",
+      "to": "end:w177+0.8",
+      "text": "God did not | send excuses. | *He sent His Son.*",
+      "sync": [
+        "w166",
+        "w177"
+      ]
+    },
+    {
+      "kind": "chapter",
+      "at": "w178",
+      "label": "TRUTH 1 OF 3",
+      "numeral": 1,
+      "title": "Grown-Up Problems Are *Not Your Fault*"
+    },
+    {
+      "kind": "art",
+      "at": "w188",
+      "to": "end:w225",
+      "plate": "truth1-not-your-fault",
+      "mode": "full"
+    },
+    {
+      "kind": "point",
+      "at": "w249",
+      "to": "end:w267+0.5",
+      "text": "It wasn't *your job* | to get the money, | to make the peace.",
+      "sync": [
+        "w249",
+        "w260"
+      ]
+    },
+    {
+      "kind": "subscribe",
+      "at": "w268",
+      "variant": "subscribe"
+    },
+    {
+      "kind": "keyword",
+      "at": "w289",
+      "text": "NOT YOUR | *FAULT*"
+    },
+    {
+      "kind": "chapter",
+      "at": "w301",
+      "label": "TRUTH 2 OF 3",
+      "numeral": 2,
+      "title": "The Father Sent His Son, *Right On Time*"
+    },
+    {
+      "kind": "art",
+      "at": "w319",
+      "to": "end:w350",
+      "plate": "truth2-bethlehem",
+      "mode": "full"
+    },
+    {
+      "kind": "point",
+      "at": "w351",
+      "to": "end:w363+0.8",
+      "text": "Every waiting child, | every failed father, | could call Him *Father.*",
+      "sync": [
+        "w351",
+        "w363"
+      ]
+    },
+    {
+      "kind": "chapter",
+      "at": "w382",
+      "label": "TRUTH 3 OF 3",
+      "numeral": 3,
+      "title": "*Come Back* To The Father First"
+    },
+    {
+      "kind": "art",
+      "at": "w457",
+      "to": "end:w482+0.3",
+      "plate": "truth3-come-back",
+      "mode": "full"
+    },
+    {
+      "kind": "recap",
+      "at": "end:w482+1.0",
+      "title": "TODAY'S THREE TRUTHS",
+      "items": [
+        "Grown-up problems are not your fault",
+        "The Father sent His Son, right on time",
+        "Come back to the Father first"
+      ]
+    },
+    {
+      "kind": "subscribe",
+      "at": "w484",
+      "variant": "share"
+    },
+    {
+      "kind": "point",
+      "at": "w499",
+      "to": "end:w510+0.6",
+      "text": "Every promise | He made to you | *will never fail.*",
+      "sync": [
+        "w499",
+        "w510"
+      ]
+    },
+    {
+      "kind": "hush",
+      "at": "w511-0.4",
+      "to": "end:w541+0.4"
+    },
+    {
+      "kind": "keyword",
+      "at": "w543",
+      "text": "HOLD ON | TO THE *FATHER*"
+    },
+    {
+      "kind": "declare",
+      "at": "w577",
+      "text": "My Father is *never late.*",
+      "sync": [
+        "w580",
+        "w584"
+      ],
+      "to": "end:w584+0.9"
+    },
+    {
+      "kind": "response",
+      "at": "end:w584+1.5",
+      "to": "end:w584+11.6",
+      "child": {
+        "text": "Write one promise you are still waiting for. Under it, write: “My Father in heaven is never late.” Keep it somewhere safe."
+      },
+      "father": {
+        "text": "Write your child’s age now, and their age when you stopped being there. Look at the gap. Make no big promise yet. Pray for your child by name."
+      }
+    },
+    {
+      "kind": "prayer",
+      "at": "w587",
+      "to": "end:w643",
+      "lines": [
+        {
+          "text": "Father, we pray for every son, every daughter listening, and every father,",
+          "sync": [
+            "w587",
+            "w599"
+          ]
+        },
+        {
+          "text": "that just like You are a reflection of the true Father, our fathers will reflect true fatherhood,",
+          "sync": [
+            "w600",
+            "w616"
+          ]
+        },
+        {
+          "text": "and our sons will see You as a Father who is never late.",
+          "sync": [
+            "w617",
+            "w629"
+          ]
+        },
+        {
+          "text": "Thank You, Jesus. In the name of Jesus Christ we pray. Amen.",
+          "sync": [
+            "w630",
+            "w643"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "subscribe",
+      "at": "w658",
+      "variant": "subscribe"
+    }
+  ],
+  "art": [
+    {
+      "id": "truth1-not-your-fault",
+      "prompt": "Night inside a small one-room home with deep teal walls. In the foreground on the right, a small boy of about seven in a yellow shirt sits on a woven mat on the floor beside a single candle, hugging his knees, looking up toward a window where soft golden light is beginning to pour in onto his face. Far behind him on the left, small and out of focus, his mother sits at a wooden table with her head in her hand beside a few papers and an empty cooking pot. The boy is the clear subject and is gently lit; the mood is tender, he is not alone.",
+      "lights": [
+        {
+          "x": 0.878,
+          "y": 0.77,
+          "r": 0.1,
+          "kind": "flicker"
+        },
+        {
+          "x": 0.95,
+          "y": 0.18,
+          "r": 0.2,
+          "kind": "glow"
+        }
+      ],
+      "move": "push",
+      "space": "top"
+    },
+    {
+      "id": "truth2-bethlehem",
+      "prompt": "Night in a small West African village of round mud huts with thatched roofs. In the foreground on the left, seen from behind, a child wrapped in a patterned cloth sits on the stone doorstep of a hut beside a glowing oil lantern, hugging their knees, looking down the empty earth road. Far down the road a simple wooden stable glows with warm golden light from a manger inside, and one bright star hangs directly above it in a deep teal sky.",
+      "lights": [
+        {
+          "x": 0.085,
+          "y": 0.67,
+          "r": 0.09,
+          "kind": "flicker"
+        },
+        {
+          "x": 0.715,
+          "y": 0.47,
+          "r": 0.05,
+          "kind": "twinkle"
+        },
+        {
+          "x": 0.715,
+          "y": 0.69,
+          "r": 0.09,
+          "kind": "glow"
+        }
+      ],
+      "move": "push",
+      "space": "top"
+    },
+    {
+      "id": "truth3-come-back",
+      "prompt": "Night. A West African father in a green patterned shirt kneels alone on the floor of a small room with deep teal walls, head bowed, hands open on his knees, a steel wristwatch on his wrist. Behind him a wooden door stands open and warm golden light pours through it across the floor and over his shoulders, like someone is waiting for him in the light. A single candle burns on a small table; a child's crayon drawing of a family is pinned to the wall. He is on the left third of the frame; large calm empty area on the right filled with the soft light from the door, for titles.",
+      "lights": [
+        {
+          "x": 0.067,
+          "y": 0.37,
+          "r": 0.08,
+          "kind": "flicker"
+        },
+        {
+          "x": 0.33,
+          "y": 0.35,
+          "r": 0.25,
+          "kind": "rays"
+        }
+      ],
+      "move": "right",
+      "space": "right"
+    }
+  ],
+  "safeguard": true,
+  "trailer": [
+    {
+      "kind": "line",
+      "mood": "cold",
+      "span": [
+        "w188",
+        "w199"
+      ],
+      "say": "Maybe your home has been full of big *promises* and little money.",
+      "big": {
+        "text": "BIG *PROMISES*",
+        "on": "w195"
+      }
+    },
+    {
+      "kind": "title"
+    },
+    {
+      "kind": "film",
+      "from": 24.5,
+      "dur": 3
+    },
+    {
+      "kind": "line",
+      "mood": "tension",
+      "span": [
+        "w226",
+        "w246"
+      ],
+      "big": {
+        "text": "NEVER *CAME*",
+        "on": "w245"
+      }
+    },
+    {
+      "kind": "film",
+      "from": 4,
+      "dur": 3,
+      "focusX": 51
+    },
+    {
+      "kind": "line",
+      "mood": "tension",
+      "span": [
+        "w332",
+        "w334"
+      ],
+      "say": "It looked *late.*"
+    },
+    {
+      "kind": "verse",
+      "ref": "Galatians 4:4",
+      "text": "But when **the fulness of the time** was come, God sent forth his Son",
+      "read": [
+        "w6",
+        "w17"
+      ]
+    },
+    {
+      "kind": "line",
+      "mood": "turn",
+      "span": [
+        "w114",
+        "w126"
+      ],
+      "say": "God chose the hour when His Son would come and He *kept* it.",
+      "big": {
+        "text": "HE *KEPT* IT",
+        "on": "w125"
+      }
+    },
+    {
+      "kind": "line",
+      "mood": "button",
+      "span": [
+        "w150",
+        "w155"
+      ],
+      "say": "Son, daughter, God is *never* late."
+    },
+    {
+      "kind": "end"
+    }
+  ],
+  "shorts": [
+    {
+      "id": "word",
+      "title": "My Father is | *never late.*",
+      "verse": {
+        "ref": "Galatians 4:4–5",
+        "text": "But when **the fulness of the time** was come, God sent forth his Son, made of a woman, made under the law, To redeem them that were under the law, that we might receive the adoption of sons.",
+        "read": [
+          "w6",
+          "w40"
+        ]
+      },
+      "lines": [
+        {
+          "span": [
+            "w114",
+            "w126"
+          ]
+        },
+        {
+          "span": [
+            "w127",
+            "w149"
+          ]
+        },
+        {
+          "span": [
+            "w150",
+            "w164"
+          ]
+        },
+        {
+          "span": [
+            "w577",
+            "w584"
+          ]
+        }
+      ],
+      "post": "God chose the hour, and He kept it. Your Father in heaven is never late. Galatians 4:4–5. Full devotional on YouTube @KidsInspiringNation #TheFatherShowedUp #DailyDevotional #KidsInspiringNation #Fatherhood #FamilyDevotion"
+    },
+    {
+      "id": "truth",
+      "title": "It was never | *your fault.*",
+      "lines": [
+        {
+          "span": [
+            "w178",
+            "w199"
+          ]
+        },
+        {
+          "span": [
+            "w214",
+            "w246"
+          ]
+        },
+        {
+          "span": [
+            "w249",
+            "w276"
+          ]
+        },
+        {
+          "span": [
+            "w277",
+            "w300"
+          ]
+        }
+      ],
+      "post": "To every child who has waited for a promise: grown-up problems are not your fault. Galatians 4:4–5. Full devotional on YouTube @KidsInspiringNation #TheFatherShowedUp #NotYourFault #KidsInspiringNation #DailyDevotional #Family"
+    },
+    {
+      "id": "fathers",
+      "title": "Fathers: | *come back* first.",
+      "lines": [
+        {
+          "span": [
+            "w382",
+            "w397"
+          ]
+        },
+        {
+          "span": [
+            "w400",
+            "w425"
+          ]
+        },
+        {
+          "span": [
+            "w427",
+            "w456"
+          ]
+        },
+        {
+          "span": [
+            "w457",
+            "w482"
+          ]
+        }
+      ],
+      "post": "Fathers, the way back starts with coming back to the Father. He sent His Son for the child you hurt, and for you. Galatians 4:4–5. Full devotional on YouTube @KidsInspiringNation #TheFatherShowedUp #Fatherhood #Fathers #KidsInspiringNation #DailyDevotional"
+    }
+  ],
+  "social": {
+    "titles": [
+      "The Father Who Is Never Late | Day 1 · The Father Showed Up",
+      "God Is Never Late, Even When It Felt Like It",
+      "It Was Never Your Fault: A Word for Every Waiting Child"
+    ],
+    "description": "Some homes are full of big promises and very little money. Tonight we meet a Father who chose the hour and kept it: He sent His Son, right on time.\n\nTHE WORD: Galatians 4:4–5 (read Galatians 4:1–7 aloud)\nTONIGHT, children: write one promise you are still waiting for. Under it, write: “My Father in heaven is never late.” Keep it somewhere safe.\nTONIGHT, fathers: write your child’s age now, and their age when you stopped being there. Look at the gap. Make no big promise yet. Pray for your child by name.\nSAY IT: My Father in heaven is never late.",
+    "pinned": "What is one promise you are still waiting for? Write it below, and under it write: “My Father in heaven is never late.”",
+    "hashtags": [
+      "#TheFatherShowedUp",
+      "#DailyDevotional",
+      "#KidsInspiringNation",
+      "#Fatherhood",
+      "#FamilyDevotion",
+      "#Galatians4"
+    ],
+    "thumbnail": {
+      "line": "NEVER *LATE*",
+      "frame": "end:w151"
+    }
+  },
+  "notes": {
+    "check": [
+      "w244 he (And he never came) - heard three ways",
+      "w247-248 uncaptioned (They say / I said / Listen)",
+      "w332-334 It looked late - heard He looked lit",
+      "w371,w379-381 give vs keep (promises that they don't give / that He didn't give)",
+      "w398-399 cut: unintelligible (Galatians 4:00?)",
+      "w558-563 I'm telling that you know he is never late - as heard",
+      "w639-640 uncaptioned (having life / our life?)",
+      "w658 Writing vs Liking, sharing and engaging - as heard"
+    ]
+  }
+}

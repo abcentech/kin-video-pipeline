@@ -1,0 +1,34 @@
+{
+  "grade": "n3",
+  "variation": "C",
+  "skinY": 0.44,
+  "maxLift": 1.5,
+  "days": {
+    "2": {
+      "warm": 6
+    },
+    "3": {
+      "grade": "studio",
+      "look": "B"
+    },
+    "4": {
+      "grade": "studio",
+      "look": "B"
+    }
+  },
+  "chosen": "2026-11-25",
+  "by": "producer",
+  "words": "C is fine use it … the C option is the best so far, and we can work with that.",
+  "note": "Three variations were shown on Day 1 and Day 2 (A 0.36, B 0.40, C 0.44 = display luma the median of his face is fitted to on every recording). The grade touches only the wall and his skin; clothes, cap and lettering stay as recorded. cut.mjs reads skinY from here.",
+  "revised": "2026-11-26",
+  "revisedWords": "Day 1 … the color grading … seems to be spotting his face as if there is a touch or spotlight on him … it should blend seamlessly into the video and also on the subject. / Day 3 color grading seems okay. / I am okay with day 2 maybe just a little orange in the color grading, the orange should be very little not more than +8, you can use your discretion … from +1 through to +8.",
+  "revisedNote": "maxLift 1.5: the fill never lifts a face above 1.5x its own recorded median (Day 1, the darkest recording, was being lifted x1.69 to reach 0.44 and read as a spotlight; it now lands at 0.39, Day 4 at 0.417; Days 2, 3, 5, 6 are under the cap and unchanged — Day 3 at x1.44 is the one the producer called okay). days.2.warm 6: Day 2's skin turns 1.5 degrees toward orange with 6 % more chroma (my reading of 'a little orange', chosen from 4 and 7 on stills).",
+  "studio": {
+    "chosen": "2026-11-26",
+    "by": "producer",
+    "look": "B",
+    "words": "Option B",
+    "brief": "the color grading is not yet there, i want it to be top notch … build a color grading studio … check your highlights, exposure, brightness, contrast, midtones, shadows … colors balanced, the subject must look natural not whitish or yellowish natural skintone, as if video was shot with a very good sony camera with perfect settings or a very good iphone … not overexagerated and not overly or heavily edited … very professionally retouched.",
+    "note": "scripts/december/grade/studio.py: one global grade of the whole picture fitted per recording (true black, face to ~0.43 display luma but never more than 1.5x its recorded median, wall held, highlights eased, skin turned toward the skin-tone line, white balance left as recorded). Three looks A clean / B balanced / C rich were shown on Days 3 and 4 as stills and 12 s clips. Applies to days with days.N.grade = studio (3 and 4 so far); Days 1 and 2 were delivered on N3 and are not re-graded unless the producer asks. It moves clothes and lettering with the rest of the picture (the 25 Nov rule was wall and skin only): told to the producer with the options."
+  }
+}
