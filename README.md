@@ -51,6 +51,14 @@ STEP 0 inputs checklist and the exact script invocations.
 - **Any video → shorts** (`video-to-short`): crop 9:16, per-clip whisper captions, music bed,
   branded intro/closing.
 
+## Daily devotional pipeline
+
+`daily-devotional/` is a separate, self-contained project ("THE FATHER SHOWED UP"): raw daily
+`Day_N.mp4` + the teaching guide → edited 16:9 episode, 16:9 + 9:16 trailer, three 9:16 shorts,
+captions, thumbnail and social copy. It has its own install (`daily-devotional/scripts/setup.ps1`
+or `setup.sh`) and does not use the studios above. See [`daily-devotional/README.md`](daily-devotional/README.md);
+the matching Claude Code skill is `skills/daily-devotional/`.
+
 ## Standing brand & format rules (locked)
 - **Branding:** logo on file (`kin_logo_full.png`) top-right, "KIDSINSPIRING NATION" wordmark
   progress gauge bottom-left, real social icons (never emoji), website **KidsInspiringNation.org**.

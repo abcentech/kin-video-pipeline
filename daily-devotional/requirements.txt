@@ -1,0 +1,15 @@
+# Python side of the pipeline (colour grade, face/head tracking, sound stage).
+# Pinned to the versions the pipeline was produced with (Python 3.11).
+numpy==2.4.6
+scipy==1.17.1
+pillow==13.0.0
+opencv-python==5.0.0.93
+mediapipe==1.2.2
+onnxruntime==1.31.1
+soundfile==0.14.0
+soxr==1.1.0
+# sample-library fetch (scripts/viral/studio/fetch_samples.py) and pitch detection (library.py)
+requests==2.34.2
+librosa==0.11.0
+# sound/qa.py loudness plots
+matplotlib==3.11.2

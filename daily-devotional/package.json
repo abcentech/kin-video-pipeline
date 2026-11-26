@@ -1,0 +1,44 @@
+{
+  "name": "kin-daily-devotional",
+  "version": "1.0.0",
+  "private": true,
+  "description": "THE FATHER SHOWED UP - daily devotional edit pipeline (Remotion + ffmpeg + whisper.cpp + python)",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@remotion/bundler": "4.0.526",
+    "@remotion/cli": "4.0.526",
+    "@remotion/noise": "4.0.526",
+    "@remotion/renderer": "4.0.526",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.526"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "studio": "remotion studio src/december-entry.tsx",
+    "studio:promo": "remotion studio src/december-promo-entry.tsx",
+    "typecheck": "tsc",
+    "selftest": "node scripts/december/plan.mjs --selftest",
+    "watch": "node scripts/december/watch.mjs",
+    "guide": "node scripts/december/guide.mjs",
+    "make": "node scripts/december/make.mjs",
+    "prep": "node scripts/december/prep.mjs",
+    "ingest": "node scripts/december/ingest.mjs",
+    "transcribe": "node scripts/december/transcribe.mjs",
+    "draft": "node scripts/december/draft.mjs",
+    "cut": "node scripts/december/cut.mjs",
+    "plan": "node scripts/december/plan.mjs",
+    "art": "node scripts/december/art.mjs",
+    "matte": "node scripts/december/matte.mjs",
+    "sound": "node scripts/december/sound.mjs",
+    "layout": "node scripts/december/layout-picture.mjs",
+    "stills": "node scripts/december/stills.mjs",
+    "render": "node scripts/december/render.mjs",
+    "post": "node scripts/december/post.mjs",
+    "qc": "node scripts/december/qc.mjs",
+    "phone-previews": "node scripts/december/phone-previews.mjs"
+  }
+}

@@ -1,0 +1,437 @@
+{
+ "day": 1,
+ "presenter": {
+  "name": "Pastor Daniel",
+  "role": "KIN Pastor"
+ },
+ "fix": {
+  "67": "",
+  "121": "Galatia."
+ },
+ "keep": [
+  [
+   "w12",
+   "w389"
+  ]
+ ],
+ "hook": [
+  {
+   "span": [
+    "w25",
+    "w30"
+   ],
+   "say": "He has *never* once been *late.*",
+   "cam": [
+    "tight",
+    "tight"
+   ],
+   "big": {
+    "text": "NEVER *LATE*"
+   }
+  },
+  {
+   "span": [
+    "w90",
+    "w94"
+   ],
+   "say": "It was never your *fault.*",
+   "big": {
+    "text": "YOUR *FAULT*",
+    "on": "w94"
+   }
+  }
+ ],
+ "film": {
+  "play": true,
+  "from": 0
+ },
+ "cues": [
+  {
+   "kind": "ident",
+   "at": "w31"
+  },
+  {
+   "kind": "chapter",
+   "at": "w52",
+   "label": "TRUTH 1 OF 3",
+   "title": "Grown-Up *Problems* Are Not Your Fault",
+   "numeral": 1
+  },
+  {
+   "kind": "keyword",
+   "at": "w90",
+   "text": "NOT *YOUR* FAULT"
+  },
+  {
+   "kind": "snap",
+   "at": "w89"
+  },
+  {
+   "kind": "point",
+   "at": "w95",
+   "to": "end:w102",
+   "text": "Grown-up problems are *never* a child's problem",
+   "sync": [
+    "w95",
+    "w102"
+   ]
+  },
+  {
+   "kind": "scripture",
+   "at": "w122",
+   "mode": "page",
+   "ref": "Galatians 4:4–5",
+   "text": "But when the **fulness of the time** was come, God sent forth his Son, made of a woman, made under the law, To redeem them that were under the law, that we might receive the adoption of sons.",
+   "read": [
+    "w122",
+    "end:w159"
+   ],
+   "flourish": true
+  },
+  {
+   "kind": "subscribe",
+   "at": "w193",
+   "variant": "subscribe"
+  },
+  {
+   "kind": "art",
+   "at": "w187",
+   "dur": 3,
+   "plate": "wait-door",
+   "mode": "side"
+  },
+  {
+   "kind": "art",
+   "at": "w204",
+   "to": "end:w218",
+   "plate": "bethlehem",
+   "mode": "full",
+   "caption": "Born small in *Bethlehem*"
+  },
+  {
+   "kind": "response",
+   "at": "w256",
+   "to": "end:w287",
+   "child": {
+    "text": "I know that my Father is never late.",
+    "sync": [
+     "w263",
+     "w270"
+    ]
+   },
+   "father": {
+    "text": "I will keep my promise and I will show up.",
+    "sync": [
+     "w278",
+     "w287"
+    ]
+   }
+  },
+  {
+   "kind": "prayer",
+   "at": "w294",
+   "to": "end:w321",
+   "lines": [
+    {
+     "text": "Father in heaven, thank you that you are never late.",
+     "sync": [
+      "w297",
+      "w306"
+     ]
+    },
+    {
+     "text": "Thank you for sending your Son.",
+     "sync": [
+      "w307",
+      "w312"
+     ]
+    },
+    {
+     "text": "Hold every waiting child tonight."
+    }
+   ]
+  },
+  {
+   "kind": "recap",
+   "at": "w337",
+   "items": [
+    "Grown-up problems are not your fault",
+    "The Father sent His Son, right on time",
+    "God has never been late"
+   ]
+  },
+  {
+   "kind": "declare",
+   "at": "w363",
+   "text": "MY FATHER IN HEAVEN | IS **NEVER LATE.**",
+   "sync": [
+    "w363",
+    "w369"
+   ]
+  }
+ ],
+ "art": [
+  {
+   "id": "wait-door",
+   "prompt": "A small boy sits on the doorstep of a mud-brick house at dusk, looking down the empty road, an oil lantern glowing beside him",
+   "lights": [
+    {
+     "x": 0.3,
+     "y": 0.7,
+     "r": 0.08,
+     "kind": "flicker"
+    }
+   ],
+   "move": "push",
+   "space": "right"
+  },
+  {
+   "id": "bethlehem",
+   "prompt": "A quiet stable in Bethlehem under a huge sky of stars, a mother holds a newborn in amber lantern light",
+   "lights": [
+    {
+     "x": 0.5,
+     "y": 0.6,
+     "r": 0.1,
+     "kind": "glow"
+    },
+    {
+     "x": 0.5,
+     "y": 0.1,
+     "r": 0.3,
+     "kind": "twinkle"
+    }
+   ],
+   "move": "pull",
+   "space": "top"
+  }
+ ],
+ "safeguard": true,
+ "trailer": [
+  {
+   "kind": "line",
+   "mood": "cold",
+   "span": [
+    "w25",
+    "w30"
+   ],
+   "say": "He has *never* once been *late.*",
+   "big": {
+    "text": "NEVER *LATE*"
+   }
+  },
+  {
+   "kind": "title"
+  },
+  {
+   "kind": "line",
+   "mood": "tension",
+   "span": [
+    "w52",
+    "w59"
+   ],
+   "say": "Some of us have *waited* for a father"
+  },
+  {
+   "kind": "film",
+   "from": 6,
+   "dur": 4
+  },
+  {
+   "kind": "line",
+   "mood": "tension",
+   "span": [
+    "w71",
+    "w76"
+   ]
+  },
+  {
+   "kind": "line",
+   "mood": "tension",
+   "span": [
+    "w77",
+    "w82"
+   ]
+  },
+  {
+   "kind": "film",
+   "from": 20,
+   "dur": 4,
+   "focusX": 40
+  },
+  {
+   "kind": "verse",
+   "ref": "Galatians 4:4",
+   "text": "But when the **fulness of the time** was come, God sent forth his Son",
+   "read": [
+    "w122",
+    "end:w135"
+   ]
+  },
+  {
+   "kind": "line",
+   "mood": "turn",
+   "span": [
+    "w178",
+    "w186"
+   ],
+   "say": "God chose the hour | and God *kept* the hour",
+   "big": {
+    "text": "*KEPT*"
+   }
+  },
+  {
+   "kind": "line",
+   "mood": "turn",
+   "span": [
+    "w210",
+    "w214"
+   ],
+   "say": "He sent His own *Son.*"
+  },
+  {
+   "kind": "line",
+   "mood": "button",
+   "span": [
+    "w219",
+    "w231"
+   ]
+  },
+  {
+   "kind": "end"
+  }
+ ],
+ "shorts": [
+  {
+   "id": "word",
+   "title": "THE *FULNESS* | OF THE TIME",
+   "lines": [
+    {
+     "span": [
+      "w108",
+      "w121"
+     ]
+    },
+    {
+     "span": [
+      "w166",
+      "w169"
+     ],
+     "say": "Did you hear that?"
+    },
+    {
+     "span": [
+      "w170",
+      "w177"
+     ]
+    },
+    {
+     "span": [
+      "w178",
+      "w186"
+     ]
+    }
+   ],
+   "verse": {
+    "ref": "Galatians 4:4–5",
+    "text": "But when the **fulness of the time** was come, God sent forth his Son, made of a woman, made under the law, To redeem them that were under the law, that we might receive the adoption of sons.",
+    "read": [
+     "w122",
+     "end:w159"
+    ]
+   },
+   "post": "God chose the hour. #TheFatherShowedUp"
+  },
+  {
+   "id": "truth",
+   "title": "IT IS NEVER | *YOUR FAULT*",
+   "lines": [
+    {
+     "span": [
+      "w52",
+      "w64"
+     ]
+    },
+    {
+     "span": [
+      "w71",
+      "w76"
+     ]
+    },
+    {
+     "span": [
+      "w77",
+      "w82"
+     ]
+    },
+    {
+     "span": [
+      "w83",
+      "w102"
+     ]
+    }
+   ],
+   "post": "It was never your fault. #TheFatherShowedUp"
+  },
+  {
+   "id": "prayer",
+   "title": "A PRAYER FOR | *EVERY CHILD*",
+   "lines": [
+    {
+     "span": [
+      "w294",
+      "w296"
+     ]
+    },
+    {
+     "span": [
+      "w297",
+      "w306"
+     ]
+    },
+    {
+     "span": [
+      "w307",
+      "w312"
+     ]
+    },
+    {
+     "span": [
+      "w313",
+      "w317"
+     ]
+    },
+    {
+     "span": [
+      "w358",
+      "w369"
+     ]
+    },
+    {
+     "span": [
+      "w370",
+      "w377"
+     ]
+    }
+   ],
+   "post": "Say it with us. #TheFatherShowedUp"
+  }
+ ],
+ "social": {
+  "titles": [
+   "The Father Who Is Never Late | Day 1",
+   "He Has Never Been Late — Galatians 4:4",
+   "A Devotional For Every Waiting Child"
+  ],
+  "description": "Day 1 of The Father Showed Up. Tonight: God is never late.",
+  "pinned": "Who are you waiting for tonight? Tell us below.",
+  "hashtags": [
+   "#TheFatherShowedUp",
+   "#KIN"
+  ],
+  "thumbnail": {
+   "line": "NEVER *LATE*",
+   "frame": "w25"
+  }
+ }
+}

@@ -1,0 +1,586 @@
+{
+  "day": 6,
+  "presenter": {
+    "name": "",
+    "role": "Kids Inspiring Nation"
+  },
+  "fix": {
+    "4": "LORD’s",
+    "13": "compassions",
+    "14": "fail",
+    "20": "morning:",
+    "21": "great",
+    "23": "Your",
+    "38": "ceases;",
+    "39": "",
+    "45": "an",
+    "46": "end;",
+    "57": "Your",
+    "63": "Your",
+    "84": "“Oh",
+    "92": "promise.”",
+    "118": "His",
+    "128": "Father",
+    "134": "His",
+    "139": "He",
+    "149": "“But",
+    "155": "tittle",
+    "157": "My",
+    "161": "away.”",
+    "249": "LORD’s",
+    "258": "count,",
+    "317": "earned it.",
+    "326": "His",
+    "331": "safe",
+    "390": "Son.",
+    "391": "",
+    "392": "",
+    "393": "",
+    "396": "Saviour",
+    "452": "Spirit,",
+    "453": "",
+    "469": "promises,",
+    "488": "Maybe",
+    "491": "up",
+    "492": "having",
+    "505": "“Before",
+    "512": "pay",
+    "515": "fees,”",
+    "524": "fees.",
+    "566": "He",
+    "576": "His",
+    "599": "look",
+    "602": "One",
+    "606": "Father",
+    "608": "all,",
+    "609": "",
+    "627": "His",
+    "628": "Son.",
+    "647": "Father",
+    "672": "can't",
+    "680": "There",
+    "694": "He",
+    "721": "failed",
+    "736": "You",
+    "741": "Your",
+    "756": "Your",
+    "764": "Father,",
+    "765": "You’ll",
+    "770": "Your",
+    "798": "You",
+    "808": "You.",
+    "813": "earn",
+    "827": "You,",
+    "832": "Christ",
+    "833": "",
+    "834": "",
+    "872": "father.",
+    "877": "son",
+    "880": "father."
+  },
+  "maxPause": 0.75,
+  "keep": [
+    ["w0", "w15"],
+    ["w16", "w26"],
+    ["w27", "w30"],
+    ["w31", "w46"],
+    ["w47", "w64"],
+    ["w65", "w70"],
+    ["w71", "w92"],
+    ["w93", "w125"],
+    ["w126", "w161"],
+    ["w164", "w180"],
+    ["w181", "w206"],
+    ["w207", "w236"],
+    ["w237", "w250"],
+    ["w251", "w263"],
+    ["w264", "w272"],
+    ["w277", "w286"],
+    ["w287", "w307"],
+    ["w308", "w322"],
+    ["w323", "w345"],
+    ["w346", "w369"],
+    ["w370", "w393"],
+    ["w394", "w411"],
+    ["w412", "w417"],
+    ["w430", "w442"],
+    ["w443", "w460"],
+    ["w461", "w476"],
+    ["w477", "w487"],
+    ["w488", "w524"],
+    ["w525", "w548"],
+    ["w549", "w563"],
+    ["w564", "w577"],
+    ["w578", "w598"],
+    ["w599", "w628"],
+    ["w629", "w656"],
+    ["w657", "w675"],
+    ["w680", "w700"],
+    ["w701", "w729"],
+    ["w730", "w756"],
+    ["w757", "w778"],
+    ["w779", "w808"],
+    ["w809", "w837"],
+    ["w838", "w854"],
+    ["w855", "w883"]
+  ],
+  "pace": [
+    { "span": ["w31", "w64"], "maxPause": 2 },
+    { "span": ["w66", "w67"], "maxPause": 1.4 },
+    { "span": ["w250", "w251"], "maxPause": 1.5 },
+    { "span": ["w369", "w370"], "maxPause": 1.5 },
+    { "span": ["w430", "w442"], "maxPause": 1.4 },
+    { "span": ["w460", "w461"], "maxPause": 1.5 },
+    { "span": ["w461", "w476"], "maxPause": 1.4 },
+    { "span": ["w629", "w656"], "maxPause": 1.5 },
+    { "span": ["w705", "w837"], "maxPause": 2 }
+  ],
+  "air": [
+    { "after": "w628", "dur": 8.2, "lead": 1.4 },
+    { "after": "w700", "dur": 11.5, "lead": 1.2 },
+    { "after": "w837", "dur": 5.4, "lead": 0.57 }
+  ],
+  "hook": [
+    {
+      "span": ["w308", "w322"],
+      "big": {
+        "text": "TEST *GOD*",
+        "on": "w321"
+      },
+      "hold": 0.3
+    }
+  ],
+  "film": {
+    "play": true,
+    "from": 0.3,
+    "to": 17.8
+  },
+  "cues": [
+    {
+      "kind": "scripture",
+      "at": "w6",
+      "mode": "page",
+      "ref": "Lamentations 3:22–23",
+      "flourish": true,
+      "text": "It is of the LORD’s mercies that we are not consumed, because his compassions fail not. They are new every morning: **great is thy faithfulness.**",
+      "read": ["w6", "w26"]
+    },
+    {
+      "kind": "hush",
+      "at": "w31-0.3",
+      "to": "end:w64+0.3"
+    },
+    {
+      "kind": "point",
+      "at": "w55",
+      "to": "end:w64+0.6",
+      "text": "Great is | Your faithfulness, | O Lord, great is | Your *faithfulness.*",
+      "sync": ["w55", "w64"]
+    },
+    {
+      "kind": "teaser",
+      "at": "w71",
+      "text": "Three truths for every child who has heard promises before"
+    },
+    {
+      "kind": "point",
+      "at": "w127",
+      "to": "end:w135+0.6",
+      "text": "Your Father in heaven | has *never broken* His word.",
+      "sync": ["w127", "w135"]
+    },
+    {
+      "kind": "scripture",
+      "at": "w141",
+      "mode": "card",
+      "ref": "Matthew 24:35",
+      "text": "Heaven and earth shall pass away, but **my words shall not pass away.**",
+      "read": ["w141", "w161"]
+    },
+    {
+      "kind": "keyword",
+      "at": "w187",
+      "text": "TOO FAITHFUL | TO *FAIL*"
+    },
+    {
+      "kind": "point",
+      "at": "w240",
+      "to": "end:w250+0.6",
+      "text": "It is not about | your faithfulness. | It is *the LORD’s* | *faithfulness.*",
+      "sync": ["w240", "w250"],
+      "side": "left"
+    },
+    {
+      "kind": "chapter",
+      "at": "w251",
+      "label": "TRUTH 1 OF 3",
+      "numeral": 1,
+      "title": "You May Count, And *God Is Not Afraid*"
+    },
+    {
+      "kind": "film",
+      "at": "w264",
+      "dur": 1.8,
+      "from": 11.5
+    },
+    {
+      "kind": "point",
+      "at": "w318",
+      "to": "end:w322+0.4",
+      "text": "But you can | *test God.*",
+      "sync": ["w318", "w322"]
+    },
+    {
+      "kind": "art",
+      "at": "w328",
+      "to": "end:w345",
+      "plate": "truth1-counting-stars",
+      "mode": "full"
+    },
+    {
+      "kind": "snap",
+      "at": "w362"
+    },
+    {
+      "kind": "chapter",
+      "at": "w370",
+      "label": "TRUTH 2 OF 3",
+      "numeral": 2,
+      "title": "God Promised A Son, *And Sent Him*"
+    },
+    {
+      "kind": "subscribe",
+      "at": "w387",
+      "variant": "subscribe"
+    },
+    {
+      "kind": "art",
+      "at": "w412",
+      "to": "end:w442",
+      "plate": "truth2-promise-kept",
+      "mode": "full"
+    },
+    {
+      "kind": "point",
+      "at": "w454",
+      "to": "end:w460+0.6",
+      "text": "Even the promise | is *still being kept.*",
+      "sync": ["w454", "w460"]
+    },
+    {
+      "kind": "chapter",
+      "at": "w461",
+      "label": "TRUTH 3 OF 3",
+      "numeral": 3,
+      "title": "One Promise, *One Night At A Time*"
+    },
+    {
+      "kind": "snap",
+      "at": "w487"
+    },
+    {
+      "kind": "snap",
+      "at": "w524"
+    },
+    {
+      "kind": "art",
+      "at": "w549",
+      "to": "end:w572",
+      "plate": "truth3-home-as-promised",
+      "mode": "full"
+    },
+    {
+      "kind": "point",
+      "at": "w573",
+      "to": "end:w577+0.6",
+      "text": "He will *keep* His promises.",
+      "sync": ["w573", "w577"]
+    },
+    {
+      "kind": "point",
+      "at": "w599",
+      "to": "end:w613+0.6",
+      "text": "Look at the One | who is the Father of all, | who *first named you.*",
+      "sync": ["w599", "w613"]
+    },
+    {
+      "kind": "recap",
+      "at": "end:w628+0.8",
+      "dur": 7.2,
+      "title": "TODAY'S THREE TRUTHS",
+      "items": [
+        "You may count, and God is not afraid",
+        "God promised a Son, and sent Him",
+        "One promise, one night at a time"
+      ]
+    },
+    {
+      "kind": "keyword",
+      "at": "w638",
+      "text": "GOD IS | *FAITHFUL*"
+    },
+    {
+      "kind": "snap",
+      "at": "w656"
+    },
+    {
+      "kind": "subscribe",
+      "at": "w657",
+      "variant": "share"
+    },
+    {
+      "kind": "keyword",
+      "at": "w687",
+      "text": "HE CANNOT | *LIE*"
+    },
+    {
+      "kind": "response",
+      "at": "end:w700+0.4",
+      "to": "end:w700+10.6",
+      "child": {
+        "text": "Start a secret count of God’s faithfulness. Each night this month, make one mark for one good thing God did."
+      },
+      "father": {
+        "text": "Make one small promise you can really keep, and say it out loud to God. When you have kept it, mark it. Repeat tomorrow."
+      }
+    },
+    {
+      "kind": "prayer",
+      "at": "w705",
+      "to": "end:w829",
+      "lines": [
+        {
+          "text": "Father, in the name of Jesus, we pray for every son, every daughter.",
+          "sync": ["w705", "w717"]
+        },
+        {
+          "text": "Give them the heart to trust You and hold on to Your promise.",
+          "sync": ["w730", "w742"]
+        },
+        {
+          "text": "So that they’ll know that as a Father, You’ll never go back on Your promises.",
+          "sync": ["w757", "w771"]
+        },
+        {
+          "text": "And again, we pray for our fathers. Every father who has not kept their promise,",
+          "sync": ["w772", "w786"]
+        },
+        {
+          "text": "help them begin to live a life where they trust in You first, as the promise keeper, and hold on to You.",
+          "sync": ["w787", "w808"]
+        },
+        {
+          "text": "Thank You, Heavenly Father.",
+          "sync": ["w826", "w829"]
+        }
+      ]
+    },
+    {
+      "kind": "declare",
+      "at": "end:w837+0.5",
+      "text": "God keeps His promises. | He *sent His Son.*",
+      "to": "end:w837+5.6"
+    },
+    {
+      "kind": "subscribe",
+      "at": "w855",
+      "variant": "share"
+    }
+  ],
+  "art": [
+    {
+      "id": "truth1-counting-stars",
+      "prompt": "Night in a West African family compound: a long low plastered house with a rusty tin roof and a shaded veranda, a big mango tree, a few plastic chairs against the wall. On the right third of the frame a boy of about ten in a brown polo shirt, with a steel wristwatch on his wrist, sits alone on a low wooden bench, an empty enamel bowl beside him after his evening meal. He tilts his head back and looks up at the sky with a small calm smile, his right hand raised with one finger pointing up as he counts the stars. Above the dark mango tree the deep teal night sky is full of bright stars. One warm light bulb glows under the veranda behind him and lights the side of his face. Large calm empty starry sky on the left. The mood is safe, quiet and wondering.",
+      "lights": [
+        { "x": 0.68, "y": 0.63, "r": 0.08, "kind": "glow" },
+        { "x": 0.366, "y": 0.114, "r": 0.04, "kind": "twinkle" },
+        { "x": 0.306, "y": 0.256, "r": 0.04, "kind": "twinkle" }
+      ],
+      "move": "push",
+      "space": "left"
+    },
+    {
+      "id": "truth2-promise-kept",
+      "prompt": "First light of dawn, long ago, in the stone courtyard of the temple in Jerusalem; the sky above is still deep teal with the last stars fading. On the right third of the frame a very old man with a long white beard, in a simple cream robe with a striped shawl over his head, is seen from behind and slightly to the side so his face is not visible; he holds a tiny newborn baby wrapped completely in white cloth close against his shoulder, and lifts his head toward the sky in thanks. The baby is fully swaddled and its face is hidden in the cloth against his shoulder. A few steps behind him, small and seen from behind, a young mother in a blue head covering and a carpenter in a brown robe stand watching. Warm golden rays of the rising sun pour between tall stone columns and fall on the old man and the baby. Large calm empty area of soft golden light and pale stone on the left.",
+      "lights": [
+        { "x": 0.49, "y": 0.27, "r": 0.22, "kind": "rays" },
+        { "x": 0.81, "y": 0.04, "r": 0.04, "kind": "twinkle" }
+      ],
+      "move": "push",
+      "space": "left"
+    },
+    {
+      "id": "truth3-home-as-promised",
+      "prompt": "Night inside a small one-room home with deep teal walls. On the left third of the frame a West African father in a green patterned shirt, a steel wristwatch on his wrist, sits on a low wooden stool beside his son's sleeping mat on the floor, home as he promised, one hand resting gently on the shoulder of his sleeping son. The boy, about seven, in a yellow shirt, sleeps peacefully under a plain, unpatterned cream cotton cloth with a small smile; the cloth and the pillow are plain, with no writing, labels, stripes or print of any kind. A pair of new black school shoes sits neatly side by side at the foot of the mat. A single candle burns on a low wooden table beside them, and the wooden door behind them is closed. Warm candlelight on the father's calm face and the sleeping boy; the mood is tender, quiet and safe. Large calm empty area of teal wall on the right.",
+      "lights": [
+        { "x": 0.05, "y": 0.53, "r": 0.08, "kind": "flicker" },
+        { "x": 0.22, "y": 0.66, "r": 0.18, "kind": "glow" }
+      ],
+      "move": "right",
+      "space": "right"
+    }
+  ],
+  "safeguard": true,
+  "trailer": [
+    {
+      "kind": "line",
+      "mood": "cold",
+      "span": ["w71", "w92"],
+      "say": "Maybe you've had promises again and again by your father, | and you're like, “Oh no, I know he won't keep his *promise.*”",
+      "big": {
+        "text": "WON'T *KEEP*",
+        "on": "w90"
+      }
+    },
+    {
+      "kind": "title"
+    },
+    {
+      "kind": "film",
+      "from": 3.9,
+      "dur": 2.6
+    },
+    {
+      "kind": "line",
+      "mood": "tension",
+      "span": ["w120", "w125"],
+      "say": "My father never kept his *promises.*"
+    },
+    {
+      "kind": "film",
+      "from": 9,
+      "dur": 2.5
+    },
+    {
+      "kind": "line",
+      "mood": "tension",
+      "span": ["w264", "w272"],
+      "say": "Maybe you're waiting for God to break His *promises.*"
+    },
+    {
+      "kind": "verse",
+      "ref": "Lamentations 3:22",
+      "text": "It is of the LORD’s mercies that we are not consumed, because **his compassions fail not.**",
+      "read": ["w0", "w15"]
+    },
+    {
+      "kind": "line",
+      "mood": "turn",
+      "span": ["w126", "w135"],
+      "say": "Listen, your Father in heaven has never *broken* His word.",
+      "big": {
+        "text": "NEVER *BROKEN*",
+        "on": "w133"
+      }
+    },
+    {
+      "kind": "line",
+      "mood": "button",
+      "span": ["w657", "w663"],
+      "say": "So you can *count* on His promises."
+    },
+    {
+      "kind": "end"
+    }
+  ],
+  "shorts": [
+    {
+      "id": "word",
+      "title": "His mercies are | *new every morning.*",
+      "verse": {
+        "ref": "Lamentations 3:22–23",
+        "text": "It is of the LORD’s mercies that we are not consumed, because his compassions fail not. They are new every morning: **great is thy faithfulness.**",
+        "read": ["w0", "w24"]
+      },
+      "lines": [
+        { "span": ["w164", "w180"] },
+        { "span": ["w181", "w206"] },
+        { "span": ["w207", "w236"] }
+      ],
+      "post": "Faithfulness means keeping your word, night after night, morning after morning. God's mercy does not run out by evening; it is new again every time the sun comes up. Lamentations 3:22–23. Full devotional on YouTube @KidsInspiringNation #TheFatherShowedUp #DailyDevotional #KidsInspiringNation #Lamentations3 #FamilyDevotion"
+    },
+    {
+      "id": "truth",
+      "title": "You may count. | *God is not afraid.*",
+      "lines": [
+        { "span": ["w251", "w263"] },
+        { "span": ["w264", "w272"] },
+        { "span": ["w277", "w286"] },
+        { "span": ["w308", "w322"] },
+        { "span": ["w323", "w345"] },
+        { "span": ["w346", "w362"] }
+      ],
+      "post": "Nobody can make you trust someone who has not earned it. But you can count God's mercies: you will run out of nights before you run out of His faithfulness. Lamentations 3:22–23. Full devotional on YouTube @KidsInspiringNation #TheFatherShowedUp #KidsInspiringNation #DailyDevotional #Faithfulness #Hope"
+    },
+    {
+      "id": "fathers",
+      "title": "Fathers: | *one promise at a time.*",
+      "lines": [
+        { "span": ["w237", "w250"] },
+        { "span": ["w774", "w808"] },
+        { "span": ["w809", "w829"] }
+      ],
+      "post": "Fathers, it is not about your faithfulness; it is the LORD's. Rebuild your children's trust one kept promise at a time. Lamentations 3:22–23. Full devotional on YouTube @KidsInspiringNation #TheFatherShowedUp #Fatherhood #Fathers #KidsInspiringNation #DailyDevotional"
+    }
+  ],
+  "social": {
+    "titles": [
+      "God Keeps His Promises | Day 6 · The Father Showed Up",
+      "His Mercies Are New Every Morning",
+      "When Promises Have Been Broken Before"
+    ],
+    "description": "Maybe promises have been broken in your life before. Tonight we meet the one Father who has never broken His word: His mercies are new every morning, and He kept His biggest promise when He sent His Son.\n\nTHE WORD: Lamentations 3:22–23 (read Lamentations 3:19–26 aloud)\nTONIGHT, children: start a secret count of God’s faithfulness. Each night this month, make one mark for one good thing God did.\nTONIGHT, fathers: make one small promise you can really keep, and say it out loud to God. When you have kept it, mark it. Repeat tomorrow.\nSAY IT: God keeps His promises. He sent His Son.",
+    "pinned": "What is one good thing God did for you today? Write it below as your first mark, and under it write: “God keeps His promises.”",
+    "hashtags": [
+      "#TheFatherShowedUp",
+      "#DailyDevotional",
+      "#KidsInspiringNation",
+      "#Fatherhood",
+      "#FamilyDevotion",
+      "#Lamentations3"
+    ],
+    "thumbnail": {
+      "line": "NEVER *BROKEN*",
+      "frame": "end:w652+0.1"
+    }
+  },
+  "notes": {
+    "check": [
+      "w13-14 compassions fail (KJV) - heard compassion fails",
+      "w23,w57,w63 Your (great is Your faithfulness) - heard your all three times; KJV and the hymn say thy, the page shows thy",
+      "w25-26 Lamentations 3:23 - as heard; the guide's text is 3:22-23",
+      "w31-64 SUNG (The Steadfast Love of the Lord): w38-39 ceases (heard sees it), w44-46 to an end (heard to a land) - corrected from the hymn's words",
+      "w162-163 cut: The same. - very quiet, not clear",
+      "w155 tittle (not a jot or a tittle) - heard title; w141-161 blends Matthew 24:35 and 5:18, the card shows Matthew 24:35",
+      "w199-201 His mercy is not run out by evening - as heard (the guide says mercies do not run out)",
+      "w223-225 count on God's mercy - as heard (the guide says count God's mercies)",
+      "w258 count (you may count) - heard come; the guide's truth title says count",
+      "w264-272 waiting for God to break His promises - as heard (the guide says somebody to break their promise)",
+      "w273-276 cut: You go, it's dire. - not clear in the one hearing",
+      "w293 insult (they will not insult you again) - as heard",
+      "w317 earned it (who has not earned it) - heard ended",
+      "w326 His (count His mercies) - heard as",
+      "w331 safe (one safe night) - heard saving; the guide says one safe person",
+      "w333-345, w350-362 You will run out of night before you run out of His faithfulness - as heard twice; the guide says nights / before He runs out",
+      "w369 Son (Has anybody run out of the Son?) - could be sun",
+      "w391-393 uncaptioned: through His Savior (?) after He promised His Son",
+      "w418-429 cut: You see him see look at the prophets, they speak of me - not clear",
+      "w453 uncaptioned: Testaments (living in the Holy Spirit ...)",
+      "w488 Maybe (Maybe you grew up) - heard Baby",
+      "w512 pay (I will pay the school fees) - heard say",
+      "w543-546 finding difficult to trust - as heard",
+      "w609 uncaptioned: fish (the Father of all ...) - maybe flesh",
+      "w623 received (conceived you and received the gift of His Son) - as heard; w628 Son - heard soul",
+      "w672 can't (You can't catch Him lying) - heard can; may be Come and catch Him lying (the film's own line)",
+      "w676-679 cut: He said it is - false start",
+      "w694 He (He won't go back on His word) - heard You",
+      "w701-704 Can we say prayer? - as heard",
+      "w721 failed (who has been failed by fathers) - heard filled; kept off the prayer plate",
+      "w743-748 All things fulfilled in their life - as heard; kept off the prayer plate",
+      "w749-756 Again, let them receive the gift of Your... - unfinished as heard; kept off the prayer plate",
+      "w813 earn (earn the trust of their children back) - heard end, could be win; kept off the prayer plate, captioned in the fathers short",
+      "w833-834 uncaptioned: the joy (In Jesus Christ ... we have prayed)",
+      "w872-880 Share this with the father / with the son and the father - as heard, lowercase (dad, not God)"
+    ]
+  }
+}

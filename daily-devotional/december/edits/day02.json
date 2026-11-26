@@ -1,0 +1,869 @@
+{
+  "day": 2,
+  "presenter": {
+    "name": "",
+    "role": "Kids Inspiring Nation"
+  },
+  "fix": {
+    "1": "27",
+    "2": "and verse",
+    "3": "10.",
+    "5": "my",
+    "6": "father",
+    "8": "my",
+    "9": "mother",
+    "11": "me,",
+    "12": "then",
+    "13": "the",
+    "14": "LORD",
+    "15": "will",
+    "16": "take",
+    "17": "me up.",
+    "25": "devotion.",
+    "33": "king,",
+    "34": "yet,",
+    "56": "“When.”",
+    "69": "leave.",
+    "99": "said,",
+    "100": "the",
+    "101": "LORD",
+    "108": "it:",
+    "109": "taking",
+    "112": "child.",
+    "113": "When",
+    "119": "father,",
+    "120": "what",
+    "123": "father",
+    "126": "father",
+    "131": "hugs",
+    "134": "So",
+    "147": "daughter:",
+    "172": "says,",
+    "173": "“Wait",
+    "176": "LORD:",
+    "177": "be",
+    "180": "courage.”",
+    "230": "feel,",
+    "243": "safe,",
+    "256": "",
+    "275": "He",
+    "286": "His",
+    "296": "His",
+    "305": "Christ,",
+    "306": "His",
+    "307": "Son,",
+    "317": "clock",
+    "320": "it",
+    "327": "was",
+    "328": "born at",
+    "331": "hour,",
+    "337": "little",
+    "345": "10:16,",
+    "346": "the",
+    "350": "",
+    "351": "",
+    "352": "",
+    "353": "",
+    "363": "Blessed",
+    "372": "heart.",
+    "376": "heart.",
+    "380": "fathers:",
+    "381": "there's",
+    "386": "“I",
+    "388": "sorry.”",
+    "421": "“I",
+    "423": "sorry.”",
+    "431": "His",
+    "432": "Son",
+    "435": "also",
+    "436": "who",
+    "443": "He",
+    "444": "sent His Son",
+    "450": "home.",
+    "469": "He",
+    "472": "you.",
+    "474": "sometimes",
+    "475": "the",
+    "484": "you",
+    "486": "probably,",
+    "509": "Him",
+    "512": "up.",
+    "514": "Him",
+    "520": "Him.",
+    "524": "song:",
+    "529": "Him.",
+    "536": "He's",
+    "540": "Your",
+    "541": "goodness,",
+    "542": "He's",
+    "589": "Father",
+    "593": "leave.",
+    "597": "Father",
+    "600": "Your",
+    "633": "Father,"
+  },
+  "maxPause": 0.75,
+  "keep": [
+    [
+      "w0",
+      "w3"
+    ],
+    [
+      "w4",
+      "w17"
+    ],
+    [
+      "w18",
+      "w25"
+    ],
+    [
+      "w26",
+      "w49"
+    ],
+    [
+      "w50",
+      "w61"
+    ],
+    [
+      "w62",
+      "w74"
+    ],
+    [
+      "w75",
+      "w97"
+    ],
+    [
+      "w98",
+      "w133"
+    ],
+    [
+      "w134",
+      "w151"
+    ],
+    [
+      "w152",
+      "w160"
+    ],
+    [
+      "w161",
+      "w180"
+    ],
+    [
+      "w181",
+      "w193"
+    ],
+    [
+      "w194",
+      "w214"
+    ],
+    [
+      "w215",
+      "w236"
+    ],
+    [
+      "w237",
+      "w258"
+    ],
+    [
+      "w259",
+      "w280"
+    ],
+    [
+      "w281",
+      "w301"
+    ],
+    [
+      "w302",
+      "w335"
+    ],
+    [
+      "w336",
+      "w364"
+    ],
+    [
+      "w369",
+      "w376"
+    ],
+    [
+      "w377",
+      "w398"
+    ],
+    [
+      "w399",
+      "w412"
+    ],
+    [
+      "w413",
+      "w428"
+    ],
+    [
+      "w429",
+      "w450"
+    ],
+    [
+      "w451",
+      "w472"
+    ],
+    [
+      "w473",
+      "w500"
+    ],
+    [
+      "w501",
+      "w520"
+    ],
+    [
+      "w521",
+      "w545"
+    ],
+    [
+      "w546",
+      "w612"
+    ],
+    [
+      "w613",
+      "w619"
+    ],
+    [
+      "w620",
+      "w640"
+    ]
+  ],
+  "pace": [
+    {
+      "span": [
+        "w17",
+        "w18"
+      ],
+      "maxPause": 1.1
+    },
+    {
+      "span": [
+        "w69",
+        "w74"
+      ],
+      "maxPause": 1.4
+    },
+    {
+      "span": [
+        "w88",
+        "w89"
+      ],
+      "maxPause": 1.4
+    },
+    {
+      "span": [
+        "w180",
+        "w181"
+      ],
+      "maxPause": 1.5
+    },
+    {
+      "span": [
+        "w280",
+        "w281"
+      ],
+      "maxPause": 1.5
+    },
+    {
+      "span": [
+        "w376",
+        "w377"
+      ],
+      "maxPause": 1.5
+    },
+    {
+      "span": [
+        "w500",
+        "w520"
+      ],
+      "maxPause": 1.4
+    },
+    {
+      "span": [
+        "w521",
+        "w545"
+      ],
+      "maxPause": 1.5
+    },
+    {
+      "span": [
+        "w546",
+        "w612"
+      ],
+      "maxPause": 2
+    }
+  ],
+  "air": [
+    {
+      "after": "w472",
+      "dur": 8.2,
+      "lead": 1.4
+    },
+    {
+      "after": "w545",
+      "dur": 11.5,
+      "lead": 1.2
+    },
+    {
+      "after": "w612",
+      "dur": 5.4,
+      "lead": 0.7
+    }
+  ],
+  "hook": [
+    {
+      "span": [
+        "w259",
+        "w280"
+      ],
+      "say": "Let the time move. You will not fail. | You will not fall. Somebody is *holding* you. | He is your Father in heaven.",
+      "big": {
+        "text": "SOMEBODY IS *HOLDING YOU*",
+        "on": "w273"
+      },
+      "hold": 0.3
+    }
+  ],
+  "film": {
+    "play": true,
+    "from": 0,
+    "to": 76.6
+  },
+  "cues": [
+    {
+      "kind": "scripture",
+      "at": "w4",
+      "mode": "page",
+      "ref": "Psalm 27:10",
+      "flourish": true,
+      "text": "When my father and my mother forsake me, then **the LORD will take me up.**",
+      "read": [
+        "w4",
+        "w17"
+      ]
+    },
+    {
+      "kind": "keyword",
+      "at": "w54",
+      "text": "“*WHEN*”"
+    },
+    {
+      "kind": "teaser",
+      "at": "w62",
+      "text": "Three truths for every child who has waited at a door"
+    },
+    {
+      "kind": "point",
+      "at": "w80",
+      "to": "end:w97+0.8",
+      "text": "Not the one who left — | a God who is *always there.*",
+      "sync": [
+        "w80",
+        "w97"
+      ]
+    },
+    {
+      "kind": "snap",
+      "at": "w131"
+    },
+    {
+      "kind": "point",
+      "at": "w143",
+      "to": "end:w151+0.8",
+      "text": "Son, daughter: | God *lifts you up.*",
+      "sync": [
+        "w146",
+        "w151"
+      ],
+      "side": "left"
+    },
+    {
+      "kind": "scripture",
+      "at": "w171",
+      "mode": "card",
+      "ref": "Psalm 27:14",
+      "text": "Wait on the LORD: **be of good courage**",
+      "dur": 3.6
+    },
+    {
+      "kind": "chapter",
+      "at": "w181",
+      "label": "TRUTH 1 OF 3",
+      "numeral": 1,
+      "title": "You Do Not Have To *Hold The Time Still*"
+    },
+    {
+      "kind": "film",
+      "at": "w194",
+      "to": "end:w206",
+      "from": 35.3
+    },
+    {
+      "kind": "snap",
+      "at": "w247"
+    },
+    {
+      "kind": "point",
+      "at": "w249",
+      "to": "end:w258+0.6",
+      "text": "Keeping anyone's | promise alive | was *never your job.*",
+      "sync": [
+        "w249",
+        "w258"
+      ]
+    },
+    {
+      "kind": "art",
+      "at": "w259",
+      "to": "end:w280",
+      "plate": "truth1-let-the-time-move",
+      "mode": "full"
+    },
+    {
+      "kind": "chapter",
+      "at": "w281",
+      "label": "TRUTH 2 OF 3",
+      "numeral": 2,
+      "title": "The Father Kept His Promise *In Real Time*"
+    },
+    {
+      "kind": "subscribe",
+      "at": "w291",
+      "variant": "subscribe"
+    },
+    {
+      "kind": "point",
+      "at": "w312",
+      "to": "end:w325+0.8",
+      "text": "He did not stop the clock. | *He kept it.*",
+      "sync": [
+        "w312",
+        "w325"
+      ]
+    },
+    {
+      "kind": "art",
+      "at": "w336",
+      "to": "end:w364",
+      "plate": "truth2-took-them-up",
+      "mode": "full"
+    },
+    {
+      "kind": "chapter",
+      "at": "w377",
+      "label": "TRUTH 3 OF 3",
+      "numeral": 3,
+      "title": "Say “Sorry” *To The Father First*"
+    },
+    {
+      "kind": "point",
+      "at": "w413",
+      "to": "end:w428+0.6",
+      "text": "Come and say, | “I am sorry.” | *He will not turn away.*",
+      "sync": [
+        "w413",
+        "w428"
+      ]
+    },
+    {
+      "kind": "art",
+      "at": "w429",
+      "to": "end:w450+0.3",
+      "plate": "truth3-sorry-first",
+      "mode": "full"
+    },
+    {
+      "kind": "subscribe",
+      "at": "w451",
+      "variant": "share"
+    },
+    {
+      "kind": "recap",
+      "at": "end:w472+0.8",
+      "dur": 7.2,
+      "title": "TODAY'S THREE TRUTHS",
+      "items": [
+        "You do not have to hold the time still",
+        "The Father kept His promise in real time",
+        "Say “sorry” to the Father first"
+      ]
+    },
+    {
+      "kind": "point",
+      "at": "w501",
+      "to": "end:w507+0.9",
+      "text": "You don't have to remain | *forgotten.*",
+      "sync": [
+        "w501",
+        "w507"
+      ]
+    },
+    {
+      "kind": "keyword",
+      "at": "w515",
+      "text": "LET HIM | *TAKE YOU UP*"
+    },
+    {
+      "kind": "hush",
+      "at": "w525-0.3",
+      "to": "end:w545+0.3"
+    },
+    {
+      "kind": "response",
+      "at": "end:w545+0.4",
+      "to": "end:w545+10.6",
+      "child": {
+        "text": "Listen to a clock for one minute and count sixty ticks. Then say quietly: “The LORD will take me up.”"
+      },
+      "father": {
+        "text": "Write “I am sorry” on paper, and under it what you are sorry for. Pray over it. Keep it. Send nothing yet."
+      }
+    },
+    {
+      "kind": "prayer",
+      "at": "w549",
+      "to": "end:w607",
+      "lines": [
+        {
+          "text": "Father, in the name of Jesus, we pray for every son, every daughter whose father might have forsaken them.",
+          "sync": [
+            "w549",
+            "w567"
+          ]
+        },
+        {
+          "text": "I will pray for every father who has gone through the motions of running.",
+          "sync": [
+            "w568",
+            "w581"
+          ]
+        },
+        {
+          "text": "Lord, take everyone up.",
+          "sync": [
+            "w582",
+            "w585"
+          ]
+        },
+        {
+          "text": "You are the Father who blesses Your children. Bless every child. Bless every father.",
+          "sync": [
+            "w594",
+            "w607"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "declare",
+      "at": "end:w612+0.6",
+      "text": "The LORD will *take me up.*",
+      "to": "end:w612+5.5"
+    },
+    {
+      "kind": "subscribe",
+      "at": "w622",
+      "variant": "subscribe"
+    }
+  ],
+  "art": [
+    {
+      "id": "truth1-let-the-time-move",
+      "prompt": "Night inside a small one-room home with deep teal walls. On the right third of the frame a small boy of about seven in a yellow shirt sits on a woven mat on the floor, holding a steel wristwatch loosely in his two open palms and looking down at it with a calm, relieved face. A single candle burns on a low wooden table beside him. Behind him a wooden door stands open and wide soft golden light pours through it and wraps around his shoulders like an embrace. The boy is the clear subject, gently lit; the mood is tender and safe, he is not alone.",
+      "lights": [
+        {
+          "x": 0.963,
+          "y": 0.5,
+          "r": 0.09,
+          "kind": "flicker"
+        },
+        {
+          "x": 0.62,
+          "y": 0.34,
+          "r": 0.2,
+          "kind": "glow"
+        }
+      ],
+      "move": "push",
+      "space": "left"
+    },
+    {
+      "id": "truth2-took-them-up",
+      "prompt": "Early evening on an earth road at the edge of a village of round mud huts with thatched roofs. In the centre, seen from behind and slightly to the side so his face is not visible, a man in a simple long cream robe kneels on one knee and lifts a small laughing girl of about five up in his arms. Two more children, a boy in a yellow shirt and a smaller girl in a patterned dress, run toward him with their arms stretched out. A warm lantern glows on a doorstep nearby and the last golden light of the sun rims the man's shoulders and the children's faces. Deep teal sky with the first star.",
+      "lights": [
+        {
+          "x": 0.865,
+          "y": 0.75,
+          "r": 0.08,
+          "kind": "flicker"
+        },
+        {
+          "x": 0.946,
+          "y": 0.045,
+          "r": 0.04,
+          "kind": "twinkle"
+        },
+        {
+          "x": 0.065,
+          "y": 0.65,
+          "r": 0.12,
+          "kind": "glow"
+        }
+      ],
+      "move": "push",
+      "space": "top"
+    },
+    {
+      "id": "truth3-sorry-first",
+      "prompt": "Night. On the right third of the frame a West African father in a faded green patterned shirt sits alone on the edge of a narrow bed in a small room with deep teal walls, shoulders bowed, eyes closed, holding a folded sheet of plain paper against his chest with both hands; the paper is folded shut and shows no writing. A single candle and a short pencil sit on a small wooden table beside him. A small yellow child's shirt hangs on a nail on the wall behind him. Soft golden light falls on his head and shoulders from a high window, like a hand resting on him. Large calm empty area of teal wall on the left.",
+      "lights": [
+        {
+          "x": 0.946,
+          "y": 0.63,
+          "r": 0.09,
+          "kind": "flicker"
+        },
+        {
+          "x": 0.85,
+          "y": 0.12,
+          "r": 0.22,
+          "kind": "rays"
+        }
+      ],
+      "move": "left",
+      "space": "left"
+    }
+  ],
+  "safeguard": true,
+  "trailer": [
+    {
+      "kind": "line",
+      "mood": "cold",
+      "span": [
+        "w207",
+        "w220"
+      ],
+      "say": "Maybe you stopped the watch of your own. | You stopped *hoping.* You stopped crying.",
+      "big": {
+        "text": "STOPPED *HOPING*",
+        "on": "w217"
+      }
+    },
+    {
+      "kind": "title"
+    },
+    {
+      "kind": "film",
+      "from": 18,
+      "dur": 3
+    },
+    {
+      "kind": "line",
+      "mood": "tension",
+      "span": [
+        "w62",
+        "w69"
+      ],
+      "say": "He doesn't pretend the fathers may not *leave.*"
+    },
+    {
+      "kind": "film",
+      "from": 44.5,
+      "dur": 3
+    },
+    {
+      "kind": "line",
+      "mood": "tension",
+      "span": [
+        "w80",
+        "w88"
+      ],
+      "say": "It did not end with the one who *left.*"
+    },
+    {
+      "kind": "verse",
+      "ref": "Psalm 27:10",
+      "text": "When my father and my mother forsake me, then **the LORD will take me up.**",
+      "read": [
+        "w4",
+        "w17"
+      ]
+    },
+    {
+      "kind": "line",
+      "mood": "turn",
+      "span": [
+        "w89",
+        "w97"
+      ],
+      "say": "It ended with a God who is *always* there.",
+      "big": {
+        "text": "ALWAYS *THERE*",
+        "on": "w96"
+      }
+    },
+    {
+      "kind": "line",
+      "mood": "button",
+      "span": [
+        "w143",
+        "w151"
+      ],
+      "say": "Listen to me, son, daughter: God *lifts* you up."
+    },
+    {
+      "kind": "end"
+    }
+  ],
+  "shorts": [
+    {
+      "id": "word",
+      "title": "The LORD will | *take me up.*",
+      "verse": {
+        "ref": "Psalm 27:10",
+        "text": "When my father and my mother forsake me, then **the LORD will take me up.**",
+        "read": [
+          "w4",
+          "w17"
+        ]
+      },
+      "lines": [
+        {
+          "span": [
+            "w75",
+            "w88"
+          ]
+        },
+        {
+          "span": [
+            "w89",
+            "w97"
+          ]
+        },
+        {
+          "span": [
+            "w106",
+            "w133"
+          ]
+        },
+        {
+          "span": [
+            "w134",
+            "w151"
+          ]
+        }
+      ],
+      "post": "The verse does not end with the one who left. It ends with a God who is always there. Psalm 27:10. Full devotional on YouTube @KidsInspiringNation #TheFatherShowedUp #DailyDevotional #KidsInspiringNation #Psalm27 #FamilyDevotion"
+    },
+    {
+      "id": "truth",
+      "title": "You don't have to | *hold the time still.*",
+      "lines": [
+        {
+          "span": [
+            "w181",
+            "w193"
+          ]
+        },
+        {
+          "span": [
+            "w194",
+            "w214"
+          ]
+        },
+        {
+          "span": [
+            "w215",
+            "w236"
+          ]
+        },
+        {
+          "span": [
+            "w237",
+            "w258"
+          ]
+        },
+        {
+          "span": [
+            "w259",
+            "w280"
+          ]
+        }
+      ],
+      "post": "Maybe you stopped hoping so nobody could disappoint you again. Let the time move. Somebody is holding you. Psalm 27:10. Full devotional on YouTube @KidsInspiringNation #TheFatherShowedUp #KidsInspiringNation #DailyDevotional #Hope #Family"
+    },
+    {
+      "id": "fathers",
+      "title": "Fathers: say | *“I am sorry.”*",
+      "lines": [
+        {
+          "span": [
+            "w377",
+            "w398"
+          ]
+        },
+        {
+          "span": [
+            "w399",
+            "w412"
+          ]
+        },
+        {
+          "span": [
+            "w413",
+            "w428"
+          ]
+        },
+        {
+          "span": [
+            "w429",
+            "w450"
+          ]
+        }
+      ],
+      "post": "Fathers, there is nothing wrong with saying “I am sorry.” Say it to the Father first. He will not turn away. Psalm 27:10. Full devotional on YouTube @KidsInspiringNation #TheFatherShowedUp #Fatherhood #Fathers #KidsInspiringNation #DailyDevotional"
+    }
+  ],
+  "social": {
+    "titles": [
+      "When My Father Does Not Come Home | Day 2 · The Father Showed Up",
+      "The LORD Will Take Me Up: For Every Child Still Waiting",
+      "You Don't Have To Hold The Time Still"
+    ],
+    "description": "Some fathers do not come home. David did not pretend otherwise, but his verse does not end with the one who left. It ends with the LORD, who takes a child up and holds him close.\n\nTHE WORD: Psalm 27:10 (read Psalm 27:7–14 aloud)\nTONIGHT, children: listen to a clock for one minute and count sixty ticks. Then say quietly: “The LORD will take me up.”\nTONIGHT, fathers: write “I am sorry” on paper, and under it what you are sorry for. Pray over it. Keep it. Send nothing yet.\nSAY IT: The LORD will take me up.",
+    "pinned": "What is one thing you want to start hoping for again? Write it below, and under it write: “The LORD will take me up.”",
+    "hashtags": [
+      "#TheFatherShowedUp",
+      "#DailyDevotional",
+      "#KidsInspiringNation",
+      "#Fatherhood",
+      "#FamilyDevotion",
+      "#Psalm27"
+    ],
+    "thumbnail": {
+      "line": "TAKEN *UP*",
+      "frame": "end:w388+0.5"
+    }
+  },
+  "notes": {
+    "check": [
+      "w69 leave (the fathers may not leave) - two hearings heard live",
+      "w25 devotion (Kids Inspiring Nation's devotion) - one hearing heard devotional",
+      "w131-133 hugs the child - heard hoax the child / hogs it out",
+      "w156 as heard: God takes up anything that's maybe your father left",
+      "w168-170 as heard: verse 14 of that verse (he means the psalm)",
+      "w256 uncaptioned: was never [in] your job",
+      "w327-328 was born at (Jesus was born at a real hour) - heard is upon",
+      "w335 time (in a real time) - the guide says town; all three hearings say time",
+      "w350-353 uncaptioned: He lived in the book (?) before took them up in His arms",
+      "w365-368 cut: Just like Psalm 27:13 / 27:17 said - not clear in any hearing",
+      "w372,w376 heart (That's the Father's heart) - heard hands / house; the guide says heart",
+      "w472 And He will take you - one hearing adds up",
+      "w520 hold Him - as heard",
+      "w525-534 You will run to Him. He will run to us. - song words as heard, not confirmed",
+      "w540-545 Your goodness, He's running after me - song words as heard",
+      "w593 leave (the Father who will never leave) - heard lose / lives; kept off the prayer plate"
+    ]
+  }
+}

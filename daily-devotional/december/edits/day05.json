@@ -1,0 +1,522 @@
+{
+  "day": 5,
+  "presenter": {
+    "name": "",
+    "role": "Kids Inspiring Nation"
+  },
+  "fix": {
+    "1": "ye",
+    "2": "then,",
+    "3": "being",
+    "4": "",
+    "33": "Him?",
+    "44": "He",
+    "90": "father",
+    "104": "“How",
+    "122": "Him?”",
+    "189": "father",
+    "214": "father.",
+    "221": "",
+    "225": "father.",
+    "235": "you",
+    "236": "",
+    "246": "hold",
+    "253": "",
+    "275": "He",
+    "323": "His",
+    "324": "Son.",
+    "328": "Father",
+    "330": "His",
+    "341": "games.",
+    "342": "",
+    "344": "",
+    "348": "He",
+    "350": "His",
+    "351": "Son.",
+    "357": "He",
+    "360": "",
+    "361": "Someone.",
+    "374": "He",
+    "393": "“I'm",
+    "404": "thirst.”",
+    "409": "He",
+    "412": "further.",
+    "413": "",
+    "415": "He",
+    "417": "“He",
+    "421": "me,",
+    "431": "water.”",
+    "500": "",
+    "501": "",
+    "525": "Son",
+    "528": "Father.",
+    "534": "“My",
+    "535": "father",
+    "541": "gift.”",
+    "547": "heaven?",
+    "551": "Someone",
+    "606": "Father",
+    "608": "His",
+    "609": "Son.",
+    "670": "he",
+    "678": "true",
+    "685": "father,",
+    "695": "true",
+    "722": "Son",
+    "725": "",
+    "726": "fathers,",
+    "759": "Father.",
+    "785": "Your",
+    "786": "Son",
+    "791": "You",
+    "803": "ordinary",
+    "821": "You."
+  },
+  "maxPause": 0.75,
+  "keep": [
+    ["w0", "w33"],
+    ["w34", "w37"],
+    ["w38", "w58"],
+    ["w59", "w72"],
+    ["w73", "w95"],
+    ["w96", "w122"],
+    ["w123", "w137"],
+    ["w138", "w156"],
+    ["w157", "w191"],
+    ["w192", "w214"],
+    ["w215", "w239"],
+    ["w240", "w265"],
+    ["w266", "w287"],
+    ["w288", "w316"],
+    ["w317", "w342"],
+    ["w343", "w361"],
+    ["w362", "w381"],
+    ["w391", "w404"],
+    ["w405", "w431"],
+    ["w432", "w451"],
+    ["w452", "w465"],
+    ["w466", "w480"],
+    ["w481", "w513"],
+    ["w517", "w528"],
+    ["w529", "w558"],
+    ["w559", "w584"],
+    ["w585", "w609"],
+    ["w610", "w624"],
+    ["w625", "w634"],
+    ["w644", "w665"],
+    ["w666", "w679"],
+    ["w680", "w696"],
+    ["w697", "w723"],
+    ["w724", "w759"],
+    ["w765", "w769"],
+    ["w770", "w821"],
+    ["w830", "w847"],
+    ["w848", "w860"]
+  ],
+  "pace": [
+    { "span": ["w33", "w34"], "maxPause": 1.5 },
+    { "span": ["w191", "w192"], "maxPause": 1.5 },
+    { "span": ["w201", "w202"], "maxPause": 1.4 },
+    { "span": ["w316", "w317"], "maxPause": 1.5 },
+    { "span": ["w518", "w519"], "maxPause": 1.4 },
+    { "span": ["w533", "w534"], "maxPause": 1.4 },
+    { "span": ["w609", "w610"], "maxPause": 1.5 },
+    { "span": ["w697", "w711"], "maxPause": 1.4 },
+    { "span": ["w770", "w821"], "maxPause": 2 }
+  ],
+  "air": [
+    { "after": "w769", "dur": 7.2, "lead": 0.33 },
+    { "after": "w821", "dur": 11.5, "lead": 0.38 },
+    { "after": "w847", "dur": 6.0, "lead": 1.2 }
+  ],
+  "hook": [
+    {
+      "span": ["w362", "w372"],
+      "say": "Listen, every one of us come hungry. | Every child comes *hungry.*",
+      "hold": 0.3
+    },
+    {
+      "span": ["w352", "w361"],
+      "say": "He didn't hand you something, | He handed you *Someone.*",
+      "big": {
+        "text": "HE HANDED YOU *SOMEONE*",
+        "on": "w361"
+      },
+      "hold": 0.4
+    }
+  ],
+  "film": {
+    "play": true,
+    "from": 0,
+    "to": 30.9
+  },
+  "cues": [
+    {
+      "kind": "scripture",
+      "at": "w6",
+      "mode": "page",
+      "ref": "Matthew 7:11",
+      "flourish": true,
+      "text": "If ye then, being evil, know how to give good gifts unto your children, **how much more shall your Father which is in heaven give good things** to them that ask him?",
+      "read": ["w6", "w33"]
+    },
+    {
+      "kind": "scripture",
+      "at": "w104",
+      "mode": "card",
+      "ref": "Matthew 7:11",
+      "text": "…how much more shall your Father which is in heaven **give good things** to them that ask him?",
+      "read": ["w104", "w122"],
+      "dur": 8.0
+    },
+    {
+      "kind": "teaser",
+      "at": "w128",
+      "text": "Three truths about the Father who gives good gifts"
+    },
+    {
+      "kind": "chapter",
+      "at": "w192",
+      "label": "TRUTH 1 OF 3",
+      "numeral": 1,
+      "title": "God Is *Not Like* The People Who Failed You"
+    },
+    {
+      "kind": "snap",
+      "at": "w261"
+    },
+    {
+      "kind": "point",
+      "at": "w266",
+      "to": "end:w280+0.8",
+      "text": "Came for a | wrong reason? | He will *not send* | *you away.*",
+      "sync": ["w266", "w280"]
+    },
+    {
+      "kind": "art",
+      "at": "w288",
+      "to": "end:w316",
+      "plate": "truth1-came-for-the-rice",
+      "mode": "full"
+    },
+    {
+      "kind": "chapter",
+      "at": "w317",
+      "label": "TRUTH 2 OF 3",
+      "numeral": 2,
+      "title": "The Father’s Best Gift *Was His Son*"
+    },
+    {
+      "kind": "subscribe",
+      "at": "w329",
+      "variant": "subscribe"
+    },
+    {
+      "kind": "point",
+      "at": "w352",
+      "to": "end:w361+0.8",
+      "text": "He didn't hand you | something. | He handed you *Someone.*",
+      "sync": ["w352", "w361"]
+    },
+    {
+      "kind": "keyword",
+      "at": "w369",
+      "text": "EVERY CHILD | COMES *HUNGRY*"
+    },
+    {
+      "kind": "art",
+      "at": "w391",
+      "to": "end:w431",
+      "plate": "truth2-living-water",
+      "mode": "full"
+    },
+    {
+      "kind": "keyword",
+      "at": "w450",
+      "text": "THE GIFT: | *HIS SON*"
+    },
+    {
+      "kind": "point",
+      "at": "w517",
+      "to": "end:w528+0.6",
+      "text": "The perfect gift | to your family | was *the Son.*",
+      "sync": ["w517", "w528"]
+    },
+    {
+      "kind": "snap",
+      "at": "w545"
+    },
+    {
+      "kind": "chapter",
+      "at": "w610",
+      "label": "TRUTH 3 OF 3",
+      "numeral": 3,
+      "title": "Be Ordinary, *Every Day*"
+    },
+    {
+      "kind": "subscribe",
+      "at": "w644",
+      "variant": "share"
+    },
+    {
+      "kind": "point",
+      "at": "w697",
+      "to": "end:w711+0.8",
+      "text": "The greatest gift | I was given: *the Father,* | *through the Son.*",
+      "sync": ["w697", "w711"]
+    },
+    {
+      "kind": "art",
+      "at": "w724",
+      "to": "end:w744",
+      "plate": "truth3-ordinary-gifts",
+      "mode": "full"
+    },
+    {
+      "kind": "recap",
+      "at": "end:w769-0.27",
+      "dur": 7.7,
+      "title": "TODAY'S THREE TRUTHS",
+      "items": [
+        "God is not like the people who failed you",
+        "The Father’s best gift was His Son",
+        "Be ordinary, every day"
+      ]
+    },
+    {
+      "kind": "prayer",
+      "at": "w773",
+      "to": "end:w819",
+      "lines": [
+        {
+          "text": "Father, to every son, every daughter here, help them receive the gift of Your Son, that they may know You as the Father.",
+          "sync": ["w773", "w794"]
+        },
+        {
+          "text": "And to every father here, help them give ordinary gifts to their children,",
+          "sync": ["w795", "w807"]
+        },
+        {
+          "text": "but more importantly, the greatest gift of the Son, through the Father.",
+          "sync": ["w808", "w819"]
+        }
+      ]
+    },
+    {
+      "kind": "response",
+      "at": "end:w821-0.22",
+      "to": "end:w821+11.0",
+      "child": {
+        "text": "Quietly thank God for one person who shared with you this year. Tomorrow, if you want to, share something small."
+      },
+      "father": {
+        "text": "If you live with your child, give one ordinary good thing tonight: bread, your time. If you are far from your child, feed a hungry person and pray for your child by name."
+      }
+    },
+    {
+      "kind": "declare",
+      "at": "end:w847+0.6",
+      "text": "My Father in heaven *gives good gifts.*",
+      "to": "end:w847+5.5"
+    }
+  ],
+  "art": [
+    {
+      "id": "truth1-came-for-the-rice",
+      "prompt": "Early evening in the open sandy yard of a small village church compound, under the edge of a rusty tin-roof shelter. On the right, a boy of about ten in a plain red T-shirt stands a little shyly with his arms at his sides, looking at a plate being held out to him. Facing him, a smiling girl of about eight in a yellow T-shirt holds out with both hands a colourful enamel plate of steaming orange-red jollof rice with one piece of meat on top. Behind them, softly out of focus, a woman in a yellow headwrap and an apron stirs a large black pot over a wood fire, a little smoke curling up. A warm lantern hangs from a wooden post of the shelter; the last golden sunlight comes through palm trees on the left. Only these three people are in the picture.",
+      "lights": [
+        { "x": 0.888, "y": 0.55, "r": 0.07, "kind": "flicker" },
+        { "x": 0.635, "y": 0.93, "r": 0.06, "kind": "flicker" },
+        { "x": 0.055, "y": 0.63, "r": 0.13, "kind": "glow" }
+      ],
+      "move": "push",
+      "space": "top"
+    },
+    {
+      "id": "truth2-living-water",
+      "prompt": "Late afternoon at an old round stone well on the edge of a small village of flat-roofed mud-brick houses in a dry land with a few palm trees. A woman in a simple long blue robe and head covering stands beside the well holding a clay water jar against her hip, looking down at the man with surprise and wonder. A man in a simple cream robe sits on the low stone rim of the well, seen from behind and slightly to the side so his face is not visible, one hand open toward her as he speaks. A wooden bucket on a rope rests on the rim, water glinting in it. Warm golden sun low on the right, long soft shadows on the ground, a deep teal sky. Only these two people are in the picture.",
+      "lights": [
+        { "x": 0.919, "y": 0.55, "r": 0.12, "kind": "glow" },
+        { "x": 0.35, "y": 0.71, "r": 0.04, "kind": "glow" }
+      ],
+      "move": "push",
+      "space": "top"
+    },
+    {
+      "id": "truth3-ordinary-gifts",
+      "prompt": "Evening inside a small one-room home with deep teal walls. At a small low wooden table, a West African father in a green patterned shirt, a steel wristwatch on his wrist, tears a round loaf of bread in two and holds out the bigger half to his small son of about seven in a yellow shirt, who reaches up for it with both hands, smiling. A single candle burns on the table beside a tin cup and a small bowl of soup. Behind them, softly out of focus, the mother in a headwrap stands by the wooden door. Warm candlelight on the father's and the boy's faces. The father and son fill the right two-thirds of the frame; a large calm area of plain teal wall on the left.",
+      "lights": [
+        { "x": 0.613, "y": 0.72, "r": 0.07, "kind": "flicker" },
+        { "x": 0.6, "y": 0.6, "r": 0.2, "kind": "glow" }
+      ],
+      "move": "push",
+      "space": "left"
+    }
+  ],
+  "safeguard": true,
+  "trailer": [
+    {
+      "kind": "line",
+      "mood": "cold",
+      "span": ["w529", "w541"],
+      "say": "And even if you think, | “My father has never given me a *gift.*”",
+      "big": {
+        "text": "NEVER A *GIFT*",
+        "on": "w541"
+      }
+    },
+    {
+      "kind": "title"
+    },
+    {
+      "kind": "film",
+      "from": 1.0,
+      "dur": 3,
+      "top9": 0.72,
+      "focusX": 48
+    },
+    {
+      "kind": "line",
+      "mood": "tension",
+      "span": ["w240", "w252"],
+      "say": "So what you do is you hold all things tight | and expect *nothing.*"
+    },
+    {
+      "kind": "film",
+      "from": 20.5,
+      "dur": 3,
+      "top9": 0.72
+    },
+    {
+      "kind": "line",
+      "mood": "tension",
+      "span": ["w288", "w305"],
+      "say": "Some of us have found ourselves in churches. | We found ourselves at this devotional for a *wrong reason.*"
+    },
+    {
+      "kind": "verse",
+      "ref": "Matthew 7:11",
+      "text": "…how much more shall your Father which is in heaven **give good things** to them that ask him?",
+      "read": ["w104", "w122"]
+    },
+    {
+      "kind": "line",
+      "mood": "turn",
+      "span": ["w542", "w558"],
+      "say": "What about your Father in heaven? | He gave you *Someone* that will give you all of this.",
+      "big": {
+        "text": "HE GAVE YOU *SOMEONE*",
+        "on": "w551"
+      }
+    },
+    {
+      "kind": "line",
+      "mood": "button",
+      "span": ["w306", "w316"],
+      "say": "God will still give you | the good gifts of *His Son.*"
+    },
+    {
+      "kind": "end"
+    }
+  ],
+  "shorts": [
+    {
+      "id": "word",
+      "title": "My Father in heaven | gives *good gifts.*",
+      "verse": {
+        "ref": "Matthew 7:11",
+        "text": "If ye then, being evil, know how to give good gifts unto your children, **how much more shall your Father which is in heaven give good things** to them that ask him?",
+        "read": ["w0", "w33"]
+      },
+      "lines": [
+        { "span": ["w38", "w58"] },
+        { "span": ["w59", "w72"] },
+        { "span": ["w123", "w137"] }
+      ],
+      "post": "Jesus said even ordinary fathers know how to give good gifts. How much more your Father in heaven. Matthew 7:11. Full devotional on YouTube @KidsInspiringNation #TheFatherShowedUp #DailyDevotional #KidsInspiringNation #Matthew7 #FamilyDevotion"
+    },
+    {
+      "id": "truth",
+      "title": "Not something. | He gave you *Someone.*",
+      "lines": [
+        { "span": ["w317", "w339"] },
+        { "span": ["w343", "w361"] },
+        { "span": ["w362", "w381"] },
+        { "span": ["w432", "w451"] },
+        { "span": ["w529", "w558"] }
+      ],
+      "post": "His best gift was not a thing. He didn't hand you something, He handed you Someone: His Son. Matthew 7:11. Full devotional on YouTube @KidsInspiringNation #TheFatherShowedUp #KidsInspiringNation #DailyDevotional #John316 #Family"
+    },
+    {
+      "id": "fathers",
+      "title": "Fathers: give | *ordinary gifts.*",
+      "lines": [
+        { "span": ["w610", "w634"] },
+        { "span": ["w651", "w665"] },
+        { "span": ["w666", "w696"] },
+        { "span": ["w724", "w759"] },
+        { "span": ["w765", "w769"] }
+      ],
+      "post": "Fathers, give ordinary gifts, a little here, a little there. But the best gift you can give your children is the gift of the true Father. Matthew 7:11. Full devotional on YouTube @KidsInspiringNation #TheFatherShowedUp #Fatherhood #Fathers #KidsInspiringNation #DailyDevotional"
+    }
+  ],
+  "social": {
+    "titles": [
+      "My Father Gives Good Gifts | Day 5 · The Father Showed Up",
+      "He Didn't Hand You Something. He Handed You Someone.",
+      "Came For The Wrong Reason? God Will Not Send You Away"
+    ],
+    "description": "Maybe the grown-ups around you have not given you good things, so you hold everything tight and expect nothing. Jesus says even ordinary fathers know how to give good gifts, so how much more our Father in heaven, whose best gift was His own Son.\n\nTHE WORD: Matthew 7:11 (read Matthew 7:7–11 aloud)\nTONIGHT, children: quietly thank God for one person who shared with you this year. Tomorrow, if you want to, share something small.\nTONIGHT, fathers: if you live with your child, give one ordinary good thing tonight: bread, your time. If you are far from your child, feed a hungry person and pray for your child by name.\nSAY IT: My Father in heaven gives good gifts.",
+    "pinned": "What is one small, ordinary thing you could share with someone tomorrow? Write it below, and under it write: “My Father in heaven gives good gifts.”",
+    "hashtags": [
+      "#TheFatherShowedUp",
+      "#DailyDevotional",
+      "#KidsInspiringNation",
+      "#Fatherhood",
+      "#FamilyDevotion",
+      "#Matthew7"
+    ],
+    "thumbnail": {
+      "line": "GOOD *GIFTS*",
+      "frame": "end:w34"
+    }
+  },
+  "notes": {
+    "check": [
+      "w1-w4 If ye then, being evil (KJV) - heard: If you then have been evil",
+      "w32-33, w120-122 ask of Him - as heard both times (he adds 'of'); the page shows the KJV",
+      "w55 You give good gifts - as heard (could be: To give good gifts)",
+      "w157-159 or maybe not, you can't count - as heard (could be: you can count)",
+      "w221 uncaptioned: a [parting?] gift from your father - possibly 'birthday'",
+      "w234-236 given to you by your mom - heard: given to your mom by your mom",
+      "w246 hold (you hold all things tight) - heard 'know'; the guide says hold your food tight",
+      "w253 uncaptioned: [They / You?] need to hold it tight",
+      "w275 He (He will not send you away) - heard 'you'; the guide says God will not send you away",
+      "w318-320 the best Father's gift - as heard (guide: the Father's best gift)",
+      "w324, w351, w609 Son - heard 'soul'; w722 Son - heard 'sin'",
+      "w342 uncaptioned: not money, rice, meat, gifts, games, [peers?]",
+      "w343-344 He [is] so loved that He gave His Son - 'is' uncaptioned (could be: God so loved)",
+      "w360-361 Someone - heard 'some more'; the guide says He handed us Someone",
+      "w381 far more than we can - as heard (guide: far more than we came for)",
+      "w382-390 cut: He said to that we want at the word - unintelligible",
+      "w391-404 I'm the living water ... shall never thirst - his paraphrase, as heard",
+      "w412-413 even further - heard 'even for that'",
+      "w415 And He said - heard 'And they said'",
+      "w417-431 He that drinks of me, out of his belly shall flow rivers of living water - as heard (John 7:38 KJV: He that believeth on me)",
+      "w500-501 removed false start 'have or' (every time you hear your mom ...)",
+      "w511 it's traumatized to you - as heard",
+      "w514-516 cut: Put this in - unclear",
+      "w562-584 You're a son today. You're a daughter tomorrow ... you'll be a father today. You'll be a mother tomorrow - as heard; today/tomorrow may be swapped",
+      "w585-609 Will you be a perfect father and a perfect mother will reflect because ... - as heard, grammar unclear",
+      "w635-643 cut: That's the sword. Someone is here and then what? - unclear",
+      "w644-645 Oh yeah (there are many other things) - as heard",
+      "w656-662 I get a signed copy of the Word of God - as heard",
+      "w670 he (he was trying to introduce me) - heard 'I'",
+      "w725 uncaptioned: And [their?] fathers, give gifts",
+      "w760-764 cut: of the true father through - trailing repeat, unfinished",
+      "w803 ordinary - heard 'honorary'",
+      "w820-821 Thank You - kept, off the prayer plate (to God or to the viewers?)",
+      "w822-829 cut: Holy Father, and Jesus Christ are your life - unclear; the sign-off says it clearly (w838-847)"
+    ]
+  }
+}
